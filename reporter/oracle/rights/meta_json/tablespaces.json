@@ -1,0 +1,106 @@
+[
+    {
+        "tablespace_name": "STOCKSHOT",
+        "Size_MB": 4096,
+        "Free_MB": 1135.4375,
+        "Free_%": 28,
+        "Used_%": 72,
+        "sys_status": "yellow"
+    },
+    {
+        "tablespace_name": "SYSTEM",
+        "Size_MB": 500,
+        "Free_MB": 173.3515625,
+        "Free_%": 35,
+        "Used_%": 65,
+        "sys_status": "yellow"
+    },
+    {
+        "tablespace_name": "COLL_LCI",
+        "Size_MB": 2048,
+        "Free_MB": 444.1875,
+        "Free_%": 22,
+        "Used_%": 78,
+        "sys_status": "yellow"
+    },
+    {
+        "tablespace_name": "LCENTER_DAT",
+        "Size_MB": 100,
+        "Free_MB": 99.9921875,
+        "Free_%": 100,
+        "Used_%": 0,
+        "sys_status": "green"
+    },
+    {
+        "tablespace_name": "SYSAUX",
+        "Size_MB": 1524,
+        "Free_MB": 526.1875,
+        "Free_%": 35,
+        "Used_%": 65,
+        "sys_status": "yellow"
+    },
+    {
+        "tablespace_name": "TOOLS",
+        "Size_MB": 150,
+        "Free_MB": 121.8671875,
+        "Free_%": 81,
+        "Used_%": 19,
+        "sys_status": "green"
+    },
+    {
+        "tablespace_name": "LCENTER_IDX",
+        "Size_MB": 100,
+        "Free_MB": 99.9921875,
+        "Free_%": 100,
+        "Used_%": 0,
+        "sys_status": "green"
+    },
+    {
+        "tablespace_name": "COLL_LC",
+        "Size_MB": 2048,
+        "Free_MB": 235.5,
+        "Free_%": 11,
+        "Used_%": 89,
+        "sys_status": "red"
+    },
+    {
+        "tablespace_name": "COLL_DAT",
+        "Size_MB": 14336,
+        "Free_MB": 584.984375,
+        "Free_%": 4,
+        "Used_%": 96,
+        "sys_status": "red"
+    },
+    {
+        "tablespace_name": "COLL_IDX",
+        "Size_MB": 1024,
+        "Free_MB": 617.3125,
+        "Free_%": 60,
+        "Used_%": 40,
+        "sys_status": "green"
+    },
+    {
+        "tablespace_name": "UNDOTBS1",
+        "Size_MB": 7668,
+        "Free_MB": 7450.8125,
+        "Free_%": 97,
+        "Used_%": 3,
+        "sys_status": "green"
+    },
+    {
+        "tablespace_name": "USERS",
+        "Size_MB": 1024,
+        "Free_MB": 1015.5625,
+        "Free_%": 99,
+        "Used_%": 1,
+        "sys_status": "green"
+    },
+    {
+        "tablespace_name": "TEMP",
+        "Size_MB": 2548,
+        "Free_MB": 615,
+        "Free_%": 24,
+        "Used_%": 76,
+        "sys_status": "yellow"
+    }
+]

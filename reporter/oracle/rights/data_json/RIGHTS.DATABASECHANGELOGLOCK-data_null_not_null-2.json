@@ -1,0 +1,38 @@
+[
+    {
+        "table": "RIGHTS.DATABASECHANGELOGLOCK",
+        "total_records": 0,
+        "dataset": [
+            {
+                "field_combination": "ID , LOCKED",
+                "total_null_rows": 0,
+                "total_not_null_rows": 0
+            },
+            {
+                "field_combination": "ID , LOCKEDBY",
+                "total_null_rows": 0,
+                "total_not_null_rows": 0
+            },
+            {
+                "field_combination": "ID , LOCKGRANTED",
+                "total_null_rows": 0,
+                "total_not_null_rows": 0
+            },
+            {
+                "field_combination": "LOCKED , LOCKEDBY",
+                "total_null_rows": 0,
+                "total_not_null_rows": 0
+            },
+            {
+                "field_combination": "LOCKED , LOCKGRANTED",
+                "total_null_rows": 0,
+                "total_not_null_rows": 0
+            },
+            {
+                "field_combination": "LOCKEDBY , LOCKGRANTED",
+                "total_null_rows": 0,
+                "total_not_null_rows": 0
+            }
+        ]
+    }
+]

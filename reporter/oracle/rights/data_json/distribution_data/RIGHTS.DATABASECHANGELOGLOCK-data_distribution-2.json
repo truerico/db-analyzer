@@ -1,0 +1,32 @@
+[
+    {
+        "table": "RIGHTS.DATABASECHANGELOGLOCK",
+        "total_records": 0,
+        "dataset": [
+            {
+                "field_combination": "ID , LOCKED",
+                "distribution": []
+            },
+            {
+                "field_combination": "ID , LOCKEDBY",
+                "distribution": []
+            },
+            {
+                "field_combination": "ID , LOCKGRANTED",
+                "distribution": []
+            },
+            {
+                "field_combination": "LOCKED , LOCKEDBY",
+                "distribution": []
+            },
+            {
+                "field_combination": "LOCKED , LOCKGRANTED",
+                "distribution": []
+            },
+            {
+                "field_combination": "LOCKEDBY , LOCKGRANTED",
+                "distribution": []
+            }
+        ]
+    }
+]

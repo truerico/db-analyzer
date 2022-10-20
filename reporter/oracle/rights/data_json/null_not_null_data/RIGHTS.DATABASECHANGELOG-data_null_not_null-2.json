@@ -1,0 +1,398 @@
+[
+    {
+        "table": "RIGHTS.DATABASECHANGELOG",
+        "total_records": 0,
+        "dataset": [
+            {
+                "field_combination": "AUTHOR , COMMENTS",
+                "total_null_rows": 0,
+                "total_not_null_rows": 0
+            },
+            {
+                "field_combination": "AUTHOR , MD5SUM",
+                "total_null_rows": 0,
+                "total_not_null_rows": 0
+            },
+            {
+                "field_combination": "AUTHOR , ORDEREXECUTED",
+                "total_null_rows": 0,
+                "total_not_null_rows": 0
+            },
+            {
+                "field_combination": "AUTHOR , TAG",
+                "total_null_rows": 0,
+                "total_not_null_rows": 0
+            },
+            {
+                "field_combination": "COMMENTS , CONTEXTS",
+                "total_null_rows": 0,
+                "total_not_null_rows": 0
+            },
+            {
+                "field_combination": "COMMENTS , DATEEXECUTED",
+                "total_null_rows": 0,
+                "total_not_null_rows": 0
+            },
+            {
+                "field_combination": "COMMENTS , DESCRIPTION",
+                "total_null_rows": 0,
+                "total_not_null_rows": 0
+            },
+            {
+                "field_combination": "COMMENTS , EXECTYPE",
+                "total_null_rows": 0,
+                "total_not_null_rows": 0
+            },
+            {
+                "field_combination": "COMMENTS , FILENAME",
+                "total_null_rows": 0,
+                "total_not_null_rows": 0
+            },
+            {
+                "field_combination": "COMMENTS , ID",
+                "total_null_rows": 0,
+                "total_not_null_rows": 0
+            },
+            {
+                "field_combination": "COMMENTS , LABELS",
+                "total_null_rows": 0,
+                "total_not_null_rows": 0
+            },
+            {
+                "field_combination": "AUTHOR , CONTEXTS",
+                "total_null_rows": 0,
+                "total_not_null_rows": 0
+            },
+            {
+                "field_combination": "COMMENTS , LIQUIBASE",
+                "total_null_rows": 0,
+                "total_not_null_rows": 0
+            },
+            {
+                "field_combination": "COMMENTS , MD5SUM",
+                "total_null_rows": 0,
+                "total_not_null_rows": 0
+            },
+            {
+                "field_combination": "COMMENTS , ORDEREXECUTED",
+                "total_null_rows": 0,
+                "total_not_null_rows": 0
+            },
+            {
+                "field_combination": "COMMENTS , TAG",
+                "total_null_rows": 0,
+                "total_not_null_rows": 0
+            },
+            {
+                "field_combination": "CONTEXTS , DATEEXECUTED",
+                "total_null_rows": 0,
+                "total_not_null_rows": 0
+            },
+            {
+                "field_combination": "CONTEXTS , DESCRIPTION",
+                "total_null_rows": 0,
+                "total_not_null_rows": 0
+            },
+            {
+                "field_combination": "CONTEXTS , EXECTYPE",
+                "total_null_rows": 0,
+                "total_not_null_rows": 0
+            },
+            {
+                "field_combination": "CONTEXTS , FILENAME",
+                "total_null_rows": 0,
+                "total_not_null_rows": 0
+            },
+            {
+                "field_combination": "CONTEXTS , ID",
+                "total_null_rows": 0,
+                "total_not_null_rows": 0
+            },
+            {
+                "field_combination": "CONTEXTS , LABELS",
+                "total_null_rows": 0,
+                "total_not_null_rows": 0
+            },
+            {
+                "field_combination": "AUTHOR , DATEEXECUTED",
+                "total_null_rows": 0,
+                "total_not_null_rows": 0
+            },
+            {
+                "field_combination": "CONTEXTS , LIQUIBASE",
+                "total_null_rows": 0,
+                "total_not_null_rows": 0
+            },
+            {
+                "field_combination": "CONTEXTS , MD5SUM",
+                "total_null_rows": 0,
+                "total_not_null_rows": 0
+            },
+            {
+                "field_combination": "CONTEXTS , ORDEREXECUTED",
+                "total_null_rows": 0,
+                "total_not_null_rows": 0
+            },
+            {
+                "field_combination": "CONTEXTS , TAG",
+                "total_null_rows": 0,
+                "total_not_null_rows": 0
+            },
+            {
+                "field_combination": "DATEEXECUTED , DESCRIPTION",
+                "total_null_rows": 0,
+                "total_not_null_rows": 0
+            },
+            {
+                "field_combination": "DATEEXECUTED , EXECTYPE",
+                "total_null_rows": 0,
+                "total_not_null_rows": 0
+            },
+            {
+                "field_combination": "DATEEXECUTED , FILENAME",
+                "total_null_rows": 0,
+                "total_not_null_rows": 0
+            },
+            {
+                "field_combination": "DATEEXECUTED , ID",
+                "total_null_rows": 0,
+                "total_not_null_rows": 0
+            },
+            {
+                "field_combination": "DATEEXECUTED , LABELS",
+                "total_null_rows": 0,
+                "total_not_null_rows": 0
+            },
+            {
+                "field_combination": "DATEEXECUTED , LIQUIBASE",
+                "total_null_rows": 0,
+                "total_not_null_rows": 0
+            },
+            {
+                "field_combination": "AUTHOR , DESCRIPTION",
+                "total_null_rows": 0,
+                "total_not_null_rows": 0
+            },
+            {
+                "field_combination": "DATEEXECUTED , MD5SUM",
+                "total_null_rows": 0,
+                "total_not_null_rows": 0
+            },
+            {
+                "field_combination": "DATEEXECUTED , ORDEREXECUTED",
+                "total_null_rows": 0,
+                "total_not_null_rows": 0
+            },
+            {
+                "field_combination": "DATEEXECUTED , TAG",
+                "total_null_rows": 0,
+                "total_not_null_rows": 0
+            },
+            {
+                "field_combination": "DESCRIPTION , EXECTYPE",
+                "total_null_rows": 0,
+                "total_not_null_rows": 0
+            },
+            {
+                "field_combination": "DESCRIPTION , FILENAME",
+                "total_null_rows": 0,
+                "total_not_null_rows": 0
+            },
+            {
+                "field_combination": "DESCRIPTION , ID",
+                "total_null_rows": 0,
+                "total_not_null_rows": 0
+            },
+            {
+                "field_combination": "DESCRIPTION , LABELS",
+                "total_null_rows": 0,
+                "total_not_null_rows": 0
+            },
+            {
+                "field_combination": "DESCRIPTION , LIQUIBASE",
+                "total_null_rows": 0,
+                "total_not_null_rows": 0
+            },
+            {
+                "field_combination": "DESCRIPTION , MD5SUM",
+                "total_null_rows": 0,
+                "total_not_null_rows": 0
+            },
+            {
+                "field_combination": "DESCRIPTION , ORDEREXECUTED",
+                "total_null_rows": 0,
+                "total_not_null_rows": 0
+            },
+            {
+                "field_combination": "AUTHOR , EXECTYPE",
+                "total_null_rows": 0,
+                "total_not_null_rows": 0
+            },
+            {
+                "field_combination": "DESCRIPTION , TAG",
+                "total_null_rows": 0,
+                "total_not_null_rows": 0
+            },
+            {
+                "field_combination": "EXECTYPE , FILENAME",
+                "total_null_rows": 0,
+                "total_not_null_rows": 0
+            },
+            {
+                "field_combination": "EXECTYPE , ID",
+                "total_null_rows": 0,
+                "total_not_null_rows": 0
+            },
+            {
+                "field_combination": "EXECTYPE , LABELS",
+                "total_null_rows": 0,
+                "total_not_null_rows": 0
+            },
+            {
+                "field_combination": "EXECTYPE , LIQUIBASE",
+                "total_null_rows": 0,
+                "total_not_null_rows": 0
+            },
+            {
+                "field_combination": "EXECTYPE , MD5SUM",
+                "total_null_rows": 0,
+                "total_not_null_rows": 0
+            },
+            {
+                "field_combination": "EXECTYPE , ORDEREXECUTED",
+                "total_null_rows": 0,
+                "total_not_null_rows": 0
+            },
+            {
+                "field_combination": "EXECTYPE , TAG",
+                "total_null_rows": 0,
+                "total_not_null_rows": 0
+            },
+            {
+                "field_combination": "FILENAME , ID",
+                "total_null_rows": 0,
+                "total_not_null_rows": 0
+            },
+            {
+                "field_combination": "FILENAME , LABELS",
+                "total_null_rows": 0,
+                "total_not_null_rows": 0
+            },
+            {
+                "field_combination": "AUTHOR , FILENAME",
+                "total_null_rows": 0,
+                "total_not_null_rows": 0
+            },
+            {
+                "field_combination": "FILENAME , LIQUIBASE",
+                "total_null_rows": 0,
+                "total_not_null_rows": 0
+            },
+            {
+                "field_combination": "FILENAME , MD5SUM",
+                "total_null_rows": 0,
+                "total_not_null_rows": 0
+            },
+            {
+                "field_combination": "FILENAME , ORDEREXECUTED",
+                "total_null_rows": 0,
+                "total_not_null_rows": 0
+            },
+            {
+                "field_combination": "FILENAME , TAG",
+                "total_null_rows": 0,
+                "total_not_null_rows": 0
+            },
+            {
+                "field_combination": "ID , LABELS",
+                "total_null_rows": 0,
+                "total_not_null_rows": 0
+            },
+            {
+                "field_combination": "ID , LIQUIBASE",
+                "total_null_rows": 0,
+                "total_not_null_rows": 0
+            },
+            {
+                "field_combination": "ID , MD5SUM",
+                "total_null_rows": 0,
+                "total_not_null_rows": 0
+            },
+            {
+                "field_combination": "ID , ORDEREXECUTED",
+                "total_null_rows": 0,
+                "total_not_null_rows": 0
+            },
+            {
+                "field_combination": "ID , TAG",
+                "total_null_rows": 0,
+                "total_not_null_rows": 0
+            },
+            {
+                "field_combination": "LABELS , LIQUIBASE",
+                "total_null_rows": 0,
+                "total_not_null_rows": 0
+            },
+            {
+                "field_combination": "AUTHOR , ID",
+                "total_null_rows": 0,
+                "total_not_null_rows": 0
+            },
+            {
+                "field_combination": "LABELS , MD5SUM",
+                "total_null_rows": 0,
+                "total_not_null_rows": 0
+            },
+            {
+                "field_combination": "LABELS , ORDEREXECUTED",
+                "total_null_rows": 0,
+                "total_not_null_rows": 0
+            },
+            {
+                "field_combination": "LABELS , TAG",
+                "total_null_rows": 0,
+                "total_not_null_rows": 0
+            },
+            {
+                "field_combination": "LIQUIBASE , MD5SUM",
+                "total_null_rows": 0,
+                "total_not_null_rows": 0
+            },
+            {
+                "field_combination": "LIQUIBASE , ORDEREXECUTED",
+                "total_null_rows": 0,
+                "total_not_null_rows": 0
+            },
+            {
+                "field_combination": "LIQUIBASE , TAG",
+                "total_null_rows": 0,
+                "total_not_null_rows": 0
+            },
+            {
+                "field_combination": "MD5SUM , ORDEREXECUTED",
+                "total_null_rows": 0,
+                "total_not_null_rows": 0
+            },
+            {
+                "field_combination": "MD5SUM , TAG",
+                "total_null_rows": 0,
+                "total_not_null_rows": 0
+            },
+            {
+                "field_combination": "ORDEREXECUTED , TAG",
+                "total_null_rows": 0,
+                "total_not_null_rows": 0
+            },
+            {
+                "field_combination": "AUTHOR , LABELS",
+                "total_null_rows": 0,
+                "total_not_null_rows": 0
+            },
+            {
+                "field_combination": "AUTHOR , LIQUIBASE",
+                "total_null_rows": 0,
+                "total_not_null_rows": 0
+            }
+        ]
+    }
+]

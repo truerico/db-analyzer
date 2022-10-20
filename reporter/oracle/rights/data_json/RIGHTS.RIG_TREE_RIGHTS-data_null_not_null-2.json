@@ -1,0 +1,188 @@
+[
+    {
+        "table": "RIGHTS.RIG_TREE_RIGHTS",
+        "total_records": 2716681,
+        "dataset": [
+            {
+                "field_combination": "CREATED_BY , CREATION_DATE",
+                "total_null_rows": 0,
+                "total_not_null_rows": 2716681
+            },
+            {
+                "field_combination": "CREATION_DATE , ID_SEQ_PARENT",
+                "total_null_rows": 0,
+                "total_not_null_rows": 2673470
+            },
+            {
+                "field_combination": "CREATION_DATE , LAST_UPDATED_BY",
+                "total_null_rows": 0,
+                "total_not_null_rows": 2716681
+            },
+            {
+                "field_combination": "CREATION_DATE , LAST_UPDATE_DATE",
+                "total_null_rows": 0,
+                "total_not_null_rows": 2716681
+            },
+            {
+                "field_combination": "CREATION_DATE , NODE_ID_SEQ",
+                "total_null_rows": 0,
+                "total_not_null_rows": 1505987
+            },
+            {
+                "field_combination": "CREATION_DATE , RIG_TIR_ID_SEQ",
+                "total_null_rows": 0,
+                "total_not_null_rows": 2716681
+            },
+            {
+                "field_combination": "CREATION_DATE , RIG_TST_ID_SEQ",
+                "total_null_rows": 0,
+                "total_not_null_rows": 2716681
+            },
+            {
+                "field_combination": "ID_SEQ , ID_SEQ_PARENT",
+                "total_null_rows": 0,
+                "total_not_null_rows": 2673470
+            },
+            {
+                "field_combination": "ID_SEQ , LAST_UPDATED_BY",
+                "total_null_rows": 0,
+                "total_not_null_rows": 2716681
+            },
+            {
+                "field_combination": "ID_SEQ , LAST_UPDATE_DATE",
+                "total_null_rows": 0,
+                "total_not_null_rows": 2716681
+            },
+            {
+                "field_combination": "ID_SEQ , NODE_ID_SEQ",
+                "total_null_rows": 0,
+                "total_not_null_rows": 1505987
+            },
+            {
+                "field_combination": "CREATED_BY , ID_SEQ",
+                "total_null_rows": 0,
+                "total_not_null_rows": 2716681
+            },
+            {
+                "field_combination": "ID_SEQ , RIG_TIR_ID_SEQ",
+                "total_null_rows": 0,
+                "total_not_null_rows": 2716681
+            },
+            {
+                "field_combination": "ID_SEQ , RIG_TST_ID_SEQ",
+                "total_null_rows": 0,
+                "total_not_null_rows": 2716681
+            },
+            {
+                "field_combination": "ID_SEQ_PARENT , LAST_UPDATED_BY",
+                "total_null_rows": 0,
+                "total_not_null_rows": 2673470
+            },
+            {
+                "field_combination": "ID_SEQ_PARENT , LAST_UPDATE_DATE",
+                "total_null_rows": 0,
+                "total_not_null_rows": 2673470
+            },
+            {
+                "field_combination": "ID_SEQ_PARENT , NODE_ID_SEQ",
+                "total_null_rows": 43211,
+                "total_not_null_rows": 1505987
+            },
+            {
+                "field_combination": "ID_SEQ_PARENT , RIG_TIR_ID_SEQ",
+                "total_null_rows": 0,
+                "total_not_null_rows": 2673470
+            },
+            {
+                "field_combination": "ID_SEQ_PARENT , RIG_TST_ID_SEQ",
+                "total_null_rows": 0,
+                "total_not_null_rows": 2673470
+            },
+            {
+                "field_combination": "LAST_UPDATED_BY , LAST_UPDATE_DATE",
+                "total_null_rows": 0,
+                "total_not_null_rows": 2716681
+            },
+            {
+                "field_combination": "LAST_UPDATED_BY , NODE_ID_SEQ",
+                "total_null_rows": 0,
+                "total_not_null_rows": 1505987
+            },
+            {
+                "field_combination": "LAST_UPDATED_BY , RIG_TIR_ID_SEQ",
+                "total_null_rows": 0,
+                "total_not_null_rows": 2716681
+            },
+            {
+                "field_combination": "CREATED_BY , ID_SEQ_PARENT",
+                "total_null_rows": 0,
+                "total_not_null_rows": 2673470
+            },
+            {
+                "field_combination": "LAST_UPDATED_BY , RIG_TST_ID_SEQ",
+                "total_null_rows": 0,
+                "total_not_null_rows": 2716681
+            },
+            {
+                "field_combination": "LAST_UPDATE_DATE , NODE_ID_SEQ",
+                "total_null_rows": 0,
+                "total_not_null_rows": 1505987
+            },
+            {
+                "field_combination": "LAST_UPDATE_DATE , RIG_TIR_ID_SEQ",
+                "total_null_rows": 0,
+                "total_not_null_rows": 2716681
+            },
+            {
+                "field_combination": "LAST_UPDATE_DATE , RIG_TST_ID_SEQ",
+                "total_null_rows": 0,
+                "total_not_null_rows": 2716681
+            },
+            {
+                "field_combination": "NODE_ID_SEQ , RIG_TIR_ID_SEQ",
+                "total_null_rows": 0,
+                "total_not_null_rows": 1505987
+            },
+            {
+                "field_combination": "NODE_ID_SEQ , RIG_TST_ID_SEQ",
+                "total_null_rows": 0,
+                "total_not_null_rows": 1505987
+            },
+            {
+                "field_combination": "RIG_TIR_ID_SEQ , RIG_TST_ID_SEQ",
+                "total_null_rows": 0,
+                "total_not_null_rows": 2716681
+            },
+            {
+                "field_combination": "CREATED_BY , LAST_UPDATED_BY",
+                "total_null_rows": 0,
+                "total_not_null_rows": 2716681
+            },
+            {
+                "field_combination": "CREATED_BY , LAST_UPDATE_DATE",
+                "total_null_rows": 0,
+                "total_not_null_rows": 2716681
+            },
+            {
+                "field_combination": "CREATED_BY , NODE_ID_SEQ",
+                "total_null_rows": 0,
+                "total_not_null_rows": 1505987
+            },
+            {
+                "field_combination": "CREATED_BY , RIG_TIR_ID_SEQ",
+                "total_null_rows": 0,
+                "total_not_null_rows": 2716681
+            },
+            {
+                "field_combination": "CREATED_BY , RIG_TST_ID_SEQ",
+                "total_null_rows": 0,
+                "total_not_null_rows": 2716681
+            },
+            {
+                "field_combination": "CREATION_DATE , ID_SEQ",
+                "total_null_rows": 0,
+                "total_not_null_rows": 2716681
+            }
+        ]
+    }
+]

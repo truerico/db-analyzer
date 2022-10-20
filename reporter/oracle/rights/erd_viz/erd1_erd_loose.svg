@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentStyleType="text/css" height="93px" preserveAspectRatio="none" style="width:250px;height:93px;background:#FFFFFF;" version="1.1" viewBox="0 0 250 93" width="250px" zoomAndPan="magnify"><defs/><g><rect fill="#DDDDDD" height="26.4883" rx="7.5" ry="7.5" style="stroke:#000000;stroke-width:2.0;" width="232" x="5" y="5"/><text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="222" x="10" y="23.5352">:: table erd1- rds copyright © ::</text><!--MD5=[654561491e1089e717fe89658f37ebb8]
+class tbl_aaa--><g id="elem_tbl_aaa"><rect fill="#F1F1F1" height="42.4883" id="tbl_aaa" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="55" x="41.5" y="44.4883"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="49" x="44.5" y="63.0234">tbl_aaa</text><line style="stroke:#181818;stroke-width:0.5;" x1="42.5" x2="95.5" y1="70.9766" y2="70.9766"/><line style="stroke:#181818;stroke-width:0.5;" x1="42.5" x2="95.5" y1="78.9766" y2="78.9766"/></g><!--MD5=[3adcc325066560b4d6f8b114f2853a09]
+class tbl_bbb--><g id="elem_tbl_bbb"><rect fill="#F1F1F1" height="42.4883" id="tbl_bbb" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="58" x="156.5" y="44.4883"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="52" x="159.5" y="63.0234">tbl_bbb</text><line style="stroke:#181818;stroke-width:0.5;" x1="157.5" x2="213.5" y1="70.9766" y2="70.9766"/><line style="stroke:#181818;stroke-width:0.5;" x1="157.5" x2="213.5" y1="78.9766" y2="78.9766"/></g><!--MD5=[e3919f77820de9b77f9b0697393b031f]
+link tbl_aaa to tbl_bbb--><g id="link_tbl_aaa_tbl_bbb"><path codeLine="17" d="M96.61,65.4883 C114.64,65.4883 138.15,65.4883 156.46,65.4883 " fill="none" id="tbl_aaa-tbl_bbb" style="stroke:#181818;stroke-width:1.0;stroke-dasharray:7.0,7.0;"/></g><!--MD5=[512c7c2c34334aaa8a1a92873b9853bd]
+@startuml
+skinparam titleBorderRoundCorner 15
+skinparam titleBorderThickness 2
+skinparam titleBorderColor black
+skinparam titleBackgroundColor #DDDDDD
+title **:: table erd1- rds copyright © ::**
+!theme _none_
+skinparam shadowing False
+left to right direction
+skinparam linetype ortho
+skinparam packageStyle rectangle
+hide circle
+
+
+
+'# manual relation section 
+tbl_aaa .. tbl_bbb
+
+@enduml
+
+@startuml
+skinparam titleBorderRoundCorner 15
+skinparam titleBorderThickness 2
+skinparam titleBorderColor black
+skinparam titleBackgroundColor #DDDDDD
+title **:: table erd1- rds copyright © ::**
+skinparam shadowing False
+left to right direction
+skinparam linetype ortho
+skinparam packageStyle rectangle
+hide circle
+
+
+
+tbl_aaa .. tbl_bbb
+
+@enduml
+
+PlantUML version 1.2022.5(Sat Apr 30 06:55:52 EDT 2022)
+(GPL source distribution)
+Java Runtime: OpenJDK Runtime Environment
+JVM: OpenJDK 64-Bit Server VM
+Default Encoding: UTF-8
+Language: en
+Country: CA
+--></g></svg>

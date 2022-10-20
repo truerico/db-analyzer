@@ -1,0 +1,106 @@
+[
+    {
+        "TABLESPACE_NAME": "COLL_DAT",
+        "FILE_NAME": "/u02/wrech/colldt01.dbf",
+        "AUTOEXTENSIBLE": "YES",
+        "INCREMENT_BY": 131072,
+        "STATUS": "AVAILABLE",
+        "ONLINE_STATUS": "ONLINE"
+    },
+    {
+        "TABLESPACE_NAME": "COLL_IDX",
+        "FILE_NAME": "/u02/wrech/collid01.dbf",
+        "AUTOEXTENSIBLE": "YES",
+        "INCREMENT_BY": 131072,
+        "STATUS": "AVAILABLE",
+        "ONLINE_STATUS": "ONLINE"
+    },
+    {
+        "TABLESPACE_NAME": "COLL_LC",
+        "FILE_NAME": "/u02/wrech/COLL_LC02.dbf",
+        "AUTOEXTENSIBLE": "YES",
+        "INCREMENT_BY": 131072,
+        "STATUS": "AVAILABLE",
+        "ONLINE_STATUS": "ONLINE"
+    },
+    {
+        "TABLESPACE_NAME": "COLL_LC",
+        "FILE_NAME": "/u02/wrech/COLL_LC01.dbf",
+        "AUTOEXTENSIBLE": "YES",
+        "INCREMENT_BY": 131072,
+        "STATUS": "AVAILABLE",
+        "ONLINE_STATUS": "ONLINE"
+    },
+    {
+        "TABLESPACE_NAME": "COLL_LCI",
+        "FILE_NAME": "/u02/wrech/COLL_LCI01.dbf",
+        "AUTOEXTENSIBLE": "YES",
+        "INCREMENT_BY": 131072,
+        "STATUS": "AVAILABLE",
+        "ONLINE_STATUS": "ONLINE"
+    },
+    {
+        "TABLESPACE_NAME": "LCENTER_DAT",
+        "FILE_NAME": "/u02/wrech/lcenterdt01.dbf",
+        "AUTOEXTENSIBLE": "YES",
+        "INCREMENT_BY": 1280,
+        "STATUS": "AVAILABLE",
+        "ONLINE_STATUS": "ONLINE"
+    },
+    {
+        "TABLESPACE_NAME": "LCENTER_IDX",
+        "FILE_NAME": "/u02/wrech/lcenterid01.dbf",
+        "AUTOEXTENSIBLE": "YES",
+        "INCREMENT_BY": 131072,
+        "STATUS": "AVAILABLE",
+        "ONLINE_STATUS": "ONLINE"
+    },
+    {
+        "TABLESPACE_NAME": "STOCKSHOT",
+        "FILE_NAME": "/u02/wrech/stockshot.dbf",
+        "AUTOEXTENSIBLE": "YES",
+        "INCREMENT_BY": 131072,
+        "STATUS": "AVAILABLE",
+        "ONLINE_STATUS": "ONLINE"
+    },
+    {
+        "TABLESPACE_NAME": "SYSAUX",
+        "FILE_NAME": "/u02/wrech/sysaux.dbf",
+        "AUTOEXTENSIBLE": "YES",
+        "INCREMENT_BY": 131072,
+        "STATUS": "AVAILABLE",
+        "ONLINE_STATUS": "ONLINE"
+    },
+    {
+        "TABLESPACE_NAME": "SYSTEM",
+        "FILE_NAME": "/u02/wrech/system.dbf",
+        "AUTOEXTENSIBLE": "YES",
+        "INCREMENT_BY": 131072,
+        "STATUS": "AVAILABLE",
+        "ONLINE_STATUS": "SYSTEM"
+    },
+    {
+        "TABLESPACE_NAME": "TOOLS",
+        "FILE_NAME": "/u02/wrech/tools01.dbf",
+        "AUTOEXTENSIBLE": "YES",
+        "INCREMENT_BY": 1280,
+        "STATUS": "AVAILABLE",
+        "ONLINE_STATUS": "ONLINE"
+    },
+    {
+        "TABLESPACE_NAME": "UNDOTBS1",
+        "FILE_NAME": "/u02/wrech/undo1.dbf",
+        "AUTOEXTENSIBLE": "YES",
+        "INCREMENT_BY": 131072,
+        "STATUS": "AVAILABLE",
+        "ONLINE_STATUS": "ONLINE"
+    },
+    {
+        "TABLESPACE_NAME": "USERS",
+        "FILE_NAME": "/u02/wrech/users.dbf",
+        "AUTOEXTENSIBLE": "YES",
+        "INCREMENT_BY": 131072,
+        "STATUS": "AVAILABLE",
+        "ONLINE_STATUS": "ONLINE"
+    }
+]

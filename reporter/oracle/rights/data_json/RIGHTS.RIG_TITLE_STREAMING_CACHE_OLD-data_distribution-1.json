@@ -1,0 +1,68 @@
+[
+    {
+        "table": "RIGHTS.RIG_TITLE_STREAMING_CACHE_OLD",
+        "total_records": 0,
+        "dataset": [
+            {
+                "field": "ID_SEQ",
+                "distribution": []
+            },
+            {
+                "field": "SYN_REG_ID_SEQ_OR",
+                "distribution": []
+            },
+            {
+                "field": "TERRITORY_CODE",
+                "distribution": []
+            },
+            {
+                "field": "VALID_FROM_DATE",
+                "distribution": []
+            },
+            {
+                "field": "VALID_TO_DATE",
+                "distribution": []
+            },
+            {
+                "field": "VALID_IND",
+                "distribution": []
+            },
+            {
+                "field": "VALID_MSG",
+                "distribution": []
+            },
+            {
+                "field": "LANGUAGE_CODE",
+                "distribution": []
+            },
+            {
+                "field": "MARKET_CODE",
+                "distribution": []
+            },
+            {
+                "field": "NB_REQUEST",
+                "distribution": []
+            },
+            {
+                "field": "PURGE_DATE",
+                "distribution": []
+            },
+            {
+                "field": "SYN_REG_ID_SEQ",
+                "distribution": []
+            },
+            {
+                "field": "SUPPORT_CODE",
+                "distribution": []
+            },
+            {
+                "field": "SALE_QUALIFIER",
+                "distribution": []
+            },
+            {
+                "field": "SYN_REG_ID_SEQ_IR",
+                "distribution": []
+            }
+        ]
+    }
+]

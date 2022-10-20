@@ -1,0 +1,1526 @@
+[
+    {
+        "attribute_name": "DBFIPS_140",
+        "attribute_value": "FALSE"
+    },
+    {
+        "attribute_name": "O7_DICTIONARY_ACCESSIBILITY",
+        "attribute_value": "FALSE"
+    },
+    {
+        "attribute_name": "active_instance_count",
+        "attribute_value": null
+    },
+    {
+        "attribute_name": "aq_tm_processes",
+        "attribute_value": "1"
+    },
+    {
+        "attribute_name": "archive_lag_target",
+        "attribute_value": "0"
+    },
+    {
+        "attribute_name": "asm_diskgroups",
+        "attribute_value": null
+    },
+    {
+        "attribute_name": "asm_diskstring",
+        "attribute_value": null
+    },
+    {
+        "attribute_name": "asm_power_limit",
+        "attribute_value": "1"
+    },
+    {
+        "attribute_name": "asm_preferred_read_failure_groups",
+        "attribute_value": null
+    },
+    {
+        "attribute_name": "audit_file_dest",
+        "attribute_value": "/u01/oracle/product/12.1.0/dbhome_1/rdbms/audit"
+    },
+    {
+        "attribute_name": "audit_sys_operations",
+        "attribute_value": "TRUE"
+    },
+    {
+        "attribute_name": "audit_syslog_level",
+        "attribute_value": null
+    },
+    {
+        "attribute_name": "audit_trail",
+        "attribute_value": "NONE"
+    },
+    {
+        "attribute_name": "awr_snapshot_time_offset",
+        "attribute_value": "0"
+    },
+    {
+        "attribute_name": "background_core_dump",
+        "attribute_value": "partial"
+    },
+    {
+        "attribute_name": "background_dump_dest",
+        "attribute_value": "/u01/oracle/product/12.1.0/dbhome_1/rdbms/log"
+    },
+    {
+        "attribute_name": "backup_tape_io_slaves",
+        "attribute_value": "FALSE"
+    },
+    {
+        "attribute_name": "bitmap_merge_area_size",
+        "attribute_value": "1048576"
+    },
+    {
+        "attribute_name": "blank_trimming",
+        "attribute_value": "FALSE"
+    },
+    {
+        "attribute_name": "buffer_pool_keep",
+        "attribute_value": null
+    },
+    {
+        "attribute_name": "buffer_pool_recycle",
+        "attribute_value": null
+    },
+    {
+        "attribute_name": "cell_offload_compaction",
+        "attribute_value": "ADAPTIVE"
+    },
+    {
+        "attribute_name": "cell_offload_decryption",
+        "attribute_value": "TRUE"
+    },
+    {
+        "attribute_name": "cell_offload_parameters",
+        "attribute_value": null
+    },
+    {
+        "attribute_name": "cell_offload_plan_display",
+        "attribute_value": "AUTO"
+    },
+    {
+        "attribute_name": "cell_offload_processing",
+        "attribute_value": "TRUE"
+    },
+    {
+        "attribute_name": "cell_offloadgroup_name",
+        "attribute_value": null
+    },
+    {
+        "attribute_name": "circuits",
+        "attribute_value": null
+    },
+    {
+        "attribute_name": "client_result_cache_lag",
+        "attribute_value": "3000"
+    },
+    {
+        "attribute_name": "client_result_cache_size",
+        "attribute_value": "0"
+    },
+    {
+        "attribute_name": "clonedb",
+        "attribute_value": "FALSE"
+    },
+    {
+        "attribute_name": "cluster_database",
+        "attribute_value": "FALSE"
+    },
+    {
+        "attribute_name": "cluster_database_instances",
+        "attribute_value": "1"
+    },
+    {
+        "attribute_name": "cluster_interconnects",
+        "attribute_value": null
+    },
+    {
+        "attribute_name": "commit_logging",
+        "attribute_value": null
+    },
+    {
+        "attribute_name": "commit_point_strength",
+        "attribute_value": "1"
+    },
+    {
+        "attribute_name": "commit_wait",
+        "attribute_value": null
+    },
+    {
+        "attribute_name": "commit_write",
+        "attribute_value": null
+    },
+    {
+        "attribute_name": "common_user_prefix",
+        "attribute_value": "C##"
+    },
+    {
+        "attribute_name": "compatible",
+        "attribute_value": "12.0.0"
+    },
+    {
+        "attribute_name": "connection_brokers",
+        "attribute_value": "((TYPE=DEDICATED)(BROKERS=1)), ((TYPE=EMON)(BROKERS=1))"
+    },
+    {
+        "attribute_name": "control_file_record_keep_time",
+        "attribute_value": "7"
+    },
+    {
+        "attribute_name": "control_files",
+        "attribute_value": "/u01/oracle/product/12.1.0/dbhome_1/dbs/cntrlwrech.dbf"
+    },
+    {
+        "attribute_name": "control_management_pack_access",
+        "attribute_value": "NONE"
+    },
+    {
+        "attribute_name": "core_dump_dest",
+        "attribute_value": "/u01/oracle/diag/rdbms/wrech/wrech/cdump"
+    },
+    {
+        "attribute_name": "cpu_count",
+        "attribute_value": "64"
+    },
+    {
+        "attribute_name": "create_bitmap_area_size",
+        "attribute_value": "8388608"
+    },
+    {
+        "attribute_name": "create_stored_outlines",
+        "attribute_value": null
+    },
+    {
+        "attribute_name": "cursor_bind_capture_destination",
+        "attribute_value": "memory+disk"
+    },
+    {
+        "attribute_name": "cursor_sharing",
+        "attribute_value": "EXACT"
+    },
+    {
+        "attribute_name": "cursor_space_for_time",
+        "attribute_value": "FALSE"
+    },
+    {
+        "attribute_name": "db_16k_cache_size",
+        "attribute_value": "0"
+    },
+    {
+        "attribute_name": "db_2k_cache_size",
+        "attribute_value": "0"
+    },
+    {
+        "attribute_name": "db_32k_cache_size",
+        "attribute_value": "0"
+    },
+    {
+        "attribute_name": "db_4k_cache_size",
+        "attribute_value": "0"
+    },
+    {
+        "attribute_name": "db_8k_cache_size",
+        "attribute_value": "0"
+    },
+    {
+        "attribute_name": "db_big_table_cache_percent_target",
+        "attribute_value": "0"
+    },
+    {
+        "attribute_name": "db_block_buffers",
+        "attribute_value": "0"
+    },
+    {
+        "attribute_name": "db_block_checking",
+        "attribute_value": "FALSE"
+    },
+    {
+        "attribute_name": "db_block_checksum",
+        "attribute_value": "TYPICAL"
+    },
+    {
+        "attribute_name": "db_block_size",
+        "attribute_value": "8192"
+    },
+    {
+        "attribute_name": "db_cache_advice",
+        "attribute_value": "ON"
+    },
+    {
+        "attribute_name": "db_cache_size",
+        "attribute_value": "0"
+    },
+    {
+        "attribute_name": "db_create_file_dest",
+        "attribute_value": null
+    },
+    {
+        "attribute_name": "db_create_online_log_dest_1",
+        "attribute_value": null
+    },
+    {
+        "attribute_name": "db_create_online_log_dest_2",
+        "attribute_value": null
+    },
+    {
+        "attribute_name": "db_create_online_log_dest_3",
+        "attribute_value": null
+    },
+    {
+        "attribute_name": "db_create_online_log_dest_4",
+        "attribute_value": null
+    },
+    {
+        "attribute_name": "db_create_online_log_dest_5",
+        "attribute_value": null
+    },
+    {
+        "attribute_name": "db_domain",
+        "attribute_value": null
+    },
+    {
+        "attribute_name": "db_file_multiblock_read_count",
+        "attribute_value": "128"
+    },
+    {
+        "attribute_name": "db_file_name_convert",
+        "attribute_value": null
+    },
+    {
+        "attribute_name": "db_files",
+        "attribute_value": "200"
+    },
+    {
+        "attribute_name": "db_flash_cache_file",
+        "attribute_value": null
+    },
+    {
+        "attribute_name": "db_flash_cache_size",
+        "attribute_value": "0"
+    },
+    {
+        "attribute_name": "db_flashback_retention_target",
+        "attribute_value": "1440"
+    },
+    {
+        "attribute_name": "db_index_compression_inheritance",
+        "attribute_value": "NONE"
+    },
+    {
+        "attribute_name": "db_keep_cache_size",
+        "attribute_value": "0"
+    },
+    {
+        "attribute_name": "db_lost_write_protect",
+        "attribute_value": "NONE"
+    },
+    {
+        "attribute_name": "db_name",
+        "attribute_value": "wrech"
+    },
+    {
+        "attribute_name": "db_performance_profile",
+        "attribute_value": null
+    },
+    {
+        "attribute_name": "db_recovery_file_dest",
+        "attribute_value": null
+    },
+    {
+        "attribute_name": "db_recovery_file_dest_size",
+        "attribute_value": "0"
+    },
+    {
+        "attribute_name": "db_recycle_cache_size",
+        "attribute_value": "0"
+    },
+    {
+        "attribute_name": "db_securefile",
+        "attribute_value": "PREFERRED"
+    },
+    {
+        "attribute_name": "db_ultra_safe",
+        "attribute_value": "OFF"
+    },
+    {
+        "attribute_name": "db_unique_name",
+        "attribute_value": "wrech"
+    },
+    {
+        "attribute_name": "db_unrecoverable_scn_tracking",
+        "attribute_value": "TRUE"
+    },
+    {
+        "attribute_name": "db_writer_processes",
+        "attribute_value": "8"
+    },
+    {
+        "attribute_name": "dbwr_io_slaves",
+        "attribute_value": "0"
+    },
+    {
+        "attribute_name": "ddl_lock_timeout",
+        "attribute_value": "0"
+    },
+    {
+        "attribute_name": "deferred_segment_creation",
+        "attribute_value": "TRUE"
+    },
+    {
+        "attribute_name": "dg_broker_config_file1",
+        "attribute_value": "/u01/oracle/product/12.1.0/dbhome_1/dbs/dr1wrech.dat"
+    },
+    {
+        "attribute_name": "dg_broker_config_file2",
+        "attribute_value": "/u01/oracle/product/12.1.0/dbhome_1/dbs/dr2wrech.dat"
+    },
+    {
+        "attribute_name": "dg_broker_start",
+        "attribute_value": "FALSE"
+    },
+    {
+        "attribute_name": "diagnostic_dest",
+        "attribute_value": "/u01/oracle"
+    },
+    {
+        "attribute_name": "disk_asynch_io",
+        "attribute_value": "TRUE"
+    },
+    {
+        "attribute_name": "dispatchers",
+        "attribute_value": null
+    },
+    {
+        "attribute_name": "distributed_lock_timeout",
+        "attribute_value": "60"
+    },
+    {
+        "attribute_name": "dml_locks",
+        "attribute_value": "17456"
+    },
+    {
+        "attribute_name": "dnfs_batch_size",
+        "attribute_value": "4096"
+    },
+    {
+        "attribute_name": "dst_upgrade_insert_conv",
+        "attribute_value": "TRUE"
+    },
+    {
+        "attribute_name": "enable_ddl_logging",
+        "attribute_value": "FALSE"
+    },
+    {
+        "attribute_name": "enable_goldengate_replication",
+        "attribute_value": "FALSE"
+    },
+    {
+        "attribute_name": "enable_pluggable_database",
+        "attribute_value": "FALSE"
+    },
+    {
+        "attribute_name": "event",
+        "attribute_value": null
+    },
+    {
+        "attribute_name": "exclude_seed_cdb_view",
+        "attribute_value": "TRUE"
+    },
+    {
+        "attribute_name": "fal_client",
+        "attribute_value": null
+    },
+    {
+        "attribute_name": "fal_server",
+        "attribute_value": null
+    },
+    {
+        "attribute_name": "fast_start_io_target",
+        "attribute_value": "0"
+    },
+    {
+        "attribute_name": "fast_start_mttr_target",
+        "attribute_value": "0"
+    },
+    {
+        "attribute_name": "fast_start_parallel_rollback",
+        "attribute_value": "LOW"
+    },
+    {
+        "attribute_name": "file_mapping",
+        "attribute_value": "FALSE"
+    },
+    {
+        "attribute_name": "fileio_network_adapters",
+        "attribute_value": null
+    },
+    {
+        "attribute_name": "filesystemio_options",
+        "attribute_value": "none"
+    },
+    {
+        "attribute_name": "fixed_date",
+        "attribute_value": null
+    },
+    {
+        "attribute_name": "gcs_server_processes",
+        "attribute_value": "0"
+    },
+    {
+        "attribute_name": "global_context_pool_size",
+        "attribute_value": null
+    },
+    {
+        "attribute_name": "global_names",
+        "attribute_value": "FALSE"
+    },
+    {
+        "attribute_name": "global_txn_processes",
+        "attribute_value": "1"
+    },
+    {
+        "attribute_name": "hash_area_size",
+        "attribute_value": "131072"
+    },
+    {
+        "attribute_name": "heat_map",
+        "attribute_value": "OFF"
+    },
+    {
+        "attribute_name": "hi_shared_memory_address",
+        "attribute_value": "0"
+    },
+    {
+        "attribute_name": "hs_autoregister",
+        "attribute_value": "TRUE"
+    },
+    {
+        "attribute_name": "ifile",
+        "attribute_value": null
+    },
+    {
+        "attribute_name": "inmemory_clause_default",
+        "attribute_value": null
+    },
+    {
+        "attribute_name": "inmemory_force",
+        "attribute_value": "DEFAULT"
+    },
+    {
+        "attribute_name": "inmemory_max_populate_servers",
+        "attribute_value": "0"
+    },
+    {
+        "attribute_name": "inmemory_query",
+        "attribute_value": "ENABLE"
+    },
+    {
+        "attribute_name": "inmemory_size",
+        "attribute_value": "0"
+    },
+    {
+        "attribute_name": "inmemory_trickle_repopulate_servers_percent",
+        "attribute_value": "1"
+    },
+    {
+        "attribute_name": "instance_groups",
+        "attribute_value": null
+    },
+    {
+        "attribute_name": "instance_name",
+        "attribute_value": "wrech"
+    },
+    {
+        "attribute_name": "instance_number",
+        "attribute_value": "0"
+    },
+    {
+        "attribute_name": "instance_type",
+        "attribute_value": "RDBMS"
+    },
+    {
+        "attribute_name": "instant_restore",
+        "attribute_value": "FALSE"
+    },
+    {
+        "attribute_name": "java_jit_enabled",
+        "attribute_value": "TRUE"
+    },
+    {
+        "attribute_name": "java_max_sessionspace_size",
+        "attribute_value": "0"
+    },
+    {
+        "attribute_name": "java_pool_size",
+        "attribute_value": "0"
+    },
+    {
+        "attribute_name": "java_restrict",
+        "attribute_value": "none"
+    },
+    {
+        "attribute_name": "java_soft_sessionspace_limit",
+        "attribute_value": "0"
+    },
+    {
+        "attribute_name": "job_queue_processes",
+        "attribute_value": "1000"
+    },
+    {
+        "attribute_name": "large_pool_size",
+        "attribute_value": "0"
+    },
+    {
+        "attribute_name": "ldap_directory_access",
+        "attribute_value": "NONE"
+    },
+    {
+        "attribute_name": "ldap_directory_sysauth",
+        "attribute_value": "no"
+    },
+    {
+        "attribute_name": "license_max_sessions",
+        "attribute_value": "0"
+    },
+    {
+        "attribute_name": "license_max_users",
+        "attribute_value": "0"
+    },
+    {
+        "attribute_name": "license_sessions_warning",
+        "attribute_value": "0"
+    },
+    {
+        "attribute_name": "listener_networks",
+        "attribute_value": null
+    },
+    {
+        "attribute_name": "local_listener",
+        "attribute_value": null
+    },
+    {
+        "attribute_name": "lock_name_space",
+        "attribute_value": null
+    },
+    {
+        "attribute_name": "lock_sga",
+        "attribute_value": "FALSE"
+    },
+    {
+        "attribute_name": "log_archive_config",
+        "attribute_value": null
+    },
+    {
+        "attribute_name": "log_archive_dest",
+        "attribute_value": null
+    },
+    {
+        "attribute_name": "log_archive_dest_1",
+        "attribute_value": null
+    },
+    {
+        "attribute_name": "log_archive_dest_10",
+        "attribute_value": null
+    },
+    {
+        "attribute_name": "log_archive_dest_11",
+        "attribute_value": null
+    },
+    {
+        "attribute_name": "log_archive_dest_12",
+        "attribute_value": null
+    },
+    {
+        "attribute_name": "log_archive_dest_13",
+        "attribute_value": null
+    },
+    {
+        "attribute_name": "log_archive_dest_14",
+        "attribute_value": null
+    },
+    {
+        "attribute_name": "log_archive_dest_15",
+        "attribute_value": null
+    },
+    {
+        "attribute_name": "log_archive_dest_16",
+        "attribute_value": null
+    },
+    {
+        "attribute_name": "log_archive_dest_17",
+        "attribute_value": null
+    },
+    {
+        "attribute_name": "log_archive_dest_18",
+        "attribute_value": null
+    },
+    {
+        "attribute_name": "log_archive_dest_19",
+        "attribute_value": null
+    },
+    {
+        "attribute_name": "log_archive_dest_2",
+        "attribute_value": null
+    },
+    {
+        "attribute_name": "log_archive_dest_20",
+        "attribute_value": null
+    },
+    {
+        "attribute_name": "log_archive_dest_21",
+        "attribute_value": null
+    },
+    {
+        "attribute_name": "log_archive_dest_22",
+        "attribute_value": null
+    },
+    {
+        "attribute_name": "log_archive_dest_23",
+        "attribute_value": null
+    },
+    {
+        "attribute_name": "log_archive_dest_24",
+        "attribute_value": null
+    },
+    {
+        "attribute_name": "log_archive_dest_25",
+        "attribute_value": null
+    },
+    {
+        "attribute_name": "log_archive_dest_26",
+        "attribute_value": null
+    },
+    {
+        "attribute_name": "log_archive_dest_27",
+        "attribute_value": null
+    },
+    {
+        "attribute_name": "log_archive_dest_28",
+        "attribute_value": null
+    },
+    {
+        "attribute_name": "log_archive_dest_29",
+        "attribute_value": null
+    },
+    {
+        "attribute_name": "log_archive_dest_3",
+        "attribute_value": null
+    },
+    {
+        "attribute_name": "log_archive_dest_30",
+        "attribute_value": null
+    },
+    {
+        "attribute_name": "log_archive_dest_31",
+        "attribute_value": null
+    },
+    {
+        "attribute_name": "log_archive_dest_4",
+        "attribute_value": null
+    },
+    {
+        "attribute_name": "log_archive_dest_5",
+        "attribute_value": null
+    },
+    {
+        "attribute_name": "log_archive_dest_6",
+        "attribute_value": null
+    },
+    {
+        "attribute_name": "log_archive_dest_7",
+        "attribute_value": null
+    },
+    {
+        "attribute_name": "log_archive_dest_8",
+        "attribute_value": null
+    },
+    {
+        "attribute_name": "log_archive_dest_9",
+        "attribute_value": null
+    },
+    {
+        "attribute_name": "log_archive_dest_state_1",
+        "attribute_value": "enable"
+    },
+    {
+        "attribute_name": "log_archive_dest_state_10",
+        "attribute_value": "enable"
+    },
+    {
+        "attribute_name": "log_archive_dest_state_11",
+        "attribute_value": "enable"
+    },
+    {
+        "attribute_name": "log_archive_dest_state_12",
+        "attribute_value": "enable"
+    },
+    {
+        "attribute_name": "log_archive_dest_state_13",
+        "attribute_value": "enable"
+    },
+    {
+        "attribute_name": "log_archive_dest_state_14",
+        "attribute_value": "enable"
+    },
+    {
+        "attribute_name": "log_archive_dest_state_15",
+        "attribute_value": "enable"
+    },
+    {
+        "attribute_name": "log_archive_dest_state_16",
+        "attribute_value": "enable"
+    },
+    {
+        "attribute_name": "log_archive_dest_state_17",
+        "attribute_value": "enable"
+    },
+    {
+        "attribute_name": "log_archive_dest_state_18",
+        "attribute_value": "enable"
+    },
+    {
+        "attribute_name": "log_archive_dest_state_19",
+        "attribute_value": "enable"
+    },
+    {
+        "attribute_name": "log_archive_dest_state_2",
+        "attribute_value": "enable"
+    },
+    {
+        "attribute_name": "log_archive_dest_state_20",
+        "attribute_value": "enable"
+    },
+    {
+        "attribute_name": "log_archive_dest_state_21",
+        "attribute_value": "enable"
+    },
+    {
+        "attribute_name": "log_archive_dest_state_22",
+        "attribute_value": "enable"
+    },
+    {
+        "attribute_name": "log_archive_dest_state_23",
+        "attribute_value": "enable"
+    },
+    {
+        "attribute_name": "log_archive_dest_state_24",
+        "attribute_value": "enable"
+    },
+    {
+        "attribute_name": "log_archive_dest_state_25",
+        "attribute_value": "enable"
+    },
+    {
+        "attribute_name": "log_archive_dest_state_26",
+        "attribute_value": "enable"
+    },
+    {
+        "attribute_name": "log_archive_dest_state_27",
+        "attribute_value": "enable"
+    },
+    {
+        "attribute_name": "log_archive_dest_state_28",
+        "attribute_value": "enable"
+    },
+    {
+        "attribute_name": "log_archive_dest_state_29",
+        "attribute_value": "enable"
+    },
+    {
+        "attribute_name": "log_archive_dest_state_3",
+        "attribute_value": "enable"
+    },
+    {
+        "attribute_name": "log_archive_dest_state_30",
+        "attribute_value": "enable"
+    },
+    {
+        "attribute_name": "log_archive_dest_state_31",
+        "attribute_value": "enable"
+    },
+    {
+        "attribute_name": "log_archive_dest_state_4",
+        "attribute_value": "enable"
+    },
+    {
+        "attribute_name": "log_archive_dest_state_5",
+        "attribute_value": "enable"
+    },
+    {
+        "attribute_name": "log_archive_dest_state_6",
+        "attribute_value": "enable"
+    },
+    {
+        "attribute_name": "log_archive_dest_state_7",
+        "attribute_value": "enable"
+    },
+    {
+        "attribute_name": "log_archive_dest_state_8",
+        "attribute_value": "enable"
+    },
+    {
+        "attribute_name": "log_archive_dest_state_9",
+        "attribute_value": "enable"
+    },
+    {
+        "attribute_name": "log_archive_duplex_dest",
+        "attribute_value": null
+    },
+    {
+        "attribute_name": "log_archive_format",
+        "attribute_value": "%t_%s_%r.dbf"
+    },
+    {
+        "attribute_name": "log_archive_max_processes",
+        "attribute_value": "4"
+    },
+    {
+        "attribute_name": "log_archive_min_succeed_dest",
+        "attribute_value": "1"
+    },
+    {
+        "attribute_name": "log_archive_start",
+        "attribute_value": "FALSE"
+    },
+    {
+        "attribute_name": "log_archive_trace",
+        "attribute_value": "0"
+    },
+    {
+        "attribute_name": "log_buffer",
+        "attribute_value": "57540608"
+    },
+    {
+        "attribute_name": "log_checkpoint_interval",
+        "attribute_value": "0"
+    },
+    {
+        "attribute_name": "log_checkpoint_timeout",
+        "attribute_value": "1800"
+    },
+    {
+        "attribute_name": "log_checkpoints_to_alert",
+        "attribute_value": "FALSE"
+    },
+    {
+        "attribute_name": "log_file_name_convert",
+        "attribute_value": null
+    },
+    {
+        "attribute_name": "max_dispatchers",
+        "attribute_value": null
+    },
+    {
+        "attribute_name": "max_dump_file_size",
+        "attribute_value": "unlimited"
+    },
+    {
+        "attribute_name": "max_enabled_roles",
+        "attribute_value": "150"
+    },
+    {
+        "attribute_name": "max_shared_servers",
+        "attribute_value": null
+    },
+    {
+        "attribute_name": "max_string_size",
+        "attribute_value": "STANDARD"
+    },
+    {
+        "attribute_name": "memory_max_target",
+        "attribute_value": "0"
+    },
+    {
+        "attribute_name": "memory_target",
+        "attribute_value": "0"
+    },
+    {
+        "attribute_name": "nls_calendar",
+        "attribute_value": null
+    },
+    {
+        "attribute_name": "nls_comp",
+        "attribute_value": "BINARY"
+    },
+    {
+        "attribute_name": "nls_currency",
+        "attribute_value": null
+    },
+    {
+        "attribute_name": "nls_date_format",
+        "attribute_value": null
+    },
+    {
+        "attribute_name": "nls_date_language",
+        "attribute_value": null
+    },
+    {
+        "attribute_name": "nls_dual_currency",
+        "attribute_value": null
+    },
+    {
+        "attribute_name": "nls_iso_currency",
+        "attribute_value": null
+    },
+    {
+        "attribute_name": "nls_language",
+        "attribute_value": "AMERICAN"
+    },
+    {
+        "attribute_name": "nls_length_semantics",
+        "attribute_value": "BYTE"
+    },
+    {
+        "attribute_name": "nls_nchar_conv_excp",
+        "attribute_value": "FALSE"
+    },
+    {
+        "attribute_name": "nls_numeric_characters",
+        "attribute_value": null
+    },
+    {
+        "attribute_name": "nls_sort",
+        "attribute_value": null
+    },
+    {
+        "attribute_name": "nls_territory",
+        "attribute_value": "AMERICA"
+    },
+    {
+        "attribute_name": "nls_time_format",
+        "attribute_value": null
+    },
+    {
+        "attribute_name": "nls_time_tz_format",
+        "attribute_value": null
+    },
+    {
+        "attribute_name": "nls_timestamp_format",
+        "attribute_value": null
+    },
+    {
+        "attribute_name": "nls_timestamp_tz_format",
+        "attribute_value": null
+    },
+    {
+        "attribute_name": "noncdb_compatible",
+        "attribute_value": "FALSE"
+    },
+    {
+        "attribute_name": "object_cache_max_size_percent",
+        "attribute_value": "10"
+    },
+    {
+        "attribute_name": "object_cache_optimal_size",
+        "attribute_value": "102400"
+    },
+    {
+        "attribute_name": "olap_page_pool_size",
+        "attribute_value": "0"
+    },
+    {
+        "attribute_name": "open_cursors",
+        "attribute_value": "50"
+    },
+    {
+        "attribute_name": "open_links",
+        "attribute_value": "4"
+    },
+    {
+        "attribute_name": "open_links_per_instance",
+        "attribute_value": "4"
+    },
+    {
+        "attribute_name": "optimizer_adaptive_features",
+        "attribute_value": "TRUE"
+    },
+    {
+        "attribute_name": "optimizer_adaptive_reporting_only",
+        "attribute_value": "FALSE"
+    },
+    {
+        "attribute_name": "optimizer_capture_sql_plan_baselines",
+        "attribute_value": "FALSE"
+    },
+    {
+        "attribute_name": "optimizer_dynamic_sampling",
+        "attribute_value": "2"
+    },
+    {
+        "attribute_name": "optimizer_features_enable",
+        "attribute_value": "12.1.0.2"
+    },
+    {
+        "attribute_name": "optimizer_index_caching",
+        "attribute_value": "0"
+    },
+    {
+        "attribute_name": "optimizer_index_cost_adj",
+        "attribute_value": "100"
+    },
+    {
+        "attribute_name": "optimizer_inmemory_aware",
+        "attribute_value": "TRUE"
+    },
+    {
+        "attribute_name": "optimizer_mode",
+        "attribute_value": "ALL_ROWS"
+    },
+    {
+        "attribute_name": "optimizer_secure_view_merging",
+        "attribute_value": "TRUE"
+    },
+    {
+        "attribute_name": "optimizer_use_invisible_indexes",
+        "attribute_value": "FALSE"
+    },
+    {
+        "attribute_name": "optimizer_use_pending_statistics",
+        "attribute_value": "FALSE"
+    },
+    {
+        "attribute_name": "optimizer_use_sql_plan_baselines",
+        "attribute_value": "TRUE"
+    },
+    {
+        "attribute_name": "os_authent_prefix",
+        "attribute_value": "ops$"
+    },
+    {
+        "attribute_name": "os_roles",
+        "attribute_value": "FALSE"
+    },
+    {
+        "attribute_name": "parallel_adaptive_multi_user",
+        "attribute_value": "TRUE"
+    },
+    {
+        "attribute_name": "parallel_automatic_tuning",
+        "attribute_value": "FALSE"
+    },
+    {
+        "attribute_name": "parallel_degree_level",
+        "attribute_value": "100"
+    },
+    {
+        "attribute_name": "parallel_degree_limit",
+        "attribute_value": "CPU"
+    },
+    {
+        "attribute_name": "parallel_degree_policy",
+        "attribute_value": "MANUAL"
+    },
+    {
+        "attribute_name": "parallel_execution_message_size",
+        "attribute_value": "16384"
+    },
+    {
+        "attribute_name": "parallel_force_local",
+        "attribute_value": "FALSE"
+    },
+    {
+        "attribute_name": "parallel_instance_group",
+        "attribute_value": null
+    },
+    {
+        "attribute_name": "parallel_io_cap_enabled",
+        "attribute_value": "FALSE"
+    },
+    {
+        "attribute_name": "parallel_max_servers",
+        "attribute_value": "0"
+    },
+    {
+        "attribute_name": "parallel_min_percent",
+        "attribute_value": "0"
+    },
+    {
+        "attribute_name": "parallel_min_servers",
+        "attribute_value": "0"
+    },
+    {
+        "attribute_name": "parallel_min_time_threshold",
+        "attribute_value": "AUTO"
+    },
+    {
+        "attribute_name": "parallel_server",
+        "attribute_value": "FALSE"
+    },
+    {
+        "attribute_name": "parallel_server_instances",
+        "attribute_value": "1"
+    },
+    {
+        "attribute_name": "parallel_servers_target",
+        "attribute_value": "1024"
+    },
+    {
+        "attribute_name": "parallel_threads_per_cpu",
+        "attribute_value": "2"
+    },
+    {
+        "attribute_name": "pdb_file_name_convert",
+        "attribute_value": null
+    },
+    {
+        "attribute_name": "pdb_lockdown",
+        "attribute_value": null
+    },
+    {
+        "attribute_name": "pdb_os_credential",
+        "attribute_value": null
+    },
+    {
+        "attribute_name": "permit_92_wrap_format",
+        "attribute_value": "TRUE"
+    },
+    {
+        "attribute_name": "pga_aggregate_limit",
+        "attribute_value": "8178892800"
+    },
+    {
+        "attribute_name": "pga_aggregate_target",
+        "attribute_value": "4227858432"
+    },
+    {
+        "attribute_name": "plscope_settings",
+        "attribute_value": "IDENTIFIERS:NONE"
+    },
+    {
+        "attribute_name": "plsql_ccflags",
+        "attribute_value": null
+    },
+    {
+        "attribute_name": "plsql_code_type",
+        "attribute_value": "INTERPRETED"
+    },
+    {
+        "attribute_name": "plsql_debug",
+        "attribute_value": "FALSE"
+    },
+    {
+        "attribute_name": "plsql_optimize_level",
+        "attribute_value": "2"
+    },
+    {
+        "attribute_name": "plsql_v2_compatibility",
+        "attribute_value": "FALSE"
+    },
+    {
+        "attribute_name": "plsql_warnings",
+        "attribute_value": "DISABLE:ALL"
+    },
+    {
+        "attribute_name": "pre_page_sga",
+        "attribute_value": "TRUE"
+    },
+    {
+        "attribute_name": "processes",
+        "attribute_value": "2600"
+    },
+    {
+        "attribute_name": "processor_group_name",
+        "attribute_value": null
+    },
+    {
+        "attribute_name": "query_rewrite_enabled",
+        "attribute_value": "TRUE"
+    },
+    {
+        "attribute_name": "query_rewrite_integrity",
+        "attribute_value": "enforced"
+    },
+    {
+        "attribute_name": "rdbms_server_dn",
+        "attribute_value": null
+    },
+    {
+        "attribute_name": "read_only_open_delayed",
+        "attribute_value": "FALSE"
+    },
+    {
+        "attribute_name": "recovery_parallelism",
+        "attribute_value": "0"
+    },
+    {
+        "attribute_name": "recyclebin",
+        "attribute_value": "on"
+    },
+    {
+        "attribute_name": "redo_transport_user",
+        "attribute_value": null
+    },
+    {
+        "attribute_name": "remote_dependencies_mode",
+        "attribute_value": "TIMESTAMP"
+    },
+    {
+        "attribute_name": "remote_listener",
+        "attribute_value": null
+    },
+    {
+        "attribute_name": "remote_login_passwordfile",
+        "attribute_value": "EXCLUSIVE"
+    },
+    {
+        "attribute_name": "remote_os_authent",
+        "attribute_value": "FALSE"
+    },
+    {
+        "attribute_name": "remote_os_roles",
+        "attribute_value": "FALSE"
+    },
+    {
+        "attribute_name": "replication_dependency_tracking",
+        "attribute_value": "TRUE"
+    },
+    {
+        "attribute_name": "resource_limit",
+        "attribute_value": "TRUE"
+    },
+    {
+        "attribute_name": "resource_manager_cpu_allocation",
+        "attribute_value": "64"
+    },
+    {
+        "attribute_name": "resource_manager_plan",
+        "attribute_value": "SCHEDULER[0x4445]:DEFAULT_MAINTENANCE_PLAN"
+    },
+    {
+        "attribute_name": "result_cache_max_result",
+        "attribute_value": "5"
+    },
+    {
+        "attribute_name": "result_cache_max_size",
+        "attribute_value": "0"
+    },
+    {
+        "attribute_name": "result_cache_mode",
+        "attribute_value": "MANUAL"
+    },
+    {
+        "attribute_name": "result_cache_remote_expiration",
+        "attribute_value": "0"
+    },
+    {
+        "attribute_name": "resumable_timeout",
+        "attribute_value": "0"
+    },
+    {
+        "attribute_name": "rollback_segments",
+        "attribute_value": null
+    },
+    {
+        "attribute_name": "sec_case_sensitive_logon",
+        "attribute_value": "TRUE"
+    },
+    {
+        "attribute_name": "sec_max_failed_login_attempts",
+        "attribute_value": "3"
+    },
+    {
+        "attribute_name": "sec_protocol_error_further_action",
+        "attribute_value": "(DROP,3)"
+    },
+    {
+        "attribute_name": "sec_protocol_error_trace_action",
+        "attribute_value": "TRACE"
+    },
+    {
+        "attribute_name": "sec_return_server_release_banner",
+        "attribute_value": "FALSE"
+    },
+    {
+        "attribute_name": "serial_reuse",
+        "attribute_value": "disable"
+    },
+    {
+        "attribute_name": "service_names",
+        "attribute_value": "wrech"
+    },
+    {
+        "attribute_name": "session_cached_cursors",
+        "attribute_value": "50"
+    },
+    {
+        "attribute_name": "session_max_open_files",
+        "attribute_value": "10"
+    },
+    {
+        "attribute_name": "sessions",
+        "attribute_value": "3968"
+    },
+    {
+        "attribute_name": "sga_max_size",
+        "attribute_value": "21005074432"
+    },
+    {
+        "attribute_name": "sga_target",
+        "attribute_value": "21005074432"
+    },
+    {
+        "attribute_name": "shadow_core_dump",
+        "attribute_value": "partial"
+    },
+    {
+        "attribute_name": "shared_memory_address",
+        "attribute_value": "0"
+    },
+    {
+        "attribute_name": "shared_pool_reserved_size",
+        "attribute_value": "117440512"
+    },
+    {
+        "attribute_name": "shared_pool_size",
+        "attribute_value": "0"
+    },
+    {
+        "attribute_name": "shared_server_sessions",
+        "attribute_value": null
+    },
+    {
+        "attribute_name": "shared_servers",
+        "attribute_value": "0"
+    },
+    {
+        "attribute_name": "skip_unusable_indexes",
+        "attribute_value": "TRUE"
+    },
+    {
+        "attribute_name": "smtp_out_server",
+        "attribute_value": null
+    },
+    {
+        "attribute_name": "sort_area_retained_size",
+        "attribute_value": "0"
+    },
+    {
+        "attribute_name": "sort_area_size",
+        "attribute_value": "65536"
+    },
+    {
+        "attribute_name": "spatial_vector_acceleration",
+        "attribute_value": "FALSE"
+    },
+    {
+        "attribute_name": "spfile",
+        "attribute_value": null
+    },
+    {
+        "attribute_name": "sql92_security",
+        "attribute_value": "FALSE"
+    },
+    {
+        "attribute_name": "sql_trace",
+        "attribute_value": "FALSE"
+    },
+    {
+        "attribute_name": "sqltune_category",
+        "attribute_value": "DEFAULT"
+    },
+    {
+        "attribute_name": "standby_archive_dest",
+        "attribute_value": "?/dbs/arch"
+    },
+    {
+        "attribute_name": "standby_file_management",
+        "attribute_value": "MANUAL"
+    },
+    {
+        "attribute_name": "star_transformation_enabled",
+        "attribute_value": "FALSE"
+    },
+    {
+        "attribute_name": "statistics_level",
+        "attribute_value": "TYPICAL"
+    },
+    {
+        "attribute_name": "streams_pool_size",
+        "attribute_value": "0"
+    },
+    {
+        "attribute_name": "tape_asynch_io",
+        "attribute_value": "TRUE"
+    },
+    {
+        "attribute_name": "temp_undo_enabled",
+        "attribute_value": "FALSE"
+    },
+    {
+        "attribute_name": "thread",
+        "attribute_value": "0"
+    },
+    {
+        "attribute_name": "threaded_execution",
+        "attribute_value": "FALSE"
+    },
+    {
+        "attribute_name": "timed_os_statistics",
+        "attribute_value": "0"
+    },
+    {
+        "attribute_name": "timed_statistics",
+        "attribute_value": "TRUE"
+    },
+    {
+        "attribute_name": "trace_enabled",
+        "attribute_value": "TRUE"
+    },
+    {
+        "attribute_name": "tracefile_identifier",
+        "attribute_value": null
+    },
+    {
+        "attribute_name": "transactions",
+        "attribute_value": "4364"
+    },
+    {
+        "attribute_name": "transactions_per_rollback_segment",
+        "attribute_value": "5"
+    },
+    {
+        "attribute_name": "undo_management",
+        "attribute_value": "AUTO"
+    },
+    {
+        "attribute_name": "undo_retention",
+        "attribute_value": "900"
+    },
+    {
+        "attribute_name": "undo_tablespace",
+        "attribute_value": "UNDOTBS1"
+    },
+    {
+        "attribute_name": "unified_audit_sga_queue_size",
+        "attribute_value": "1048576"
+    },
+    {
+        "attribute_name": "use_dedicated_broker",
+        "attribute_value": "FALSE"
+    },
+    {
+        "attribute_name": "use_indirect_data_buffers",
+        "attribute_value": "FALSE"
+    },
+    {
+        "attribute_name": "use_large_pages",
+        "attribute_value": "TRUE"
+    },
+    {
+        "attribute_name": "user_dump_dest",
+        "attribute_value": "/u01/oracle/product/12.1.0/dbhome_1/rdbms/log"
+    },
+    {
+        "attribute_name": "utl_file_dir",
+        "attribute_value": null
+    },
+    {
+        "attribute_name": "workarea_size_policy",
+        "attribute_value": "AUTO"
+    },
+    {
+        "attribute_name": "xml_db_events",
+        "attribute_value": "enable"
+    }
+]

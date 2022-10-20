@@ -1,0 +1,958 @@
+[
+    {
+        "table": "RIGHTS.RIG_MATRIX_LCD",
+        "total_records": 149869,
+        "dataset": [
+            {
+                "field_combination": "C_FR_DATE , C_ID",
+                "total_null_rows": 0,
+                "total_not_null_rows": 149869
+            },
+            {
+                "field_combination": "C_FR_DATE , RIG_TIR_ID_SEQ",
+                "total_null_rows": 0,
+                "total_not_null_rows": 149869
+            },
+            {
+                "field_combination": "M_ID , M_QTY",
+                "total_null_rows": 0,
+                "total_not_null_rows": 149869
+            },
+            {
+                "field_combination": "M_ID , M_TO_DATE",
+                "total_null_rows": 0,
+                "total_not_null_rows": 149869
+            },
+            {
+                "field_combination": "M_ID , RH_ID",
+                "total_null_rows": 0,
+                "total_not_null_rows": 149869
+            },
+            {
+                "field_combination": "M_ID , RIG_TIR_ID_SEQ",
+                "total_null_rows": 0,
+                "total_not_null_rows": 149869
+            },
+            {
+                "field_combination": "M_ID , S_FR_DATE",
+                "total_null_rows": 0,
+                "total_not_null_rows": 149869
+            },
+            {
+                "field_combination": "M_ID , S_GRP_ID",
+                "total_null_rows": 0,
+                "total_not_null_rows": 149869
+            },
+            {
+                "field_combination": "M_ID , S_ID",
+                "total_null_rows": 0,
+                "total_not_null_rows": 149869
+            },
+            {
+                "field_combination": "M_ID , S_QTY",
+                "total_null_rows": 0,
+                "total_not_null_rows": 149869
+            },
+            {
+                "field_combination": "M_ID , S_TO_DATE",
+                "total_null_rows": 0,
+                "total_not_null_rows": 149869
+            },
+            {
+                "field_combination": "M_ID , TL_FR_DATE",
+                "total_null_rows": 0,
+                "total_not_null_rows": 149869
+            },
+            {
+                "field_combination": "C_FR_DATE , S_FR_DATE",
+                "total_null_rows": 0,
+                "total_not_null_rows": 149869
+            },
+            {
+                "field_combination": "M_ID , TL_TO_DATE",
+                "total_null_rows": 0,
+                "total_not_null_rows": 149869
+            },
+            {
+                "field_combination": "M_ID , T_GRP_ID",
+                "total_null_rows": 0,
+                "total_not_null_rows": 149869
+            },
+            {
+                "field_combination": "M_ID , T_ID",
+                "total_null_rows": 0,
+                "total_not_null_rows": 149869
+            },
+            {
+                "field_combination": "M_QTY , M_TO_DATE",
+                "total_null_rows": 0,
+                "total_not_null_rows": 149869
+            },
+            {
+                "field_combination": "M_QTY , RH_ID",
+                "total_null_rows": 0,
+                "total_not_null_rows": 149869
+            },
+            {
+                "field_combination": "M_QTY , RIG_TIR_ID_SEQ",
+                "total_null_rows": 0,
+                "total_not_null_rows": 149869
+            },
+            {
+                "field_combination": "M_QTY , S_FR_DATE",
+                "total_null_rows": 0,
+                "total_not_null_rows": 149869
+            },
+            {
+                "field_combination": "M_QTY , S_GRP_ID",
+                "total_null_rows": 0,
+                "total_not_null_rows": 149869
+            },
+            {
+                "field_combination": "M_QTY , S_ID",
+                "total_null_rows": 0,
+                "total_not_null_rows": 149869
+            },
+            {
+                "field_combination": "M_QTY , S_QTY",
+                "total_null_rows": 0,
+                "total_not_null_rows": 149869
+            },
+            {
+                "field_combination": "C_FR_DATE , S_GRP_ID",
+                "total_null_rows": 0,
+                "total_not_null_rows": 149869
+            },
+            {
+                "field_combination": "M_QTY , S_TO_DATE",
+                "total_null_rows": 0,
+                "total_not_null_rows": 149869
+            },
+            {
+                "field_combination": "M_QTY , TL_FR_DATE",
+                "total_null_rows": 0,
+                "total_not_null_rows": 149869
+            },
+            {
+                "field_combination": "M_QTY , TL_TO_DATE",
+                "total_null_rows": 0,
+                "total_not_null_rows": 149869
+            },
+            {
+                "field_combination": "M_QTY , T_GRP_ID",
+                "total_null_rows": 0,
+                "total_not_null_rows": 149869
+            },
+            {
+                "field_combination": "M_QTY , T_ID",
+                "total_null_rows": 0,
+                "total_not_null_rows": 149869
+            },
+            {
+                "field_combination": "M_TO_DATE , RH_ID",
+                "total_null_rows": 0,
+                "total_not_null_rows": 149869
+            },
+            {
+                "field_combination": "M_TO_DATE , RIG_TIR_ID_SEQ",
+                "total_null_rows": 0,
+                "total_not_null_rows": 149869
+            },
+            {
+                "field_combination": "M_TO_DATE , S_FR_DATE",
+                "total_null_rows": 0,
+                "total_not_null_rows": 149869
+            },
+            {
+                "field_combination": "M_TO_DATE , S_GRP_ID",
+                "total_null_rows": 0,
+                "total_not_null_rows": 149869
+            },
+            {
+                "field_combination": "M_TO_DATE , S_ID",
+                "total_null_rows": 0,
+                "total_not_null_rows": 149869
+            },
+            {
+                "field_combination": "C_FR_DATE , S_ID",
+                "total_null_rows": 0,
+                "total_not_null_rows": 149869
+            },
+            {
+                "field_combination": "M_TO_DATE , S_QTY",
+                "total_null_rows": 0,
+                "total_not_null_rows": 149869
+            },
+            {
+                "field_combination": "M_TO_DATE , S_TO_DATE",
+                "total_null_rows": 0,
+                "total_not_null_rows": 149869
+            },
+            {
+                "field_combination": "M_TO_DATE , TL_FR_DATE",
+                "total_null_rows": 0,
+                "total_not_null_rows": 149869
+            },
+            {
+                "field_combination": "M_TO_DATE , TL_TO_DATE",
+                "total_null_rows": 0,
+                "total_not_null_rows": 149869
+            },
+            {
+                "field_combination": "M_TO_DATE , T_GRP_ID",
+                "total_null_rows": 0,
+                "total_not_null_rows": 149869
+            },
+            {
+                "field_combination": "M_TO_DATE , T_ID",
+                "total_null_rows": 0,
+                "total_not_null_rows": 149869
+            },
+            {
+                "field_combination": "RH_ID , RIG_TIR_ID_SEQ",
+                "total_null_rows": 0,
+                "total_not_null_rows": 149869
+            },
+            {
+                "field_combination": "RH_ID , S_FR_DATE",
+                "total_null_rows": 0,
+                "total_not_null_rows": 149869
+            },
+            {
+                "field_combination": "RH_ID , S_GRP_ID",
+                "total_null_rows": 0,
+                "total_not_null_rows": 149869
+            },
+            {
+                "field_combination": "RH_ID , S_ID",
+                "total_null_rows": 0,
+                "total_not_null_rows": 149869
+            },
+            {
+                "field_combination": "C_FR_DATE , S_QTY",
+                "total_null_rows": 0,
+                "total_not_null_rows": 149869
+            },
+            {
+                "field_combination": "RH_ID , S_QTY",
+                "total_null_rows": 0,
+                "total_not_null_rows": 149869
+            },
+            {
+                "field_combination": "RH_ID , S_TO_DATE",
+                "total_null_rows": 0,
+                "total_not_null_rows": 149869
+            },
+            {
+                "field_combination": "RH_ID , TL_FR_DATE",
+                "total_null_rows": 0,
+                "total_not_null_rows": 149869
+            },
+            {
+                "field_combination": "RH_ID , TL_TO_DATE",
+                "total_null_rows": 0,
+                "total_not_null_rows": 149869
+            },
+            {
+                "field_combination": "RH_ID , T_GRP_ID",
+                "total_null_rows": 0,
+                "total_not_null_rows": 149869
+            },
+            {
+                "field_combination": "RH_ID , T_ID",
+                "total_null_rows": 0,
+                "total_not_null_rows": 149869
+            },
+            {
+                "field_combination": "RIG_TIR_ID_SEQ , S_FR_DATE",
+                "total_null_rows": 0,
+                "total_not_null_rows": 149869
+            },
+            {
+                "field_combination": "RIG_TIR_ID_SEQ , S_GRP_ID",
+                "total_null_rows": 0,
+                "total_not_null_rows": 149869
+            },
+            {
+                "field_combination": "RIG_TIR_ID_SEQ , S_ID",
+                "total_null_rows": 0,
+                "total_not_null_rows": 149869
+            },
+            {
+                "field_combination": "RIG_TIR_ID_SEQ , S_QTY",
+                "total_null_rows": 0,
+                "total_not_null_rows": 149869
+            },
+            {
+                "field_combination": "C_FR_DATE , S_TO_DATE",
+                "total_null_rows": 0,
+                "total_not_null_rows": 149869
+            },
+            {
+                "field_combination": "RIG_TIR_ID_SEQ , S_TO_DATE",
+                "total_null_rows": 0,
+                "total_not_null_rows": 149869
+            },
+            {
+                "field_combination": "RIG_TIR_ID_SEQ , TL_FR_DATE",
+                "total_null_rows": 0,
+                "total_not_null_rows": 149869
+            },
+            {
+                "field_combination": "RIG_TIR_ID_SEQ , TL_TO_DATE",
+                "total_null_rows": 0,
+                "total_not_null_rows": 149869
+            },
+            {
+                "field_combination": "RIG_TIR_ID_SEQ , T_GRP_ID",
+                "total_null_rows": 0,
+                "total_not_null_rows": 149869
+            },
+            {
+                "field_combination": "RIG_TIR_ID_SEQ , T_ID",
+                "total_null_rows": 0,
+                "total_not_null_rows": 149869
+            },
+            {
+                "field_combination": "S_FR_DATE , S_GRP_ID",
+                "total_null_rows": 0,
+                "total_not_null_rows": 149869
+            },
+            {
+                "field_combination": "S_FR_DATE , S_ID",
+                "total_null_rows": 0,
+                "total_not_null_rows": 149869
+            },
+            {
+                "field_combination": "S_FR_DATE , S_QTY",
+                "total_null_rows": 0,
+                "total_not_null_rows": 149869
+            },
+            {
+                "field_combination": "S_FR_DATE , S_TO_DATE",
+                "total_null_rows": 0,
+                "total_not_null_rows": 149869
+            },
+            {
+                "field_combination": "S_FR_DATE , TL_FR_DATE",
+                "total_null_rows": 0,
+                "total_not_null_rows": 149869
+            },
+            {
+                "field_combination": "C_FR_DATE , TL_FR_DATE",
+                "total_null_rows": 0,
+                "total_not_null_rows": 149869
+            },
+            {
+                "field_combination": "S_FR_DATE , TL_TO_DATE",
+                "total_null_rows": 0,
+                "total_not_null_rows": 149869
+            },
+            {
+                "field_combination": "S_FR_DATE , T_GRP_ID",
+                "total_null_rows": 0,
+                "total_not_null_rows": 149869
+            },
+            {
+                "field_combination": "S_FR_DATE , T_ID",
+                "total_null_rows": 0,
+                "total_not_null_rows": 149869
+            },
+            {
+                "field_combination": "S_GRP_ID , S_ID",
+                "total_null_rows": 0,
+                "total_not_null_rows": 149869
+            },
+            {
+                "field_combination": "S_GRP_ID , S_QTY",
+                "total_null_rows": 0,
+                "total_not_null_rows": 149869
+            },
+            {
+                "field_combination": "S_GRP_ID , S_TO_DATE",
+                "total_null_rows": 0,
+                "total_not_null_rows": 149869
+            },
+            {
+                "field_combination": "S_GRP_ID , TL_FR_DATE",
+                "total_null_rows": 0,
+                "total_not_null_rows": 149869
+            },
+            {
+                "field_combination": "S_GRP_ID , TL_TO_DATE",
+                "total_null_rows": 0,
+                "total_not_null_rows": 149869
+            },
+            {
+                "field_combination": "S_GRP_ID , T_GRP_ID",
+                "total_null_rows": 0,
+                "total_not_null_rows": 149869
+            },
+            {
+                "field_combination": "S_GRP_ID , T_ID",
+                "total_null_rows": 0,
+                "total_not_null_rows": 149869
+            },
+            {
+                "field_combination": "C_FR_DATE , TL_TO_DATE",
+                "total_null_rows": 0,
+                "total_not_null_rows": 149869
+            },
+            {
+                "field_combination": "S_ID , S_QTY",
+                "total_null_rows": 0,
+                "total_not_null_rows": 149869
+            },
+            {
+                "field_combination": "S_ID , S_TO_DATE",
+                "total_null_rows": 0,
+                "total_not_null_rows": 149869
+            },
+            {
+                "field_combination": "S_ID , TL_FR_DATE",
+                "total_null_rows": 0,
+                "total_not_null_rows": 149869
+            },
+            {
+                "field_combination": "S_ID , TL_TO_DATE",
+                "total_null_rows": 0,
+                "total_not_null_rows": 149869
+            },
+            {
+                "field_combination": "S_ID , T_GRP_ID",
+                "total_null_rows": 0,
+                "total_not_null_rows": 149869
+            },
+            {
+                "field_combination": "S_ID , T_ID",
+                "total_null_rows": 0,
+                "total_not_null_rows": 149869
+            },
+            {
+                "field_combination": "S_QTY , S_TO_DATE",
+                "total_null_rows": 0,
+                "total_not_null_rows": 149869
+            },
+            {
+                "field_combination": "S_QTY , TL_FR_DATE",
+                "total_null_rows": 0,
+                "total_not_null_rows": 149869
+            },
+            {
+                "field_combination": "S_QTY , TL_TO_DATE",
+                "total_null_rows": 0,
+                "total_not_null_rows": 149869
+            },
+            {
+                "field_combination": "S_QTY , T_GRP_ID",
+                "total_null_rows": 0,
+                "total_not_null_rows": 149869
+            },
+            {
+                "field_combination": "C_FR_DATE , T_GRP_ID",
+                "total_null_rows": 0,
+                "total_not_null_rows": 149869
+            },
+            {
+                "field_combination": "S_QTY , T_ID",
+                "total_null_rows": 0,
+                "total_not_null_rows": 149869
+            },
+            {
+                "field_combination": "S_TO_DATE , TL_FR_DATE",
+                "total_null_rows": 0,
+                "total_not_null_rows": 149869
+            },
+            {
+                "field_combination": "S_TO_DATE , TL_TO_DATE",
+                "total_null_rows": 0,
+                "total_not_null_rows": 149869
+            },
+            {
+                "field_combination": "S_TO_DATE , T_GRP_ID",
+                "total_null_rows": 0,
+                "total_not_null_rows": 149869
+            },
+            {
+                "field_combination": "S_TO_DATE , T_ID",
+                "total_null_rows": 0,
+                "total_not_null_rows": 149869
+            },
+            {
+                "field_combination": "TL_FR_DATE , TL_TO_DATE",
+                "total_null_rows": 0,
+                "total_not_null_rows": 149869
+            },
+            {
+                "field_combination": "TL_FR_DATE , T_GRP_ID",
+                "total_null_rows": 0,
+                "total_not_null_rows": 149869
+            },
+            {
+                "field_combination": "TL_FR_DATE , T_ID",
+                "total_null_rows": 0,
+                "total_not_null_rows": 149869
+            },
+            {
+                "field_combination": "TL_TO_DATE , T_GRP_ID",
+                "total_null_rows": 0,
+                "total_not_null_rows": 149869
+            },
+            {
+                "field_combination": "TL_TO_DATE , T_ID",
+                "total_null_rows": 0,
+                "total_not_null_rows": 149869
+            },
+            {
+                "field_combination": "C_FR_DATE , T_ID",
+                "total_null_rows": 0,
+                "total_not_null_rows": 149869
+            },
+            {
+                "field_combination": "T_GRP_ID , T_ID",
+                "total_null_rows": 0,
+                "total_not_null_rows": 149869
+            },
+            {
+                "field_combination": "C_FR_DATE , C_TO_DATE",
+                "total_null_rows": 0,
+                "total_not_null_rows": 149869
+            },
+            {
+                "field_combination": "C_ID , C_TO_DATE",
+                "total_null_rows": 0,
+                "total_not_null_rows": 149869
+            },
+            {
+                "field_combination": "C_ID , L_GRP_ID",
+                "total_null_rows": 0,
+                "total_not_null_rows": 149869
+            },
+            {
+                "field_combination": "C_ID , M_FR_DATE",
+                "total_null_rows": 0,
+                "total_not_null_rows": 149869
+            },
+            {
+                "field_combination": "C_ID , M_GRP_ID",
+                "total_null_rows": 0,
+                "total_not_null_rows": 149869
+            },
+            {
+                "field_combination": "C_ID , M_ID",
+                "total_null_rows": 0,
+                "total_not_null_rows": 149869
+            },
+            {
+                "field_combination": "C_ID , M_QTY",
+                "total_null_rows": 0,
+                "total_not_null_rows": 149869
+            },
+            {
+                "field_combination": "C_ID , M_TO_DATE",
+                "total_null_rows": 0,
+                "total_not_null_rows": 149869
+            },
+            {
+                "field_combination": "C_ID , RH_ID",
+                "total_null_rows": 0,
+                "total_not_null_rows": 149869
+            },
+            {
+                "field_combination": "C_ID , RIG_TIR_ID_SEQ",
+                "total_null_rows": 0,
+                "total_not_null_rows": 149869
+            },
+            {
+                "field_combination": "C_ID , S_FR_DATE",
+                "total_null_rows": 0,
+                "total_not_null_rows": 149869
+            },
+            {
+                "field_combination": "C_FR_DATE , L_GRP_ID",
+                "total_null_rows": 0,
+                "total_not_null_rows": 149869
+            },
+            {
+                "field_combination": "C_ID , S_GRP_ID",
+                "total_null_rows": 0,
+                "total_not_null_rows": 149869
+            },
+            {
+                "field_combination": "C_ID , S_ID",
+                "total_null_rows": 0,
+                "total_not_null_rows": 149869
+            },
+            {
+                "field_combination": "C_ID , S_QTY",
+                "total_null_rows": 0,
+                "total_not_null_rows": 149869
+            },
+            {
+                "field_combination": "C_ID , S_TO_DATE",
+                "total_null_rows": 0,
+                "total_not_null_rows": 149869
+            },
+            {
+                "field_combination": "C_ID , TL_FR_DATE",
+                "total_null_rows": 0,
+                "total_not_null_rows": 149869
+            },
+            {
+                "field_combination": "C_ID , TL_TO_DATE",
+                "total_null_rows": 0,
+                "total_not_null_rows": 149869
+            },
+            {
+                "field_combination": "C_ID , T_GRP_ID",
+                "total_null_rows": 0,
+                "total_not_null_rows": 149869
+            },
+            {
+                "field_combination": "C_ID , T_ID",
+                "total_null_rows": 0,
+                "total_not_null_rows": 149869
+            },
+            {
+                "field_combination": "C_TO_DATE , L_GRP_ID",
+                "total_null_rows": 0,
+                "total_not_null_rows": 149869
+            },
+            {
+                "field_combination": "C_TO_DATE , M_FR_DATE",
+                "total_null_rows": 0,
+                "total_not_null_rows": 149869
+            },
+            {
+                "field_combination": "C_FR_DATE , M_FR_DATE",
+                "total_null_rows": 0,
+                "total_not_null_rows": 149869
+            },
+            {
+                "field_combination": "C_TO_DATE , M_GRP_ID",
+                "total_null_rows": 0,
+                "total_not_null_rows": 149869
+            },
+            {
+                "field_combination": "C_TO_DATE , M_ID",
+                "total_null_rows": 0,
+                "total_not_null_rows": 149869
+            },
+            {
+                "field_combination": "C_TO_DATE , M_QTY",
+                "total_null_rows": 0,
+                "total_not_null_rows": 149869
+            },
+            {
+                "field_combination": "C_TO_DATE , M_TO_DATE",
+                "total_null_rows": 0,
+                "total_not_null_rows": 149869
+            },
+            {
+                "field_combination": "C_TO_DATE , RH_ID",
+                "total_null_rows": 0,
+                "total_not_null_rows": 149869
+            },
+            {
+                "field_combination": "C_TO_DATE , RIG_TIR_ID_SEQ",
+                "total_null_rows": 0,
+                "total_not_null_rows": 149869
+            },
+            {
+                "field_combination": "C_TO_DATE , S_FR_DATE",
+                "total_null_rows": 0,
+                "total_not_null_rows": 149869
+            },
+            {
+                "field_combination": "C_TO_DATE , S_GRP_ID",
+                "total_null_rows": 0,
+                "total_not_null_rows": 149869
+            },
+            {
+                "field_combination": "C_TO_DATE , S_ID",
+                "total_null_rows": 0,
+                "total_not_null_rows": 149869
+            },
+            {
+                "field_combination": "C_TO_DATE , S_QTY",
+                "total_null_rows": 0,
+                "total_not_null_rows": 149869
+            },
+            {
+                "field_combination": "C_FR_DATE , M_GRP_ID",
+                "total_null_rows": 0,
+                "total_not_null_rows": 149869
+            },
+            {
+                "field_combination": "C_TO_DATE , S_TO_DATE",
+                "total_null_rows": 0,
+                "total_not_null_rows": 149869
+            },
+            {
+                "field_combination": "C_TO_DATE , TL_FR_DATE",
+                "total_null_rows": 0,
+                "total_not_null_rows": 149869
+            },
+            {
+                "field_combination": "C_TO_DATE , TL_TO_DATE",
+                "total_null_rows": 0,
+                "total_not_null_rows": 149869
+            },
+            {
+                "field_combination": "C_TO_DATE , T_GRP_ID",
+                "total_null_rows": 0,
+                "total_not_null_rows": 149869
+            },
+            {
+                "field_combination": "C_TO_DATE , T_ID",
+                "total_null_rows": 0,
+                "total_not_null_rows": 149869
+            },
+            {
+                "field_combination": "L_GRP_ID , M_FR_DATE",
+                "total_null_rows": 0,
+                "total_not_null_rows": 149869
+            },
+            {
+                "field_combination": "L_GRP_ID , M_GRP_ID",
+                "total_null_rows": 0,
+                "total_not_null_rows": 149869
+            },
+            {
+                "field_combination": "L_GRP_ID , M_ID",
+                "total_null_rows": 0,
+                "total_not_null_rows": 149869
+            },
+            {
+                "field_combination": "L_GRP_ID , M_QTY",
+                "total_null_rows": 0,
+                "total_not_null_rows": 149869
+            },
+            {
+                "field_combination": "L_GRP_ID , M_TO_DATE",
+                "total_null_rows": 0,
+                "total_not_null_rows": 149869
+            },
+            {
+                "field_combination": "C_FR_DATE , M_ID",
+                "total_null_rows": 0,
+                "total_not_null_rows": 149869
+            },
+            {
+                "field_combination": "L_GRP_ID , RH_ID",
+                "total_null_rows": 0,
+                "total_not_null_rows": 149869
+            },
+            {
+                "field_combination": "L_GRP_ID , RIG_TIR_ID_SEQ",
+                "total_null_rows": 0,
+                "total_not_null_rows": 149869
+            },
+            {
+                "field_combination": "L_GRP_ID , S_FR_DATE",
+                "total_null_rows": 0,
+                "total_not_null_rows": 149869
+            },
+            {
+                "field_combination": "L_GRP_ID , S_GRP_ID",
+                "total_null_rows": 0,
+                "total_not_null_rows": 149869
+            },
+            {
+                "field_combination": "L_GRP_ID , S_ID",
+                "total_null_rows": 0,
+                "total_not_null_rows": 149869
+            },
+            {
+                "field_combination": "L_GRP_ID , S_QTY",
+                "total_null_rows": 0,
+                "total_not_null_rows": 149869
+            },
+            {
+                "field_combination": "L_GRP_ID , S_TO_DATE",
+                "total_null_rows": 0,
+                "total_not_null_rows": 149869
+            },
+            {
+                "field_combination": "L_GRP_ID , TL_FR_DATE",
+                "total_null_rows": 0,
+                "total_not_null_rows": 149869
+            },
+            {
+                "field_combination": "L_GRP_ID , TL_TO_DATE",
+                "total_null_rows": 0,
+                "total_not_null_rows": 149869
+            },
+            {
+                "field_combination": "L_GRP_ID , T_GRP_ID",
+                "total_null_rows": 0,
+                "total_not_null_rows": 149869
+            },
+            {
+                "field_combination": "C_FR_DATE , M_QTY",
+                "total_null_rows": 0,
+                "total_not_null_rows": 149869
+            },
+            {
+                "field_combination": "L_GRP_ID , T_ID",
+                "total_null_rows": 0,
+                "total_not_null_rows": 149869
+            },
+            {
+                "field_combination": "M_FR_DATE , M_GRP_ID",
+                "total_null_rows": 0,
+                "total_not_null_rows": 149869
+            },
+            {
+                "field_combination": "M_FR_DATE , M_ID",
+                "total_null_rows": 0,
+                "total_not_null_rows": 149869
+            },
+            {
+                "field_combination": "M_FR_DATE , M_QTY",
+                "total_null_rows": 0,
+                "total_not_null_rows": 149869
+            },
+            {
+                "field_combination": "M_FR_DATE , M_TO_DATE",
+                "total_null_rows": 0,
+                "total_not_null_rows": 149869
+            },
+            {
+                "field_combination": "M_FR_DATE , RH_ID",
+                "total_null_rows": 0,
+                "total_not_null_rows": 149869
+            },
+            {
+                "field_combination": "M_FR_DATE , RIG_TIR_ID_SEQ",
+                "total_null_rows": 0,
+                "total_not_null_rows": 149869
+            },
+            {
+                "field_combination": "M_FR_DATE , S_FR_DATE",
+                "total_null_rows": 0,
+                "total_not_null_rows": 149869
+            },
+            {
+                "field_combination": "M_FR_DATE , S_GRP_ID",
+                "total_null_rows": 0,
+                "total_not_null_rows": 149869
+            },
+            {
+                "field_combination": "M_FR_DATE , S_ID",
+                "total_null_rows": 0,
+                "total_not_null_rows": 149869
+            },
+            {
+                "field_combination": "C_FR_DATE , M_TO_DATE",
+                "total_null_rows": 0,
+                "total_not_null_rows": 149869
+            },
+            {
+                "field_combination": "M_FR_DATE , S_QTY",
+                "total_null_rows": 0,
+                "total_not_null_rows": 149869
+            },
+            {
+                "field_combination": "M_FR_DATE , S_TO_DATE",
+                "total_null_rows": 0,
+                "total_not_null_rows": 149869
+            },
+            {
+                "field_combination": "M_FR_DATE , TL_FR_DATE",
+                "total_null_rows": 0,
+                "total_not_null_rows": 149869
+            },
+            {
+                "field_combination": "M_FR_DATE , TL_TO_DATE",
+                "total_null_rows": 0,
+                "total_not_null_rows": 149869
+            },
+            {
+                "field_combination": "M_FR_DATE , T_GRP_ID",
+                "total_null_rows": 0,
+                "total_not_null_rows": 149869
+            },
+            {
+                "field_combination": "M_FR_DATE , T_ID",
+                "total_null_rows": 0,
+                "total_not_null_rows": 149869
+            },
+            {
+                "field_combination": "M_GRP_ID , M_ID",
+                "total_null_rows": 0,
+                "total_not_null_rows": 149869
+            },
+            {
+                "field_combination": "M_GRP_ID , M_QTY",
+                "total_null_rows": 0,
+                "total_not_null_rows": 149869
+            },
+            {
+                "field_combination": "M_GRP_ID , M_TO_DATE",
+                "total_null_rows": 0,
+                "total_not_null_rows": 149869
+            },
+            {
+                "field_combination": "M_GRP_ID , RH_ID",
+                "total_null_rows": 0,
+                "total_not_null_rows": 149869
+            },
+            {
+                "field_combination": "C_FR_DATE , RH_ID",
+                "total_null_rows": 0,
+                "total_not_null_rows": 149869
+            },
+            {
+                "field_combination": "M_GRP_ID , RIG_TIR_ID_SEQ",
+                "total_null_rows": 0,
+                "total_not_null_rows": 149869
+            },
+            {
+                "field_combination": "M_GRP_ID , S_FR_DATE",
+                "total_null_rows": 0,
+                "total_not_null_rows": 149869
+            },
+            {
+                "field_combination": "M_GRP_ID , S_GRP_ID",
+                "total_null_rows": 0,
+                "total_not_null_rows": 149869
+            },
+            {
+                "field_combination": "M_GRP_ID , S_ID",
+                "total_null_rows": 0,
+                "total_not_null_rows": 149869
+            },
+            {
+                "field_combination": "M_GRP_ID , S_QTY",
+                "total_null_rows": 0,
+                "total_not_null_rows": 149869
+            },
+            {
+                "field_combination": "M_GRP_ID , S_TO_DATE",
+                "total_null_rows": 0,
+                "total_not_null_rows": 149869
+            },
+            {
+                "field_combination": "M_GRP_ID , TL_FR_DATE",
+                "total_null_rows": 0,
+                "total_not_null_rows": 149869
+            },
+            {
+                "field_combination": "M_GRP_ID , TL_TO_DATE",
+                "total_null_rows": 0,
+                "total_not_null_rows": 149869
+            },
+            {
+                "field_combination": "M_GRP_ID , T_GRP_ID",
+                "total_null_rows": 0,
+                "total_not_null_rows": 149869
+            },
+            {
+                "field_combination": "M_GRP_ID , T_ID",
+                "total_null_rows": 0,
+                "total_not_null_rows": 149869
+            }
+        ]
+    }
+]

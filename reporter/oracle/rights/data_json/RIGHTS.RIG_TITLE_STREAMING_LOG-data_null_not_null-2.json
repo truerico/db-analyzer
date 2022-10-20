@@ -1,0 +1,463 @@
+[
+    {
+        "table": "RIGHTS.RIG_TITLE_STREAMING_LOG",
+        "total_records": 31498810,
+        "dataset": [
+            {
+                "field_combination": "CACHE_USED , END_DATE",
+                "total_null_rows": 0,
+                "total_not_null_rows": 31499298
+            },
+            {
+                "field_combination": "CACHE_USED , SYN_REG_ID_SEQ_OR",
+                "total_null_rows": 0,
+                "total_not_null_rows": 26629372
+            },
+            {
+                "field_combination": "CACHE_USED , TERRITORY_CODE",
+                "total_null_rows": 0,
+                "total_not_null_rows": 31499215
+            },
+            {
+                "field_combination": "CACHE_USED , VALID_IND",
+                "total_null_rows": 0,
+                "total_not_null_rows": 31499300
+            },
+            {
+                "field_combination": "CACHE_USED , VALID_MSG",
+                "total_null_rows": 0,
+                "total_not_null_rows": 31499302
+            },
+            {
+                "field_combination": "END_DATE , ID_SEQ",
+                "total_null_rows": 0,
+                "total_not_null_rows": 31499302
+            },
+            {
+                "field_combination": "END_DATE , LANGUAGE_CODE",
+                "total_null_rows": 0,
+                "total_not_null_rows": 31499215
+            },
+            {
+                "field_combination": "END_DATE , MARKET_CODE",
+                "total_null_rows": 0,
+                "total_not_null_rows": 31499215
+            },
+            {
+                "field_combination": "END_DATE , SALE_QUALIFIER",
+                "total_null_rows": 0,
+                "total_not_null_rows": 31499215
+            },
+            {
+                "field_combination": "END_DATE , START_DATE",
+                "total_null_rows": 0,
+                "total_not_null_rows": 31499302
+            },
+            {
+                "field_combination": "END_DATE , SUPPORT_CODE",
+                "total_null_rows": 0,
+                "total_not_null_rows": 31499214
+            },
+            {
+                "field_combination": "CACHE_USED , ID_SEQ",
+                "total_null_rows": 0,
+                "total_not_null_rows": 31499298
+            },
+            {
+                "field_combination": "END_DATE , SYN_REG_ID_SEQ",
+                "total_null_rows": 0,
+                "total_not_null_rows": 31499302
+            },
+            {
+                "field_combination": "END_DATE , SYN_REG_ID_SEQ_IR",
+                "total_null_rows": 0,
+                "total_not_null_rows": 26635417
+            },
+            {
+                "field_combination": "END_DATE , SYN_REG_ID_SEQ_OR",
+                "total_null_rows": 0,
+                "total_not_null_rows": 26629376
+            },
+            {
+                "field_combination": "END_DATE , TERRITORY_CODE",
+                "total_null_rows": 0,
+                "total_not_null_rows": 31499219
+            },
+            {
+                "field_combination": "END_DATE , VALID_IND",
+                "total_null_rows": 0,
+                "total_not_null_rows": 31499306
+            },
+            {
+                "field_combination": "END_DATE , VALID_MSG",
+                "total_null_rows": 0,
+                "total_not_null_rows": 31499306
+            },
+            {
+                "field_combination": "ID_SEQ , LANGUAGE_CODE",
+                "total_null_rows": 0,
+                "total_not_null_rows": 31499219
+            },
+            {
+                "field_combination": "ID_SEQ , MARKET_CODE",
+                "total_null_rows": 0,
+                "total_not_null_rows": 31499219
+            },
+            {
+                "field_combination": "ID_SEQ , SALE_QUALIFIER",
+                "total_null_rows": 0,
+                "total_not_null_rows": 31499224
+            },
+            {
+                "field_combination": "ID_SEQ , START_DATE",
+                "total_null_rows": 0,
+                "total_not_null_rows": 31499315
+            },
+            {
+                "field_combination": "CACHE_USED , LANGUAGE_CODE",
+                "total_null_rows": 0,
+                "total_not_null_rows": 31499213
+            },
+            {
+                "field_combination": "ID_SEQ , SUPPORT_CODE",
+                "total_null_rows": 0,
+                "total_not_null_rows": 31499227
+            },
+            {
+                "field_combination": "ID_SEQ , SYN_REG_ID_SEQ",
+                "total_null_rows": 0,
+                "total_not_null_rows": 31499317
+            },
+            {
+                "field_combination": "ID_SEQ , SYN_REG_ID_SEQ_IR",
+                "total_null_rows": 0,
+                "total_not_null_rows": 26635432
+            },
+            {
+                "field_combination": "ID_SEQ , SYN_REG_ID_SEQ_OR",
+                "total_null_rows": 0,
+                "total_not_null_rows": 26629399
+            },
+            {
+                "field_combination": "ID_SEQ , TERRITORY_CODE",
+                "total_null_rows": 0,
+                "total_not_null_rows": 31499244
+            },
+            {
+                "field_combination": "ID_SEQ , VALID_IND",
+                "total_null_rows": 0,
+                "total_not_null_rows": 31499335
+            },
+            {
+                "field_combination": "ID_SEQ , VALID_MSG",
+                "total_null_rows": 0,
+                "total_not_null_rows": 31499335
+            },
+            {
+                "field_combination": "LANGUAGE_CODE , MARKET_CODE",
+                "total_null_rows": 87,
+                "total_not_null_rows": 31499252
+            },
+            {
+                "field_combination": "LANGUAGE_CODE , SALE_QUALIFIER",
+                "total_null_rows": 87,
+                "total_not_null_rows": 31499254
+            },
+            {
+                "field_combination": "LANGUAGE_CODE , START_DATE",
+                "total_null_rows": 0,
+                "total_not_null_rows": 31499256
+            },
+            {
+                "field_combination": "CACHE_USED , MARKET_CODE",
+                "total_null_rows": 0,
+                "total_not_null_rows": 31499213
+            },
+            {
+                "field_combination": "LANGUAGE_CODE , SUPPORT_CODE",
+                "total_null_rows": 87,
+                "total_not_null_rows": 31499255
+            },
+            {
+                "field_combination": "LANGUAGE_CODE , SYN_REG_ID_SEQ",
+                "total_null_rows": 0,
+                "total_not_null_rows": 31499256
+            },
+            {
+                "field_combination": "LANGUAGE_CODE , SYN_REG_ID_SEQ_IR",
+                "total_null_rows": 0,
+                "total_not_null_rows": 26635369
+            },
+            {
+                "field_combination": "LANGUAGE_CODE , SYN_REG_ID_SEQ_OR",
+                "total_null_rows": 0,
+                "total_not_null_rows": 26629330
+            },
+            {
+                "field_combination": "LANGUAGE_CODE , TERRITORY_CODE",
+                "total_null_rows": 85,
+                "total_not_null_rows": 31499258
+            },
+            {
+                "field_combination": "LANGUAGE_CODE , VALID_IND",
+                "total_null_rows": 0,
+                "total_not_null_rows": 31499258
+            },
+            {
+                "field_combination": "LANGUAGE_CODE , VALID_MSG",
+                "total_null_rows": 0,
+                "total_not_null_rows": 31499258
+            },
+            {
+                "field_combination": "MARKET_CODE , SALE_QUALIFIER",
+                "total_null_rows": 87,
+                "total_not_null_rows": 31499258
+            },
+            {
+                "field_combination": "MARKET_CODE , START_DATE",
+                "total_null_rows": 0,
+                "total_not_null_rows": 31499258
+            },
+            {
+                "field_combination": "MARKET_CODE , SUPPORT_CODE",
+                "total_null_rows": 87,
+                "total_not_null_rows": 31499257
+            },
+            {
+                "field_combination": "CACHE_USED , SALE_QUALIFIER",
+                "total_null_rows": 0,
+                "total_not_null_rows": 31499213
+            },
+            {
+                "field_combination": "MARKET_CODE , SYN_REG_ID_SEQ",
+                "total_null_rows": 0,
+                "total_not_null_rows": 31499258
+            },
+            {
+                "field_combination": "MARKET_CODE , SYN_REG_ID_SEQ_IR",
+                "total_null_rows": 0,
+                "total_not_null_rows": 26635410
+            },
+            {
+                "field_combination": "MARKET_CODE , SYN_REG_ID_SEQ_OR",
+                "total_null_rows": 0,
+                "total_not_null_rows": 26629369
+            },
+            {
+                "field_combination": "MARKET_CODE , TERRITORY_CODE",
+                "total_null_rows": 85,
+                "total_not_null_rows": 31499297
+            },
+            {
+                "field_combination": "MARKET_CODE , VALID_IND",
+                "total_null_rows": 0,
+                "total_not_null_rows": 31499297
+            },
+            {
+                "field_combination": "MARKET_CODE , VALID_MSG",
+                "total_null_rows": 0,
+                "total_not_null_rows": 31499297
+            },
+            {
+                "field_combination": "SALE_QUALIFIER , START_DATE",
+                "total_null_rows": 0,
+                "total_not_null_rows": 31499297
+            },
+            {
+                "field_combination": "SALE_QUALIFIER , SUPPORT_CODE",
+                "total_null_rows": 87,
+                "total_not_null_rows": 31499296
+            },
+            {
+                "field_combination": "SALE_QUALIFIER , SYN_REG_ID_SEQ",
+                "total_null_rows": 0,
+                "total_not_null_rows": 31499297
+            },
+            {
+                "field_combination": "SALE_QUALIFIER , SYN_REG_ID_SEQ_IR",
+                "total_null_rows": 0,
+                "total_not_null_rows": 26635412
+            },
+            {
+                "field_combination": "CACHE_USED , START_DATE",
+                "total_null_rows": 0,
+                "total_not_null_rows": 31499300
+            },
+            {
+                "field_combination": "SALE_QUALIFIER , SYN_REG_ID_SEQ_OR",
+                "total_null_rows": 0,
+                "total_not_null_rows": 26629371
+            },
+            {
+                "field_combination": "SALE_QUALIFIER , TERRITORY_CODE",
+                "total_null_rows": 85,
+                "total_not_null_rows": 31499299
+            },
+            {
+                "field_combination": "SALE_QUALIFIER , VALID_IND",
+                "total_null_rows": 0,
+                "total_not_null_rows": 31499299
+            },
+            {
+                "field_combination": "SALE_QUALIFIER , VALID_MSG",
+                "total_null_rows": 0,
+                "total_not_null_rows": 31499300
+            },
+            {
+                "field_combination": "START_DATE , SUPPORT_CODE",
+                "total_null_rows": 0,
+                "total_not_null_rows": 31499300
+            },
+            {
+                "field_combination": "START_DATE , SYN_REG_ID_SEQ",
+                "total_null_rows": 0,
+                "total_not_null_rows": 31499391
+            },
+            {
+                "field_combination": "START_DATE , SYN_REG_ID_SEQ_IR",
+                "total_null_rows": 0,
+                "total_not_null_rows": 26635508
+            },
+            {
+                "field_combination": "START_DATE , SYN_REG_ID_SEQ_OR",
+                "total_null_rows": 0,
+                "total_not_null_rows": 26629467
+            },
+            {
+                "field_combination": "START_DATE , TERRITORY_CODE",
+                "total_null_rows": 0,
+                "total_not_null_rows": 31499312
+            },
+            {
+                "field_combination": "START_DATE , VALID_IND",
+                "total_null_rows": 0,
+                "total_not_null_rows": 31499397
+            },
+            {
+                "field_combination": "CACHE_USED , SUPPORT_CODE",
+                "total_null_rows": 0,
+                "total_not_null_rows": 31499212
+            },
+            {
+                "field_combination": "START_DATE , VALID_MSG",
+                "total_null_rows": 0,
+                "total_not_null_rows": 31499399
+            },
+            {
+                "field_combination": "SUPPORT_CODE , SYN_REG_ID_SEQ",
+                "total_null_rows": 0,
+                "total_not_null_rows": 31499311
+            },
+            {
+                "field_combination": "SUPPORT_CODE , SYN_REG_ID_SEQ_IR",
+                "total_null_rows": 0,
+                "total_not_null_rows": 26635424
+            },
+            {
+                "field_combination": "SUPPORT_CODE , SYN_REG_ID_SEQ_OR",
+                "total_null_rows": 0,
+                "total_not_null_rows": 26629383
+            },
+            {
+                "field_combination": "SUPPORT_CODE , TERRITORY_CODE",
+                "total_null_rows": 85,
+                "total_not_null_rows": 31499315
+            },
+            {
+                "field_combination": "SUPPORT_CODE , VALID_IND",
+                "total_null_rows": 0,
+                "total_not_null_rows": 31499315
+            },
+            {
+                "field_combination": "SUPPORT_CODE , VALID_MSG",
+                "total_null_rows": 0,
+                "total_not_null_rows": 31499317
+            },
+            {
+                "field_combination": "SYN_REG_ID_SEQ , SYN_REG_ID_SEQ_IR",
+                "total_null_rows": 0,
+                "total_not_null_rows": 26635520
+            },
+            {
+                "field_combination": "SYN_REG_ID_SEQ , SYN_REG_ID_SEQ_OR",
+                "total_null_rows": 0,
+                "total_not_null_rows": 26629479
+            },
+            {
+                "field_combination": "SYN_REG_ID_SEQ , TERRITORY_CODE",
+                "total_null_rows": 0,
+                "total_not_null_rows": 31499322
+            },
+            {
+                "field_combination": "CACHE_USED , SYN_REG_ID_SEQ",
+                "total_null_rows": 0,
+                "total_not_null_rows": 31499300
+            },
+            {
+                "field_combination": "SYN_REG_ID_SEQ , VALID_IND",
+                "total_null_rows": 0,
+                "total_not_null_rows": 31499409
+            },
+            {
+                "field_combination": "SYN_REG_ID_SEQ , VALID_MSG",
+                "total_null_rows": 0,
+                "total_not_null_rows": 31499411
+            },
+            {
+                "field_combination": "SYN_REG_ID_SEQ_IR , SYN_REG_ID_SEQ_OR",
+                "total_null_rows": 4863887,
+                "total_not_null_rows": 26629483
+            },
+            {
+                "field_combination": "SYN_REG_ID_SEQ_IR , TERRITORY_CODE",
+                "total_null_rows": 0,
+                "total_not_null_rows": 26635439
+            },
+            {
+                "field_combination": "SYN_REG_ID_SEQ_IR , VALID_IND",
+                "total_null_rows": 0,
+                "total_not_null_rows": 26635524
+            },
+            {
+                "field_combination": "SYN_REG_ID_SEQ_IR , VALID_MSG",
+                "total_null_rows": 0,
+                "total_not_null_rows": 26635524
+            },
+            {
+                "field_combination": "SYN_REG_ID_SEQ_OR , TERRITORY_CODE",
+                "total_null_rows": 0,
+                "total_not_null_rows": 26629398
+            },
+            {
+                "field_combination": "SYN_REG_ID_SEQ_OR , VALID_IND",
+                "total_null_rows": 0,
+                "total_not_null_rows": 26629483
+            },
+            {
+                "field_combination": "SYN_REG_ID_SEQ_OR , VALID_MSG",
+                "total_null_rows": 0,
+                "total_not_null_rows": 26629484
+            },
+            {
+                "field_combination": "TERRITORY_CODE , VALID_IND",
+                "total_null_rows": 0,
+                "total_not_null_rows": 31499327
+            },
+            {
+                "field_combination": "CACHE_USED , SYN_REG_ID_SEQ_IR",
+                "total_null_rows": 0,
+                "total_not_null_rows": 26635413
+            },
+            {
+                "field_combination": "TERRITORY_CODE , VALID_MSG",
+                "total_null_rows": 0,
+                "total_not_null_rows": 31499327
+            },
+            {
+                "field_combination": "VALID_IND , VALID_MSG",
+                "total_null_rows": 0,
+                "total_not_null_rows": 31499412
+            }
+        ]
+    }
+]

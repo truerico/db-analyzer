@@ -1,0 +1,542 @@
+[
+    {
+        "DB_USERNAME": "ACCSIFO",
+        "USER_ID": 81,
+        "ACCOUNT_STATUS": "OPEN",
+        "DEFAULT_TABLESPACE": "COLL_LC",
+        "TEMPORARY_TABLESPACE": "TEMP",
+        "ORACLE_MAINTAINED": "N",
+        "CREATED": "2022-05-05 16:57:56",
+        "LAST_LOGIN": null
+    },
+    {
+        "DB_USERNAME": "AUDIT_NFB",
+        "USER_ID": 82,
+        "ACCOUNT_STATUS": "OPEN",
+        "DEFAULT_TABLESPACE": "COLL_DAT",
+        "TEMPORARY_TABLESPACE": "TEMP",
+        "ORACLE_MAINTAINED": "N",
+        "CREATED": "2022-05-05 16:57:56",
+        "LAST_LOGIN": null
+    },
+    {
+        "DB_USERNAME": "BIBLIO",
+        "USER_ID": 83,
+        "ACCOUNT_STATUS": "OPEN",
+        "DEFAULT_TABLESPACE": "COLL_LC",
+        "TEMPORARY_TABLESPACE": "TEMP",
+        "ORACLE_MAINTAINED": "N",
+        "CREATED": "2022-05-05 16:57:56",
+        "LAST_LOGIN": null
+    },
+    {
+        "DB_USERNAME": "CATMUL",
+        "USER_ID": 84,
+        "ACCOUNT_STATUS": "OPEN",
+        "DEFAULT_TABLESPACE": "COLL_DAT",
+        "TEMPORARY_TABLESPACE": "TEMP",
+        "ORACLE_MAINTAINED": "N",
+        "CREATED": "2022-05-05 16:57:56",
+        "LAST_LOGIN": null
+    },
+    {
+        "DB_USERNAME": "CEFHISTOIRE",
+        "USER_ID": 85,
+        "ACCOUNT_STATUS": "OPEN",
+        "DEFAULT_TABLESPACE": "COLL_LC",
+        "TEMPORARY_TABLESPACE": "TEMP",
+        "ORACLE_MAINTAINED": "N",
+        "CREATED": "2022-05-05 16:57:56",
+        "LAST_LOGIN": null
+    },
+    {
+        "DB_USERNAME": "CMM",
+        "USER_ID": 87,
+        "ACCOUNT_STATUS": "OPEN",
+        "DEFAULT_TABLESPACE": "COLL_DAT",
+        "TEMPORARY_TABLESPACE": "TEMP",
+        "ORACLE_MAINTAINED": "N",
+        "CREATED": "2022-05-05 16:57:56",
+        "LAST_LOGIN": "2022-10-07 01:00:36"
+    },
+    {
+        "DB_USERNAME": "CONTRACT",
+        "USER_ID": 88,
+        "ACCOUNT_STATUS": "OPEN",
+        "DEFAULT_TABLESPACE": "COLL_LC",
+        "TEMPORARY_TABLESPACE": "TEMP",
+        "ORACLE_MAINTAINED": "N",
+        "CREATED": "2022-05-05 16:57:56",
+        "LAST_LOGIN": "2022-09-15 14:55:24"
+    },
+    {
+        "DB_USERNAME": "DIVCUL",
+        "USER_ID": 89,
+        "ACCOUNT_STATUS": "OPEN",
+        "DEFAULT_TABLESPACE": "COLL_LC",
+        "TEMPORARY_TABLESPACE": "TEMP",
+        "ORACLE_MAINTAINED": "N",
+        "CREATED": "2022-05-05 16:57:56",
+        "LAST_LOGIN": null
+    },
+    {
+        "DB_USERNAME": "DJANGO",
+        "USER_ID": 137,
+        "ACCOUNT_STATUS": "OPEN",
+        "DEFAULT_TABLESPACE": "SYSTEM",
+        "TEMPORARY_TABLESPACE": "TEMP",
+        "ORACLE_MAINTAINED": "N",
+        "CREATED": "2022-05-06 15:40:34",
+        "LAST_LOGIN": null
+    },
+    {
+        "DB_USERNAME": "ECINEMA",
+        "USER_ID": 91,
+        "ACCOUNT_STATUS": "OPEN",
+        "DEFAULT_TABLESPACE": "COLL_LC",
+        "TEMPORARY_TABLESPACE": "TEMP",
+        "ORACLE_MAINTAINED": "N",
+        "CREATED": "2022-05-05 16:57:56",
+        "LAST_LOGIN": null
+    },
+    {
+        "DB_USERNAME": "EJULIETTE",
+        "USER_ID": 92,
+        "ACCOUNT_STATUS": "OPEN",
+        "DEFAULT_TABLESPACE": "COLL_LC",
+        "TEMPORARY_TABLESPACE": "TEMP",
+        "ORACLE_MAINTAINED": "N",
+        "CREATED": "2022-05-05 16:57:56",
+        "LAST_LOGIN": "2022-09-15 14:55:23"
+    },
+    {
+        "DB_USERNAME": "ENVIRO",
+        "USER_ID": 93,
+        "ACCOUNT_STATUS": "OPEN",
+        "DEFAULT_TABLESPACE": "COLL_LC",
+        "TEMPORARY_TABLESPACE": "TEMP",
+        "ORACLE_MAINTAINED": "N",
+        "CREATED": "2022-05-05 16:57:56",
+        "LAST_LOGIN": null
+    },
+    {
+        "DB_USERNAME": "FESTIVALS",
+        "USER_ID": 94,
+        "ACCOUNT_STATUS": "OPEN",
+        "DEFAULT_TABLESPACE": "COLL_DAT",
+        "TEMPORARY_TABLESPACE": "TEMP",
+        "ORACLE_MAINTAINED": "N",
+        "CREATED": "2022-05-05 16:57:56",
+        "LAST_LOGIN": null
+    },
+    {
+        "DB_USERNAME": "FORMAT",
+        "USER_ID": 95,
+        "ACCOUNT_STATUS": "OPEN",
+        "DEFAULT_TABLESPACE": "COLL_DAT",
+        "TEMPORARY_TABLESPACE": "TEMP",
+        "ORACLE_MAINTAINED": "N",
+        "CREATED": "2022-05-05 16:57:56",
+        "LAST_LOGIN": "2022-10-07 01:00:36"
+    },
+    {
+        "DB_USERNAME": "FORUM",
+        "USER_ID": 96,
+        "ACCOUNT_STATUS": "OPEN",
+        "DEFAULT_TABLESPACE": "COLL_DAT",
+        "TEMPORARY_TABLESPACE": "TEMP",
+        "ORACLE_MAINTAINED": "N",
+        "CREATED": "2022-05-05 16:57:56",
+        "LAST_LOGIN": null
+    },
+    {
+        "DB_USERNAME": "GPCITOYEN",
+        "USER_ID": 97,
+        "ACCOUNT_STATUS": "OPEN",
+        "DEFAULT_TABLESPACE": "COLL_DAT",
+        "TEMPORARY_TABLESPACE": "TEMP",
+        "ORACLE_MAINTAINED": "N",
+        "CREATED": "2022-05-05 16:57:56",
+        "LAST_LOGIN": null
+    },
+    {
+        "DB_USERNAME": "GPS",
+        "USER_ID": 98,
+        "ACCOUNT_STATUS": "OPEN",
+        "DEFAULT_TABLESPACE": "COLL_LC",
+        "TEMPORARY_TABLESPACE": "TEMP",
+        "ORACLE_MAINTAINED": "N",
+        "CREATED": "2022-05-05 16:57:56",
+        "LAST_LOGIN": null
+    },
+    {
+        "DB_USERNAME": "IMAGES",
+        "USER_ID": 99,
+        "ACCOUNT_STATUS": "OPEN",
+        "DEFAULT_TABLESPACE": "STOCKSHOT",
+        "TEMPORARY_TABLESPACE": "TEMP",
+        "ORACLE_MAINTAINED": "N",
+        "CREATED": "2022-05-05 16:57:56",
+        "LAST_LOGIN": "2022-09-15 14:55:23"
+    },
+    {
+        "DB_USERNAME": "MBNL_ENGLISH",
+        "USER_ID": 101,
+        "ACCOUNT_STATUS": "OPEN",
+        "DEFAULT_TABLESPACE": "COLL_DAT",
+        "TEMPORARY_TABLESPACE": "TEMP",
+        "ORACLE_MAINTAINED": "N",
+        "CREATED": "2022-05-05 16:57:56",
+        "LAST_LOGIN": null
+    },
+    {
+        "DB_USERNAME": "MBNL_FRENCH",
+        "USER_ID": 102,
+        "ACCOUNT_STATUS": "OPEN",
+        "DEFAULT_TABLESPACE": "COLL_DAT",
+        "TEMPORARY_TABLESPACE": "TEMP",
+        "ORACLE_MAINTAINED": "N",
+        "CREATED": "2022-05-05 16:57:56",
+        "LAST_LOGIN": null
+    },
+    {
+        "DB_USERNAME": "MEMBERSHIP",
+        "USER_ID": 103,
+        "ACCOUNT_STATUS": "OPEN",
+        "DEFAULT_TABLESPACE": "COLL_DAT",
+        "TEMPORARY_TABLESPACE": "TEMP",
+        "ORACLE_MAINTAINED": "N",
+        "CREATED": "2022-05-05 16:57:56",
+        "LAST_LOGIN": null
+    },
+    {
+        "DB_USERNAME": "NFB_METRIC",
+        "USER_ID": 104,
+        "ACCOUNT_STATUS": "OPEN",
+        "DEFAULT_TABLESPACE": "TOOLS",
+        "TEMPORARY_TABLESPACE": "TEMP",
+        "ORACLE_MAINTAINED": "N",
+        "CREATED": "2022-05-05 16:57:56",
+        "LAST_LOGIN": null
+    },
+    {
+        "DB_USERNAME": "OAS_PUBLIC",
+        "USER_ID": 105,
+        "ACCOUNT_STATUS": "OPEN",
+        "DEFAULT_TABLESPACE": "TOOLS",
+        "TEMPORARY_TABLESPACE": "TEMP",
+        "ORACLE_MAINTAINED": "N",
+        "CREATED": "2022-05-05 16:57:56",
+        "LAST_LOGIN": null
+    },
+    {
+        "DB_USERNAME": "OBJAN",
+        "USER_ID": 106,
+        "ACCOUNT_STATUS": "OPEN",
+        "DEFAULT_TABLESPACE": "COLL_LC",
+        "TEMPORARY_TABLESPACE": "TEMP",
+        "ORACLE_MAINTAINED": "N",
+        "CREATED": "2022-05-05 16:57:56",
+        "LAST_LOGIN": null
+    },
+    {
+        "DB_USERNAME": "ORACLE",
+        "USER_ID": 123,
+        "ACCOUNT_STATUS": "OPEN",
+        "DEFAULT_TABLESPACE": "SYSTEM",
+        "TEMPORARY_TABLESPACE": "TEMP",
+        "ORACLE_MAINTAINED": "N",
+        "CREATED": "2022-05-06 15:40:34",
+        "LAST_LOGIN": null
+    },
+    {
+        "DB_USERNAME": "ORDS_METADATA",
+        "USER_ID": 218,
+        "ACCOUNT_STATUS": "EXPIRED & LOCKED",
+        "DEFAULT_TABLESPACE": "USERS",
+        "TEMPORARY_TABLESPACE": "TEMP",
+        "ORACLE_MAINTAINED": "N",
+        "CREATED": "2022-06-01 23:11:26",
+        "LAST_LOGIN": null
+    },
+    {
+        "DB_USERNAME": "PERFSTAT",
+        "USER_ID": 135,
+        "ACCOUNT_STATUS": "OPEN",
+        "DEFAULT_TABLESPACE": "SYSAUX",
+        "TEMPORARY_TABLESPACE": "TEMP",
+        "ORACLE_MAINTAINED": "N",
+        "CREATED": "2022-05-06 15:40:34",
+        "LAST_LOGIN": null
+    },
+    {
+        "DB_USERNAME": "PHOTOS",
+        "USER_ID": 107,
+        "ACCOUNT_STATUS": "OPEN",
+        "DEFAULT_TABLESPACE": "COLL_LC",
+        "TEMPORARY_TABLESPACE": "TEMP",
+        "ORACLE_MAINTAINED": "N",
+        "CREATED": "2022-05-05 16:57:56",
+        "LAST_LOGIN": "2022-09-15 14:55:24"
+    },
+    {
+        "DB_USERNAME": "PLAYER",
+        "USER_ID": 108,
+        "ACCOUNT_STATUS": "OPEN",
+        "DEFAULT_TABLESPACE": "COLL_DAT",
+        "TEMPORARY_TABLESPACE": "TEMP",
+        "ORACLE_MAINTAINED": "N",
+        "CREATED": "2022-05-05 16:57:56",
+        "LAST_LOGIN": null
+    },
+    {
+        "DB_USERNAME": "RIGHTS",
+        "USER_ID": 109,
+        "ACCOUNT_STATUS": "OPEN",
+        "DEFAULT_TABLESPACE": "COLL_DAT",
+        "TEMPORARY_TABLESPACE": "TEMP",
+        "ORACLE_MAINTAINED": "N",
+        "CREATED": "2022-05-05 16:57:56",
+        "LAST_LOGIN": "2022-10-07 05:19:09"
+    },
+    {
+        "DB_USERNAME": "SEVENTHFLOOR",
+        "USER_ID": 110,
+        "ACCOUNT_STATUS": "OPEN",
+        "DEFAULT_TABLESPACE": "COLL_LC",
+        "TEMPORARY_TABLESPACE": "TEMP",
+        "ORACLE_MAINTAINED": "N",
+        "CREATED": "2022-05-05 16:57:56",
+        "LAST_LOGIN": null
+    },
+    {
+        "DB_USERNAME": "SGV",
+        "USER_ID": 111,
+        "ACCOUNT_STATUS": "OPEN",
+        "DEFAULT_TABLESPACE": "COLL_LC",
+        "TEMPORARY_TABLESPACE": "TEMP",
+        "ORACLE_MAINTAINED": "N",
+        "CREATED": "2022-05-05 16:57:56",
+        "LAST_LOGIN": null
+    },
+    {
+        "DB_USERNAME": "SNAPADMIN",
+        "USER_ID": 126,
+        "ACCOUNT_STATUS": "OPEN",
+        "DEFAULT_TABLESPACE": "SYSTEM",
+        "TEMPORARY_TABLESPACE": "TEMP",
+        "ORACLE_MAINTAINED": "N",
+        "CREATED": "2022-05-06 15:40:34",
+        "LAST_LOGIN": "2022-10-07 05:00:01"
+    },
+    {
+        "DB_USERNAME": "SPR",
+        "USER_ID": 112,
+        "ACCOUNT_STATUS": "OPEN",
+        "DEFAULT_TABLESPACE": "COLL_LC",
+        "TEMPORARY_TABLESPACE": "TEMP",
+        "ORACLE_MAINTAINED": "N",
+        "CREATED": "2022-05-05 16:57:56",
+        "LAST_LOGIN": "2022-10-07 00:00:12"
+    },
+    {
+        "DB_USERNAME": "SPR_CMS",
+        "USER_ID": 113,
+        "ACCOUNT_STATUS": "OPEN",
+        "DEFAULT_TABLESPACE": "COLL_LC",
+        "TEMPORARY_TABLESPACE": "TEMP",
+        "ORACLE_MAINTAINED": "N",
+        "CREATED": "2022-05-05 16:57:56",
+        "LAST_LOGIN": null
+    },
+    {
+        "DB_USERNAME": "SPR_CMS_PROD",
+        "USER_ID": 114,
+        "ACCOUNT_STATUS": "OPEN",
+        "DEFAULT_TABLESPACE": "COLL_LC",
+        "TEMPORARY_TABLESPACE": "TEMP",
+        "ORACLE_MAINTAINED": "N",
+        "CREATED": "2022-05-05 16:57:56",
+        "LAST_LOGIN": null
+    },
+    {
+        "DB_USERNAME": "STK_SHOT",
+        "USER_ID": 115,
+        "ACCOUNT_STATUS": "OPEN",
+        "DEFAULT_TABLESPACE": "COLL_LC",
+        "TEMPORARY_TABLESPACE": "TEMP",
+        "ORACLE_MAINTAINED": "N",
+        "CREATED": "2022-05-05 16:57:56",
+        "LAST_LOGIN": "2022-10-07 00:00:07"
+    },
+    {
+        "DB_USERNAME": "STOCKSHOT",
+        "USER_ID": 116,
+        "ACCOUNT_STATUS": "OPEN",
+        "DEFAULT_TABLESPACE": "STOCKSHOT",
+        "TEMPORARY_TABLESPACE": "TEMP",
+        "ORACLE_MAINTAINED": "N",
+        "CREATED": "2022-05-05 16:57:56",
+        "LAST_LOGIN": "2022-10-06 00:02:18"
+    },
+    {
+        "DB_USERNAME": "SYNCHRON",
+        "USER_ID": 117,
+        "ACCOUNT_STATUS": "OPEN",
+        "DEFAULT_TABLESPACE": "COLL_DAT",
+        "TEMPORARY_TABLESPACE": "TEMP",
+        "ORACLE_MAINTAINED": "N",
+        "CREATED": "2022-05-05 16:57:56",
+        "LAST_LOGIN": "2022-09-15 14:55:24"
+    },
+    {
+        "DB_USERNAME": "THESAURUS",
+        "USER_ID": 118,
+        "ACCOUNT_STATUS": "OPEN",
+        "DEFAULT_TABLESPACE": "COLL_LC",
+        "TEMPORARY_TABLESPACE": "TEMP",
+        "ORACLE_MAINTAINED": "N",
+        "CREATED": "2022-05-05 16:57:56",
+        "LAST_LOGIN": null
+    },
+    {
+        "DB_USERNAME": "TOAD",
+        "USER_ID": 119,
+        "ACCOUNT_STATUS": "OPEN",
+        "DEFAULT_TABLESPACE": "TOOLS",
+        "TEMPORARY_TABLESPACE": "TEMP",
+        "ORACLE_MAINTAINED": "N",
+        "CREATED": "2022-05-05 16:57:56",
+        "LAST_LOGIN": null
+    },
+    {
+        "DB_USERNAME": "TSMSYS",
+        "USER_ID": 134,
+        "ACCOUNT_STATUS": "EXPIRED & LOCKED",
+        "DEFAULT_TABLESPACE": "SYSTEM",
+        "TEMPORARY_TABLESPACE": "TEMP",
+        "ORACLE_MAINTAINED": "N",
+        "CREATED": "2022-05-06 15:40:34",
+        "LAST_LOGIN": null
+    },
+    {
+        "DB_USERNAME": "VISAU",
+        "USER_ID": 120,
+        "ACCOUNT_STATUS": "OPEN",
+        "DEFAULT_TABLESPACE": "COLL_DAT",
+        "TEMPORARY_TABLESPACE": "TEMP",
+        "ORACLE_MAINTAINED": "N",
+        "CREATED": "2022-05-05 16:57:56",
+        "LAST_LOGIN": null
+    },
+    {
+        "DB_USERNAME": "VOUTENUM",
+        "USER_ID": 121,
+        "ACCOUNT_STATUS": "OPEN",
+        "DEFAULT_TABLESPACE": "COLL_LC",
+        "TEMPORARY_TABLESPACE": "TEMP",
+        "ORACLE_MAINTAINED": "N",
+        "CREATED": "2022-05-05 16:57:56",
+        "LAST_LOGIN": "2022-09-15 14:55:24"
+    },
+    {
+        "DB_USERNAME": "WOWAII",
+        "USER_ID": 122,
+        "ACCOUNT_STATUS": "OPEN",
+        "DEFAULT_TABLESPACE": "COLL_LC",
+        "TEMPORARY_TABLESPACE": "TEMP",
+        "ORACLE_MAINTAINED": "N",
+        "CREATED": "2022-05-05 16:57:56",
+        "LAST_LOGIN": null
+    },
+    {
+        "DB_USERNAME": "APPQOSSYS",
+        "USER_ID": 48,
+        "ACCOUNT_STATUS": "EXPIRED & LOCKED",
+        "DEFAULT_TABLESPACE": "SYSAUX",
+        "TEMPORARY_TABLESPACE": "TEMP",
+        "ORACLE_MAINTAINED": "Y",
+        "CREATED": "2022-05-04 15:28:11",
+        "LAST_LOGIN": null
+    },
+    {
+        "DB_USERNAME": "CTXSYS",
+        "USER_ID": 61,
+        "ACCOUNT_STATUS": "OPEN",
+        "DEFAULT_TABLESPACE": "SYSAUX",
+        "TEMPORARY_TABLESPACE": "TEMP",
+        "ORACLE_MAINTAINED": "Y",
+        "CREATED": "2022-05-04 15:37:12",
+        "LAST_LOGIN": "2022-05-12 19:22:58"
+    },
+    {
+        "DB_USERNAME": "DBSNMP",
+        "USER_ID": 47,
+        "ACCOUNT_STATUS": "EXPIRED & LOCKED",
+        "DEFAULT_TABLESPACE": "SYSAUX",
+        "TEMPORARY_TABLESPACE": "TEMP",
+        "ORACLE_MAINTAINED": "Y",
+        "CREATED": "2022-05-04 15:28:10",
+        "LAST_LOGIN": null
+    },
+    {
+        "DB_USERNAME": "GSMADMIN_INTERNAL",
+        "USER_ID": 21,
+        "ACCOUNT_STATUS": "EXPIRED & LOCKED",
+        "DEFAULT_TABLESPACE": "SYSAUX",
+        "TEMPORARY_TABLESPACE": "TEMP",
+        "ORACLE_MAINTAINED": "Y",
+        "CREATED": "2022-05-04 15:24:50",
+        "LAST_LOGIN": null
+    },
+    {
+        "DB_USERNAME": "ORACLE_OCM",
+        "USER_ID": 36,
+        "ACCOUNT_STATUS": "EXPIRED & LOCKED",
+        "DEFAULT_TABLESPACE": "SYSTEM",
+        "TEMPORARY_TABLESPACE": "TEMP",
+        "ORACLE_MAINTAINED": "Y",
+        "CREATED": "2022-05-04 15:25:16",
+        "LAST_LOGIN": null
+    },
+    {
+        "DB_USERNAME": "OUTLN",
+        "USER_ID": 13,
+        "ACCOUNT_STATUS": "EXPIRED & LOCKED",
+        "DEFAULT_TABLESPACE": "SYSTEM",
+        "TEMPORARY_TABLESPACE": "TEMP",
+        "ORACLE_MAINTAINED": "Y",
+        "CREATED": "2022-05-04 15:21:36",
+        "LAST_LOGIN": null
+    },
+    {
+        "DB_USERNAME": "SYS",
+        "USER_ID": 0,
+        "ACCOUNT_STATUS": "OPEN",
+        "DEFAULT_TABLESPACE": "SYSTEM",
+        "TEMPORARY_TABLESPACE": "TEMP",
+        "ORACLE_MAINTAINED": "Y",
+        "CREATED": "2022-05-04 15:21:36",
+        "LAST_LOGIN": null
+    },
+    {
+        "DB_USERNAME": "SYSTEM",
+        "USER_ID": 8,
+        "ACCOUNT_STATUS": "OPEN",
+        "DEFAULT_TABLESPACE": "SYSTEM",
+        "TEMPORARY_TABLESPACE": "TEMP",
+        "ORACLE_MAINTAINED": "Y",
+        "CREATED": "2022-05-04 15:21:36",
+        "LAST_LOGIN": "2022-10-07 05:32:58"
+    },
+    {
+        "DB_USERNAME": "XDB",
+        "USER_ID": 49,
+        "ACCOUNT_STATUS": "EXPIRED & LOCKED",
+        "DEFAULT_TABLESPACE": "SYSAUX",
+        "TEMPORARY_TABLESPACE": "TEMP",
+        "ORACLE_MAINTAINED": "Y",
+        "CREATED": "2022-05-04 15:28:14",
+        "LAST_LOGIN": null
+    }
+]

@@ -1,0 +1,1108 @@
+[
+    {
+        "table": "RIGHTS.RIG_MATRIX_LCD",
+        "total_records": 149869,
+        "dataset": [
+            {
+                "field": "C_ID",
+                "distribution": [
+                    {
+                        "field_value": "2561144",
+                        "row_count": 48,
+                        "ratio_percent": 0.03202797109475609
+                    },
+                    {
+                        "field_value": "3079574",
+                        "row_count": 37,
+                        "ratio_percent": 0.024688227718874484
+                    },
+                    {
+                        "field_value": "3075147",
+                        "row_count": 37,
+                        "ratio_percent": 0.024688227718874484
+                    },
+                    {
+                        "field_value": "3050039",
+                        "row_count": 37,
+                        "ratio_percent": 0.024688227718874484
+                    },
+                    {
+                        "field_value": "1032170",
+                        "row_count": 32,
+                        "ratio_percent": 0.02135198072983739
+                    },
+                    {
+                        "field_value": "2778730",
+                        "row_count": 30,
+                        "ratio_percent": 0.020017481934222554
+                    },
+                    {
+                        "field_value": "1030750",
+                        "row_count": 30,
+                        "ratio_percent": 0.020017481934222554
+                    },
+                    {
+                        "field_value": "1027495",
+                        "row_count": 30,
+                        "ratio_percent": 0.020017481934222554
+                    },
+                    {
+                        "field_value": "1027145",
+                        "row_count": 30,
+                        "ratio_percent": 0.020017481934222554
+                    },
+                    {
+                        "field_value": "1027582",
+                        "row_count": 30,
+                        "ratio_percent": 0.020017481934222554
+                    }
+                ]
+            },
+            {
+                "field": "RIG_TIR_ID_SEQ",
+                "distribution": [
+                    {
+                        "field_value": "7615",
+                        "row_count": 940,
+                        "ratio_percent": 0.6272144339389734
+                    },
+                    {
+                        "field_value": "21935",
+                        "row_count": 754,
+                        "ratio_percent": 0.5031060459467935
+                    },
+                    {
+                        "field_value": "41451",
+                        "row_count": 597,
+                        "ratio_percent": 0.3983478904910288
+                    },
+                    {
+                        "field_value": "10824",
+                        "row_count": 583,
+                        "ratio_percent": 0.38900639892172495
+                    },
+                    {
+                        "field_value": "7064",
+                        "row_count": 543,
+                        "ratio_percent": 0.36231642300942823
+                    },
+                    {
+                        "field_value": "20424",
+                        "row_count": 531,
+                        "ratio_percent": 0.3543094302357392
+                    },
+                    {
+                        "field_value": "10592",
+                        "row_count": 525,
+                        "ratio_percent": 0.3503059338488947
+                    },
+                    {
+                        "field_value": "22683",
+                        "row_count": 492,
+                        "ratio_percent": 0.3282867037212499
+                    },
+                    {
+                        "field_value": "19281",
+                        "row_count": 489,
+                        "ratio_percent": 0.32628495552782766
+                    },
+                    {
+                        "field_value": "13853",
+                        "row_count": 469,
+                        "ratio_percent": 0.31293996757167925
+                    }
+                ]
+            },
+            {
+                "field": "RH_ID",
+                "distribution": [
+                    {
+                        "field_value": "2291311",
+                        "row_count": 91,
+                        "ratio_percent": 0.06071969520047508
+                    },
+                    {
+                        "field_value": "341568",
+                        "row_count": 90,
+                        "ratio_percent": 0.060052445802667664
+                    },
+                    {
+                        "field_value": "2711518",
+                        "row_count": 72,
+                        "ratio_percent": 0.04804195664213413
+                    },
+                    {
+                        "field_value": "3640226",
+                        "row_count": 70,
+                        "ratio_percent": 0.04670745784651929
+                    },
+                    {
+                        "field_value": "1371023",
+                        "row_count": 66,
+                        "ratio_percent": 0.04403846025528962
+                    },
+                    {
+                        "field_value": "1672608",
+                        "row_count": 66,
+                        "ratio_percent": 0.04403846025528962
+                    },
+                    {
+                        "field_value": "3506908",
+                        "row_count": 60,
+                        "ratio_percent": 0.04003496386844511
+                    },
+                    {
+                        "field_value": "1415409",
+                        "row_count": 57,
+                        "ratio_percent": 0.03803321567502285
+                    },
+                    {
+                        "field_value": "10795",
+                        "row_count": 55,
+                        "ratio_percent": 0.03669871687940802
+                    },
+                    {
+                        "field_value": "105867",
+                        "row_count": 54,
+                        "ratio_percent": 0.0360314674816006
+                    }
+                ]
+            },
+            {
+                "field": "S_ID",
+                "distribution": [
+                    {
+                        "field_value": "9619",
+                        "row_count": 1,
+                        "ratio_percent": 0.0006672493978074185
+                    },
+                    {
+                        "field_value": "1262090",
+                        "row_count": 1,
+                        "ratio_percent": 0.0006672493978074185
+                    },
+                    {
+                        "field_value": "9728",
+                        "row_count": 1,
+                        "ratio_percent": 0.0006672493978074185
+                    },
+                    {
+                        "field_value": "9753",
+                        "row_count": 1,
+                        "ratio_percent": 0.0006672493978074185
+                    },
+                    {
+                        "field_value": "2026278",
+                        "row_count": 1,
+                        "ratio_percent": 0.0006672493978074185
+                    },
+                    {
+                        "field_value": "1435399",
+                        "row_count": 1,
+                        "ratio_percent": 0.0006672493978074185
+                    },
+                    {
+                        "field_value": "2026259",
+                        "row_count": 1,
+                        "ratio_percent": 0.0006672493978074185
+                    },
+                    {
+                        "field_value": "2026268",
+                        "row_count": 1,
+                        "ratio_percent": 0.0006672493978074185
+                    },
+                    {
+                        "field_value": "2026277",
+                        "row_count": 1,
+                        "ratio_percent": 0.0006672493978074185
+                    },
+                    {
+                        "field_value": "1750964",
+                        "row_count": 1,
+                        "ratio_percent": 0.0006672493978074185
+                    }
+                ]
+            },
+            {
+                "field": "S_FR_DATE",
+                "distribution": [
+                    {
+                        "field_value": "01-JAN-00",
+                        "row_count": 127208,
+                        "ratio_percent": 84.87946139628609
+                    },
+                    {
+                        "field_value": "01-JAN-11",
+                        "row_count": 483,
+                        "ratio_percent": 0.3222814591409831
+                    },
+                    {
+                        "field_value": "29-MAR-10",
+                        "row_count": 311,
+                        "ratio_percent": 0.20751456271810714
+                    },
+                    {
+                        "field_value": "08-OCT-10",
+                        "row_count": 236,
+                        "ratio_percent": 0.15747085788255077
+                    },
+                    {
+                        "field_value": "29-JUN-12",
+                        "row_count": 225,
+                        "ratio_percent": 0.15013111450666916
+                    },
+                    {
+                        "field_value": "01-SEP-12",
+                        "row_count": 216,
+                        "ratio_percent": 0.1441258699264024
+                    },
+                    {
+                        "field_value": "04-FEB-13",
+                        "row_count": 208,
+                        "ratio_percent": 0.13878787474394305
+                    },
+                    {
+                        "field_value": "01-OCT-10",
+                        "row_count": 194,
+                        "ratio_percent": 0.1294463831746392
+                    },
+                    {
+                        "field_value": "01-APR-12",
+                        "row_count": 188,
+                        "ratio_percent": 0.12544288678779467
+                    },
+                    {
+                        "field_value": "01-NOV-12",
+                        "row_count": 169,
+                        "ratio_percent": 0.11276514822945373
+                    }
+                ]
+            },
+            {
+                "field": "S_TO_DATE",
+                "distribution": [
+                    {
+                        "field_value": "01-JAN-00",
+                        "row_count": 148902,
+                        "ratio_percent": 99.35476983232023
+                    },
+                    {
+                        "field_value": "15-MAY-32",
+                        "row_count": 42,
+                        "ratio_percent": 0.028024474707911577
+                    },
+                    {
+                        "field_value": "12-DEC-27",
+                        "row_count": 36,
+                        "ratio_percent": 0.024020978321067064
+                    },
+                    {
+                        "field_value": "31-JAN-24",
+                        "row_count": 35,
+                        "ratio_percent": 0.023353728923259646
+                    },
+                    {
+                        "field_value": "24-FEB-23",
+                        "row_count": 27,
+                        "ratio_percent": 0.0180157337408003
+                    },
+                    {
+                        "field_value": "30-JUN-18",
+                        "row_count": 17,
+                        "ratio_percent": 0.011343239762726115
+                    },
+                    {
+                        "field_value": "31-DEC-32",
+                        "row_count": 17,
+                        "ratio_percent": 0.011343239762726115
+                    },
+                    {
+                        "field_value": "21-FEB-28",
+                        "row_count": 16,
+                        "ratio_percent": 0.010675990364918696
+                    },
+                    {
+                        "field_value": "11-FEB-90",
+                        "row_count": 15,
+                        "ratio_percent": 0.010008740967111277
+                    },
+                    {
+                        "field_value": "04-NOV-04",
+                        "row_count": 15,
+                        "ratio_percent": 0.010008740967111277
+                    }
+                ]
+            },
+            {
+                "field": "S_QTY",
+                "distribution": [
+                    {
+                        "field_value": "999999999",
+                        "row_count": 149105,
+                        "ratio_percent": 99.49022146007513
+                    },
+                    {
+                        "field_value": "1000",
+                        "row_count": 104,
+                        "ratio_percent": 0.06939393737197153
+                    },
+                    {
+                        "field_value": "5000",
+                        "row_count": 83,
+                        "ratio_percent": 0.055381700018015734
+                    },
+                    {
+                        "field_value": "2500",
+                        "row_count": 72,
+                        "ratio_percent": 0.04804195664213413
+                    },
+                    {
+                        "field_value": "500",
+                        "row_count": 59,
+                        "ratio_percent": 0.039367714470637694
+                    },
+                    {
+                        "field_value": "1250",
+                        "row_count": 58,
+                        "ratio_percent": 0.03870046507283027
+                    },
+                    {
+                        "field_value": "10000",
+                        "row_count": 56,
+                        "ratio_percent": 0.03736596627721543
+                    },
+                    {
+                        "field_value": "250",
+                        "row_count": 50,
+                        "ratio_percent": 0.03336246989037092
+                    },
+                    {
+                        "field_value": "2000",
+                        "row_count": 46,
+                        "ratio_percent": 0.03069347229914125
+                    },
+                    {
+                        "field_value": "1500",
+                        "row_count": 43,
+                        "ratio_percent": 0.028691724105718994
+                    }
+                ]
+            },
+            {
+                "field": "S_GRP_ID",
+                "distribution": [
+                    {
+                        "field_value": "500004",
+                        "row_count": 29735,
+                        "ratio_percent": 19.840660843803587
+                    },
+                    {
+                        "field_value": "500051",
+                        "row_count": 19098,
+                        "ratio_percent": 12.743128999326078
+                    },
+                    {
+                        "field_value": "500009",
+                        "row_count": 14581,
+                        "ratio_percent": 9.729163469429968
+                    },
+                    {
+                        "field_value": "500001",
+                        "row_count": 14042,
+                        "ratio_percent": 9.369516044011771
+                    },
+                    {
+                        "field_value": "500048",
+                        "row_count": 14033,
+                        "ratio_percent": 9.363510799431504
+                    },
+                    {
+                        "field_value": "500003",
+                        "row_count": 10112,
+                        "ratio_percent": 6.747225910628615
+                    },
+                    {
+                        "field_value": "500006",
+                        "row_count": 9954,
+                        "ratio_percent": 6.641800505775043
+                    },
+                    {
+                        "field_value": "500044",
+                        "row_count": 9488,
+                        "ratio_percent": 6.330862286396787
+                    },
+                    {
+                        "field_value": "500049",
+                        "row_count": 8629,
+                        "ratio_percent": 5.757695053680214
+                    },
+                    {
+                        "field_value": "500028",
+                        "row_count": 8361,
+                        "ratio_percent": 5.578872215067826
+                    }
+                ]
+            },
+            {
+                "field": "T_ID",
+                "distribution": [
+                    {
+                        "field_value": "1032203",
+                        "row_count": 22,
+                        "ratio_percent": 0.014679486751763206
+                    },
+                    {
+                        "field_value": "1027091",
+                        "row_count": 21,
+                        "ratio_percent": 0.014012237353955789
+                    },
+                    {
+                        "field_value": "1027178",
+                        "row_count": 21,
+                        "ratio_percent": 0.014012237353955789
+                    },
+                    {
+                        "field_value": "1027615",
+                        "row_count": 21,
+                        "ratio_percent": 0.014012237353955789
+                    },
+                    {
+                        "field_value": "1030783",
+                        "row_count": 21,
+                        "ratio_percent": 0.014012237353955789
+                    },
+                    {
+                        "field_value": "1027528",
+                        "row_count": 21,
+                        "ratio_percent": 0.014012237353955789
+                    },
+                    {
+                        "field_value": "990782",
+                        "row_count": 18,
+                        "ratio_percent": 0.012010489160533532
+                    },
+                    {
+                        "field_value": "843268",
+                        "row_count": 16,
+                        "ratio_percent": 0.010675990364918696
+                    },
+                    {
+                        "field_value": "1077056",
+                        "row_count": 15,
+                        "ratio_percent": 0.010008740967111277
+                    },
+                    {
+                        "field_value": "989853",
+                        "row_count": 14,
+                        "ratio_percent": 0.009341491569303858
+                    }
+                ]
+            },
+            {
+                "field": "TL_FR_DATE",
+                "distribution": [
+                    {
+                        "field_value": "01-JAN-00",
+                        "row_count": 149245,
+                        "ratio_percent": 99.58363637576817
+                    },
+                    {
+                        "field_value": "14-SEP-06",
+                        "row_count": 44,
+                        "ratio_percent": 0.02935897350352641
+                    },
+                    {
+                        "field_value": "02-FEB-04",
+                        "row_count": 30,
+                        "ratio_percent": 0.020017481934222554
+                    },
+                    {
+                        "field_value": "10-MAR-98",
+                        "row_count": 28,
+                        "ratio_percent": 0.018682983138607716
+                    },
+                    {
+                        "field_value": "02-JUL-08",
+                        "row_count": 24,
+                        "ratio_percent": 0.016013985547378044
+                    },
+                    {
+                        "field_value": "01-NOV-89",
+                        "row_count": 16,
+                        "ratio_percent": 0.010675990364918696
+                    },
+                    {
+                        "field_value": "01-DEC-11",
+                        "row_count": 16,
+                        "ratio_percent": 0.010675990364918696
+                    },
+                    {
+                        "field_value": "03-OCT-13",
+                        "row_count": 15,
+                        "ratio_percent": 0.010008740967111277
+                    },
+                    {
+                        "field_value": "27-MAR-14",
+                        "row_count": 12,
+                        "ratio_percent": 0.008006992773689022
+                    },
+                    {
+                        "field_value": "25-JAN-08",
+                        "row_count": 12,
+                        "ratio_percent": 0.008006992773689022
+                    }
+                ]
+            },
+            {
+                "field": "TL_TO_DATE",
+                "distribution": [
+                    {
+                        "field_value": "01-JAN-00",
+                        "row_count": 149306,
+                        "ratio_percent": 99.62433858903442
+                    },
+                    {
+                        "field_value": "01-FEB-19",
+                        "row_count": 30,
+                        "ratio_percent": 0.020017481934222554
+                    },
+                    {
+                        "field_value": "09-MAR-33",
+                        "row_count": 28,
+                        "ratio_percent": 0.018682983138607716
+                    },
+                    {
+                        "field_value": "26-OCT-12",
+                        "row_count": 23,
+                        "ratio_percent": 0.015346736149570625
+                    },
+                    {
+                        "field_value": "30-APR-94",
+                        "row_count": 16,
+                        "ratio_percent": 0.010675990364918696
+                    },
+                    {
+                        "field_value": "02-OCT-38",
+                        "row_count": 15,
+                        "ratio_percent": 0.010008740967111277
+                    },
+                    {
+                        "field_value": "26-MAR-29",
+                        "row_count": 14,
+                        "ratio_percent": 0.009341491569303858
+                    },
+                    {
+                        "field_value": "01-JUL-33",
+                        "row_count": 12,
+                        "ratio_percent": 0.008006992773689022
+                    },
+                    {
+                        "field_value": "01-JUL-23",
+                        "row_count": 12,
+                        "ratio_percent": 0.008006992773689022
+                    },
+                    {
+                        "field_value": "14-SEP-18",
+                        "row_count": 11,
+                        "ratio_percent": 0.007339743375881603
+                    }
+                ]
+            },
+            {
+                "field": "C_FR_DATE",
+                "distribution": [
+                    {
+                        "field_value": "01-JAN-00",
+                        "row_count": 132978,
+                        "ratio_percent": 88.72949042163489
+                    },
+                    {
+                        "field_value": "15-APR-13",
+                        "row_count": 434,
+                        "ratio_percent": 0.28958623864841965
+                    },
+                    {
+                        "field_value": "04-JAN-11",
+                        "row_count": 184,
+                        "ratio_percent": 0.122773889196565
+                    },
+                    {
+                        "field_value": "16-FEB-93",
+                        "row_count": 144,
+                        "ratio_percent": 0.09608391328426825
+                    },
+                    {
+                        "field_value": "11-AUG-08",
+                        "row_count": 128,
+                        "ratio_percent": 0.08540792291934957
+                    },
+                    {
+                        "field_value": "15-NOV-10",
+                        "row_count": 126,
+                        "ratio_percent": 0.08407342412373472
+                    },
+                    {
+                        "field_value": "04-FEB-08",
+                        "row_count": 121,
+                        "ratio_percent": 0.08073717713469764
+                    },
+                    {
+                        "field_value": "01-OCT-10",
+                        "row_count": 108,
+                        "ratio_percent": 0.0720629349632012
+                    },
+                    {
+                        "field_value": "10-NOV-09",
+                        "row_count": 96,
+                        "ratio_percent": 0.06405594218951217
+                    },
+                    {
+                        "field_value": "04-SEP-03",
+                        "row_count": 81,
+                        "ratio_percent": 0.0540472012224009
+                    }
+                ]
+            },
+            {
+                "field": "T_GRP_ID",
+                "distribution": [
+                    {
+                        "field_value": "500017",
+                        "row_count": 118620,
+                        "ratio_percent": 79.14912356791598
+                    },
+                    {
+                        "field_value": "36",
+                        "row_count": 15748,
+                        "ratio_percent": 10.507843516671226
+                    },
+                    {
+                        "field_value": "500020",
+                        "row_count": 9716,
+                        "ratio_percent": 6.482995149096878
+                    },
+                    {
+                        "field_value": "1004",
+                        "row_count": 1526,
+                        "ratio_percent": 1.0182225810541206
+                    },
+                    {
+                        "field_value": "221",
+                        "row_count": 577,
+                        "ratio_percent": 0.38500290253488045
+                    },
+                    {
+                        "field_value": "500019",
+                        "row_count": 425,
+                        "ratio_percent": 0.28358099406815285
+                    },
+                    {
+                        "field_value": "1000",
+                        "row_count": 301,
+                        "ratio_percent": 0.20084206874003296
+                    },
+                    {
+                        "field_value": "500015",
+                        "row_count": 250,
+                        "ratio_percent": 0.1668123494518546
+                    },
+                    {
+                        "field_value": "500018",
+                        "row_count": 233,
+                        "ratio_percent": 0.1554691096891285
+                    },
+                    {
+                        "field_value": "500187",
+                        "row_count": 140,
+                        "ratio_percent": 0.09341491569303859
+                    }
+                ]
+            },
+            {
+                "field": "C_TO_DATE",
+                "distribution": [
+                    {
+                        "field_value": "01-JAN-00",
+                        "row_count": 139547,
+                        "ratio_percent": 93.11265171583183
+                    },
+                    {
+                        "field_value": "14-APR-33",
+                        "row_count": 434,
+                        "ratio_percent": 0.28958623864841965
+                    },
+                    {
+                        "field_value": "31-DEC-50",
+                        "row_count": 128,
+                        "ratio_percent": 0.08540792291934957
+                    },
+                    {
+                        "field_value": "10-AUG-23",
+                        "row_count": 128,
+                        "ratio_percent": 0.08540792291934957
+                    },
+                    {
+                        "field_value": "14-NOV-30",
+                        "row_count": 114,
+                        "ratio_percent": 0.0760664313500457
+                    },
+                    {
+                        "field_value": "31-DEC-55",
+                        "row_count": 102,
+                        "ratio_percent": 0.06805943857635668
+                    },
+                    {
+                        "field_value": "30-SEP-30",
+                        "row_count": 102,
+                        "ratio_percent": 0.06805943857635668
+                    },
+                    {
+                        "field_value": "31-DEC-51",
+                        "row_count": 97,
+                        "ratio_percent": 0.0647231915873196
+                    },
+                    {
+                        "field_value": "31-DEC-49",
+                        "row_count": 89,
+                        "ratio_percent": 0.059385196404860244
+                    },
+                    {
+                        "field_value": "03-FEB-23",
+                        "row_count": 88,
+                        "ratio_percent": 0.05871794700705282
+                    }
+                ]
+            },
+            {
+                "field": "L_GRP_ID",
+                "distribution": [
+                    {
+                        "field_value": "500001",
+                        "row_count": 147949,
+                        "ratio_percent": 98.71888115620976
+                    },
+                    {
+                        "field_value": "500002",
+                        "row_count": 735,
+                        "ratio_percent": 0.49042830738845256
+                    },
+                    {
+                        "field_value": "34",
+                        "row_count": 333,
+                        "ratio_percent": 0.22219404946987034
+                    },
+                    {
+                        "field_value": "25",
+                        "row_count": 298,
+                        "ratio_percent": 0.19884032054661072
+                    },
+                    {
+                        "field_value": "500019",
+                        "row_count": 208,
+                        "ratio_percent": 0.13878787474394305
+                    },
+                    {
+                        "field_value": "500008",
+                        "row_count": 99,
+                        "ratio_percent": 0.06605769038293442
+                    },
+                    {
+                        "field_value": "500009",
+                        "row_count": 76,
+                        "ratio_percent": 0.0507109542333638
+                    },
+                    {
+                        "field_value": "522",
+                        "row_count": 36,
+                        "ratio_percent": 0.024020978321067064
+                    },
+                    {
+                        "field_value": "500080",
+                        "row_count": 31,
+                        "ratio_percent": 0.020684731332029974
+                    },
+                    {
+                        "field_value": "500004",
+                        "row_count": 22,
+                        "ratio_percent": 0.014679486751763206
+                    }
+                ]
+            },
+            {
+                "field": "M_ID",
+                "distribution": [
+                    {
+                        "field_value": "3049701",
+                        "row_count": 9,
+                        "ratio_percent": 0.006005244580266766
+                    },
+                    {
+                        "field_value": "3049565",
+                        "row_count": 9,
+                        "ratio_percent": 0.006005244580266766
+                    },
+                    {
+                        "field_value": "1027129",
+                        "row_count": 4,
+                        "ratio_percent": 0.002668997591229674
+                    },
+                    {
+                        "field_value": "843197",
+                        "row_count": 4,
+                        "ratio_percent": 0.002668997591229674
+                    },
+                    {
+                        "field_value": "1870017",
+                        "row_count": 4,
+                        "ratio_percent": 0.002668997591229674
+                    },
+                    {
+                        "field_value": "1869807",
+                        "row_count": 4,
+                        "ratio_percent": 0.002668997591229674
+                    },
+                    {
+                        "field_value": "1027216",
+                        "row_count": 4,
+                        "ratio_percent": 0.002668997591229674
+                    },
+                    {
+                        "field_value": "1027573",
+                        "row_count": 4,
+                        "ratio_percent": 0.002668997591229674
+                    },
+                    {
+                        "field_value": "1032248",
+                        "row_count": 4,
+                        "ratio_percent": 0.002668997591229674
+                    },
+                    {
+                        "field_value": "3524558",
+                        "row_count": 4,
+                        "ratio_percent": 0.002668997591229674
+                    }
+                ]
+            },
+            {
+                "field": "M_FR_DATE",
+                "distribution": [
+                    {
+                        "field_value": "01-JAN-00",
+                        "row_count": 114541,
+                        "ratio_percent": 76.42741327425952
+                    },
+                    {
+                        "field_value": "01-JAN-11",
+                        "row_count": 542,
+                        "ratio_percent": 0.3616491736116208
+                    },
+                    {
+                        "field_value": "01-APR-12",
+                        "row_count": 354,
+                        "ratio_percent": 0.23620628682382613
+                    },
+                    {
+                        "field_value": "01-OCT-11",
+                        "row_count": 330,
+                        "ratio_percent": 0.2201923012764481
+                    },
+                    {
+                        "field_value": "08-OCT-10",
+                        "row_count": 290,
+                        "ratio_percent": 0.19350232536415135
+                    },
+                    {
+                        "field_value": "01-OCT-10",
+                        "row_count": 257,
+                        "ratio_percent": 0.17148309523650654
+                    },
+                    {
+                        "field_value": "04-FEB-13",
+                        "row_count": 252,
+                        "ratio_percent": 0.16814684824746945
+                    },
+                    {
+                        "field_value": "26-MAR-08",
+                        "row_count": 251,
+                        "ratio_percent": 0.16747959884966204
+                    },
+                    {
+                        "field_value": "01-SEP-12",
+                        "row_count": 240,
+                        "ratio_percent": 0.16013985547378043
+                    },
+                    {
+                        "field_value": "01-MAR-18",
+                        "row_count": 227,
+                        "ratio_percent": 0.151465613302284
+                    }
+                ]
+            },
+            {
+                "field": "M_TO_DATE",
+                "distribution": [
+                    {
+                        "field_value": "01-JAN-00",
+                        "row_count": 141307,
+                        "ratio_percent": 94.28701065597288
+                    },
+                    {
+                        "field_value": "30-SEP-16",
+                        "row_count": 155,
+                        "ratio_percent": 0.10342365666014987
+                    },
+                    {
+                        "field_value": "29-FEB-28",
+                        "row_count": 101,
+                        "ratio_percent": 0.06739218917854926
+                    },
+                    {
+                        "field_value": "30-MAR-32",
+                        "row_count": 98,
+                        "ratio_percent": 0.06539044098512702
+                    },
+                    {
+                        "field_value": "16-APR-28",
+                        "row_count": 94,
+                        "ratio_percent": 0.06272144339389733
+                    },
+                    {
+                        "field_value": "31-DEC-29",
+                        "row_count": 87,
+                        "ratio_percent": 0.05805069760924541
+                    },
+                    {
+                        "field_value": "01-JUN-07",
+                        "row_count": 85,
+                        "ratio_percent": 0.05671619881363057
+                    },
+                    {
+                        "field_value": "30-MAR-31",
+                        "row_count": 67,
+                        "ratio_percent": 0.04470570965309704
+                    },
+                    {
+                        "field_value": "30-MAR-28",
+                        "row_count": 62,
+                        "ratio_percent": 0.04136946266405995
+                    },
+                    {
+                        "field_value": "31-DEC-30",
+                        "row_count": 55,
+                        "ratio_percent": 0.03669871687940802
+                    }
+                ]
+            },
+            {
+                "field": "M_QTY",
+                "distribution": [
+                    {
+                        "field_value": "999999999",
+                        "row_count": 149511,
+                        "ratio_percent": 99.76112471558494
+                    },
+                    {
+                        "field_value": "1",
+                        "row_count": 63,
+                        "ratio_percent": 0.04203671206186736
+                    },
+                    {
+                        "field_value": "1000",
+                        "row_count": 47,
+                        "ratio_percent": 0.03136072169694867
+                    },
+                    {
+                        "field_value": "500",
+                        "row_count": 38,
+                        "ratio_percent": 0.0253554771166819
+                    },
+                    {
+                        "field_value": "2000",
+                        "row_count": 38,
+                        "ratio_percent": 0.0253554771166819
+                    },
+                    {
+                        "field_value": "5000",
+                        "row_count": 21,
+                        "ratio_percent": 0.014012237353955789
+                    },
+                    {
+                        "field_value": "2",
+                        "row_count": 21,
+                        "ratio_percent": 0.014012237353955789
+                    },
+                    {
+                        "field_value": "250",
+                        "row_count": 20,
+                        "ratio_percent": 0.01334498795614837
+                    },
+                    {
+                        "field_value": "50",
+                        "row_count": 16,
+                        "ratio_percent": 0.010675990364918696
+                    },
+                    {
+                        "field_value": "5",
+                        "row_count": 14,
+                        "ratio_percent": 0.009341491569303858
+                    }
+                ]
+            },
+            {
+                "field": "M_GRP_ID",
+                "distribution": [
+                    {
+                        "field_value": "500028",
+                        "row_count": 21013,
+                        "ratio_percent": 14.020911596127284
+                    },
+                    {
+                        "field_value": "16",
+                        "row_count": 17010,
+                        "ratio_percent": 11.349912256704188
+                    },
+                    {
+                        "field_value": "10",
+                        "row_count": 13436,
+                        "ratio_percent": 8.965162908940474
+                    },
+                    {
+                        "field_value": "14",
+                        "row_count": 12269,
+                        "ratio_percent": 8.186482861699217
+                    },
+                    {
+                        "field_value": "13",
+                        "row_count": 11650,
+                        "ratio_percent": 7.773455484456425
+                    },
+                    {
+                        "field_value": "259",
+                        "row_count": 8422,
+                        "ratio_percent": 5.6195744283340785
+                    },
+                    {
+                        "field_value": "147",
+                        "row_count": 7212,
+                        "ratio_percent": 4.812202656987102
+                    },
+                    {
+                        "field_value": "246",
+                        "row_count": 6300,
+                        "ratio_percent": 4.203671206186736
+                    },
+                    {
+                        "field_value": "500101",
+                        "row_count": 5992,
+                        "ratio_percent": 3.9981583916620513
+                    },
+                    {
+                        "field_value": "15",
+                        "row_count": 5303,
+                        "ratio_percent": 3.53842355657274
+                    }
+                ]
+            }
+        ]
+    }
+]
