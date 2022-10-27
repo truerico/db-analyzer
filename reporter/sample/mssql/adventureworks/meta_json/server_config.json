@@ -392,7 +392,7 @@
     {
         "attribute_type": "property",
         "attribute_name": "ComputerNamePhysicalNetBIOS",
-        "attribute_value": "ODSDB-TEST"
+        "attribute_value": "server-test"
     },
     {
         "attribute_type": "property",
@@ -502,7 +502,7 @@
     {
         "attribute_type": "property",
         "attribute_name": "MachineName",
-        "attribute_value": "ODSDB-TEST"
+        "attribute_value": "server-test"
     },
     {
         "attribute_type": "property",
@@ -567,7 +567,7 @@
     {
         "attribute_type": "property",
         "attribute_name": "ServerName",
-        "attribute_value": "ODSDB-TEST"
+        "attribute_value": "server-test"
     },
     {
         "attribute_type": "property",

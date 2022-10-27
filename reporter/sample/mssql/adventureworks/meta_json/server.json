@@ -1,7 +1,7 @@
 [
     {
-        "computer_name": "ODSDB-TEST",
-        "instance_name": "ODSDB-TEST",
+        "computer_name": "server-test",
+        "instance_name": "server-test",
         "edition": "Standard Edition (64-bit)",
         "product_version": "13.0.1742.0",
         "major_version": "SQL2016",
