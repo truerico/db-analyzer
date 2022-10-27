@@ -1,0 +1,62 @@
+@startjson
+{
+    "field1": "LocationID",
+    "combination": "LocationID",
+    "null_distribution": {
+        "total_null_rows": 0,
+        "total_not_null_rows": 14
+    },
+    "data_distribution": [
+        {
+            "field_value": "50",
+            "row_count": 1,
+            "ratio_percent": 7.142857142857143
+        },
+        {
+            "field_value": "5",
+            "row_count": 1,
+            "ratio_percent": 7.142857142857143
+        },
+        {
+            "field_value": "45",
+            "row_count": 1,
+            "ratio_percent": 7.142857142857143
+        },
+        {
+            "field_value": "40",
+            "row_count": 1,
+            "ratio_percent": 7.142857142857143
+        },
+        {
+            "field_value": "4",
+            "row_count": 1,
+            "ratio_percent": 7.142857142857143
+        },
+        {
+            "field_value": "30",
+            "row_count": 1,
+            "ratio_percent": 7.142857142857143
+        },
+        {
+            "field_value": "3",
+            "row_count": 1,
+            "ratio_percent": 7.142857142857143
+        },
+        {
+            "field_value": "20",
+            "row_count": 1,
+            "ratio_percent": 7.142857142857143
+        },
+        {
+            "field_value": "2",
+            "row_count": 1,
+            "ratio_percent": 7.142857142857143
+        },
+        {
+            "field_value": "10",
+            "row_count": 1,
+            "ratio_percent": 7.142857142857143
+        }
+    ]
+}
+@endjson

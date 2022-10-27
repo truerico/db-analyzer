@@ -1,0 +1,43 @@
+[
+    {
+        "table": "Sales.Customer",
+        "total_records": 19820,
+        "dataset": [
+            {
+                "field": "AccountNumber",
+                "total_null_rows": 0,
+                "total_not_null_rows": 19820
+            },
+            {
+                "field": "CustomerID",
+                "total_null_rows": 0,
+                "total_not_null_rows": 19820
+            },
+            {
+                "field": "ModifiedDate",
+                "total_null_rows": 0,
+                "total_not_null_rows": 19820
+            },
+            {
+                "field": "PersonID",
+                "total_null_rows": 701,
+                "total_not_null_rows": 19119
+            },
+            {
+                "field": "StoreID",
+                "total_null_rows": 18484,
+                "total_not_null_rows": 1336
+            },
+            {
+                "field": "TerritoryID",
+                "total_null_rows": 0,
+                "total_not_null_rows": 19820
+            },
+            {
+                "field": "rowguid",
+                "total_null_rows": 0,
+                "total_not_null_rows": 19820
+            }
+        ]
+    }
+]

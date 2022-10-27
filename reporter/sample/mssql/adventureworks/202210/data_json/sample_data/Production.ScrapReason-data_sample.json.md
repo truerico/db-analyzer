@@ -1,0 +1,36 @@
+```json
+@startjson
+[
+    {
+        "ScrapReasonID": 1,
+        "Name": "Brake assembly not as ordered",
+        "ModifiedDate": "2008-04-30 00:00:00",
+        "SYS_EXEC_DURATION": "0.185003"
+    },
+    {
+        "ScrapReasonID": 2,
+        "Name": "Color incorrect",
+        "ModifiedDate": "2008-04-30 00:00:00",
+        "SYS_EXEC_DURATION": "0.185123"
+    },
+    {
+        "ScrapReasonID": 3,
+        "Name": "Gouge in metal",
+        "ModifiedDate": "2008-04-30 00:00:00",
+        "SYS_EXEC_DURATION": "0.185167"
+    },
+    {
+        "ScrapReasonID": 4,
+        "Name": "Drill pattern incorrect",
+        "ModifiedDate": "2008-04-30 00:00:00",
+        "SYS_EXEC_DURATION": "0.185207"
+    },
+    {
+        "ScrapReasonID": 5,
+        "Name": "Drill size too large",
+        "ModifiedDate": "2008-04-30 00:00:00",
+        "SYS_EXEC_DURATION": "0.185256"
+    }
+]
+@endjson
+```

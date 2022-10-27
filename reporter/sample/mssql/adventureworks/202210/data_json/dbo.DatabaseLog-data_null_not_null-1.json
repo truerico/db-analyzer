@@ -1,0 +1,43 @@
+[
+    {
+        "table": "dbo.DatabaseLog",
+        "total_records": 1596,
+        "dataset": [
+            {
+                "field": "DatabaseLogID",
+                "total_null_rows": 0,
+                "total_not_null_rows": 1596
+            },
+            {
+                "field": "DatabaseUser",
+                "total_null_rows": 0,
+                "total_not_null_rows": 1596
+            },
+            {
+                "field": "Event",
+                "total_null_rows": 0,
+                "total_not_null_rows": 1596
+            },
+            {
+                "field": "Object",
+                "total_null_rows": 0,
+                "total_not_null_rows": 1596
+            },
+            {
+                "field": "PostTime",
+                "total_null_rows": 0,
+                "total_not_null_rows": 1596
+            },
+            {
+                "field": "Schema",
+                "total_null_rows": 1,
+                "total_not_null_rows": 1595
+            },
+            {
+                "field": "TSQL",
+                "total_null_rows": 0,
+                "total_not_null_rows": 1596
+            }
+        ]
+    }
+]

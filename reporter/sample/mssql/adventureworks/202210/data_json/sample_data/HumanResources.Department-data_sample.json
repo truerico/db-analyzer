@@ -1,0 +1,37 @@
+[
+    {
+        "DepartmentID": 1,
+        "Name": "Engineering",
+        "GroupName": "Research and Development",
+        "ModifiedDate": "2008-04-30 00:00:00",
+        "SYS_EXEC_DURATION": "0.192076"
+    },
+    {
+        "DepartmentID": 2,
+        "Name": "Tool Design",
+        "GroupName": "Research and Development",
+        "ModifiedDate": "2008-04-30 00:00:00",
+        "SYS_EXEC_DURATION": "0.192276"
+    },
+    {
+        "DepartmentID": 3,
+        "Name": "Sales",
+        "GroupName": "Sales and Marketing",
+        "ModifiedDate": "2008-04-30 00:00:00",
+        "SYS_EXEC_DURATION": "0.192332"
+    },
+    {
+        "DepartmentID": 4,
+        "Name": "Marketing",
+        "GroupName": "Sales and Marketing",
+        "ModifiedDate": "2008-04-30 00:00:00",
+        "SYS_EXEC_DURATION": "0.192378"
+    },
+    {
+        "DepartmentID": 5,
+        "Name": "Purchasing",
+        "GroupName": "Inventory Management",
+        "ModifiedDate": "2008-04-30 00:00:00",
+        "SYS_EXEC_DURATION": "0.192439"
+    }
+]

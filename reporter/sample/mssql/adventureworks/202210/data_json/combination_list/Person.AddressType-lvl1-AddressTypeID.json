@@ -1,0 +1,42 @@
+@startjson
+{
+    "field1": "AddressTypeID",
+    "combination": "AddressTypeID",
+    "null_distribution": {
+        "total_null_rows": 0,
+        "total_not_null_rows": 6
+    },
+    "data_distribution": [
+        {
+            "field_value": "6",
+            "row_count": 1,
+            "ratio_percent": 16.666666666666668
+        },
+        {
+            "field_value": "5",
+            "row_count": 1,
+            "ratio_percent": 16.666666666666668
+        },
+        {
+            "field_value": "4",
+            "row_count": 1,
+            "ratio_percent": 16.666666666666668
+        },
+        {
+            "field_value": "3",
+            "row_count": 1,
+            "ratio_percent": 16.666666666666668
+        },
+        {
+            "field_value": "2",
+            "row_count": 1,
+            "ratio_percent": 16.666666666666668
+        },
+        {
+            "field_value": "1",
+            "row_count": 1,
+            "ratio_percent": 16.666666666666668
+        }
+    ]
+}
+@endjson

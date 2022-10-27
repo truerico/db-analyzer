@@ -1,0 +1,17 @@
+@startjson
+{
+    "field1": "image",
+    "combination": "image",
+    "null_distribution": {
+        "total_null_rows": 7,
+        "total_not_null_rows": 0
+    },
+    "data_distribution": [
+        {
+            "field_value": "**NULL**",
+            "row_count": 7,
+            "ratio_percent": 100.0
+        }
+    ]
+}
+@endjson

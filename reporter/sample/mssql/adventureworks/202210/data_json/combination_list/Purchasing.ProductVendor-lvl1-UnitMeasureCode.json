@@ -1,0 +1,47 @@
+@startjson
+{
+    "field1": "UnitMeasureCode",
+    "combination": "UnitMeasureCode",
+    "null_distribution": {
+        "total_null_rows": 0,
+        "total_not_null_rows": 460
+    },
+    "data_distribution": [
+        {
+            "field_value": "CTN",
+            "row_count": 178,
+            "ratio_percent": 38.69565217391305
+        },
+        {
+            "field_value": "EA",
+            "row_count": 154,
+            "ratio_percent": 33.47826086956522
+        },
+        {
+            "field_value": "CAN",
+            "row_count": 68,
+            "ratio_percent": 14.782608695652174
+        },
+        {
+            "field_value": "CS",
+            "row_count": 38,
+            "ratio_percent": 8.26086956521739
+        },
+        {
+            "field_value": "GAL",
+            "row_count": 10,
+            "ratio_percent": 2.1739130434782608
+        },
+        {
+            "field_value": "DZ",
+            "row_count": 7,
+            "ratio_percent": 1.5217391304347827
+        },
+        {
+            "field_value": "PAK",
+            "row_count": 5,
+            "ratio_percent": 1.0869565217391304
+        }
+    ]
+}
+@endjson

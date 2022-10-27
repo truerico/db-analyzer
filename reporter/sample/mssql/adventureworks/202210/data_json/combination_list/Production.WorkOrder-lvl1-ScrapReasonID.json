@@ -1,0 +1,62 @@
+@startjson
+{
+    "field1": "ScrapReasonID",
+    "combination": "ScrapReasonID",
+    "null_distribution": {
+        "total_null_rows": 71862,
+        "total_not_null_rows": 729
+    },
+    "data_distribution": [
+        {
+            "field_value": "**NULL**",
+            "row_count": 71862,
+            "ratio_percent": 98.99574327395958
+        },
+        {
+            "field_value": "13",
+            "row_count": 63,
+            "ratio_percent": 0.08678761829978923
+        },
+        {
+            "field_value": "3",
+            "row_count": 54,
+            "ratio_percent": 0.07438938711410506
+        },
+        {
+            "field_value": "14",
+            "row_count": 52,
+            "ratio_percent": 0.07163422462839746
+        },
+        {
+            "field_value": "11",
+            "row_count": 52,
+            "ratio_percent": 0.07163422462839746
+        },
+        {
+            "field_value": "16",
+            "row_count": 51,
+            "ratio_percent": 0.07025664338554366
+        },
+        {
+            "field_value": "15",
+            "row_count": 48,
+            "ratio_percent": 0.06612389965698227
+        },
+        {
+            "field_value": "9",
+            "row_count": 47,
+            "ratio_percent": 0.06474631841412848
+        },
+        {
+            "field_value": "4",
+            "row_count": 45,
+            "ratio_percent": 0.06199115592842088
+        },
+        {
+            "field_value": "6",
+            "row_count": 44,
+            "ratio_percent": 0.06061357468556708
+        }
+    ]
+}
+@endjson

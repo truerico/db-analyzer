@@ -1,0 +1,73 @@
+[
+    {
+        "table": "Production.ProductDocument",
+        "total_records": 32,
+        "dataset": [
+            {
+                "field": "ModifiedDate",
+                "distribution": [
+                    {
+                        "field_value": "Dec 29 2013  1:51PM",
+                        "row_count": 32,
+                        "ratio_percent": 100.0
+                    }
+                ]
+            },
+            {
+                "field": "ProductID",
+                "distribution": [
+                    {
+                        "field_value": "506",
+                        "row_count": 2,
+                        "ratio_percent": 6.25
+                    },
+                    {
+                        "field_value": "520",
+                        "row_count": 1,
+                        "ratio_percent": 3.125
+                    },
+                    {
+                        "field_value": "519",
+                        "row_count": 1,
+                        "ratio_percent": 3.125
+                    },
+                    {
+                        "field_value": "518",
+                        "row_count": 1,
+                        "ratio_percent": 3.125
+                    },
+                    {
+                        "field_value": "517",
+                        "row_count": 1,
+                        "ratio_percent": 3.125
+                    },
+                    {
+                        "field_value": "516",
+                        "row_count": 1,
+                        "ratio_percent": 3.125
+                    },
+                    {
+                        "field_value": "515",
+                        "row_count": 1,
+                        "ratio_percent": 3.125
+                    },
+                    {
+                        "field_value": "514",
+                        "row_count": 1,
+                        "ratio_percent": 3.125
+                    },
+                    {
+                        "field_value": "319",
+                        "row_count": 1,
+                        "ratio_percent": 3.125
+                    },
+                    {
+                        "field_value": "318",
+                        "row_count": 1,
+                        "ratio_percent": 3.125
+                    }
+                ]
+            }
+        ]
+    }
+]

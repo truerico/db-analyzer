@@ -1,0 +1,47 @@
+@startjson
+{
+    "field1": "addressLine1",
+    "combination": "addressLine1",
+    "null_distribution": {
+        "total_null_rows": 0,
+        "total_not_null_rows": 7
+    },
+    "data_distribution": [
+        {
+            "field_value": "523 East 53rd Street",
+            "row_count": 1,
+            "ratio_percent": 14.285714285714286
+        },
+        {
+            "field_value": "1550 Court Place",
+            "row_count": 1,
+            "ratio_percent": 14.285714285714286
+        },
+        {
+            "field_value": "100 Market Street",
+            "row_count": 1,
+            "ratio_percent": 14.285714285714286
+        },
+        {
+            "field_value": "25 Old Broad Street",
+            "row_count": 1,
+            "ratio_percent": 14.285714285714286
+        },
+        {
+            "field_value": "5-11 Wentworth Avenue",
+            "row_count": 1,
+            "ratio_percent": 14.285714285714286
+        },
+        {
+            "field_value": "4-1 Kioicho",
+            "row_count": 1,
+            "ratio_percent": 14.285714285714286
+        },
+        {
+            "field_value": "43 Rue Jouffroy D'abbans",
+            "row_count": 1,
+            "ratio_percent": 14.285714285714286
+        }
+    ]
+}
+@endjson

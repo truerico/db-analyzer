@@ -1,0 +1,12 @@
+[
+    {
+        "table_schema": "classicmodels",
+        "storage_engine": "InnoDB",
+        "total_indexes": 7,
+        "total_tables": 8,
+        "total_rows": 3864,
+        "data_size_kb": "352.0000",
+        "index_size_kb": "160.0000",
+        "total_size_kb": "512.0000"
+    }
+]

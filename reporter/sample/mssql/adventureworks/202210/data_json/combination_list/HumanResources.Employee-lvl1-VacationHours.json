@@ -1,0 +1,62 @@
+@startjson
+{
+    "field1": "VacationHours",
+    "combination": "VacationHours",
+    "null_distribution": {
+        "total_null_rows": 0,
+        "total_not_null_rows": 290
+    },
+    "data_distribution": [
+        {
+            "field_value": "48",
+            "row_count": 4,
+            "ratio_percent": 1.3793103448275863
+        },
+        {
+            "field_value": "14",
+            "row_count": 3,
+            "ratio_percent": 1.0344827586206897
+        },
+        {
+            "field_value": "10",
+            "row_count": 3,
+            "ratio_percent": 1.0344827586206897
+        },
+        {
+            "field_value": "1",
+            "row_count": 3,
+            "ratio_percent": 1.0344827586206897
+        },
+        {
+            "field_value": "0",
+            "row_count": 3,
+            "ratio_percent": 1.0344827586206897
+        },
+        {
+            "field_value": "16",
+            "row_count": 3,
+            "ratio_percent": 1.0344827586206897
+        },
+        {
+            "field_value": "2",
+            "row_count": 3,
+            "ratio_percent": 1.0344827586206897
+        },
+        {
+            "field_value": "20",
+            "row_count": 3,
+            "ratio_percent": 1.0344827586206897
+        },
+        {
+            "field_value": "21",
+            "row_count": 3,
+            "ratio_percent": 1.0344827586206897
+        },
+        {
+            "field_value": "22",
+            "row_count": 3,
+            "ratio_percent": 1.0344827586206897
+        }
+    ]
+}
+@endjson

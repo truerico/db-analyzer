@@ -1,0 +1,37 @@
+@startjson
+{
+    "field1": "ShipMethodID",
+    "combination": "ShipMethodID",
+    "null_distribution": {
+        "total_null_rows": 0,
+        "total_not_null_rows": 4012
+    },
+    "data_distribution": [
+        {
+            "field_value": "5",
+            "row_count": 1523,
+            "ratio_percent": 37.96111665004985
+        },
+        {
+            "field_value": "4",
+            "row_count": 1085,
+            "ratio_percent": 27.043868394815554
+        },
+        {
+            "field_value": "2",
+            "row_count": 655,
+            "ratio_percent": 16.326021934197406
+        },
+        {
+            "field_value": "1",
+            "row_count": 589,
+            "ratio_percent": 14.680957128614157
+        },
+        {
+            "field_value": "3",
+            "row_count": 160,
+            "ratio_percent": 3.988035892323031
+        }
+    ]
+}
+@endjson

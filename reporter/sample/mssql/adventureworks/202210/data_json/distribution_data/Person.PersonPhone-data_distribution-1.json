@@ -1,0 +1,193 @@
+[
+    {
+        "table": "Person.PersonPhone",
+        "total_records": 19972,
+        "dataset": [
+            {
+                "field": "BusinessEntityID",
+                "distribution": [
+                    {
+                        "field_value": "10007",
+                        "row_count": 1,
+                        "ratio_percent": 0.005007009813739235
+                    },
+                    {
+                        "field_value": "10006",
+                        "row_count": 1,
+                        "ratio_percent": 0.005007009813739235
+                    },
+                    {
+                        "field_value": "10005",
+                        "row_count": 1,
+                        "ratio_percent": 0.005007009813739235
+                    },
+                    {
+                        "field_value": "10004",
+                        "row_count": 1,
+                        "ratio_percent": 0.005007009813739235
+                    },
+                    {
+                        "field_value": "10003",
+                        "row_count": 1,
+                        "ratio_percent": 0.005007009813739235
+                    },
+                    {
+                        "field_value": "10002",
+                        "row_count": 1,
+                        "ratio_percent": 0.005007009813739235
+                    },
+                    {
+                        "field_value": "10001",
+                        "row_count": 1,
+                        "ratio_percent": 0.005007009813739235
+                    },
+                    {
+                        "field_value": "10000",
+                        "row_count": 1,
+                        "ratio_percent": 0.005007009813739235
+                    },
+                    {
+                        "field_value": "100",
+                        "row_count": 1,
+                        "ratio_percent": 0.005007009813739235
+                    },
+                    {
+                        "field_value": "10",
+                        "row_count": 1,
+                        "ratio_percent": 0.005007009813739235
+                    }
+                ]
+            },
+            {
+                "field": "ModifiedDate",
+                "distribution": [
+                    {
+                        "field_value": "Jul 31 2013 12:00AM",
+                        "row_count": 136,
+                        "ratio_percent": 0.6809533346685359
+                    },
+                    {
+                        "field_value": "Jun 30 2013 12:00AM",
+                        "row_count": 127,
+                        "ratio_percent": 0.6358902463448828
+                    },
+                    {
+                        "field_value": "Jun 30 2012 12:00AM",
+                        "row_count": 101,
+                        "ratio_percent": 0.5057079911876627
+                    },
+                    {
+                        "field_value": "Jul  1 2011 12:00AM",
+                        "row_count": 92,
+                        "ratio_percent": 0.4606449028640096
+                    },
+                    {
+                        "field_value": "Jul 31 2012 12:00AM",
+                        "row_count": 81,
+                        "ratio_percent": 0.40556779491287803
+                    },
+                    {
+                        "field_value": "Aug  1 2011 12:00AM",
+                        "row_count": 75,
+                        "ratio_percent": 0.37552573603044265
+                    },
+                    {
+                        "field_value": "May 30 2012 12:00AM",
+                        "row_count": 61,
+                        "ratio_percent": 0.3054275986380933
+                    },
+                    {
+                        "field_value": "Jul  7 2013 12:00AM",
+                        "row_count": 56,
+                        "ratio_percent": 0.28039254956939713
+                    },
+                    {
+                        "field_value": "May 14 2014 12:00AM",
+                        "row_count": 56,
+                        "ratio_percent": 0.28039254956939713
+                    },
+                    {
+                        "field_value": "Jul 18 2013 12:00AM",
+                        "row_count": 54,
+                        "ratio_percent": 0.2703785299419187
+                    }
+                ]
+            },
+            {
+                "field": "PhoneNumber",
+                "distribution": [
+                    {
+                        "field_value": "1 (11) 500 555-0118",
+                        "row_count": 209,
+                        "ratio_percent": 1.0464650510715001
+                    },
+                    {
+                        "field_value": "1 (11) 500 555-0113",
+                        "row_count": 192,
+                        "ratio_percent": 0.9613458842379331
+                    },
+                    {
+                        "field_value": "1 (11) 500 555-0116",
+                        "row_count": 192,
+                        "ratio_percent": 0.9613458842379331
+                    },
+                    {
+                        "field_value": "1 (11) 500 555-0115",
+                        "row_count": 187,
+                        "ratio_percent": 0.936310835169237
+                    },
+                    {
+                        "field_value": "1 (11) 500 555-0114",
+                        "row_count": 186,
+                        "ratio_percent": 0.9313038253554977
+                    },
+                    {
+                        "field_value": "1 (11) 500 555-0112",
+                        "row_count": 185,
+                        "ratio_percent": 0.9262968155417585
+                    },
+                    {
+                        "field_value": "1 (11) 500 555-0119",
+                        "row_count": 182,
+                        "ratio_percent": 0.9112757861005407
+                    },
+                    {
+                        "field_value": "1 (11) 500 555-0117",
+                        "row_count": 182,
+                        "ratio_percent": 0.9112757861005407
+                    },
+                    {
+                        "field_value": "1 (11) 500 555-0111",
+                        "row_count": 180,
+                        "ratio_percent": 0.9012617664730623
+                    },
+                    {
+                        "field_value": "1 (11) 500 555-0110",
+                        "row_count": 135,
+                        "ratio_percent": 0.6759463248547967
+                    }
+                ]
+            },
+            {
+                "field": "PhoneNumberTypeID",
+                "distribution": [
+                    {
+                        "field_value": "1",
+                        "row_count": 10096,
+                        "ratio_percent": 50.550771079511314
+                    },
+                    {
+                        "field_value": "2",
+                        "row_count": 9140,
+                        "ratio_percent": 45.76406969757661
+                    },
+                    {
+                        "field_value": "3",
+                        "row_count": 736,
+                        "ratio_percent": 3.685159222912077
+                    }
+                ]
+            }
+        ]
+    }
+]

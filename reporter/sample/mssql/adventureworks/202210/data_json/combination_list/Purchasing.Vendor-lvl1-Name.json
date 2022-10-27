@@ -1,0 +1,62 @@
+@startjson
+{
+    "field1": "Name",
+    "combination": "Name",
+    "null_distribution": {
+        "total_null_rows": 0,
+        "total_not_null_rows": 104
+    },
+    "data_distribution": [
+        {
+            "field_value": "Bicycle Specialists",
+            "row_count": 1,
+            "ratio_percent": 0.9615384615384616
+        },
+        {
+            "field_value": "Bergeron Off-Roads",
+            "row_count": 1,
+            "ratio_percent": 0.9615384615384616
+        },
+        {
+            "field_value": "Beaumont Bikes",
+            "row_count": 1,
+            "ratio_percent": 0.9615384615384616
+        },
+        {
+            "field_value": "Australia Bike Retailer",
+            "row_count": 1,
+            "ratio_percent": 0.9615384615384616
+        },
+        {
+            "field_value": "Aurora Bike Center",
+            "row_count": 1,
+            "ratio_percent": 0.9615384615384616
+        },
+        {
+            "field_value": "Anderson's Custom Bikes",
+            "row_count": 1,
+            "ratio_percent": 0.9615384615384616
+        },
+        {
+            "field_value": "American Bikes",
+            "row_count": 1,
+            "ratio_percent": 0.9615384615384616
+        },
+        {
+            "field_value": "American Bicycles and Wheels",
+            "row_count": 1,
+            "ratio_percent": 0.9615384615384616
+        },
+        {
+            "field_value": "Allenson Cycles",
+            "row_count": 1,
+            "ratio_percent": 0.9615384615384616
+        },
+        {
+            "field_value": "Advanced Bicycles",
+            "row_count": 1,
+            "ratio_percent": 0.9615384615384616
+        }
+    ]
+}
+@endjson

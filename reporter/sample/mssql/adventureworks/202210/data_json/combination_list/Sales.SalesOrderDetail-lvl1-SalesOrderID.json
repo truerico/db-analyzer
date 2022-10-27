@@ -1,0 +1,62 @@
+@startjson
+{
+    "field1": "SalesOrderID",
+    "combination": "SalesOrderID",
+    "null_distribution": {
+        "total_null_rows": 0,
+        "total_not_null_rows": 121317
+    },
+    "data_distribution": [
+        {
+            "field_value": "51721",
+            "row_count": 72,
+            "ratio_percent": 0.059348648581814586
+        },
+        {
+            "field_value": "51739",
+            "row_count": 72,
+            "ratio_percent": 0.059348648581814586
+        },
+        {
+            "field_value": "51160",
+            "row_count": 71,
+            "ratio_percent": 0.05852436179595605
+        },
+        {
+            "field_value": "53465",
+            "row_count": 71,
+            "ratio_percent": 0.05852436179595605
+        },
+        {
+            "field_value": "47355",
+            "row_count": 68,
+            "ratio_percent": 0.05605150143838044
+        },
+        {
+            "field_value": "57046",
+            "row_count": 67,
+            "ratio_percent": 0.05522721465252191
+        },
+        {
+            "field_value": "51120",
+            "row_count": 67,
+            "ratio_percent": 0.05522721465252191
+        },
+        {
+            "field_value": "47395",
+            "row_count": 66,
+            "ratio_percent": 0.05440292786666337
+        },
+        {
+            "field_value": "55297",
+            "row_count": 66,
+            "ratio_percent": 0.05440292786666337
+        },
+        {
+            "field_value": "51090",
+            "row_count": 66,
+            "ratio_percent": 0.05440292786666337
+        }
+    ]
+}
+@endjson

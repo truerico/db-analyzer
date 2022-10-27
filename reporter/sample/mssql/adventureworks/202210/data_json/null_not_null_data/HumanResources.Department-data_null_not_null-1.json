@@ -1,0 +1,28 @@
+[
+    {
+        "table": "HumanResources.Department",
+        "total_records": 16,
+        "dataset": [
+            {
+                "field": "DepartmentID",
+                "total_null_rows": 0,
+                "total_not_null_rows": 16
+            },
+            {
+                "field": "GroupName",
+                "total_null_rows": 0,
+                "total_not_null_rows": 16
+            },
+            {
+                "field": "ModifiedDate",
+                "total_null_rows": 0,
+                "total_not_null_rows": 16
+            },
+            {
+                "field": "Name",
+                "total_null_rows": 0,
+                "total_not_null_rows": 16
+            }
+        ]
+    }
+]

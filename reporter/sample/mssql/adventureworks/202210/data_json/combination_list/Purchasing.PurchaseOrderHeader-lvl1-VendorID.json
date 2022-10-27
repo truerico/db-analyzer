@@ -1,0 +1,62 @@
+@startjson
+{
+    "field1": "VendorID",
+    "combination": "VendorID",
+    "null_distribution": {
+        "total_null_rows": 0,
+        "total_not_null_rows": 4012
+    },
+    "data_distribution": [
+        {
+            "field_value": "1510",
+            "row_count": 51,
+            "ratio_percent": 1.271186440677966
+        },
+        {
+            "field_value": "1508",
+            "row_count": 51,
+            "ratio_percent": 1.271186440677966
+        },
+        {
+            "field_value": "1506",
+            "row_count": 51,
+            "ratio_percent": 1.271186440677966
+        },
+        {
+            "field_value": "1504",
+            "row_count": 51,
+            "ratio_percent": 1.271186440677966
+        },
+        {
+            "field_value": "1496",
+            "row_count": 51,
+            "ratio_percent": 1.271186440677966
+        },
+        {
+            "field_value": "1494",
+            "row_count": 51,
+            "ratio_percent": 1.271186440677966
+        },
+        {
+            "field_value": "1492",
+            "row_count": 51,
+            "ratio_percent": 1.271186440677966
+        },
+        {
+            "field_value": "1516",
+            "row_count": 51,
+            "ratio_percent": 1.271186440677966
+        },
+        {
+            "field_value": "1522",
+            "row_count": 51,
+            "ratio_percent": 1.271186440677966
+        },
+        {
+            "field_value": "1526",
+            "row_count": 51,
+            "ratio_percent": 1.271186440677966
+        }
+    ]
+}
+@endjson

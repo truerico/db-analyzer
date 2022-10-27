@@ -1,0 +1,47 @@
+@startjson
+{
+    "field1": "Suffix",
+    "combination": "Suffix",
+    "null_distribution": {
+        "total_null_rows": 19919,
+        "total_not_null_rows": 53
+    },
+    "data_distribution": [
+        {
+            "field_value": "**NULL**",
+            "row_count": 19919,
+            "ratio_percent": 99.73462847987182
+        },
+        {
+            "field_value": "Jr.",
+            "row_count": 33,
+            "ratio_percent": 0.16523132385339476
+        },
+        {
+            "field_value": "II",
+            "row_count": 6,
+            "ratio_percent": 0.03004205888243541
+        },
+        {
+            "field_value": "Sr.",
+            "row_count": 6,
+            "ratio_percent": 0.03004205888243541
+        },
+        {
+            "field_value": "III",
+            "row_count": 3,
+            "ratio_percent": 0.015021029441217705
+        },
+        {
+            "field_value": "IV",
+            "row_count": 3,
+            "ratio_percent": 0.015021029441217705
+        },
+        {
+            "field_value": "PhD",
+            "row_count": 2,
+            "ratio_percent": 0.01001401962747847
+        }
+    ]
+}
+@endjson

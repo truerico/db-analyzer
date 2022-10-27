@@ -1,0 +1,47 @@
+@startjson
+{
+    "field1": "phone",
+    "combination": "phone",
+    "null_distribution": {
+        "total_null_rows": 0,
+        "total_not_null_rows": 7
+    },
+    "data_distribution": [
+        {
+            "field_value": "+1 212 555 3000",
+            "row_count": 1,
+            "ratio_percent": 14.285714285714286
+        },
+        {
+            "field_value": "+1 215 837 0825",
+            "row_count": 1,
+            "ratio_percent": 14.285714285714286
+        },
+        {
+            "field_value": "+1 650 219 4782",
+            "row_count": 1,
+            "ratio_percent": 14.285714285714286
+        },
+        {
+            "field_value": "+44 20 7877 2041",
+            "row_count": 1,
+            "ratio_percent": 14.285714285714286
+        },
+        {
+            "field_value": "+61 2 9264 2451",
+            "row_count": 1,
+            "ratio_percent": 14.285714285714286
+        },
+        {
+            "field_value": "+81 33 224 5000",
+            "row_count": 1,
+            "ratio_percent": 14.285714285714286
+        },
+        {
+            "field_value": "+33 14 723 4404",
+            "row_count": 1,
+            "ratio_percent": 14.285714285714286
+        }
+    ]
+}
+@endjson

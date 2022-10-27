@@ -1,0 +1,592 @@
+[
+    {
+        "attribute_type": "config",
+        "attribute_name": "access check cache bucket count",
+        "attribute_value": "0"
+    },
+    {
+        "attribute_type": "config",
+        "attribute_name": "access check cache quota",
+        "attribute_value": "0"
+    },
+    {
+        "attribute_type": "config",
+        "attribute_name": "Ad Hoc Distributed Queries",
+        "attribute_value": "0"
+    },
+    {
+        "attribute_type": "config",
+        "attribute_name": "affinity I/O mask",
+        "attribute_value": "0"
+    },
+    {
+        "attribute_type": "config",
+        "attribute_name": "affinity mask",
+        "attribute_value": "0"
+    },
+    {
+        "attribute_type": "config",
+        "attribute_name": "affinity64 I/O mask",
+        "attribute_value": "0"
+    },
+    {
+        "attribute_type": "config",
+        "attribute_name": "affinity64 mask",
+        "attribute_value": "0"
+    },
+    {
+        "attribute_type": "config",
+        "attribute_name": "Agent XPs",
+        "attribute_value": "1"
+    },
+    {
+        "attribute_type": "config",
+        "attribute_name": "allow polybase export",
+        "attribute_value": "0"
+    },
+    {
+        "attribute_type": "config",
+        "attribute_name": "allow updates",
+        "attribute_value": "0"
+    },
+    {
+        "attribute_type": "config",
+        "attribute_name": "automatic soft-NUMA disabled",
+        "attribute_value": "0"
+    },
+    {
+        "attribute_type": "config",
+        "attribute_name": "backup checksum default",
+        "attribute_value": "0"
+    },
+    {
+        "attribute_type": "config",
+        "attribute_name": "backup compression default",
+        "attribute_value": "0"
+    },
+    {
+        "attribute_type": "config",
+        "attribute_name": "blocked process threshold (s)",
+        "attribute_value": "0"
+    },
+    {
+        "attribute_type": "config",
+        "attribute_name": "c2 audit mode",
+        "attribute_value": "0"
+    },
+    {
+        "attribute_type": "config",
+        "attribute_name": "clr enabled",
+        "attribute_value": "0"
+    },
+    {
+        "attribute_type": "config",
+        "attribute_name": "contained database authentication",
+        "attribute_value": "0"
+    },
+    {
+        "attribute_type": "config",
+        "attribute_name": "cost threshold for parallelism",
+        "attribute_value": "5"
+    },
+    {
+        "attribute_type": "config",
+        "attribute_name": "cross db ownership chaining",
+        "attribute_value": "0"
+    },
+    {
+        "attribute_type": "config",
+        "attribute_name": "cursor threshold",
+        "attribute_value": "-1"
+    },
+    {
+        "attribute_type": "config",
+        "attribute_name": "Database Mail XPs",
+        "attribute_value": "0"
+    },
+    {
+        "attribute_type": "config",
+        "attribute_name": "default full-text language",
+        "attribute_value": "1033"
+    },
+    {
+        "attribute_type": "config",
+        "attribute_name": "default language",
+        "attribute_value": "0"
+    },
+    {
+        "attribute_type": "config",
+        "attribute_name": "default trace enabled",
+        "attribute_value": "1"
+    },
+    {
+        "attribute_type": "config",
+        "attribute_name": "disallow results from triggers",
+        "attribute_value": "0"
+    },
+    {
+        "attribute_type": "config",
+        "attribute_name": "external scripts enabled",
+        "attribute_value": "0"
+    },
+    {
+        "attribute_type": "config",
+        "attribute_name": "filestream access level",
+        "attribute_value": "0"
+    },
+    {
+        "attribute_type": "config",
+        "attribute_name": "fill factor (%)",
+        "attribute_value": "0"
+    },
+    {
+        "attribute_type": "config",
+        "attribute_name": "ft crawl bandwidth (max)",
+        "attribute_value": "100"
+    },
+    {
+        "attribute_type": "config",
+        "attribute_name": "ft crawl bandwidth (min)",
+        "attribute_value": "0"
+    },
+    {
+        "attribute_type": "config",
+        "attribute_name": "ft notify bandwidth (max)",
+        "attribute_value": "100"
+    },
+    {
+        "attribute_type": "config",
+        "attribute_name": "ft notify bandwidth (min)",
+        "attribute_value": "0"
+    },
+    {
+        "attribute_type": "config",
+        "attribute_name": "hadoop connectivity",
+        "attribute_value": "0"
+    },
+    {
+        "attribute_type": "config",
+        "attribute_name": "in-doubt xact resolution",
+        "attribute_value": "0"
+    },
+    {
+        "attribute_type": "config",
+        "attribute_name": "index create memory (KB)",
+        "attribute_value": "0"
+    },
+    {
+        "attribute_type": "config",
+        "attribute_name": "lightweight pooling",
+        "attribute_value": "0"
+    },
+    {
+        "attribute_type": "config",
+        "attribute_name": "locks",
+        "attribute_value": "0"
+    },
+    {
+        "attribute_type": "config",
+        "attribute_name": "max degree of parallelism",
+        "attribute_value": "0"
+    },
+    {
+        "attribute_type": "config",
+        "attribute_name": "max full-text crawl range",
+        "attribute_value": "4"
+    },
+    {
+        "attribute_type": "config",
+        "attribute_name": "max server memory (MB)",
+        "attribute_value": "2147483647"
+    },
+    {
+        "attribute_type": "config",
+        "attribute_name": "max text repl size (B)",
+        "attribute_value": "65536"
+    },
+    {
+        "attribute_type": "config",
+        "attribute_name": "max worker threads",
+        "attribute_value": "0"
+    },
+    {
+        "attribute_type": "config",
+        "attribute_name": "media retention",
+        "attribute_value": "0"
+    },
+    {
+        "attribute_type": "config",
+        "attribute_name": "min memory per query (KB)",
+        "attribute_value": "1024"
+    },
+    {
+        "attribute_type": "config",
+        "attribute_name": "min server memory (MB)",
+        "attribute_value": "16"
+    },
+    {
+        "attribute_type": "config",
+        "attribute_name": "nested triggers",
+        "attribute_value": "1"
+    },
+    {
+        "attribute_type": "config",
+        "attribute_name": "network packet size (B)",
+        "attribute_value": "4096"
+    },
+    {
+        "attribute_type": "config",
+        "attribute_name": "Ole Automation Procedures",
+        "attribute_value": "0"
+    },
+    {
+        "attribute_type": "config",
+        "attribute_name": "open objects",
+        "attribute_value": "0"
+    },
+    {
+        "attribute_type": "config",
+        "attribute_name": "optimize for ad hoc workloads",
+        "attribute_value": "0"
+    },
+    {
+        "attribute_type": "config",
+        "attribute_name": "PH timeout (s)",
+        "attribute_value": "60"
+    },
+    {
+        "attribute_type": "config",
+        "attribute_name": "polybase network encryption",
+        "attribute_value": "1"
+    },
+    {
+        "attribute_type": "config",
+        "attribute_name": "precompute rank",
+        "attribute_value": "0"
+    },
+    {
+        "attribute_type": "config",
+        "attribute_name": "priority boost",
+        "attribute_value": "0"
+    },
+    {
+        "attribute_type": "config",
+        "attribute_name": "query governor cost limit",
+        "attribute_value": "0"
+    },
+    {
+        "attribute_type": "config",
+        "attribute_name": "query wait (s)",
+        "attribute_value": "-1"
+    },
+    {
+        "attribute_type": "config",
+        "attribute_name": "recovery interval (min)",
+        "attribute_value": "0"
+    },
+    {
+        "attribute_type": "config",
+        "attribute_name": "remote access",
+        "attribute_value": "1"
+    },
+    {
+        "attribute_type": "config",
+        "attribute_name": "remote admin connections",
+        "attribute_value": "0"
+    },
+    {
+        "attribute_type": "config",
+        "attribute_name": "remote data archive",
+        "attribute_value": "0"
+    },
+    {
+        "attribute_type": "config",
+        "attribute_name": "remote login timeout (s)",
+        "attribute_value": "10"
+    },
+    {
+        "attribute_type": "config",
+        "attribute_name": "remote proc trans",
+        "attribute_value": "0"
+    },
+    {
+        "attribute_type": "config",
+        "attribute_name": "remote query timeout (s)",
+        "attribute_value": "600"
+    },
+    {
+        "attribute_type": "config",
+        "attribute_name": "Replication XPs",
+        "attribute_value": "0"
+    },
+    {
+        "attribute_type": "config",
+        "attribute_name": "scan for startup procs",
+        "attribute_value": "0"
+    },
+    {
+        "attribute_type": "config",
+        "attribute_name": "server trigger recursion",
+        "attribute_value": "1"
+    },
+    {
+        "attribute_type": "config",
+        "attribute_name": "set working set size",
+        "attribute_value": "0"
+    },
+    {
+        "attribute_type": "config",
+        "attribute_name": "show advanced options",
+        "attribute_value": "0"
+    },
+    {
+        "attribute_type": "config",
+        "attribute_name": "SMO and DMO XPs",
+        "attribute_value": "1"
+    },
+    {
+        "attribute_type": "config",
+        "attribute_name": "transform noise words",
+        "attribute_value": "0"
+    },
+    {
+        "attribute_type": "config",
+        "attribute_name": "two digit year cutoff",
+        "attribute_value": "2049"
+    },
+    {
+        "attribute_type": "config",
+        "attribute_name": "user connections",
+        "attribute_value": "0"
+    },
+    {
+        "attribute_type": "config",
+        "attribute_name": "user options",
+        "attribute_value": "0"
+    },
+    {
+        "attribute_type": "config",
+        "attribute_name": "xp_cmdshell",
+        "attribute_value": "0"
+    },
+    {
+        "attribute_type": "property",
+        "attribute_name": "BuildClrVersion",
+        "attribute_value": "v4.0.30319"
+    },
+    {
+        "attribute_type": "property",
+        "attribute_name": "Collation",
+        "attribute_value": "SQL_Latin1_General_CP1_CI_AI"
+    },
+    {
+        "attribute_type": "property",
+        "attribute_name": "CollationID",
+        "attribute_value": "906031112"
+    },
+    {
+        "attribute_type": "property",
+        "attribute_name": "ComparisonStyle",
+        "attribute_value": "196611"
+    },
+    {
+        "attribute_type": "property",
+        "attribute_name": "ComputerNamePhysicalNetBIOS",
+        "attribute_value": "ODSDB-TEST"
+    },
+    {
+        "attribute_type": "property",
+        "attribute_name": "Edition",
+        "attribute_value": "Standard Edition (64-bit)"
+    },
+    {
+        "attribute_type": "property",
+        "attribute_name": "EditionID",
+        "attribute_value": "-1534726760"
+    },
+    {
+        "attribute_type": "property",
+        "attribute_name": "EngineEdition",
+        "attribute_value": "2"
+    },
+    {
+        "attribute_type": "property",
+        "attribute_name": "FilestreamConfiguredLevel",
+        "attribute_value": "0"
+    },
+    {
+        "attribute_type": "property",
+        "attribute_name": "FilestreamEffectiveLevel",
+        "attribute_value": "0"
+    },
+    {
+        "attribute_type": "property",
+        "attribute_name": "FilestreamShareName",
+        "attribute_value": "MSSQLSERVER"
+    },
+    {
+        "attribute_type": "property",
+        "attribute_name": "HadrManagerStatus",
+        "attribute_value": "2"
+    },
+    {
+        "attribute_type": "property",
+        "attribute_name": "InstanceDefaultDataPath",
+        "attribute_value": "E:\\MSSQL_DATA\\"
+    },
+    {
+        "attribute_type": "property",
+        "attribute_name": "InstanceDefaultLogPath",
+        "attribute_value": "F:\\MSSQL_LOG\\"
+    },
+    {
+        "attribute_type": "property",
+        "attribute_name": "InstanceName",
+        "attribute_value": null
+    },
+    {
+        "attribute_type": "property",
+        "attribute_name": "IsAdvancedAnalyticsInstalled",
+        "attribute_value": "1"
+    },
+    {
+        "attribute_type": "property",
+        "attribute_name": "IsClustered",
+        "attribute_value": "0"
+    },
+    {
+        "attribute_type": "property",
+        "attribute_name": "IsFullTextInstalled",
+        "attribute_value": "1"
+    },
+    {
+        "attribute_type": "property",
+        "attribute_name": "IsHadrEnabled",
+        "attribute_value": "0"
+    },
+    {
+        "attribute_type": "property",
+        "attribute_name": "IsIntegratedSecurityOnly",
+        "attribute_value": "0"
+    },
+    {
+        "attribute_type": "property",
+        "attribute_name": "IsLocalDB",
+        "attribute_value": "0"
+    },
+    {
+        "attribute_type": "property",
+        "attribute_name": "IsPolyBaseInstalled",
+        "attribute_value": "0"
+    },
+    {
+        "attribute_type": "property",
+        "attribute_name": "IsSingleUser",
+        "attribute_value": "0"
+    },
+    {
+        "attribute_type": "property",
+        "attribute_name": "IsXTPSupported",
+        "attribute_value": "0"
+    },
+    {
+        "attribute_type": "property",
+        "attribute_name": "LCID",
+        "attribute_value": "1033"
+    },
+    {
+        "attribute_type": "property",
+        "attribute_name": "LicenseType",
+        "attribute_value": "DISABLED"
+    },
+    {
+        "attribute_type": "property",
+        "attribute_name": "MachineName",
+        "attribute_value": "ODSDB-TEST"
+    },
+    {
+        "attribute_type": "property",
+        "attribute_name": "NumLicenses",
+        "attribute_value": null
+    },
+    {
+        "attribute_type": "property",
+        "attribute_name": "ProcessID",
+        "attribute_value": "1928"
+    },
+    {
+        "attribute_type": "property",
+        "attribute_name": "ProductBuild",
+        "attribute_value": "1742"
+    },
+    {
+        "attribute_type": "property",
+        "attribute_name": "ProductBuildType",
+        "attribute_value": "GDR"
+    },
+    {
+        "attribute_type": "property",
+        "attribute_name": "ProductLevel",
+        "attribute_value": "RTM"
+    },
+    {
+        "attribute_type": "property",
+        "attribute_name": "ProductMajorVersion",
+        "attribute_value": "13"
+    },
+    {
+        "attribute_type": "property",
+        "attribute_name": "ProductMinorVersion",
+        "attribute_value": "0"
+    },
+    {
+        "attribute_type": "property",
+        "attribute_name": "ProductUpdateLevel",
+        "attribute_value": null
+    },
+    {
+        "attribute_type": "property",
+        "attribute_name": "ProductUpdateReference",
+        "attribute_value": "KB4019088"
+    },
+    {
+        "attribute_type": "property",
+        "attribute_name": "ProductVersion",
+        "attribute_value": "13.0.1742.0"
+    },
+    {
+        "attribute_type": "property",
+        "attribute_name": "ResourceLastUpdateDateTime",
+        "attribute_value": "Jul  6 2017  1:03AM"
+    },
+    {
+        "attribute_type": "property",
+        "attribute_name": "ResourceVersion",
+        "attribute_value": "13.00.1742"
+    },
+    {
+        "attribute_type": "property",
+        "attribute_name": "ServerName",
+        "attribute_value": "ODSDB-TEST"
+    },
+    {
+        "attribute_type": "property",
+        "attribute_name": "SqlCharSet",
+        "attribute_value": "1"
+    },
+    {
+        "attribute_type": "property",
+        "attribute_name": "SqlCharSetName",
+        "attribute_value": "iso_1"
+    },
+    {
+        "attribute_type": "property",
+        "attribute_name": "SqlSortOrder",
+        "attribute_value": "54"
+    },
+    {
+        "attribute_type": "property",
+        "attribute_name": "SqlSortOrderName",
+        "attribute_value": "noaccents_iso"
+    }
+]

@@ -1,0 +1,288 @@
+[
+    {
+        "table": "HumanResources.EmployeeDepartmentHistory",
+        "total_records": 296,
+        "dataset": [
+            {
+                "field": "BusinessEntityID",
+                "distribution": [
+                    {
+                        "field_value": "250",
+                        "row_count": 3,
+                        "ratio_percent": 1.0135135135135136
+                    },
+                    {
+                        "field_value": "16",
+                        "row_count": 2,
+                        "ratio_percent": 0.6756756756756757
+                    },
+                    {
+                        "field_value": "224",
+                        "row_count": 2,
+                        "ratio_percent": 0.6756756756756757
+                    },
+                    {
+                        "field_value": "234",
+                        "row_count": 2,
+                        "ratio_percent": 0.6756756756756757
+                    },
+                    {
+                        "field_value": "4",
+                        "row_count": 2,
+                        "ratio_percent": 0.6756756756756757
+                    },
+                    {
+                        "field_value": "108",
+                        "row_count": 1,
+                        "ratio_percent": 0.33783783783783783
+                    },
+                    {
+                        "field_value": "107",
+                        "row_count": 1,
+                        "ratio_percent": 0.33783783783783783
+                    },
+                    {
+                        "field_value": "106",
+                        "row_count": 1,
+                        "ratio_percent": 0.33783783783783783
+                    },
+                    {
+                        "field_value": "105",
+                        "row_count": 1,
+                        "ratio_percent": 0.33783783783783783
+                    },
+                    {
+                        "field_value": "104",
+                        "row_count": 1,
+                        "ratio_percent": 0.33783783783783783
+                    }
+                ]
+            },
+            {
+                "field": "DepartmentID",
+                "distribution": [
+                    {
+                        "field_value": "7",
+                        "row_count": 180,
+                        "ratio_percent": 60.810810810810814
+                    },
+                    {
+                        "field_value": "3",
+                        "row_count": 18,
+                        "ratio_percent": 6.081081081081081
+                    },
+                    {
+                        "field_value": "5",
+                        "row_count": 13,
+                        "ratio_percent": 4.391891891891892
+                    },
+                    {
+                        "field_value": "10",
+                        "row_count": 11,
+                        "ratio_percent": 3.7162162162162162
+                    },
+                    {
+                        "field_value": "4",
+                        "row_count": 10,
+                        "ratio_percent": 3.3783783783783785
+                    },
+                    {
+                        "field_value": "11",
+                        "row_count": 10,
+                        "ratio_percent": 3.3783783783783785
+                    },
+                    {
+                        "field_value": "1",
+                        "row_count": 7,
+                        "ratio_percent": 2.364864864864865
+                    },
+                    {
+                        "field_value": "14",
+                        "row_count": 7,
+                        "ratio_percent": 2.364864864864865
+                    },
+                    {
+                        "field_value": "13",
+                        "row_count": 7,
+                        "ratio_percent": 2.364864864864865
+                    },
+                    {
+                        "field_value": "15",
+                        "row_count": 6,
+                        "ratio_percent": 2.027027027027027
+                    }
+                ]
+            },
+            {
+                "field": "EndDate",
+                "distribution": [
+                    {
+                        "field_value": "**NULL**",
+                        "row_count": 290,
+                        "ratio_percent": 97.97297297297297
+                    },
+                    {
+                        "field_value": "2013-11-13",
+                        "row_count": 1,
+                        "ratio_percent": 0.33783783783783783
+                    },
+                    {
+                        "field_value": "2012-07-14",
+                        "row_count": 1,
+                        "ratio_percent": 0.33783783783783783
+                    },
+                    {
+                        "field_value": "2011-08-31",
+                        "row_count": 1,
+                        "ratio_percent": 0.33783783783783783
+                    },
+                    {
+                        "field_value": "2011-07-30",
+                        "row_count": 1,
+                        "ratio_percent": 0.33783783783783783
+                    },
+                    {
+                        "field_value": "2010-05-30",
+                        "row_count": 1,
+                        "ratio_percent": 0.33783783783783783
+                    },
+                    {
+                        "field_value": "2009-07-14",
+                        "row_count": 1,
+                        "ratio_percent": 0.33783783783783783
+                    }
+                ]
+            },
+            {
+                "field": "ModifiedDate",
+                "distribution": [
+                    {
+                        "field_value": "May 30 2011 12:00AM",
+                        "row_count": 9,
+                        "ratio_percent": 3.0405405405405403
+                    },
+                    {
+                        "field_value": "Dec  6 2008 12:00AM",
+                        "row_count": 5,
+                        "ratio_percent": 1.6891891891891893
+                    },
+                    {
+                        "field_value": "Feb  7 2009 12:00AM",
+                        "row_count": 5,
+                        "ratio_percent": 1.6891891891891893
+                    },
+                    {
+                        "field_value": "Feb 25 2009 12:00AM",
+                        "row_count": 5,
+                        "ratio_percent": 1.6891891891891893
+                    },
+                    {
+                        "field_value": "Dec 11 2008 12:00AM",
+                        "row_count": 4,
+                        "ratio_percent": 1.3513513513513513
+                    },
+                    {
+                        "field_value": "Jan  3 2009 12:00AM",
+                        "row_count": 4,
+                        "ratio_percent": 1.3513513513513513
+                    },
+                    {
+                        "field_value": "Jan 11 2009 12:00AM",
+                        "row_count": 4,
+                        "ratio_percent": 1.3513513513513513
+                    },
+                    {
+                        "field_value": "Jan 21 2009 12:00AM",
+                        "row_count": 4,
+                        "ratio_percent": 1.3513513513513513
+                    },
+                    {
+                        "field_value": "Dec  1 2008 12:00AM",
+                        "row_count": 3,
+                        "ratio_percent": 1.0135135135135136
+                    },
+                    {
+                        "field_value": "Dec  3 2008 12:00AM",
+                        "row_count": 3,
+                        "ratio_percent": 1.0135135135135136
+                    }
+                ]
+            },
+            {
+                "field": "ShiftID",
+                "distribution": [
+                    {
+                        "field_value": "1",
+                        "row_count": 182,
+                        "ratio_percent": 61.486486486486484
+                    },
+                    {
+                        "field_value": "2",
+                        "row_count": 62,
+                        "ratio_percent": 20.945945945945947
+                    },
+                    {
+                        "field_value": "3",
+                        "row_count": 52,
+                        "ratio_percent": 17.56756756756757
+                    }
+                ]
+            },
+            {
+                "field": "StartDate",
+                "distribution": [
+                    {
+                        "field_value": "2011-05-31",
+                        "row_count": 9,
+                        "ratio_percent": 3.0405405405405403
+                    },
+                    {
+                        "field_value": "2008-12-07",
+                        "row_count": 5,
+                        "ratio_percent": 1.6891891891891893
+                    },
+                    {
+                        "field_value": "2009-02-08",
+                        "row_count": 5,
+                        "ratio_percent": 1.6891891891891893
+                    },
+                    {
+                        "field_value": "2009-02-26",
+                        "row_count": 5,
+                        "ratio_percent": 1.6891891891891893
+                    },
+                    {
+                        "field_value": "2008-12-12",
+                        "row_count": 4,
+                        "ratio_percent": 1.3513513513513513
+                    },
+                    {
+                        "field_value": "2009-01-04",
+                        "row_count": 4,
+                        "ratio_percent": 1.3513513513513513
+                    },
+                    {
+                        "field_value": "2009-01-12",
+                        "row_count": 4,
+                        "ratio_percent": 1.3513513513513513
+                    },
+                    {
+                        "field_value": "2009-01-22",
+                        "row_count": 4,
+                        "ratio_percent": 1.3513513513513513
+                    },
+                    {
+                        "field_value": "2008-12-02",
+                        "row_count": 3,
+                        "ratio_percent": 1.0135135135135136
+                    },
+                    {
+                        "field_value": "2008-12-04",
+                        "row_count": 3,
+                        "ratio_percent": 1.0135135135135136
+                    }
+                ]
+            }
+        ]
+    }
+]

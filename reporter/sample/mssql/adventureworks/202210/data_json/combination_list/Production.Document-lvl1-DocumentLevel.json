@@ -1,0 +1,27 @@
+@startjson
+{
+    "field1": "DocumentLevel",
+    "combination": "DocumentLevel",
+    "null_distribution": {
+        "total_null_rows": 0,
+        "total_not_null_rows": 13
+    },
+    "data_distribution": [
+        {
+            "field_value": "2",
+            "row_count": 9,
+            "ratio_percent": 69.23076923076923
+        },
+        {
+            "field_value": "1",
+            "row_count": 3,
+            "ratio_percent": 23.076923076923077
+        },
+        {
+            "field_value": "0",
+            "row_count": 1,
+            "ratio_percent": 7.6923076923076925
+        }
+    ]
+}
+@endjson

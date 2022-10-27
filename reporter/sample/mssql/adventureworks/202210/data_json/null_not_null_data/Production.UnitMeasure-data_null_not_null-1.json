@@ -1,0 +1,23 @@
+[
+    {
+        "table": "Production.UnitMeasure",
+        "total_records": 38,
+        "dataset": [
+            {
+                "field": "ModifiedDate",
+                "total_null_rows": 0,
+                "total_not_null_rows": 38
+            },
+            {
+                "field": "Name",
+                "total_null_rows": 0,
+                "total_not_null_rows": 38
+            },
+            {
+                "field": "UnitMeasureCode",
+                "total_null_rows": 0,
+                "total_not_null_rows": 38
+            }
+        ]
+    }
+]

@@ -1,0 +1,62 @@
+@startjson
+{
+    "field1": "Shelf",
+    "combination": "Shelf",
+    "null_distribution": {
+        "total_null_rows": 0,
+        "total_not_null_rows": 1069
+    },
+    "data_distribution": [
+        {
+            "field_value": "N/A",
+            "row_count": 290,
+            "ratio_percent": 27.128157156220766
+        },
+        {
+            "field_value": "G",
+            "row_count": 96,
+            "ratio_percent": 8.980355472404115
+        },
+        {
+            "field_value": "E",
+            "row_count": 85,
+            "ratio_percent": 7.951356407857811
+        },
+        {
+            "field_value": "A",
+            "row_count": 81,
+            "ratio_percent": 7.5771749298409725
+        },
+        {
+            "field_value": "R",
+            "row_count": 61,
+            "ratio_percent": 5.706267539756782
+        },
+        {
+            "field_value": "F",
+            "row_count": 59,
+            "ratio_percent": 5.519176800748363
+        },
+        {
+            "field_value": "C",
+            "row_count": 55,
+            "ratio_percent": 5.144995322731525
+        },
+        {
+            "field_value": "D",
+            "row_count": 50,
+            "ratio_percent": 4.677268475210477
+        },
+        {
+            "field_value": "U",
+            "row_count": 38,
+            "ratio_percent": 3.5547240411599628
+        },
+        {
+            "field_value": "H",
+            "row_count": 37,
+            "ratio_percent": 3.461178671655753
+        }
+    ]
+}
+@endjson

@@ -1,0 +1,168 @@
+[
+    {
+        "table": "Purchasing.ShipMethod",
+        "total_records": 5,
+        "dataset": [
+            {
+                "field": "ModifiedDate",
+                "distribution": [
+                    {
+                        "field_value": "Apr 30 2008 12:00AM",
+                        "row_count": 5,
+                        "ratio_percent": 100.0
+                    }
+                ]
+            },
+            {
+                "field": "Name",
+                "distribution": [
+                    {
+                        "field_value": "ZY - EXPRESS",
+                        "row_count": 1,
+                        "ratio_percent": 20.0
+                    },
+                    {
+                        "field_value": "XRQ - TRUCK GROUND",
+                        "row_count": 1,
+                        "ratio_percent": 20.0
+                    },
+                    {
+                        "field_value": "OVERSEAS - DELUXE",
+                        "row_count": 1,
+                        "ratio_percent": 20.0
+                    },
+                    {
+                        "field_value": "OVERNIGHT J-FAST",
+                        "row_count": 1,
+                        "ratio_percent": 20.0
+                    },
+                    {
+                        "field_value": "CARGO TRANSPORT 5",
+                        "row_count": 1,
+                        "ratio_percent": 20.0
+                    }
+                ]
+            },
+            {
+                "field": "ShipMethodID",
+                "distribution": [
+                    {
+                        "field_value": "5",
+                        "row_count": 1,
+                        "ratio_percent": 20.0
+                    },
+                    {
+                        "field_value": "4",
+                        "row_count": 1,
+                        "ratio_percent": 20.0
+                    },
+                    {
+                        "field_value": "3",
+                        "row_count": 1,
+                        "ratio_percent": 20.0
+                    },
+                    {
+                        "field_value": "2",
+                        "row_count": 1,
+                        "ratio_percent": 20.0
+                    },
+                    {
+                        "field_value": "1",
+                        "row_count": 1,
+                        "ratio_percent": 20.0
+                    }
+                ]
+            },
+            {
+                "field": "ShipBase",
+                "distribution": [
+                    {
+                        "field_value": "9.95",
+                        "row_count": 1,
+                        "ratio_percent": 20.0
+                    },
+                    {
+                        "field_value": "8.99",
+                        "row_count": 1,
+                        "ratio_percent": 20.0
+                    },
+                    {
+                        "field_value": "3.95",
+                        "row_count": 1,
+                        "ratio_percent": 20.0
+                    },
+                    {
+                        "field_value": "29.95",
+                        "row_count": 1,
+                        "ratio_percent": 20.0
+                    },
+                    {
+                        "field_value": "21.95",
+                        "row_count": 1,
+                        "ratio_percent": 20.0
+                    }
+                ]
+            },
+            {
+                "field": "ShipRate",
+                "distribution": [
+                    {
+                        "field_value": "2.99",
+                        "row_count": 1,
+                        "ratio_percent": 20.0
+                    },
+                    {
+                        "field_value": "1.99",
+                        "row_count": 1,
+                        "ratio_percent": 20.0
+                    },
+                    {
+                        "field_value": "1.49",
+                        "row_count": 1,
+                        "ratio_percent": 20.0
+                    },
+                    {
+                        "field_value": "1.29",
+                        "row_count": 1,
+                        "ratio_percent": 20.0
+                    },
+                    {
+                        "field_value": "0.99",
+                        "row_count": 1,
+                        "ratio_percent": 20.0
+                    }
+                ]
+            },
+            {
+                "field": "rowguid",
+                "distribution": [
+                    {
+                        "field_value": "B166019A-B134-4E76-B957-2B0490C610ED",
+                        "row_count": 1,
+                        "ratio_percent": 20.0
+                    },
+                    {
+                        "field_value": "6BE756D9-D7BE-4463-8F2C-AE60C710D606",
+                        "row_count": 1,
+                        "ratio_percent": 20.0
+                    },
+                    {
+                        "field_value": "3455079B-F773-4DC6-8F1E-2A58649C4AB8",
+                        "row_count": 1,
+                        "ratio_percent": 20.0
+                    },
+                    {
+                        "field_value": "22F4E461-28CF-4ACE-A980-F686CF112EC8",
+                        "row_count": 1,
+                        "ratio_percent": 20.0
+                    },
+                    {
+                        "field_value": "107E8356-E7A8-463D-B60C-079FFF467F3F",
+                        "row_count": 1,
+                        "ratio_percent": 20.0
+                    }
+                ]
+            }
+        ]
+    }
+]

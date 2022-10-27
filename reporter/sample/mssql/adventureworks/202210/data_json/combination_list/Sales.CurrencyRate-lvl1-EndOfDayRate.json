@@ -1,0 +1,62 @@
+@startjson
+{
+    "field1": "EndOfDayRate",
+    "combination": "EndOfDayRate",
+    "null_distribution": {
+        "total_null_rows": 0,
+        "total_not_null_rows": 13532
+    },
+    "data_distribution": [
+        {
+            "field_value": "1.00",
+            "row_count": 1889,
+            "ratio_percent": 13.959503399349689
+        },
+        {
+            "field_value": "8.28",
+            "row_count": 659,
+            "ratio_percent": 4.869937924918712
+        },
+        {
+            "field_value": "3.75",
+            "row_count": 558,
+            "ratio_percent": 4.123558971327224
+        },
+        {
+            "field_value": "8.29",
+            "row_count": 419,
+            "ratio_percent": 3.0963641738102274
+        },
+        {
+            "field_value": "3.76",
+            "row_count": 321,
+            "ratio_percent": 2.372154892107597
+        },
+        {
+            "field_value": "3.74",
+            "row_count": 231,
+            "ratio_percent": 1.7070647354419155
+        },
+        {
+            "field_value": "0.69",
+            "row_count": 216,
+            "ratio_percent": 1.5962163759976353
+        },
+        {
+            "field_value": "0.70",
+            "row_count": 208,
+            "ratio_percent": 1.5370972509606857
+        },
+        {
+            "field_value": "0.68",
+            "row_count": 122,
+            "ratio_percent": 0.9015666568134791
+        },
+        {
+            "field_value": "1.57",
+            "row_count": 116,
+            "ratio_percent": 0.857227313035767
+        }
+    ]
+}
+@endjson

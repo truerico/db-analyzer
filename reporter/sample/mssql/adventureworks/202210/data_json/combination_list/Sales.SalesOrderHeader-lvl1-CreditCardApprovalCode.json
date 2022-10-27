@@ -1,0 +1,62 @@
+@startjson
+{
+    "field1": "CreditCardApprovalCode",
+    "combination": "CreditCardApprovalCode",
+    "null_distribution": {
+        "total_null_rows": 1131,
+        "total_not_null_rows": 30334
+    },
+    "data_distribution": [
+        {
+            "field_value": "**NULL**",
+            "row_count": 1131,
+            "ratio_percent": 3.5944700460829493
+        },
+        {
+            "field_value": "1016127Vi33896",
+            "row_count": 1,
+            "ratio_percent": 0.0031781344350866043
+        },
+        {
+            "field_value": "1016121Vi66589",
+            "row_count": 1,
+            "ratio_percent": 0.0031781344350866043
+        },
+        {
+            "field_value": "1016107Vi51017",
+            "row_count": 1,
+            "ratio_percent": 0.0031781344350866043
+        },
+        {
+            "field_value": "1016070Vi25308",
+            "row_count": 1,
+            "ratio_percent": 0.0031781344350866043
+        },
+        {
+            "field_value": "1016054Vi11926",
+            "row_count": 1,
+            "ratio_percent": 0.0031781344350866043
+        },
+        {
+            "field_value": "1016050Vi6608",
+            "row_count": 1,
+            "ratio_percent": 0.0031781344350866043
+        },
+        {
+            "field_value": "1016033Vi21159",
+            "row_count": 1,
+            "ratio_percent": 0.0031781344350866043
+        },
+        {
+            "field_value": "1016029Vi87083",
+            "row_count": 1,
+            "ratio_percent": 0.0031781344350866043
+        },
+        {
+            "field_value": "1016019Vi13445",
+            "row_count": 1,
+            "ratio_percent": 0.0031781344350866043
+        }
+    ]
+}
+@endjson

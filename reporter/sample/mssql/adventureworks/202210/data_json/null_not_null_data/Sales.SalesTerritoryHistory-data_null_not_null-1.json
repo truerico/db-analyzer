@@ -1,0 +1,38 @@
+[
+    {
+        "table": "Sales.SalesTerritoryHistory",
+        "total_records": 17,
+        "dataset": [
+            {
+                "field": "BusinessEntityID",
+                "total_null_rows": 0,
+                "total_not_null_rows": 17
+            },
+            {
+                "field": "EndDate",
+                "total_null_rows": 13,
+                "total_not_null_rows": 4
+            },
+            {
+                "field": "ModifiedDate",
+                "total_null_rows": 0,
+                "total_not_null_rows": 17
+            },
+            {
+                "field": "StartDate",
+                "total_null_rows": 0,
+                "total_not_null_rows": 17
+            },
+            {
+                "field": "TerritoryID",
+                "total_null_rows": 0,
+                "total_not_null_rows": 17
+            },
+            {
+                "field": "rowguid",
+                "total_null_rows": 0,
+                "total_not_null_rows": 17
+            }
+        ]
+    }
+]

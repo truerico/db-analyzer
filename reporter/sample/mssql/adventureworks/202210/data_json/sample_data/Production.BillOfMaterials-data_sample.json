@@ -1,0 +1,62 @@
+[
+    {
+        "BillOfMaterialsID": 893,
+        "StartDate": "2010-05-26 00:00:00",
+        "EndDate": null,
+        "BOMLevel": 0,
+        "PerAssemblyQty": "1.00",
+        "ModifiedDate": "2010-05-12 00:00:00",
+        "UnitMeasureCode": "EA ",
+        "ProductAssemblyID": null,
+        "ComponentID": 749,
+        "SYS_EXEC_DURATION": "0.184874"
+    },
+    {
+        "BillOfMaterialsID": 271,
+        "StartDate": "2010-03-04 00:00:00",
+        "EndDate": "2010-05-03 00:00:00",
+        "BOMLevel": 0,
+        "PerAssemblyQty": "1.00",
+        "ModifiedDate": "2010-05-03 00:00:00",
+        "UnitMeasureCode": "EA ",
+        "ProductAssemblyID": null,
+        "ComponentID": 750,
+        "SYS_EXEC_DURATION": "0.185052"
+    },
+    {
+        "BillOfMaterialsID": 34,
+        "StartDate": "2010-05-04 00:00:00",
+        "EndDate": null,
+        "BOMLevel": 0,
+        "PerAssemblyQty": "1.00",
+        "ModifiedDate": "2010-04-20 00:00:00",
+        "UnitMeasureCode": "EA ",
+        "ProductAssemblyID": null,
+        "ComponentID": 750,
+        "SYS_EXEC_DURATION": "0.185127"
+    },
+    {
+        "BillOfMaterialsID": 830,
+        "StartDate": "2010-05-26 00:00:00",
+        "EndDate": null,
+        "BOMLevel": 0,
+        "PerAssemblyQty": "1.00",
+        "ModifiedDate": "2010-05-12 00:00:00",
+        "UnitMeasureCode": "EA ",
+        "ProductAssemblyID": null,
+        "ComponentID": 751,
+        "SYS_EXEC_DURATION": "0.185196"
+    },
+    {
+        "BillOfMaterialsID": 2074,
+        "StartDate": "2010-07-08 00:00:00",
+        "EndDate": null,
+        "BOMLevel": 0,
+        "PerAssemblyQty": "1.00",
+        "ModifiedDate": "2010-06-24 00:00:00",
+        "UnitMeasureCode": "EA ",
+        "ProductAssemblyID": null,
+        "ComponentID": 752,
+        "SYS_EXEC_DURATION": "0.185287"
+    }
+]

@@ -1,0 +1,22 @@
+@startjson
+{
+    "field1": "ShoppingCartID",
+    "combination": "ShoppingCartID",
+    "null_distribution": {
+        "total_null_rows": 0,
+        "total_not_null_rows": 3
+    },
+    "data_distribution": [
+        {
+            "field_value": "20621",
+            "row_count": 2,
+            "ratio_percent": 66.66666666666667
+        },
+        {
+            "field_value": "14951",
+            "row_count": 1,
+            "ratio_percent": 33.333333333333336
+        }
+    ]
+}
+@endjson

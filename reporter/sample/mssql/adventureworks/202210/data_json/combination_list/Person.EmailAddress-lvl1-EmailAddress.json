@@ -1,0 +1,62 @@
+@startjson
+{
+    "field1": "EmailAddress",
+    "combination": "EmailAddress",
+    "null_distribution": {
+        "total_null_rows": 0,
+        "total_not_null_rows": 19972
+    },
+    "data_distribution": [
+        {
+            "field_value": "aaron16@adventure-works.com",
+            "row_count": 1,
+            "ratio_percent": 0.005007009813739235
+        },
+        {
+            "field_value": "aaron15@adventure-works.com",
+            "row_count": 1,
+            "ratio_percent": 0.005007009813739235
+        },
+        {
+            "field_value": "aaron14@adventure-works.com",
+            "row_count": 1,
+            "ratio_percent": 0.005007009813739235
+        },
+        {
+            "field_value": "aaron13@adventure-works.com",
+            "row_count": 1,
+            "ratio_percent": 0.005007009813739235
+        },
+        {
+            "field_value": "aaron12@adventure-works.com",
+            "row_count": 1,
+            "ratio_percent": 0.005007009813739235
+        },
+        {
+            "field_value": "aaron11@adventure-works.com",
+            "row_count": 1,
+            "ratio_percent": 0.005007009813739235
+        },
+        {
+            "field_value": "aaron10@adventure-works.com",
+            "row_count": 1,
+            "ratio_percent": 0.005007009813739235
+        },
+        {
+            "field_value": "aaron1@adventure-works.com",
+            "row_count": 1,
+            "ratio_percent": 0.005007009813739235
+        },
+        {
+            "field_value": "aaron0@adventure-works.com",
+            "row_count": 1,
+            "ratio_percent": 0.005007009813739235
+        },
+        {
+            "field_value": "a1@adventure-works.com",
+            "row_count": 1,
+            "ratio_percent": 0.005007009813739235
+        }
+    ]
+}
+@endjson

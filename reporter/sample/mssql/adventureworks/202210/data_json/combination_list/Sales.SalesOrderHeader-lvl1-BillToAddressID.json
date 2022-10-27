@@ -1,0 +1,62 @@
+@startjson
+{
+    "field1": "BillToAddressID",
+    "combination": "BillToAddressID",
+    "null_distribution": {
+        "total_null_rows": 0,
+        "total_not_null_rows": 31465
+    },
+    "data_distribution": [
+        {
+            "field_value": "13550",
+            "row_count": 28,
+            "ratio_percent": 0.08898776418242492
+        },
+        {
+            "field_value": "25073",
+            "row_count": 28,
+            "ratio_percent": 0.08898776418242492
+        },
+        {
+            "field_value": "12222",
+            "row_count": 27,
+            "ratio_percent": 0.08580962974733831
+        },
+        {
+            "field_value": "13890",
+            "row_count": 27,
+            "ratio_percent": 0.08580962974733831
+        },
+        {
+            "field_value": "14444",
+            "row_count": 27,
+            "ratio_percent": 0.08580962974733831
+        },
+        {
+            "field_value": "21596",
+            "row_count": 27,
+            "ratio_percent": 0.08580962974733831
+        },
+        {
+            "field_value": "21639",
+            "row_count": 27,
+            "ratio_percent": 0.08580962974733831
+        },
+        {
+            "field_value": "22168",
+            "row_count": 27,
+            "ratio_percent": 0.08580962974733831
+        },
+        {
+            "field_value": "24521",
+            "row_count": 27,
+            "ratio_percent": 0.08580962974733831
+        },
+        {
+            "field_value": "25057",
+            "row_count": 27,
+            "ratio_percent": 0.08580962974733831
+        }
+    ]
+}
+@endjson

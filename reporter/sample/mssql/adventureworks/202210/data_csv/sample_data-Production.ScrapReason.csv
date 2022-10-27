@@ -1,0 +1,6 @@
+ScrapReasonID,Name,ModifiedDate,SYS_EXEC_DURATION
+1,Brake assembly not as ordered,2008-04-30 00:00:00,0.185003
+2,Color incorrect,2008-04-30 00:00:00,0.185123
+3,Gouge in metal,2008-04-30 00:00:00,0.185167
+4,Drill pattern incorrect,2008-04-30 00:00:00,0.185207
+5,Drill size too large,2008-04-30 00:00:00,0.185256

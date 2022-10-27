@@ -1,0 +1,32 @@
+@startjson
+{
+    "field1": "EmailAddress",
+    "combination": "EmailAddress",
+    "null_distribution": {
+        "total_null_rows": 0,
+        "total_not_null_rows": 4
+    },
+    "data_distribution": [
+        {
+            "field_value": "laura@treyresearch.net",
+            "row_count": 1,
+            "ratio_percent": 25.0
+        },
+        {
+            "field_value": "john@fourthcoffee.com",
+            "row_count": 1,
+            "ratio_percent": 25.0
+        },
+        {
+            "field_value": "jill@margiestravel.com",
+            "row_count": 1,
+            "ratio_percent": 25.0
+        },
+        {
+            "field_value": "david@graphicdesigninstitute.com",
+            "row_count": 1,
+            "ratio_percent": 25.0
+        }
+    ]
+}
+@endjson

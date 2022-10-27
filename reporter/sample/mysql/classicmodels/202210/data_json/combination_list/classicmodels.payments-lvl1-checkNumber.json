@@ -1,0 +1,62 @@
+@startjson
+{
+    "field1": "checkNumber",
+    "combination": "checkNumber",
+    "null_distribution": {
+        "total_null_rows": 0,
+        "total_not_null_rows": 273
+    },
+    "data_distribution": [
+        {
+            "field_value": "AE192287",
+            "row_count": 1,
+            "ratio_percent": 0.3663003663003663
+        },
+        {
+            "field_value": "II180006",
+            "row_count": 1,
+            "ratio_percent": 0.3663003663003663
+        },
+        {
+            "field_value": "LF501133",
+            "row_count": 1,
+            "ratio_percent": 0.3663003663003663
+        },
+        {
+            "field_value": "AF246722",
+            "row_count": 1,
+            "ratio_percent": 0.3663003663003663
+        },
+        {
+            "field_value": "HG438769",
+            "row_count": 1,
+            "ratio_percent": 0.3663003663003663
+        },
+        {
+            "field_value": "PE176846",
+            "row_count": 1,
+            "ratio_percent": 0.3663003663003663
+        },
+        {
+            "field_value": "FH668230",
+            "row_count": 1,
+            "ratio_percent": 0.3663003663003663
+        },
+        {
+            "field_value": "KM172879",
+            "row_count": 1,
+            "ratio_percent": 0.3663003663003663
+        },
+        {
+            "field_value": "NM739638",
+            "row_count": 1,
+            "ratio_percent": 0.3663003663003663
+        },
+        {
+            "field_value": "EM979878",
+            "row_count": 1,
+            "ratio_percent": 0.3663003663003663
+        }
+    ]
+}
+@endjson

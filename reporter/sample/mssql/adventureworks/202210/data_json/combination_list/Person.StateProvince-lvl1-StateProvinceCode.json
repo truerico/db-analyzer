@@ -1,0 +1,62 @@
+@startjson
+{
+    "field1": "StateProvinceCode",
+    "combination": "StateProvinceCode",
+    "null_distribution": {
+        "total_null_rows": 0,
+        "total_not_null_rows": 181
+    },
+    "data_distribution": [
+        {
+            "field_value": "11",
+            "row_count": 1,
+            "ratio_percent": 0.5524861878453039
+        },
+        {
+            "field_value": "10",
+            "row_count": 1,
+            "ratio_percent": 0.5524861878453039
+        },
+        {
+            "field_value": "09",
+            "row_count": 1,
+            "ratio_percent": 0.5524861878453039
+        },
+        {
+            "field_value": "08",
+            "row_count": 1,
+            "ratio_percent": 0.5524861878453039
+        },
+        {
+            "field_value": "07",
+            "row_count": 1,
+            "ratio_percent": 0.5524861878453039
+        },
+        {
+            "field_value": "06",
+            "row_count": 1,
+            "ratio_percent": 0.5524861878453039
+        },
+        {
+            "field_value": "05",
+            "row_count": 1,
+            "ratio_percent": 0.5524861878453039
+        },
+        {
+            "field_value": "04",
+            "row_count": 1,
+            "ratio_percent": 0.5524861878453039
+        },
+        {
+            "field_value": "03",
+            "row_count": 1,
+            "ratio_percent": 0.5524861878453039
+        },
+        {
+            "field_value": "02",
+            "row_count": 1,
+            "ratio_percent": 0.5524861878453039
+        }
+    ]
+}
+@endjson

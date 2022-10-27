@@ -1,0 +1,32 @@
+[
+    {
+        "JobCandidateID": 1,
+        "ModifiedDate": "2007-06-23 00:00:00",
+        "BusinessEntityID": null,
+        "SYS_EXEC_DURATION": "0.266806"
+    },
+    {
+        "JobCandidateID": 2,
+        "ModifiedDate": "2007-06-23 00:00:00",
+        "BusinessEntityID": null,
+        "SYS_EXEC_DURATION": "0.266946"
+    },
+    {
+        "JobCandidateID": 3,
+        "ModifiedDate": "2007-06-23 00:00:00",
+        "BusinessEntityID": null,
+        "SYS_EXEC_DURATION": "0.266992"
+    },
+    {
+        "JobCandidateID": 4,
+        "ModifiedDate": "2013-12-22 18:32:21.313000",
+        "BusinessEntityID": 274,
+        "SYS_EXEC_DURATION": "0.267031"
+    },
+    {
+        "JobCandidateID": 5,
+        "ModifiedDate": "2007-06-23 00:00:00",
+        "BusinessEntityID": null,
+        "SYS_EXEC_DURATION": "0.267079"
+    }
+]

@@ -1,0 +1,68 @@
+[
+    {
+        "table": "Production.Document",
+        "total_records": 13,
+        "dataset": [
+            {
+                "field": "ChangeNumber",
+                "total_null_rows": 0,
+                "total_not_null_rows": 13
+            },
+            {
+                "field": "Owner",
+                "total_null_rows": 0,
+                "total_not_null_rows": 13
+            },
+            {
+                "field": "Revision",
+                "total_null_rows": 0,
+                "total_not_null_rows": 13
+            },
+            {
+                "field": "Status",
+                "total_null_rows": 0,
+                "total_not_null_rows": 13
+            },
+            {
+                "field": "Title",
+                "total_null_rows": 0,
+                "total_not_null_rows": 13
+            },
+            {
+                "field": "rowguid",
+                "total_null_rows": 0,
+                "total_not_null_rows": 13
+            },
+            {
+                "field": "DocumentLevel",
+                "total_null_rows": 0,
+                "total_not_null_rows": 13
+            },
+            {
+                "field": "DocumentSummary",
+                "total_null_rows": 8,
+                "total_not_null_rows": 5
+            },
+            {
+                "field": "FolderFlag",
+                "total_null_rows": 0,
+                "total_not_null_rows": 13
+            },
+            {
+                "field": "FileName",
+                "total_null_rows": 0,
+                "total_not_null_rows": 13
+            },
+            {
+                "field": "FileExtension",
+                "total_null_rows": 0,
+                "total_not_null_rows": 13
+            },
+            {
+                "field": "ModifiedDate",
+                "total_null_rows": 0,
+                "total_not_null_rows": 13
+            }
+        ]
+    }
+]

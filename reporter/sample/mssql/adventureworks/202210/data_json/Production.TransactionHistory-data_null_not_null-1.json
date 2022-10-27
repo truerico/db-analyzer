@@ -1,0 +1,53 @@
+[
+    {
+        "table": "Production.TransactionHistory",
+        "total_records": 113443,
+        "dataset": [
+            {
+                "field": "ActualCost",
+                "total_null_rows": 0,
+                "total_not_null_rows": 113443
+            },
+            {
+                "field": "ModifiedDate",
+                "total_null_rows": 0,
+                "total_not_null_rows": 113443
+            },
+            {
+                "field": "ProductID",
+                "total_null_rows": 0,
+                "total_not_null_rows": 113443
+            },
+            {
+                "field": "Quantity",
+                "total_null_rows": 0,
+                "total_not_null_rows": 113443
+            },
+            {
+                "field": "ReferenceOrderID",
+                "total_null_rows": 0,
+                "total_not_null_rows": 113443
+            },
+            {
+                "field": "ReferenceOrderLineID",
+                "total_null_rows": 0,
+                "total_not_null_rows": 113443
+            },
+            {
+                "field": "TransactionID",
+                "total_null_rows": 0,
+                "total_not_null_rows": 113443
+            },
+            {
+                "field": "TransactionDate",
+                "total_null_rows": 0,
+                "total_not_null_rows": 113443
+            },
+            {
+                "field": "TransactionType",
+                "total_null_rows": 0,
+                "total_not_null_rows": 113443
+            }
+        ]
+    }
+]

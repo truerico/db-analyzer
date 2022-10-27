@@ -1,0 +1,62 @@
+@startjson
+{
+    "field1": "SalesLastYear",
+    "combination": "SalesLastYear",
+    "null_distribution": {
+        "total_null_rows": 0,
+        "total_not_null_rows": 10
+    },
+    "data_distribution": [
+        {
+            "field_value": "5693988.86",
+            "row_count": 1,
+            "ratio_percent": 10.0
+        },
+        {
+            "field_value": "5366575.71",
+            "row_count": 1,
+            "ratio_percent": 10.0
+        },
+        {
+            "field_value": "3925071.43",
+            "row_count": 1,
+            "ratio_percent": 10.0
+        },
+        {
+            "field_value": "3607148.94",
+            "row_count": 1,
+            "ratio_percent": 10.0
+        },
+        {
+            "field_value": "3298694.49",
+            "row_count": 1,
+            "ratio_percent": 10.0
+        },
+        {
+            "field_value": "3205014.08",
+            "row_count": 1,
+            "ratio_percent": 10.0
+        },
+        {
+            "field_value": "2396539.76",
+            "row_count": 1,
+            "ratio_percent": 10.0
+        },
+        {
+            "field_value": "2278548.98",
+            "row_count": 1,
+            "ratio_percent": 10.0
+        },
+        {
+            "field_value": "1635823.40",
+            "row_count": 1,
+            "ratio_percent": 10.0
+        },
+        {
+            "field_value": "1307949.79",
+            "row_count": 1,
+            "ratio_percent": 10.0
+        }
+    ]
+}
+@endjson

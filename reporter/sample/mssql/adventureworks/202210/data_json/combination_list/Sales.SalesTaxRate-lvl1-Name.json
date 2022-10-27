@@ -1,0 +1,62 @@
+@startjson
+{
+    "field1": "Name",
+    "combination": "Name",
+    "null_distribution": {
+        "total_null_rows": 0,
+        "total_not_null_rows": 29
+    },
+    "data_distribution": [
+        {
+            "field_value": "Canadian GST",
+            "row_count": 12,
+            "ratio_percent": 41.37931034482759
+        },
+        {
+            "field_value": "California State Sales Tax",
+            "row_count": 1,
+            "ratio_percent": 3.4482758620689653
+        },
+        {
+            "field_value": "Arizona State Sales Tax",
+            "row_count": 1,
+            "ratio_percent": 3.4482758620689653
+        },
+        {
+            "field_value": "Michigan State Sales Tax",
+            "row_count": 1,
+            "ratio_percent": 3.4482758620689653
+        },
+        {
+            "field_value": "Massachusetts State Sales Tax",
+            "row_count": 1,
+            "ratio_percent": 3.4482758620689653
+        },
+        {
+            "field_value": "Germany Output Tax",
+            "row_count": 1,
+            "ratio_percent": 3.4482758620689653
+        },
+        {
+            "field_value": "France Output Tax",
+            "row_count": 1,
+            "ratio_percent": 3.4482758620689653
+        },
+        {
+            "field_value": "Florida State Sales Tax",
+            "row_count": 1,
+            "ratio_percent": 3.4482758620689653
+        },
+        {
+            "field_value": "Canadian GST + Quebec Provincial Tax",
+            "row_count": 1,
+            "ratio_percent": 3.4482758620689653
+        },
+        {
+            "field_value": "Canadian GST + Ontario Provincial Tax",
+            "row_count": 1,
+            "ratio_percent": 3.4482758620689653
+        }
+    ]
+}
+@endjson

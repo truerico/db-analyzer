@@ -1,0 +1,62 @@
+@startjson
+{
+    "field1": "LastName",
+    "combination": "LastName",
+    "null_distribution": {
+        "total_null_rows": 0,
+        "total_not_null_rows": 19972
+    },
+    "data_distribution": [
+        {
+            "field_value": "Diaz",
+            "row_count": 211,
+            "ratio_percent": 1.0564790706989786
+        },
+        {
+            "field_value": "Hernandez",
+            "row_count": 188,
+            "ratio_percent": 0.9413178449829762
+        },
+        {
+            "field_value": "Sanchez",
+            "row_count": 180,
+            "ratio_percent": 0.9012617664730623
+        },
+        {
+            "field_value": "Martinez",
+            "row_count": 173,
+            "ratio_percent": 0.8662126977768877
+        },
+        {
+            "field_value": "Torres",
+            "row_count": 172,
+            "ratio_percent": 0.8612056879631484
+        },
+        {
+            "field_value": "Martin",
+            "row_count": 171,
+            "ratio_percent": 0.8561986781494092
+        },
+        {
+            "field_value": "Perez",
+            "row_count": 170,
+            "ratio_percent": 0.85119166833567
+        },
+        {
+            "field_value": "Gonzalez",
+            "row_count": 169,
+            "ratio_percent": 0.8461846585219307
+        },
+        {
+            "field_value": "Lopez",
+            "row_count": 168,
+            "ratio_percent": 0.8411776487081914
+        },
+        {
+            "field_value": "Rodriguez",
+            "row_count": 166,
+            "ratio_percent": 0.831163629080713
+        }
+    ]
+}
+@endjson

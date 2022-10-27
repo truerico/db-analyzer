@@ -1,0 +1,27 @@
+@startjson
+{
+    "field1": "BusinessEntityID",
+    "combination": "BusinessEntityID",
+    "null_distribution": {
+        "total_null_rows": 11,
+        "total_not_null_rows": 2
+    },
+    "data_distribution": [
+        {
+            "field_value": "**NULL**",
+            "row_count": 11,
+            "ratio_percent": 84.61538461538461
+        },
+        {
+            "field_value": "274",
+            "row_count": 1,
+            "ratio_percent": 7.6923076923076925
+        },
+        {
+            "field_value": "212",
+            "row_count": 1,
+            "ratio_percent": 7.6923076923076925
+        }
+    ]
+}
+@endjson

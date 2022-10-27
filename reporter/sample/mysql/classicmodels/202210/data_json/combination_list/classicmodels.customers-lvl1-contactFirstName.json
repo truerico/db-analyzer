@@ -1,0 +1,62 @@
+@startjson
+{
+    "field1": "contactFirstName",
+    "combination": "contactFirstName",
+    "null_distribution": {
+        "total_null_rows": 0,
+        "total_not_null_rows": 122
+    },
+    "data_distribution": [
+        {
+            "field_value": "Julie",
+            "row_count": 4,
+            "ratio_percent": 3.278688524590164
+        },
+        {
+            "field_value": "Valarie",
+            "row_count": 2,
+            "ratio_percent": 1.639344262295082
+        },
+        {
+            "field_value": "Peter",
+            "row_count": 2,
+            "ratio_percent": 1.639344262295082
+        },
+        {
+            "field_value": "Steve",
+            "row_count": 2,
+            "ratio_percent": 1.639344262295082
+        },
+        {
+            "field_value": "Sue",
+            "row_count": 2,
+            "ratio_percent": 1.639344262295082
+        },
+        {
+            "field_value": "Daniel",
+            "row_count": 2,
+            "ratio_percent": 1.639344262295082
+        },
+        {
+            "field_value": "Jean",
+            "row_count": 2,
+            "ratio_percent": 1.639344262295082
+        },
+        {
+            "field_value": "Roland",
+            "row_count": 2,
+            "ratio_percent": 1.639344262295082
+        },
+        {
+            "field_value": "Michael",
+            "row_count": 2,
+            "ratio_percent": 1.639344262295082
+        },
+        {
+            "field_value": "Mary",
+            "row_count": 2,
+            "ratio_percent": 1.639344262295082
+        }
+    ]
+}
+@endjson

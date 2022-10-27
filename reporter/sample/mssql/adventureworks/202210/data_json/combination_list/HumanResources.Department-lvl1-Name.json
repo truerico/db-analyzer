@@ -1,0 +1,62 @@
+@startjson
+{
+    "field1": "Name",
+    "combination": "Name",
+    "null_distribution": {
+        "total_null_rows": 0,
+        "total_not_null_rows": 16
+    },
+    "data_distribution": [
+        {
+            "field_value": "Purchasing",
+            "row_count": 1,
+            "ratio_percent": 6.25
+        },
+        {
+            "field_value": "Production Control",
+            "row_count": 1,
+            "ratio_percent": 6.25
+        },
+        {
+            "field_value": "Production",
+            "row_count": 1,
+            "ratio_percent": 6.25
+        },
+        {
+            "field_value": "Marketing",
+            "row_count": 1,
+            "ratio_percent": 6.25
+        },
+        {
+            "field_value": "Information Services",
+            "row_count": 1,
+            "ratio_percent": 6.25
+        },
+        {
+            "field_value": "Human Resources",
+            "row_count": 1,
+            "ratio_percent": 6.25
+        },
+        {
+            "field_value": "Finance",
+            "row_count": 1,
+            "ratio_percent": 6.25
+        },
+        {
+            "field_value": "Facilities and Maintenance",
+            "row_count": 1,
+            "ratio_percent": 6.25
+        },
+        {
+            "field_value": "Executive",
+            "row_count": 1,
+            "ratio_percent": 6.25
+        },
+        {
+            "field_value": "Engineering",
+            "row_count": 1,
+            "ratio_percent": 6.25
+        }
+    ]
+}
+@endjson

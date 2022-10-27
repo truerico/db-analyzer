@@ -1,0 +1,27 @@
+@startjson
+{
+    "field1": "SellEndDate",
+    "combination": "SellEndDate",
+    "null_distribution": {
+        "total_null_rows": 406,
+        "total_not_null_rows": 98
+    },
+    "data_distribution": [
+        {
+            "field_value": "**NULL**",
+            "row_count": 406,
+            "ratio_percent": 80.55555555555556
+        },
+        {
+            "field_value": "May 29 2013 12:00AM",
+            "row_count": 69,
+            "ratio_percent": 13.69047619047619
+        },
+        {
+            "field_value": "May 29 2012 12:00AM",
+            "row_count": 29,
+            "ratio_percent": 5.753968253968254
+        }
+    ]
+}
+@endjson

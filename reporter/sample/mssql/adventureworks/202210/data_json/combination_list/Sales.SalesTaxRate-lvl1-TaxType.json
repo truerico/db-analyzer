@@ -1,0 +1,27 @@
+@startjson
+{
+    "field1": "TaxType",
+    "combination": "TaxType",
+    "null_distribution": {
+        "total_null_rows": 0,
+        "total_not_null_rows": 29
+    },
+    "data_distribution": [
+        {
+            "field_value": "1",
+            "row_count": 13,
+            "ratio_percent": 44.827586206896555
+        },
+        {
+            "field_value": "3",
+            "row_count": 13,
+            "ratio_percent": 44.827586206896555
+        },
+        {
+            "field_value": "2",
+            "row_count": 3,
+            "ratio_percent": 10.344827586206897
+        }
+    ]
+}
+@endjson

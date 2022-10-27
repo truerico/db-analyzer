@@ -1,0 +1,116 @@
+```json
+@startjson
+[
+    {
+        "employeeNumber": 1401,
+        "lastName": "Castillo",
+        "firstName": "Pamela",
+        "extension": "x2759",
+        "email": "pcastillo@classicmodelcars.com",
+        "jobTitle": "Sales Rep",
+        "officeCode": "4",
+        "reportsTo": 1102,
+        "SYS_EXEC_DURATION": "0.197749"
+    },
+    {
+        "employeeNumber": 1102,
+        "lastName": "Bondur",
+        "firstName": "Gerard",
+        "extension": "x5408",
+        "email": "gbondur@classicmodelcars.com",
+        "jobTitle": "Sale Manager (EMEA)",
+        "officeCode": "4",
+        "reportsTo": 1056,
+        "SYS_EXEC_DURATION": "0.19807"
+    },
+    {
+        "employeeNumber": 1611,
+        "lastName": "Fixter",
+        "firstName": "Andy",
+        "extension": "x101",
+        "email": "afixter@classicmodelcars.com",
+        "jobTitle": "Sales Rep",
+        "officeCode": "6",
+        "reportsTo": 1088,
+        "SYS_EXEC_DURATION": "0.198318"
+    },
+    {
+        "employeeNumber": 1501,
+        "lastName": "Bott",
+        "firstName": "Larry",
+        "extension": "x2311",
+        "email": "lbott@classicmodelcars.com",
+        "jobTitle": "Sales Rep",
+        "officeCode": "7",
+        "reportsTo": 1102,
+        "SYS_EXEC_DURATION": "0.198539"
+    },
+    {
+        "employeeNumber": 1702,
+        "lastName": "Gerard",
+        "firstName": "Martin",
+        "extension": "x2312",
+        "email": "mgerard@classicmodelcars.com",
+        "jobTitle": "Sales Rep",
+        "officeCode": "4",
+        "reportsTo": 1102,
+        "SYS_EXEC_DURATION": "0.198754"
+    },
+    {
+        "employeeNumber": 1619,
+        "lastName": "King",
+        "firstName": "Tom",
+        "extension": "x103",
+        "email": "tking@classicmodelcars.com",
+        "jobTitle": "Sales Rep",
+        "officeCode": "6",
+        "reportsTo": 1088,
+        "SYS_EXEC_DURATION": "0.198966"
+    },
+    {
+        "employeeNumber": 1337,
+        "lastName": "Bondur",
+        "firstName": "Loui",
+        "extension": "x6493",
+        "email": "lbondur@classicmodelcars.com",
+        "jobTitle": "Sales Rep",
+        "officeCode": "4",
+        "reportsTo": 1102,
+        "SYS_EXEC_DURATION": "0.199176"
+    },
+    {
+        "employeeNumber": 1076,
+        "lastName": "Firrelli",
+        "firstName": "Jeff",
+        "extension": "x9273",
+        "email": "jfirrelli@classicmodelcars.com",
+        "jobTitle": "VP Marketing",
+        "officeCode": "1",
+        "reportsTo": 1002,
+        "SYS_EXEC_DURATION": "0.199402"
+    },
+    {
+        "employeeNumber": 1504,
+        "lastName": "Jones",
+        "firstName": "Barry",
+        "extension": "x102",
+        "email": "bjones@classicmodelcars.com",
+        "jobTitle": "Sales Rep",
+        "officeCode": "7",
+        "reportsTo": 1102,
+        "SYS_EXEC_DURATION": "0.199611"
+    },
+    {
+        "employeeNumber": 1621,
+        "lastName": "Nishi",
+        "firstName": "Mami",
+        "extension": "x101",
+        "email": "mnishi@classicmodelcars.com",
+        "jobTitle": "Sales Rep",
+        "officeCode": "5",
+        "reportsTo": 1056,
+        "SYS_EXEC_DURATION": "0.19983"
+    }
+]
+@endjson
+```

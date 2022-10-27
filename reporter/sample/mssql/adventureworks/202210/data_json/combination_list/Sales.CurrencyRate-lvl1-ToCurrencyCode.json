@@ -1,0 +1,62 @@
+@startjson
+{
+    "field1": "ToCurrencyCode",
+    "combination": "ToCurrencyCode",
+    "null_distribution": {
+        "total_null_rows": 0,
+        "total_not_null_rows": 13532
+    },
+    "data_distribution": [
+        {
+            "field_value": "USD",
+            "row_count": 1097,
+            "ratio_percent": 8.106710020691693
+        },
+        {
+            "field_value": "BRL",
+            "row_count": 1097,
+            "ratio_percent": 8.106710020691693
+        },
+        {
+            "field_value": "CAD",
+            "row_count": 1097,
+            "ratio_percent": 8.106710020691693
+        },
+        {
+            "field_value": "ARS",
+            "row_count": 1097,
+            "ratio_percent": 8.106710020691693
+        },
+        {
+            "field_value": "AUD",
+            "row_count": 1097,
+            "ratio_percent": 8.106710020691693
+        },
+        {
+            "field_value": "SAR",
+            "row_count": 1097,
+            "ratio_percent": 8.106710020691693
+        },
+        {
+            "field_value": "VEB",
+            "row_count": 1097,
+            "ratio_percent": 8.106710020691693
+        },
+        {
+            "field_value": "GBP",
+            "row_count": 1097,
+            "ratio_percent": 8.106710020691693
+        },
+        {
+            "field_value": "CNY",
+            "row_count": 1097,
+            "ratio_percent": 8.106710020691693
+        },
+        {
+            "field_value": "EUR",
+            "row_count": 1097,
+            "ratio_percent": 8.106710020691693
+        }
+    ]
+}
+@endjson

@@ -1,0 +1,62 @@
+@startjson
+{
+    "field1": "Name",
+    "combination": "Name",
+    "null_distribution": {
+        "total_null_rows": 0,
+        "total_not_null_rows": 37
+    },
+    "data_distribution": [
+        {
+            "field_value": "Derailleurs",
+            "row_count": 1,
+            "ratio_percent": 2.7027027027027026
+        },
+        {
+            "field_value": "Cranksets",
+            "row_count": 1,
+            "ratio_percent": 2.7027027027027026
+        },
+        {
+            "field_value": "Cleaners",
+            "row_count": 1,
+            "ratio_percent": 2.7027027027027026
+        },
+        {
+            "field_value": "Chains",
+            "row_count": 1,
+            "ratio_percent": 2.7027027027027026
+        },
+        {
+            "field_value": "Caps",
+            "row_count": 1,
+            "ratio_percent": 2.7027027027027026
+        },
+        {
+            "field_value": "Brakes",
+            "row_count": 1,
+            "ratio_percent": 2.7027027027027026
+        },
+        {
+            "field_value": "Bottom Brackets",
+            "row_count": 1,
+            "ratio_percent": 2.7027027027027026
+        },
+        {
+            "field_value": "Bottles and Cages",
+            "row_count": 1,
+            "ratio_percent": 2.7027027027027026
+        },
+        {
+            "field_value": "Bike Stands",
+            "row_count": 1,
+            "ratio_percent": 2.7027027027027026
+        },
+        {
+            "field_value": "Bike Racks",
+            "row_count": 1,
+            "ratio_percent": 2.7027027027027026
+        }
+    ]
+}
+@endjson

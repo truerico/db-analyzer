@@ -1,0 +1,62 @@
+@startjson
+{
+    "field1": "EmployeeID",
+    "combination": "EmployeeID",
+    "null_distribution": {
+        "total_null_rows": 0,
+        "total_not_null_rows": 4012
+    },
+    "data_distribution": [
+        {
+            "field_value": "261",
+            "row_count": 401,
+            "ratio_percent": 9.995014955134597
+        },
+        {
+            "field_value": "253",
+            "row_count": 400,
+            "ratio_percent": 9.970089730807578
+        },
+        {
+            "field_value": "260",
+            "row_count": 362,
+            "ratio_percent": 9.022931206380857
+        },
+        {
+            "field_value": "254",
+            "row_count": 362,
+            "ratio_percent": 9.022931206380857
+        },
+        {
+            "field_value": "251",
+            "row_count": 361,
+            "ratio_percent": 8.998005982053838
+        },
+        {
+            "field_value": "256",
+            "row_count": 361,
+            "ratio_percent": 8.998005982053838
+        },
+        {
+            "field_value": "258",
+            "row_count": 361,
+            "ratio_percent": 8.998005982053838
+        },
+        {
+            "field_value": "259",
+            "row_count": 360,
+            "ratio_percent": 8.97308075772682
+        },
+        {
+            "field_value": "257",
+            "row_count": 360,
+            "ratio_percent": 8.97308075772682
+        },
+        {
+            "field_value": "255",
+            "row_count": 360,
+            "ratio_percent": 8.97308075772682
+        }
+    ]
+}
+@endjson

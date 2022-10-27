@@ -1,0 +1,76 @@
+```json
+@startjson
+[
+    {
+        "customerNumber": 112,
+        "checkNumber": "HQ55022",
+        "paymentDate": "2003-06-06",
+        "amount": "32641.98",
+        "SYS_EXEC_DURATION": "0.227672"
+    },
+    {
+        "customerNumber": 141,
+        "checkNumber": "ID10962",
+        "paymentDate": "2004-12-31",
+        "amount": "116208.40",
+        "SYS_EXEC_DURATION": "0.227912"
+    },
+    {
+        "customerNumber": 260,
+        "checkNumber": "NH776924",
+        "paymentDate": "2004-04-24",
+        "amount": "29284.42",
+        "SYS_EXEC_DURATION": "0.228079"
+    },
+    {
+        "customerNumber": 452,
+        "checkNumber": "ED473873",
+        "paymentDate": "2003-11-15",
+        "amount": "27121.90",
+        "SYS_EXEC_DURATION": "0.228238"
+    },
+    {
+        "customerNumber": 489,
+        "checkNumber": "OC773849",
+        "paymentDate": "2003-12-04",
+        "amount": "22275.73",
+        "SYS_EXEC_DURATION": "0.228397"
+    },
+    {
+        "customerNumber": 145,
+        "checkNumber": "JJ246391",
+        "paymentDate": "2003-02-20",
+        "amount": "53959.21",
+        "SYS_EXEC_DURATION": "0.228569"
+    },
+    {
+        "customerNumber": 175,
+        "checkNumber": "IO448913",
+        "paymentDate": "2003-11-19",
+        "amount": "24879.08",
+        "SYS_EXEC_DURATION": "0.228725"
+    },
+    {
+        "customerNumber": 151,
+        "checkNumber": "IP568906",
+        "paymentDate": "2003-06-18",
+        "amount": "58841.35",
+        "SYS_EXEC_DURATION": "0.22888"
+    },
+    {
+        "customerNumber": 458,
+        "checkNumber": "OO606861",
+        "paymentDate": "2003-06-13",
+        "amount": "57131.92",
+        "SYS_EXEC_DURATION": "0.229034"
+    },
+    {
+        "customerNumber": 321,
+        "checkNumber": "DJ15149",
+        "paymentDate": "2003-11-03",
+        "amount": "85559.12",
+        "SYS_EXEC_DURATION": "0.229205"
+    }
+]
+@endjson
+```

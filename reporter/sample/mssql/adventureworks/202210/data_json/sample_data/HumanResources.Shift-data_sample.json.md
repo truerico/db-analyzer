@@ -1,0 +1,30 @@
+```json
+@startjson
+[
+    {
+        "ShiftID": 1,
+        "Name": "Day",
+        "StartTime": "07:00:00",
+        "EndTime": "15:00:00",
+        "ModifiedDate": "2008-04-30 00:00:00",
+        "SYS_EXEC_DURATION": "0.186525"
+    },
+    {
+        "ShiftID": 2,
+        "Name": "Evening",
+        "StartTime": "15:00:00",
+        "EndTime": "23:00:00",
+        "ModifiedDate": "2008-04-30 00:00:00",
+        "SYS_EXEC_DURATION": "0.186693"
+    },
+    {
+        "ShiftID": 3,
+        "Name": "Night",
+        "StartTime": "23:00:00",
+        "EndTime": "07:00:00",
+        "ModifiedDate": "2008-04-30 00:00:00",
+        "SYS_EXEC_DURATION": "0.186759"
+    }
+]
+@endjson
+```

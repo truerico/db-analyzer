@@ -1,0 +1,108 @@
+[
+    {
+        "table": "Production.Culture",
+        "total_records": 8,
+        "dataset": [
+            {
+                "field": "CultureID",
+                "distribution": [
+                    {
+                        "field_value": "zh-cht",
+                        "row_count": 1,
+                        "ratio_percent": 12.5
+                    },
+                    {
+                        "field_value": "th",
+                        "row_count": 1,
+                        "ratio_percent": 12.5
+                    },
+                    {
+                        "field_value": "he",
+                        "row_count": 1,
+                        "ratio_percent": 12.5
+                    },
+                    {
+                        "field_value": "fr",
+                        "row_count": 1,
+                        "ratio_percent": 12.5
+                    },
+                    {
+                        "field_value": "es",
+                        "row_count": 1,
+                        "ratio_percent": 12.5
+                    },
+                    {
+                        "field_value": "en",
+                        "row_count": 1,
+                        "ratio_percent": 12.5
+                    },
+                    {
+                        "field_value": "ar",
+                        "row_count": 1,
+                        "ratio_percent": 12.5
+                    },
+                    {
+                        "field_value": "**EMPTY**",
+                        "row_count": 1,
+                        "ratio_percent": 12.5
+                    }
+                ]
+            },
+            {
+                "field": "ModifiedDate",
+                "distribution": [
+                    {
+                        "field_value": "Apr 30 2008 12:00AM",
+                        "row_count": 8,
+                        "ratio_percent": 100.0
+                    }
+                ]
+            },
+            {
+                "field": "Name",
+                "distribution": [
+                    {
+                        "field_value": "Thai",
+                        "row_count": 1,
+                        "ratio_percent": 12.5
+                    },
+                    {
+                        "field_value": "Spanish",
+                        "row_count": 1,
+                        "ratio_percent": 12.5
+                    },
+                    {
+                        "field_value": "Invariant Language (Invariant Country)",
+                        "row_count": 1,
+                        "ratio_percent": 12.5
+                    },
+                    {
+                        "field_value": "Hebrew",
+                        "row_count": 1,
+                        "ratio_percent": 12.5
+                    },
+                    {
+                        "field_value": "French",
+                        "row_count": 1,
+                        "ratio_percent": 12.5
+                    },
+                    {
+                        "field_value": "English",
+                        "row_count": 1,
+                        "ratio_percent": 12.5
+                    },
+                    {
+                        "field_value": "Chinese",
+                        "row_count": 1,
+                        "ratio_percent": 12.5
+                    },
+                    {
+                        "field_value": "Arabic",
+                        "row_count": 1,
+                        "ratio_percent": 12.5
+                    }
+                ]
+            }
+        ]
+    }
+]

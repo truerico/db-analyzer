@@ -1,0 +1,68 @@
+[
+    {
+        "table": "Production.WorkOrderRouting",
+        "total_records": 67131,
+        "dataset": [
+            {
+                "field": "ActualStartDate",
+                "total_null_rows": 0,
+                "total_not_null_rows": 67131
+            },
+            {
+                "field": "ScheduledStartDate",
+                "total_null_rows": 0,
+                "total_not_null_rows": 67131
+            },
+            {
+                "field": "ScheduledEndDate",
+                "total_null_rows": 0,
+                "total_not_null_rows": 67131
+            },
+            {
+                "field": "WorkOrderID",
+                "total_null_rows": 0,
+                "total_not_null_rows": 67131
+            },
+            {
+                "field": "ActualEndDate",
+                "total_null_rows": 0,
+                "total_not_null_rows": 67131
+            },
+            {
+                "field": "ActualResourceHrs",
+                "total_null_rows": 0,
+                "total_not_null_rows": 67131
+            },
+            {
+                "field": "ActualCost",
+                "total_null_rows": 0,
+                "total_not_null_rows": 67131
+            },
+            {
+                "field": "LocationID",
+                "total_null_rows": 0,
+                "total_not_null_rows": 67131
+            },
+            {
+                "field": "ModifiedDate",
+                "total_null_rows": 0,
+                "total_not_null_rows": 67131
+            },
+            {
+                "field": "OperationSequence",
+                "total_null_rows": 0,
+                "total_not_null_rows": 67131
+            },
+            {
+                "field": "ProductID",
+                "total_null_rows": 0,
+                "total_not_null_rows": 67131
+            },
+            {
+                "field": "PlannedCost",
+                "total_null_rows": 0,
+                "total_not_null_rows": 67131
+            }
+        ]
+    }
+]

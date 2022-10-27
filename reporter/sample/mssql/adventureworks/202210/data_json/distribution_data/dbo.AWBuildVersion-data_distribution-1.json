@@ -1,0 +1,48 @@
+[
+    {
+        "table": "dbo.AWBuildVersion",
+        "total_records": 1,
+        "dataset": [
+            {
+                "field": "Database Version",
+                "distribution": [
+                    {
+                        "field_value": "13.0.1742.0",
+                        "row_count": 1,
+                        "ratio_percent": 100.0
+                    }
+                ]
+            },
+            {
+                "field": "ModifiedDate",
+                "distribution": [
+                    {
+                        "field_value": "Oct 26 2022  2:31PM",
+                        "row_count": 1,
+                        "ratio_percent": 100.0
+                    }
+                ]
+            },
+            {
+                "field": "SystemInformationID",
+                "distribution": [
+                    {
+                        "field_value": "1",
+                        "row_count": 1,
+                        "ratio_percent": 100.0
+                    }
+                ]
+            },
+            {
+                "field": "VersionDate",
+                "distribution": [
+                    {
+                        "field_value": "Jul  6 2017  1:03AM",
+                        "row_count": 1,
+                        "ratio_percent": 100.0
+                    }
+                ]
+            }
+        ]
+    }
+]

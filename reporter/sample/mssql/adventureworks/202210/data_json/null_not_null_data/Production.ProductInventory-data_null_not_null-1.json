@@ -1,0 +1,43 @@
+[
+    {
+        "table": "Production.ProductInventory",
+        "total_records": 1069,
+        "dataset": [
+            {
+                "field": "Bin",
+                "total_null_rows": 0,
+                "total_not_null_rows": 1069
+            },
+            {
+                "field": "LocationID",
+                "total_null_rows": 0,
+                "total_not_null_rows": 1069
+            },
+            {
+                "field": "ModifiedDate",
+                "total_null_rows": 0,
+                "total_not_null_rows": 1069
+            },
+            {
+                "field": "ProductID",
+                "total_null_rows": 0,
+                "total_not_null_rows": 1069
+            },
+            {
+                "field": "Quantity",
+                "total_null_rows": 0,
+                "total_not_null_rows": 1069
+            },
+            {
+                "field": "Shelf",
+                "total_null_rows": 0,
+                "total_not_null_rows": 1069
+            },
+            {
+                "field": "rowguid",
+                "total_null_rows": 0,
+                "total_not_null_rows": 1069
+            }
+        ]
+    }
+]

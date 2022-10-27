@@ -1,0 +1,37 @@
+@startjson
+{
+    "field1": "state",
+    "combination": "state",
+    "null_distribution": {
+        "total_null_rows": 3,
+        "total_not_null_rows": 4
+    },
+    "data_distribution": [
+        {
+            "field_value": "**NULL**",
+            "row_count": 3,
+            "ratio_percent": 42.857142857142854
+        },
+        {
+            "field_value": "NY",
+            "row_count": 1,
+            "ratio_percent": 14.285714285714286
+        },
+        {
+            "field_value": "MA",
+            "row_count": 1,
+            "ratio_percent": 14.285714285714286
+        },
+        {
+            "field_value": "CA",
+            "row_count": 1,
+            "ratio_percent": 14.285714285714286
+        },
+        {
+            "field_value": "Chiyoda-Ku",
+            "row_count": 1,
+            "ratio_percent": 14.285714285714286
+        }
+    ]
+}
+@endjson

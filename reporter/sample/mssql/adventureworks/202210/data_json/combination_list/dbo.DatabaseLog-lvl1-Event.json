@@ -1,0 +1,62 @@
+@startjson
+{
+    "field1": "Event",
+    "combination": "Event",
+    "null_distribution": {
+        "total_null_rows": 0,
+        "total_not_null_rows": 1596
+    },
+    "data_distribution": [
+        {
+            "field_value": "CREATE_EXTENDED_PROPERTY",
+            "row_count": 1231,
+            "ratio_percent": 77.13032581453633
+        },
+        {
+            "field_value": "ALTER_TABLE",
+            "row_count": 117,
+            "ratio_percent": 7.330827067669173
+        },
+        {
+            "field_value": "CREATE_INDEX",
+            "row_count": 95,
+            "ratio_percent": 5.9523809523809526
+        },
+        {
+            "field_value": "CREATE_TABLE",
+            "row_count": 70,
+            "ratio_percent": 4.385964912280702
+        },
+        {
+            "field_value": "CREATE_VIEW",
+            "row_count": 20,
+            "ratio_percent": 1.2531328320802004
+        },
+        {
+            "field_value": "CREATE_FUNCTION",
+            "row_count": 11,
+            "ratio_percent": 0.6892230576441103
+        },
+        {
+            "field_value": "CREATE_PROCEDURE",
+            "row_count": 10,
+            "ratio_percent": 0.6265664160401002
+        },
+        {
+            "field_value": "CREATE_TRIGGER",
+            "row_count": 10,
+            "ratio_percent": 0.6265664160401002
+        },
+        {
+            "field_value": "CREATE_XML_INDEX",
+            "row_count": 8,
+            "ratio_percent": 0.5012531328320802
+        },
+        {
+            "field_value": "CREATE_TYPE",
+            "row_count": 6,
+            "ratio_percent": 0.37593984962406013
+        }
+    ]
+}
+@endjson

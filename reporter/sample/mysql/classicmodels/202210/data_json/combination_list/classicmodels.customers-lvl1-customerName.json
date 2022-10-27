@@ -1,0 +1,62 @@
+@startjson
+{
+    "field1": "customerName",
+    "combination": "customerName",
+    "null_distribution": {
+        "total_null_rows": 0,
+        "total_not_null_rows": 122
+    },
+    "data_distribution": [
+        {
+            "field_value": "Euro+ Shopping Channel",
+            "row_count": 1,
+            "ratio_percent": 0.819672131147541
+        },
+        {
+            "field_value": "Heintze Collectables",
+            "row_count": 1,
+            "ratio_percent": 0.819672131147541
+        },
+        {
+            "field_value": "Cramer Spezialit\u00e4ten, Ltd",
+            "row_count": 1,
+            "ratio_percent": 0.819672131147541
+        },
+        {
+            "field_value": "Corrida Auto Replicas, Ltd",
+            "row_count": 1,
+            "ratio_percent": 0.819672131147541
+        },
+        {
+            "field_value": "AV Stores, Co.",
+            "row_count": 1,
+            "ratio_percent": 0.819672131147541
+        },
+        {
+            "field_value": "Norway Gifts By Mail, Co.",
+            "row_count": 1,
+            "ratio_percent": 0.819672131147541
+        },
+        {
+            "field_value": "Tokyo Collectables, Ltd",
+            "row_count": 1,
+            "ratio_percent": 0.819672131147541
+        },
+        {
+            "field_value": "Diecast Classics Inc.",
+            "row_count": 1,
+            "ratio_percent": 0.819672131147541
+        },
+        {
+            "field_value": "Messner Shopping Network",
+            "row_count": 1,
+            "ratio_percent": 0.819672131147541
+        },
+        {
+            "field_value": "Reims Collectables",
+            "row_count": 1,
+            "ratio_percent": 0.819672131147541
+        }
+    ]
+}
+@endjson

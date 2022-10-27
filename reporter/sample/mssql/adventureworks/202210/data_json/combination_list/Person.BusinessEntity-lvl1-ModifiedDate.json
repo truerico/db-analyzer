@@ -1,0 +1,62 @@
+@startjson
+{
+    "field1": "ModifiedDate",
+    "combination": "ModifiedDate",
+    "null_distribution": {
+        "total_null_rows": 0,
+        "total_not_null_rows": 20777
+    },
+    "data_distribution": [
+        {
+            "field_value": "Dec 13 2017  1:21PM",
+            "row_count": 1719,
+            "ratio_percent": 8.273571737979497
+        },
+        {
+            "field_value": "Dec 13 2017  1:22PM",
+            "row_count": 1051,
+            "ratio_percent": 5.058478124849593
+        },
+        {
+            "field_value": "Dec 13 2017  1:23PM",
+            "row_count": 958,
+            "ratio_percent": 4.610867786494682
+        },
+        {
+            "field_value": "Dec 13 2017  1:24PM",
+            "row_count": 890,
+            "ratio_percent": 4.2835828079125955
+        },
+        {
+            "field_value": "Dec 13 2017  1:25PM",
+            "row_count": 856,
+            "ratio_percent": 4.119940318621553
+        },
+        {
+            "field_value": "Dec 13 2017  1:26PM",
+            "row_count": 815,
+            "ratio_percent": 3.9226067285941184
+        },
+        {
+            "field_value": "Dec 13 2017  1:27PM",
+            "row_count": 806,
+            "ratio_percent": 3.8792895990759013
+        },
+        {
+            "field_value": "Dec 13 2017  1:28PM",
+            "row_count": 771,
+            "ratio_percent": 3.7108340953939454
+        },
+        {
+            "field_value": "Dec 13 2017  1:31PM",
+            "row_count": 744,
+            "ratio_percent": 3.5808827068392937
+        },
+        {
+            "field_value": "Dec 13 2017  1:35PM",
+            "row_count": 732,
+            "ratio_percent": 3.523126534148337
+        }
+    ]
+}
+@endjson

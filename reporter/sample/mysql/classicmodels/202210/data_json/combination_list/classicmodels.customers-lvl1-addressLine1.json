@@ -1,0 +1,62 @@
+@startjson
+{
+    "field1": "addressLine1",
+    "combination": "addressLine1",
+    "null_distribution": {
+        "total_null_rows": 0,
+        "total_not_null_rows": 122
+    },
+    "data_distribution": [
+        {
+            "field_value": "C/ Moralzarzal, 86",
+            "row_count": 1,
+            "ratio_percent": 0.819672131147541
+        },
+        {
+            "field_value": "Smagsloget 45",
+            "row_count": 1,
+            "ratio_percent": 0.819672131147541
+        },
+        {
+            "field_value": "Maubelstr. 90",
+            "row_count": 1,
+            "ratio_percent": 0.819672131147541
+        },
+        {
+            "field_value": "C/ Araquil, 67",
+            "row_count": 1,
+            "ratio_percent": 0.819672131147541
+        },
+        {
+            "field_value": "Fauntleroy Circus",
+            "row_count": 1,
+            "ratio_percent": 0.819672131147541
+        },
+        {
+            "field_value": "Drammensveien 126A",
+            "row_count": 1,
+            "ratio_percent": 0.819672131147541
+        },
+        {
+            "field_value": "2-2-8 Roppongi",
+            "row_count": 1,
+            "ratio_percent": 0.819672131147541
+        },
+        {
+            "field_value": "7586 Pompton St.",
+            "row_count": 1,
+            "ratio_percent": 0.819672131147541
+        },
+        {
+            "field_value": "Magazinweg 7",
+            "row_count": 1,
+            "ratio_percent": 0.819672131147541
+        },
+        {
+            "field_value": "59 rue de l'Abbaye",
+            "row_count": 1,
+            "ratio_percent": 0.819672131147541
+        }
+    ]
+}
+@endjson

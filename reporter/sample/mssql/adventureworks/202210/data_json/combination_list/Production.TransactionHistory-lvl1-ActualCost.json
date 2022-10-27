@@ -1,0 +1,62 @@
+@startjson
+{
+    "field1": "ActualCost",
+    "combination": "ActualCost",
+    "null_distribution": {
+        "total_null_rows": 0,
+        "total_not_null_rows": 113443
+    },
+    "data_distribution": [
+        {
+            "field_value": "0.00",
+            "row_count": 31002,
+            "ratio_percent": 27.32826177022822
+        },
+        {
+            "field_value": "4.99",
+            "row_count": 8024,
+            "ratio_percent": 7.073155681707994
+        },
+        {
+            "field_value": "34.99",
+            "row_count": 5844,
+            "ratio_percent": 5.15148576818314
+        },
+        {
+            "field_value": "8.99",
+            "row_count": 4022,
+            "ratio_percent": 3.545392840457322
+        },
+        {
+            "field_value": "2.29",
+            "row_count": 2883,
+            "ratio_percent": 2.5413643856386026
+        },
+        {
+            "field_value": "3.99",
+            "row_count": 2149,
+            "ratio_percent": 1.8943434147545464
+        },
+        {
+            "field_value": "21.98",
+            "row_count": 1918,
+            "ratio_percent": 1.6907169239177384
+        },
+        {
+            "field_value": "9.99",
+            "row_count": 1832,
+            "ratio_percent": 1.6149079273291433
+        },
+        {
+            "field_value": "534.49",
+            "row_count": 1647,
+            "ratio_percent": 1.4518304346676305
+        },
+        {
+            "field_value": "24.99",
+            "row_count": 1623,
+            "ratio_percent": 1.4306744356196504
+        }
+    ]
+}
+@endjson

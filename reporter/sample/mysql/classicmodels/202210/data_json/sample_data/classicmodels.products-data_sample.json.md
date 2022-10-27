@@ -1,0 +1,126 @@
+```json
+@startjson
+[
+    {
+        "productCode": "S700_1691",
+        "productName": "American Airlines: B767-300",
+        "productScale": "1:700",
+        "productVendor": "Min Lin Diecast",
+        "productDescription": "Exact replia with official logos and insignias and retractable wheels",
+        "quantityInStock": 5841,
+        "buyPrice": "51.15",
+        "MSRP": "91.34",
+        "productLine": "Planes",
+        "SYS_EXEC_DURATION": "0.203105"
+    },
+    {
+        "productCode": "S24_2000",
+        "productName": "1960 BSA Gold Star DBD34",
+        "productScale": "1:24",
+        "productVendor": "Highway 66 Mini Classics",
+        "productDescription": "Detailed scale replica with working suspension and constructed from over 70 parts",
+        "quantityInStock": 15,
+        "buyPrice": "37.32",
+        "MSRP": "76.17",
+        "productLine": "Motorcycles",
+        "SYS_EXEC_DURATION": "0.203432"
+    },
+    {
+        "productCode": "S12_3380",
+        "productName": "1968 Dodge Charger",
+        "productScale": "1:12",
+        "productVendor": "Welly Diecast Productions",
+        "productDescription": "1:12 scale model of a 1968 Dodge Charger. Hood, doors and trunk all open to reveal highly detailed interior features. Steering wheel actually turns the front wheels. Color black",
+        "quantityInStock": 9123,
+        "buyPrice": "75.16",
+        "MSRP": "117.44",
+        "productLine": "Classic Cars",
+        "SYS_EXEC_DURATION": "0.203678"
+    },
+    {
+        "productCode": "S12_2823",
+        "productName": "2002 Suzuki XREO",
+        "productScale": "1:12",
+        "productVendor": "Unimax Art Galleries",
+        "productDescription": "Official logos and insignias, saddle bags located on side of motorcycle, detailed engine, working steering, working suspension, two leather seats, luggage rack, dual exhaust pipes, small saddle bag located on handle bars, two-tone paint with chrome accents, superior die-cast detail , rotating wheels , working kick stand, diecast metal with plastic parts and baked enamel finish.",
+        "quantityInStock": 9997,
+        "buyPrice": "66.27",
+        "MSRP": "150.62",
+        "productLine": "Motorcycles",
+        "SYS_EXEC_DURATION": "0.203894"
+    },
+    {
+        "productCode": "S18_3233",
+        "productName": "1985 Toyota Supra",
+        "productScale": "1:18",
+        "productVendor": "Highway 66 Mini Classics",
+        "productDescription": "This model features soft rubber tires, working steering, rubber mud guards, authentic Ford logos, detailed undercarriage, opening doors and hood, removable split rear gate, full size spare mounted in bed, detailed interior with opening glove box",
+        "quantityInStock": 7733,
+        "buyPrice": "57.01",
+        "MSRP": "107.57",
+        "productLine": "Classic Cars",
+        "SYS_EXEC_DURATION": "0.204127"
+    },
+    {
+        "productCode": "S32_2206",
+        "productName": "1982 Ducati 996 R",
+        "productScale": "1:32",
+        "productVendor": "Gearbox Collectibles",
+        "productDescription": "Features rotating wheels , working kick stand. Comes with stand.",
+        "quantityInStock": 9241,
+        "buyPrice": "24.14",
+        "MSRP": "40.23",
+        "productLine": "Motorcycles",
+        "SYS_EXEC_DURATION": "0.204361"
+    },
+    {
+        "productCode": "S12_1108",
+        "productName": "2001 Ferrari Enzo",
+        "productScale": "1:12",
+        "productVendor": "Second Gear Diecast",
+        "productDescription": "Turnable front wheels; steering function; detailed interior; detailed engine; opening hood; opening trunk; opening doors; and detailed chassis.",
+        "quantityInStock": 3619,
+        "buyPrice": "95.59",
+        "MSRP": "207.80",
+        "productLine": "Classic Cars",
+        "SYS_EXEC_DURATION": "0.204627"
+    },
+    {
+        "productCode": "S18_1889",
+        "productName": "1948 Porsche 356-A Roadster",
+        "productScale": "1:18",
+        "productVendor": "Gearbox Collectibles",
+        "productDescription": "This precision die-cast replica features opening doors, superb detail and craftsmanship, working steering system, opening forward compartment, opening rear trunk with removable spare, 4 wheel independent spring suspension as well as factory baked enamel finish.",
+        "quantityInStock": 8826,
+        "buyPrice": "53.90",
+        "MSRP": "77.00",
+        "productLine": "Classic Cars",
+        "SYS_EXEC_DURATION": "0.204899"
+    },
+    {
+        "productCode": "S32_3522",
+        "productName": "1996 Peterbilt 379 Stake Bed with Outrigger",
+        "productScale": "1:32",
+        "productVendor": "Red Start Diecast",
+        "productDescription": "This model features, opening doors, detailed engine, working steering, tinted windows, detailed interior, die-struck logos, removable stakes operating outriggers, detachable second trailer, functioning 360-degree self loader, precision molded resin trailer and trim, baked enamel finish on cab",
+        "quantityInStock": 814,
+        "buyPrice": "33.61",
+        "MSRP": "64.64",
+        "productLine": "Trucks and Buses",
+        "SYS_EXEC_DURATION": "0.205127"
+    },
+    {
+        "productCode": "S24_4258",
+        "productName": "1936 Chrysler Airflow",
+        "productScale": "1:24",
+        "productVendor": "Second Gear Diecast",
+        "productDescription": "Features opening trunk,  working steering system. Color dark green.",
+        "quantityInStock": 4710,
+        "buyPrice": "57.46",
+        "MSRP": "97.39",
+        "productLine": "Vintage Cars",
+        "SYS_EXEC_DURATION": "0.205354"
+    }
+]
+@endjson
+```

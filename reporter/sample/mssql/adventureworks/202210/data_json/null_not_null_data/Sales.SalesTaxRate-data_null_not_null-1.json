@@ -1,0 +1,43 @@
+[
+    {
+        "table": "Sales.SalesTaxRate",
+        "total_records": 29,
+        "dataset": [
+            {
+                "field": "ModifiedDate",
+                "total_null_rows": 0,
+                "total_not_null_rows": 29
+            },
+            {
+                "field": "Name",
+                "total_null_rows": 0,
+                "total_not_null_rows": 29
+            },
+            {
+                "field": "SalesTaxRateID",
+                "total_null_rows": 0,
+                "total_not_null_rows": 29
+            },
+            {
+                "field": "StateProvinceID",
+                "total_null_rows": 0,
+                "total_not_null_rows": 29
+            },
+            {
+                "field": "TaxType",
+                "total_null_rows": 0,
+                "total_not_null_rows": 29
+            },
+            {
+                "field": "TaxRate",
+                "total_null_rows": 0,
+                "total_not_null_rows": 29
+            },
+            {
+                "field": "rowguid",
+                "total_null_rows": 0,
+                "total_not_null_rows": 29
+            }
+        ]
+    }
+]

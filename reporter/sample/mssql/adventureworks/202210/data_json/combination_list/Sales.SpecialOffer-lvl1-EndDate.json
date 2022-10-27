@@ -1,0 +1,62 @@
+@startjson
+{
+    "field1": "EndDate",
+    "combination": "EndDate",
+    "null_distribution": {
+        "total_null_rows": 0,
+        "total_not_null_rows": 16
+    },
+    "data_distribution": [
+        {
+            "field_value": "May 30 2014 12:00AM",
+            "row_count": 6,
+            "ratio_percent": 37.5
+        },
+        {
+            "field_value": "Aug 29 2013 12:00AM",
+            "row_count": 2,
+            "ratio_percent": 12.5
+        },
+        {
+            "field_value": "Nov 30 2014 12:00AM",
+            "row_count": 1,
+            "ratio_percent": 6.25
+        },
+        {
+            "field_value": "Aug 14 2013 12:00AM",
+            "row_count": 1,
+            "ratio_percent": 6.25
+        },
+        {
+            "field_value": "May 29 2012 12:00AM",
+            "row_count": 1,
+            "ratio_percent": 6.25
+        },
+        {
+            "field_value": "Jun 29 2013 12:00AM",
+            "row_count": 1,
+            "ratio_percent": 6.25
+        },
+        {
+            "field_value": "Jun 29 2012 12:00AM",
+            "row_count": 1,
+            "ratio_percent": 6.25
+        },
+        {
+            "field_value": "Jul 30 2012 12:00AM",
+            "row_count": 1,
+            "ratio_percent": 6.25
+        },
+        {
+            "field_value": "Jul 29 2013 12:00AM",
+            "row_count": 1,
+            "ratio_percent": 6.25
+        },
+        {
+            "field_value": "Jul 14 2013 12:00AM",
+            "row_count": 1,
+            "ratio_percent": 6.25
+        }
+    ]
+}
+@endjson

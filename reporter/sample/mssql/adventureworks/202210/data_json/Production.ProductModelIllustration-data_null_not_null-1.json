@@ -1,0 +1,23 @@
+[
+    {
+        "table": "Production.ProductModelIllustration",
+        "total_records": 7,
+        "dataset": [
+            {
+                "field": "IllustrationID",
+                "total_null_rows": 0,
+                "total_not_null_rows": 7
+            },
+            {
+                "field": "ModifiedDate",
+                "total_null_rows": 0,
+                "total_not_null_rows": 7
+            },
+            {
+                "field": "ProductModelID",
+                "total_null_rows": 0,
+                "total_not_null_rows": 7
+            }
+        ]
+    }
+]

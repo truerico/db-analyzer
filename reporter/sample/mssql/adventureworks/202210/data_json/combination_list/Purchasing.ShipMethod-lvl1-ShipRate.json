@@ -1,0 +1,37 @@
+@startjson
+{
+    "field1": "ShipRate",
+    "combination": "ShipRate",
+    "null_distribution": {
+        "total_null_rows": 0,
+        "total_not_null_rows": 5
+    },
+    "data_distribution": [
+        {
+            "field_value": "2.99",
+            "row_count": 1,
+            "ratio_percent": 20.0
+        },
+        {
+            "field_value": "1.99",
+            "row_count": 1,
+            "ratio_percent": 20.0
+        },
+        {
+            "field_value": "1.49",
+            "row_count": 1,
+            "ratio_percent": 20.0
+        },
+        {
+            "field_value": "1.29",
+            "row_count": 1,
+            "ratio_percent": 20.0
+        },
+        {
+            "field_value": "0.99",
+            "row_count": 1,
+            "ratio_percent": 20.0
+        }
+    ]
+}
+@endjson

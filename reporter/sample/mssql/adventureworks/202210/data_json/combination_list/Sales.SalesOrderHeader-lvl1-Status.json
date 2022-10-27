@@ -1,0 +1,17 @@
+@startjson
+{
+    "field1": "Status",
+    "combination": "Status",
+    "null_distribution": {
+        "total_null_rows": 0,
+        "total_not_null_rows": 31465
+    },
+    "data_distribution": [
+        {
+            "field_value": "5",
+            "row_count": 31465,
+            "ratio_percent": 100.0
+        }
+    ]
+}
+@endjson

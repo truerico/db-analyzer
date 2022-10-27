@@ -1,0 +1,418 @@
+[
+    {
+        "table": "Production.Document",
+        "total_records": 13,
+        "dataset": [
+            {
+                "field": "ChangeNumber",
+                "distribution": [
+                    {
+                        "field_value": "0",
+                        "row_count": 5,
+                        "ratio_percent": 38.46153846153846
+                    },
+                    {
+                        "field_value": "8",
+                        "row_count": 1,
+                        "ratio_percent": 7.6923076923076925
+                    },
+                    {
+                        "field_value": "55",
+                        "row_count": 1,
+                        "ratio_percent": 7.6923076923076925
+                    },
+                    {
+                        "field_value": "32",
+                        "row_count": 1,
+                        "ratio_percent": 7.6923076923076925
+                    },
+                    {
+                        "field_value": "288",
+                        "row_count": 1,
+                        "ratio_percent": 7.6923076923076925
+                    },
+                    {
+                        "field_value": "28",
+                        "row_count": 1,
+                        "ratio_percent": 7.6923076923076925
+                    },
+                    {
+                        "field_value": "25",
+                        "row_count": 1,
+                        "ratio_percent": 7.6923076923076925
+                    },
+                    {
+                        "field_value": "15",
+                        "row_count": 1,
+                        "ratio_percent": 7.6923076923076925
+                    },
+                    {
+                        "field_value": "11",
+                        "row_count": 1,
+                        "ratio_percent": 7.6923076923076925
+                    }
+                ]
+            },
+            {
+                "field": "Owner",
+                "distribution": [
+                    {
+                        "field_value": "220",
+                        "row_count": 5,
+                        "ratio_percent": 38.46153846153846
+                    },
+                    {
+                        "field_value": "219",
+                        "row_count": 4,
+                        "ratio_percent": 30.76923076923077
+                    },
+                    {
+                        "field_value": "217",
+                        "row_count": 4,
+                        "ratio_percent": 30.76923076923077
+                    }
+                ]
+            },
+            {
+                "field": "Revision",
+                "distribution": [
+                    {
+                        "field_value": "0",
+                        "row_count": 7,
+                        "ratio_percent": 53.84615384615385
+                    },
+                    {
+                        "field_value": "1",
+                        "row_count": 2,
+                        "ratio_percent": 15.384615384615385
+                    },
+                    {
+                        "field_value": "8",
+                        "row_count": 1,
+                        "ratio_percent": 7.6923076923076925
+                    },
+                    {
+                        "field_value": "4",
+                        "row_count": 1,
+                        "ratio_percent": 7.6923076923076925
+                    },
+                    {
+                        "field_value": "3",
+                        "row_count": 1,
+                        "ratio_percent": 7.6923076923076925
+                    },
+                    {
+                        "field_value": "2",
+                        "row_count": 1,
+                        "ratio_percent": 7.6923076923076925
+                    }
+                ]
+            },
+            {
+                "field": "Status",
+                "distribution": [
+                    {
+                        "field_value": "2",
+                        "row_count": 10,
+                        "ratio_percent": 76.92307692307692
+                    },
+                    {
+                        "field_value": "1",
+                        "row_count": 2,
+                        "ratio_percent": 15.384615384615385
+                    },
+                    {
+                        "field_value": "3",
+                        "row_count": 1,
+                        "ratio_percent": 7.6923076923076925
+                    }
+                ]
+            },
+            {
+                "field": "Title",
+                "distribution": [
+                    {
+                        "field_value": "Repair and Service Guidelines",
+                        "row_count": 1,
+                        "ratio_percent": 7.6923076923076925
+                    },
+                    {
+                        "field_value": "Overview",
+                        "row_count": 1,
+                        "ratio_percent": 7.6923076923076925
+                    },
+                    {
+                        "field_value": "Maintenance",
+                        "row_count": 1,
+                        "ratio_percent": 7.6923076923076925
+                    },
+                    {
+                        "field_value": "Lubrication Maintenance",
+                        "row_count": 1,
+                        "ratio_percent": 7.6923076923076925
+                    },
+                    {
+                        "field_value": "Introduction 1",
+                        "row_count": 1,
+                        "ratio_percent": 7.6923076923076925
+                    },
+                    {
+                        "field_value": "Installing Replacement Pedals",
+                        "row_count": 1,
+                        "ratio_percent": 7.6923076923076925
+                    },
+                    {
+                        "field_value": "Front Reflector Bracket Installation",
+                        "row_count": 1,
+                        "ratio_percent": 7.6923076923076925
+                    },
+                    {
+                        "field_value": "Front Reflector Bracket and Reflector Assembly 3",
+                        "row_count": 1,
+                        "ratio_percent": 7.6923076923076925
+                    },
+                    {
+                        "field_value": "Documents",
+                        "row_count": 1,
+                        "ratio_percent": 7.6923076923076925
+                    },
+                    {
+                        "field_value": "Crank Arm and Tire Maintenance",
+                        "row_count": 1,
+                        "ratio_percent": 7.6923076923076925
+                    }
+                ]
+            },
+            {
+                "field": "rowguid",
+                "distribution": [
+                    {
+                        "field_value": "B706C1D6-FB99-40B5-844C-6EE54701BA0D",
+                        "row_count": 1,
+                        "ratio_percent": 7.6923076923076925
+                    },
+                    {
+                        "field_value": "82F61D73-0BF5-44FF-AB99-DD73AEE9B9CC",
+                        "row_count": 1,
+                        "ratio_percent": 7.6923076923076925
+                    },
+                    {
+                        "field_value": "7EE72C7E-9800-44C1-B82D-6E34E8289CA1",
+                        "row_count": 1,
+                        "ratio_percent": 7.6923076923076925
+                    },
+                    {
+                        "field_value": "7ED4DEF5-D5BB-4818-8748-5BB5F8315FA2",
+                        "row_count": 1,
+                        "ratio_percent": 7.6923076923076925
+                    },
+                    {
+                        "field_value": "79D41FE8-39D7-4591-9A05-285A3E1AAFCB",
+                        "row_count": 1,
+                        "ratio_percent": 7.6923076923076925
+                    },
+                    {
+                        "field_value": "52F6BE23-5363-4D93-96AE-F714B851E52C",
+                        "row_count": 1,
+                        "ratio_percent": 7.6923076923076925
+                    },
+                    {
+                        "field_value": "5184D96A-EE8C-499A-9316-625496784DE6",
+                        "row_count": 1,
+                        "ratio_percent": 7.6923076923076925
+                    },
+                    {
+                        "field_value": "48265174-8451-4967-973A-639C2276CFAF",
+                        "row_count": 1,
+                        "ratio_percent": 7.6923076923076925
+                    },
+                    {
+                        "field_value": "2A8BD319-36FB-4FBA-9E07-E303839F1974",
+                        "row_count": 1,
+                        "ratio_percent": 7.6923076923076925
+                    },
+                    {
+                        "field_value": "27CF33AF-C338-4842-966C-75CA11AAA6A3",
+                        "row_count": 1,
+                        "ratio_percent": 7.6923076923076925
+                    }
+                ]
+            },
+            {
+                "field": "DocumentLevel",
+                "distribution": [
+                    {
+                        "field_value": "2",
+                        "row_count": 9,
+                        "ratio_percent": 69.23076923076923
+                    },
+                    {
+                        "field_value": "1",
+                        "row_count": 3,
+                        "ratio_percent": 23.076923076923077
+                    },
+                    {
+                        "field_value": "0",
+                        "row_count": 1,
+                        "ratio_percent": 7.6923076923076925
+                    }
+                ]
+            },
+            {
+                "field": "DocumentSummary",
+                "distribution": [
+                    {
+                        "field_value": "**NULL**",
+                        "row_count": 8,
+                        "ratio_percent": 61.53846153846154
+                    },
+                    {
+                        "field_value": "Worn or damaged seats can be easily replaced following these simple instructions.  Instructions are applicable to these  Adventure Works Cycles models: Mountain 100 through Mountain 500. Use only Adventure Works Cycles parts when replacing worn or broken components.",
+                        "row_count": 1,
+                        "ratio_percent": 7.6923076923076925
+                    },
+                    {
+                        "field_value": "Reflectors are vital safety components of your bicycle. Always ensure your front and back reflectors are clean and in good repair. Detailed instructions and illustrations are included should you need to replace the front reflector or front reflector bracket of your Adventure Works Cycles bicycle.",
+                        "row_count": 1,
+                        "ratio_percent": 7.6923076923076925
+                    },
+                    {
+                        "field_value": "It is important that you maintain your bicycle and keep it in good repair. Detailed repair and service guidelines are provided along with instructions for adjusting the tightness of the suspension fork.",
+                        "row_count": 1,
+                        "ratio_percent": 7.6923076923076925
+                    },
+                    {
+                        "field_value": "Guidelines and recommendations for lubricating the required components of your Adventure Works Cycles bicycle. Component lubrication is vital to ensuring a smooth and safe ride and should be part of your standard maintenance routine. Details instructions are provided for each bicycle component requiring regular lubrication including the frequency at which oil or grease should be applied.",
+                        "row_count": 1,
+                        "ratio_percent": 7.6923076923076925
+                    },
+                    {
+                        "field_value": "Detailed instructions for replacing pedals with Adventure Works Cycles replacement pedals.  Instructions are applicable to all Adventure Works Cycles bicycle models and replacement pedals. Use only Adventure Works Cycles parts when replacing worn or broken components.",
+                        "row_count": 1,
+                        "ratio_percent": 7.6923076923076925
+                    }
+                ]
+            },
+            {
+                "field": "FolderFlag",
+                "distribution": [
+                    {
+                        "field_value": "0",
+                        "row_count": 9,
+                        "ratio_percent": 69.23076923076923
+                    },
+                    {
+                        "field_value": "1",
+                        "row_count": 4,
+                        "ratio_percent": 30.76923076923077
+                    }
+                ]
+            },
+            {
+                "field": "FileName",
+                "distribution": [
+                    {
+                        "field_value": "Repair and Service Guidelines.doc",
+                        "row_count": 1,
+                        "ratio_percent": 7.6923076923076925
+                    },
+                    {
+                        "field_value": "Overview",
+                        "row_count": 1,
+                        "ratio_percent": 7.6923076923076925
+                    },
+                    {
+                        "field_value": "Maintenance",
+                        "row_count": 1,
+                        "ratio_percent": 7.6923076923076925
+                    },
+                    {
+                        "field_value": "Lubrication Maintenance.doc",
+                        "row_count": 1,
+                        "ratio_percent": 7.6923076923076925
+                    },
+                    {
+                        "field_value": "Introduction 1.doc",
+                        "row_count": 1,
+                        "ratio_percent": 7.6923076923076925
+                    },
+                    {
+                        "field_value": "Installing Replacement Pedals.doc",
+                        "row_count": 1,
+                        "ratio_percent": 7.6923076923076925
+                    },
+                    {
+                        "field_value": "Front Reflector Bracket Installation.doc",
+                        "row_count": 1,
+                        "ratio_percent": 7.6923076923076925
+                    },
+                    {
+                        "field_value": "Front Reflector Bracket and Reflector Assembly 3.doc",
+                        "row_count": 1,
+                        "ratio_percent": 7.6923076923076925
+                    },
+                    {
+                        "field_value": "Documents",
+                        "row_count": 1,
+                        "ratio_percent": 7.6923076923076925
+                    },
+                    {
+                        "field_value": "Crank Arm and Tire Maintenance.doc",
+                        "row_count": 1,
+                        "ratio_percent": 7.6923076923076925
+                    }
+                ]
+            },
+            {
+                "field": "FileExtension",
+                "distribution": [
+                    {
+                        "field_value": ".doc",
+                        "row_count": 9,
+                        "ratio_percent": 69.23076923076923
+                    },
+                    {
+                        "field_value": "**EMPTY**",
+                        "row_count": 4,
+                        "ratio_percent": 30.76923076923077
+                    }
+                ]
+            },
+            {
+                "field": "ModifiedDate",
+                "distribution": [
+                    {
+                        "field_value": "Dec 13 2017  1:58PM",
+                        "row_count": 4,
+                        "ratio_percent": 30.76923076923077
+                    },
+                    {
+                        "field_value": "May 30 2013 12:00AM",
+                        "row_count": 3,
+                        "ratio_percent": 23.076923076923077
+                    },
+                    {
+                        "field_value": "Apr 30 2012 12:00AM",
+                        "row_count": 3,
+                        "ratio_percent": 23.076923076923077
+                    },
+                    {
+                        "field_value": "Oct 19 2012  9:56AM",
+                        "row_count": 1,
+                        "ratio_percent": 7.6923076923076925
+                    },
+                    {
+                        "field_value": "Mar 31 2008 12:00AM",
+                        "row_count": 1,
+                        "ratio_percent": 7.6923076923076925
+                    },
+                    {
+                        "field_value": "Apr 30 2013 12:00AM",
+                        "row_count": 1,
+                        "ratio_percent": 7.6923076923076925
+                    }
+                ]
+            }
+        ]
+    }
+]

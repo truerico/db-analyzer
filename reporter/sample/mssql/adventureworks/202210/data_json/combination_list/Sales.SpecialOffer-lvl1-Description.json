@@ -1,0 +1,62 @@
+@startjson
+{
+    "field1": "Description",
+    "combination": "Description",
+    "null_distribution": {
+        "total_null_rows": 0,
+        "total_not_null_rows": 16
+    },
+    "data_distribution": [
+        {
+            "field_value": "Touring-3000 Promotion",
+            "row_count": 1,
+            "ratio_percent": 6.25
+        },
+        {
+            "field_value": "Touring-1000 Promotion",
+            "row_count": 1,
+            "ratio_percent": 6.25
+        },
+        {
+            "field_value": "Sport Helmet Discount-2003",
+            "row_count": 1,
+            "ratio_percent": 6.25
+        },
+        {
+            "field_value": "Sport Helmet Discount-2002",
+            "row_count": 1,
+            "ratio_percent": 6.25
+        },
+        {
+            "field_value": "Road-650 Overstock",
+            "row_count": 1,
+            "ratio_percent": 6.25
+        },
+        {
+            "field_value": "No Discount",
+            "row_count": 1,
+            "ratio_percent": 6.25
+        },
+        {
+            "field_value": "Mountain-500 Silver Clearance Sale",
+            "row_count": 1,
+            "ratio_percent": 6.25
+        },
+        {
+            "field_value": "Mountain-100 Clearance Sale",
+            "row_count": 1,
+            "ratio_percent": 6.25
+        },
+        {
+            "field_value": "Mountain Tire Sale",
+            "row_count": 1,
+            "ratio_percent": 6.25
+        },
+        {
+            "field_value": "LL Road Frame Sale",
+            "row_count": 1,
+            "ratio_percent": 6.25
+        }
+    ]
+}
+@endjson

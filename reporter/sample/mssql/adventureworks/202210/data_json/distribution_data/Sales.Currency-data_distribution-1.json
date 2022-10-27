@@ -1,0 +1,128 @@
+[
+    {
+        "table": "Sales.Currency",
+        "total_records": 105,
+        "dataset": [
+            {
+                "field": "CurrencyCode",
+                "distribution": [
+                    {
+                        "field_value": "AZM",
+                        "row_count": 1,
+                        "ratio_percent": 0.9523809523809523
+                    },
+                    {
+                        "field_value": "AWG",
+                        "row_count": 1,
+                        "ratio_percent": 0.9523809523809523
+                    },
+                    {
+                        "field_value": "AUD",
+                        "row_count": 1,
+                        "ratio_percent": 0.9523809523809523
+                    },
+                    {
+                        "field_value": "ATS",
+                        "row_count": 1,
+                        "ratio_percent": 0.9523809523809523
+                    },
+                    {
+                        "field_value": "ARS",
+                        "row_count": 1,
+                        "ratio_percent": 0.9523809523809523
+                    },
+                    {
+                        "field_value": "AOA",
+                        "row_count": 1,
+                        "ratio_percent": 0.9523809523809523
+                    },
+                    {
+                        "field_value": "ANG",
+                        "row_count": 1,
+                        "ratio_percent": 0.9523809523809523
+                    },
+                    {
+                        "field_value": "AMD",
+                        "row_count": 1,
+                        "ratio_percent": 0.9523809523809523
+                    },
+                    {
+                        "field_value": "ALL",
+                        "row_count": 1,
+                        "ratio_percent": 0.9523809523809523
+                    },
+                    {
+                        "field_value": "AFA",
+                        "row_count": 1,
+                        "ratio_percent": 0.9523809523809523
+                    }
+                ]
+            },
+            {
+                "field": "ModifiedDate",
+                "distribution": [
+                    {
+                        "field_value": "Apr 30 2008 12:00AM",
+                        "row_count": 105,
+                        "ratio_percent": 100.0
+                    }
+                ]
+            },
+            {
+                "field": "Name",
+                "distribution": [
+                    {
+                        "field_value": "Balboa",
+                        "row_count": 1,
+                        "ratio_percent": 0.9523809523809523
+                    },
+                    {
+                        "field_value": "Baht",
+                        "row_count": 1,
+                        "ratio_percent": 0.9523809523809523
+                    },
+                    {
+                        "field_value": "Bahraini Dinar",
+                        "row_count": 1,
+                        "ratio_percent": 0.9523809523809523
+                    },
+                    {
+                        "field_value": "Bahamian Dollar",
+                        "row_count": 1,
+                        "ratio_percent": 0.9523809523809523
+                    },
+                    {
+                        "field_value": "Azerbaijanian Manat",
+                        "row_count": 1,
+                        "ratio_percent": 0.9523809523809523
+                    },
+                    {
+                        "field_value": "Australian Dollar",
+                        "row_count": 1,
+                        "ratio_percent": 0.9523809523809523
+                    },
+                    {
+                        "field_value": "Aruban Guilder",
+                        "row_count": 1,
+                        "ratio_percent": 0.9523809523809523
+                    },
+                    {
+                        "field_value": "Armenian Dram",
+                        "row_count": 1,
+                        "ratio_percent": 0.9523809523809523
+                    },
+                    {
+                        "field_value": "Argentine Peso",
+                        "row_count": 1,
+                        "ratio_percent": 0.9523809523809523
+                    },
+                    {
+                        "field_value": "Algerian Dinar",
+                        "row_count": 1,
+                        "ratio_percent": 0.9523809523809523
+                    }
+                ]
+            }
+        ]
+    }
+]

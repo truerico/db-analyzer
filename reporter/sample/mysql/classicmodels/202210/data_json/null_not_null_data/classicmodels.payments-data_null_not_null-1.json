@@ -1,0 +1,28 @@
+[
+    {
+        "table": "classicmodels.payments",
+        "total_records": 273,
+        "dataset": [
+            {
+                "field": "amount",
+                "total_null_rows": 0,
+                "total_not_null_rows": 273
+            },
+            {
+                "field": "customerNumber",
+                "total_null_rows": 0,
+                "total_not_null_rows": 273
+            },
+            {
+                "field": "checkNumber",
+                "total_null_rows": 0,
+                "total_not_null_rows": 273
+            },
+            {
+                "field": "paymentDate",
+                "total_null_rows": 0,
+                "total_not_null_rows": 273
+            }
+        ]
+    }
+]

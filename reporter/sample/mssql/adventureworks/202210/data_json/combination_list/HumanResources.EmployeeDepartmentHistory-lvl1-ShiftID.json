@@ -1,0 +1,27 @@
+@startjson
+{
+    "field1": "ShiftID",
+    "combination": "ShiftID",
+    "null_distribution": {
+        "total_null_rows": 0,
+        "total_not_null_rows": 296
+    },
+    "data_distribution": [
+        {
+            "field_value": "1",
+            "row_count": 182,
+            "ratio_percent": 61.486486486486484
+        },
+        {
+            "field_value": "2",
+            "row_count": 62,
+            "ratio_percent": 20.945945945945947
+        },
+        {
+            "field_value": "3",
+            "row_count": 52,
+            "ratio_percent": 17.56756756756757
+        }
+    ]
+}
+@endjson

@@ -1,0 +1,173 @@
+[
+    {
+        "table": "Sales.PersonCreditCard",
+        "total_records": 19118,
+        "dataset": [
+            {
+                "field": "BusinessEntityID",
+                "distribution": [
+                    {
+                        "field_value": "1001",
+                        "row_count": 1,
+                        "ratio_percent": 0.005230672664504655
+                    },
+                    {
+                        "field_value": "10009",
+                        "row_count": 1,
+                        "ratio_percent": 0.005230672664504655
+                    },
+                    {
+                        "field_value": "10008",
+                        "row_count": 1,
+                        "ratio_percent": 0.005230672664504655
+                    },
+                    {
+                        "field_value": "10007",
+                        "row_count": 1,
+                        "ratio_percent": 0.005230672664504655
+                    },
+                    {
+                        "field_value": "10006",
+                        "row_count": 1,
+                        "ratio_percent": 0.005230672664504655
+                    },
+                    {
+                        "field_value": "10005",
+                        "row_count": 1,
+                        "ratio_percent": 0.005230672664504655
+                    },
+                    {
+                        "field_value": "10004",
+                        "row_count": 1,
+                        "ratio_percent": 0.005230672664504655
+                    },
+                    {
+                        "field_value": "10003",
+                        "row_count": 1,
+                        "ratio_percent": 0.005230672664504655
+                    },
+                    {
+                        "field_value": "10002",
+                        "row_count": 1,
+                        "ratio_percent": 0.005230672664504655
+                    },
+                    {
+                        "field_value": "10001",
+                        "row_count": 1,
+                        "ratio_percent": 0.005230672664504655
+                    }
+                ]
+            },
+            {
+                "field": "CreditCardID",
+                "distribution": [
+                    {
+                        "field_value": "10006",
+                        "row_count": 1,
+                        "ratio_percent": 0.005230672664504655
+                    },
+                    {
+                        "field_value": "10005",
+                        "row_count": 1,
+                        "ratio_percent": 0.005230672664504655
+                    },
+                    {
+                        "field_value": "10004",
+                        "row_count": 1,
+                        "ratio_percent": 0.005230672664504655
+                    },
+                    {
+                        "field_value": "10003",
+                        "row_count": 1,
+                        "ratio_percent": 0.005230672664504655
+                    },
+                    {
+                        "field_value": "10002",
+                        "row_count": 1,
+                        "ratio_percent": 0.005230672664504655
+                    },
+                    {
+                        "field_value": "10001",
+                        "row_count": 1,
+                        "ratio_percent": 0.005230672664504655
+                    },
+                    {
+                        "field_value": "10000",
+                        "row_count": 1,
+                        "ratio_percent": 0.005230672664504655
+                    },
+                    {
+                        "field_value": "1000",
+                        "row_count": 1,
+                        "ratio_percent": 0.005230672664504655
+                    },
+                    {
+                        "field_value": "100",
+                        "row_count": 1,
+                        "ratio_percent": 0.005230672664504655
+                    },
+                    {
+                        "field_value": "10",
+                        "row_count": 1,
+                        "ratio_percent": 0.005230672664504655
+                    }
+                ]
+            },
+            {
+                "field": "ModifiedDate",
+                "distribution": [
+                    {
+                        "field_value": "Jul 31 2013 12:00AM",
+                        "row_count": 115,
+                        "ratio_percent": 0.6015273564180353
+                    },
+                    {
+                        "field_value": "Jun 30 2013 12:00AM",
+                        "row_count": 113,
+                        "ratio_percent": 0.591066011089026
+                    },
+                    {
+                        "field_value": "Jun 30 2012 12:00AM",
+                        "row_count": 88,
+                        "ratio_percent": 0.46029919447640966
+                    },
+                    {
+                        "field_value": "Jul  1 2011 12:00AM",
+                        "row_count": 80,
+                        "ratio_percent": 0.41845381316037245
+                    },
+                    {
+                        "field_value": "Jul 31 2012 12:00AM",
+                        "row_count": 73,
+                        "ratio_percent": 0.38183910450883984
+                    },
+                    {
+                        "field_value": "Aug  1 2011 12:00AM",
+                        "row_count": 63,
+                        "ratio_percent": 0.3295323778637933
+                    },
+                    {
+                        "field_value": "Jul  7 2013 12:00AM",
+                        "row_count": 56,
+                        "ratio_percent": 0.2929176692122607
+                    },
+                    {
+                        "field_value": "May 14 2014 12:00AM",
+                        "row_count": 56,
+                        "ratio_percent": 0.2929176692122607
+                    },
+                    {
+                        "field_value": "Jul 18 2013 12:00AM",
+                        "row_count": 54,
+                        "ratio_percent": 0.28245632388325137
+                    },
+                    {
+                        "field_value": "Nov 13 2013 12:00AM",
+                        "row_count": 54,
+                        "ratio_percent": 0.28245632388325137
+                    }
+                ]
+            }
+        ]
+    }
+]

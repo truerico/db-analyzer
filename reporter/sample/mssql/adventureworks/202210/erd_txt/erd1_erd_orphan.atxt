@@ -1,0 +1,44 @@
+                                          ,---------------------------------.                          
+  ,------------------------------------.  |<&grid-three-up>** dbo.ErrorLog**|                          
+  |<&grid-three-up>** dbo.DatabaseLog**|  |---------------------------------|                          
+  |------------------------------------|  |+ **(pk) ErrorLogID : int**      |                          
+  |+ **(pk) DatabaseLogID : int**      |  |--                               |                          
+  |--                                  |  |- ErrorTime : datetime           |                          
+  |- PostTime : datetime               |  |- UserName : nvarchar            |                          
+  |- DatabaseUser : nvarchar           |  |- ErrorNumber : int              |                          
+  |- Event : nvarchar                  |  |- ErrorSeverity : int            |                          
+  |- Schema : nvarchar                 |  |- ErrorState : int               |                          
+  |- Object : nvarchar                 |  |- ErrorProcedure : nvarchar      |                          
+  |- TSQL : nvarchar                   |  |- ErrorLine : int                |                          
+  |- XmlEvent : xml                    |  |- ErrorMessage : nvarchar        |                          
+  |==                                  |  |==                               |                          
+  |<&pie-chart>** stats**              |  |<&pie-chart>** stats**           |                          
+  |    total rows : 1,596              |  |    total rows : 0               |                          
+  |    total cols : 8                  |  |    total cols : 9               |                          
+  |    data size : 6,544 KB            |  |    data size : 0 KB             |                          
+  |    index size : 48 KB              |  |    index size : 0 KB            |                          
+  |--                                  |  |--                               |                          
+  `------------------------------------'  `---------------------------------'                          
+                                                                                                       
+                                                                                                       
+                                            ,---------------------------------------------------------.
+                                            |<&grid-three-up>** Production.TransactionHistoryArchive**|
+,----------------------------------------.  |---------------------------------------------------------|
+|<&grid-three-up>** dbo.AWBuildVersion** |  |+ **(pk) TransactionID : int**                           |
+|----------------------------------------|  |--                                                       |
+|+ **(pk) SystemInformationID : tinyint**|  |- ProductID : int                                        |
+|--                                      |  |- ReferenceOrderID : int                                 |
+|- Database Version : nvarchar           |  |- ReferenceOrderLineID : int                             |
+|- VersionDate : datetime                |  |- TransactionDate : datetime                             |
+|- ModifiedDate : datetime               |  |- TransactionType : nchar                                |
+|==                                      |  |- Quantity : int                                         |
+|<&pie-chart>** stats**                  |  |- ActualCost : money                                     |
+|    total rows : 1                      |  |- ModifiedDate : datetime                                |
+|    total cols : 4                      |  |==                                                       |
+|    data size : 72 KB                   |  |<&pie-chart>** stats**                                   |
+|    index size : 0 KB                   |  |    total rows : 89,253                                  |
+|--                                      |  |    total cols : 9                                       |
+`----------------------------------------'  |    data size : 5,064 KB                                 |
+                                            |    index size : 2,864 KB                                |
+                                            |--                                                       |
+                                            `---------------------------------------------------------'

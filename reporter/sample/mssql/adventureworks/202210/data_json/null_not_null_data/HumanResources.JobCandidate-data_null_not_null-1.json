@@ -1,0 +1,23 @@
+[
+    {
+        "table": "HumanResources.JobCandidate",
+        "total_records": 13,
+        "dataset": [
+            {
+                "field": "BusinessEntityID",
+                "total_null_rows": 11,
+                "total_not_null_rows": 2
+            },
+            {
+                "field": "JobCandidateID",
+                "total_null_rows": 0,
+                "total_not_null_rows": 13
+            },
+            {
+                "field": "ModifiedDate",
+                "total_null_rows": 0,
+                "total_not_null_rows": 13
+            }
+        ]
+    }
+]

@@ -1,0 +1,62 @@
+@startjson
+{
+    "field1": "productName",
+    "combination": "productName",
+    "null_distribution": {
+        "total_null_rows": 0,
+        "total_not_null_rows": 110
+    },
+    "data_distribution": [
+        {
+            "field_value": "1995 Honda Civic",
+            "row_count": 1,
+            "ratio_percent": 0.9090909090909091
+        },
+        {
+            "field_value": "1970 Dodge Coronet",
+            "row_count": 1,
+            "ratio_percent": 0.9090909090909091
+        },
+        {
+            "field_value": "1950's Chicago Surface Lines Streetcar",
+            "row_count": 1,
+            "ratio_percent": 0.9090909090909091
+        },
+        {
+            "field_value": "1962 LanciaA Delta 16V",
+            "row_count": 1,
+            "ratio_percent": 0.9090909090909091
+        },
+        {
+            "field_value": "18th Century Vintage Horse Carriage",
+            "row_count": 1,
+            "ratio_percent": 0.9090909090909091
+        },
+        {
+            "field_value": "1952 Citroen-15CV",
+            "row_count": 1,
+            "ratio_percent": 0.9090909090909091
+        },
+        {
+            "field_value": "The USS Constitution Ship",
+            "row_count": 1,
+            "ratio_percent": 0.9090909090909091
+        },
+        {
+            "field_value": "1937 Lincoln Berline",
+            "row_count": 1,
+            "ratio_percent": 0.9090909090909091
+        },
+        {
+            "field_value": "1904 Buick Runabout",
+            "row_count": 1,
+            "ratio_percent": 0.9090909090909091
+        },
+        {
+            "field_value": "1900s Vintage Tri-Plane",
+            "row_count": 1,
+            "ratio_percent": 0.9090909090909091
+        }
+    ]
+}
+@endjson

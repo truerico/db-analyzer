@@ -1,0 +1,22 @@
+@startjson
+{
+    "field1": "PayFrequency",
+    "combination": "PayFrequency",
+    "null_distribution": {
+        "total_null_rows": 0,
+        "total_not_null_rows": 316
+    },
+    "data_distribution": [
+        {
+            "field_value": "1",
+            "row_count": 180,
+            "ratio_percent": 56.962025316455694
+        },
+        {
+            "field_value": "2",
+            "row_count": 136,
+            "ratio_percent": 43.037974683544306
+        }
+    ]
+}
+@endjson

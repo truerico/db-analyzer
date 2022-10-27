@@ -1,0 +1,33 @@
+[
+    {
+        "table": "Sales.Store",
+        "total_records": 701,
+        "dataset": [
+            {
+                "field": "BusinessEntityID",
+                "total_null_rows": 0,
+                "total_not_null_rows": 701
+            },
+            {
+                "field": "ModifiedDate",
+                "total_null_rows": 0,
+                "total_not_null_rows": 701
+            },
+            {
+                "field": "Name",
+                "total_null_rows": 0,
+                "total_not_null_rows": 701
+            },
+            {
+                "field": "SalesPersonID",
+                "total_null_rows": 0,
+                "total_not_null_rows": 701
+            },
+            {
+                "field": "rowguid",
+                "total_null_rows": 0,
+                "total_not_null_rows": 701
+            }
+        ]
+    }
+]

@@ -1,0 +1,41 @@
+```json
+@startjson
+[
+    {
+        "SalesReasonID": 1,
+        "Name": "Price",
+        "ReasonType": "Other",
+        "ModifiedDate": "2008-04-30 00:00:00",
+        "SYS_EXEC_DURATION": "0.196115"
+    },
+    {
+        "SalesReasonID": 2,
+        "Name": "On Promotion",
+        "ReasonType": "Promotion",
+        "ModifiedDate": "2008-04-30 00:00:00",
+        "SYS_EXEC_DURATION": "0.19626"
+    },
+    {
+        "SalesReasonID": 3,
+        "Name": "Magazine Advertisement",
+        "ReasonType": "Marketing",
+        "ModifiedDate": "2008-04-30 00:00:00",
+        "SYS_EXEC_DURATION": "0.196308"
+    },
+    {
+        "SalesReasonID": 4,
+        "Name": "Television  Advertisement",
+        "ReasonType": "Marketing",
+        "ModifiedDate": "2008-04-30 00:00:00",
+        "SYS_EXEC_DURATION": "0.19635"
+    },
+    {
+        "SalesReasonID": 5,
+        "Name": "Manufacturer",
+        "ReasonType": "Other",
+        "ModifiedDate": "2008-04-30 00:00:00",
+        "SYS_EXEC_DURATION": "0.196403"
+    }
+]
+@endjson
+```

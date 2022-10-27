@@ -1,0 +1,62 @@
+@startjson
+{
+    "field1": "Color",
+    "combination": "Color",
+    "null_distribution": {
+        "total_null_rows": 248,
+        "total_not_null_rows": 256
+    },
+    "data_distribution": [
+        {
+            "field_value": "**NULL**",
+            "row_count": 248,
+            "ratio_percent": 49.20634920634921
+        },
+        {
+            "field_value": "Black",
+            "row_count": 93,
+            "ratio_percent": 18.452380952380953
+        },
+        {
+            "field_value": "Silver",
+            "row_count": 43,
+            "ratio_percent": 8.531746031746032
+        },
+        {
+            "field_value": "Red",
+            "row_count": 38,
+            "ratio_percent": 7.5396825396825395
+        },
+        {
+            "field_value": "Yellow",
+            "row_count": 36,
+            "ratio_percent": 7.142857142857143
+        },
+        {
+            "field_value": "Blue",
+            "row_count": 26,
+            "ratio_percent": 5.158730158730159
+        },
+        {
+            "field_value": "Multi",
+            "row_count": 8,
+            "ratio_percent": 1.5873015873015872
+        },
+        {
+            "field_value": "Silver/Black",
+            "row_count": 7,
+            "ratio_percent": 1.3888888888888888
+        },
+        {
+            "field_value": "White",
+            "row_count": 4,
+            "ratio_percent": 0.7936507936507936
+        },
+        {
+            "field_value": "Grey",
+            "row_count": 1,
+            "ratio_percent": 0.1984126984126984
+        }
+    ]
+}
+@endjson

@@ -1,0 +1,37 @@
+[
+    {
+        "BusinessEntityID": 1,
+        "PhoneNumber": "697-555-0142",
+        "PhoneNumberTypeID": 1,
+        "ModifiedDate": "2009-01-07 00:00:00",
+        "SYS_EXEC_DURATION": "0.18219"
+    },
+    {
+        "BusinessEntityID": 2,
+        "PhoneNumber": "819-555-0175",
+        "PhoneNumberTypeID": 3,
+        "ModifiedDate": "2008-01-24 00:00:00",
+        "SYS_EXEC_DURATION": "0.182323"
+    },
+    {
+        "BusinessEntityID": 3,
+        "PhoneNumber": "212-555-0187",
+        "PhoneNumberTypeID": 1,
+        "ModifiedDate": "2007-11-04 00:00:00",
+        "SYS_EXEC_DURATION": "0.182375"
+    },
+    {
+        "BusinessEntityID": 4,
+        "PhoneNumber": "612-555-0100",
+        "PhoneNumberTypeID": 1,
+        "ModifiedDate": "2007-11-28 00:00:00",
+        "SYS_EXEC_DURATION": "0.182418"
+    },
+    {
+        "BusinessEntityID": 5,
+        "PhoneNumber": "849-555-0139",
+        "PhoneNumberTypeID": 1,
+        "ModifiedDate": "2007-12-30 00:00:00",
+        "SYS_EXEC_DURATION": "0.182471"
+    }
+]

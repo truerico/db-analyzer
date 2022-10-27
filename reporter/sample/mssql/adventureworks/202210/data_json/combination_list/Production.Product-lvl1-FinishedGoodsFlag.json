@@ -1,0 +1,22 @@
+@startjson
+{
+    "field1": "FinishedGoodsFlag",
+    "combination": "FinishedGoodsFlag",
+    "null_distribution": {
+        "total_null_rows": 0,
+        "total_not_null_rows": 504
+    },
+    "data_distribution": [
+        {
+            "field_value": "1",
+            "row_count": 295,
+            "ratio_percent": 58.53174603174603
+        },
+        {
+            "field_value": "0",
+            "row_count": 209,
+            "ratio_percent": 41.46825396825397
+        }
+    ]
+}
+@endjson

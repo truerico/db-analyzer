@@ -1,0 +1,57 @@
+[
+    {
+        "StateProvinceID": 1,
+        "StateProvinceCode": "AB ",
+        "IsOnlyStateProvinceFlag": false,
+        "Name": "Alberta",
+        "rowguid": "298C2880-AB1C-4982-A5AD-A36EB4BA0D34",
+        "ModifiedDate": "2014-02-08 10:17:21.587000",
+        "TerritoryID": 6,
+        "CountryRegionCode": "CA",
+        "SYS_EXEC_DURATION": "0.186516"
+    },
+    {
+        "StateProvinceID": 2,
+        "StateProvinceCode": "AK ",
+        "IsOnlyStateProvinceFlag": false,
+        "Name": "Alaska",
+        "rowguid": "5B7B8462-A888-4E0B-A3E1-7278F8AF107E",
+        "ModifiedDate": "2014-02-08 10:17:21.587000",
+        "TerritoryID": 1,
+        "CountryRegionCode": "US",
+        "SYS_EXEC_DURATION": "0.186693"
+    },
+    {
+        "StateProvinceID": 3,
+        "StateProvinceCode": "AL ",
+        "IsOnlyStateProvinceFlag": false,
+        "Name": "Alabama",
+        "rowguid": "41B328BE-21AE-45D0-841D-6F8DD71CE626",
+        "ModifiedDate": "2014-02-08 10:17:21.587000",
+        "TerritoryID": 5,
+        "CountryRegionCode": "US",
+        "SYS_EXEC_DURATION": "0.186768"
+    },
+    {
+        "StateProvinceID": 4,
+        "StateProvinceCode": "AR ",
+        "IsOnlyStateProvinceFlag": false,
+        "Name": "Arkansas",
+        "rowguid": "54656A80-06F2-4C70-BA10-247179FC246E",
+        "ModifiedDate": "2014-02-08 10:17:21.587000",
+        "TerritoryID": 3,
+        "CountryRegionCode": "US",
+        "SYS_EXEC_DURATION": "0.186837"
+    },
+    {
+        "StateProvinceID": 5,
+        "StateProvinceCode": "AS ",
+        "IsOnlyStateProvinceFlag": true,
+        "Name": "American Samoa",
+        "rowguid": "255D15E1-9F6E-4CF8-9E5F-6B3858AD9B6A",
+        "ModifiedDate": "2014-02-08 10:17:21.587000",
+        "TerritoryID": 1,
+        "CountryRegionCode": "AS",
+        "SYS_EXEC_DURATION": "0.186919"
+    }
+]

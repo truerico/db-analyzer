@@ -1,0 +1,62 @@
+@startjson
+{
+    "field1": "CountryRegionCode",
+    "combination": "CountryRegionCode",
+    "null_distribution": {
+        "total_null_rows": 0,
+        "total_not_null_rows": 181
+    },
+    "data_distribution": [
+        {
+            "field_value": "FR",
+            "row_count": 96,
+            "ratio_percent": 53.03867403314917
+        },
+        {
+            "field_value": "US",
+            "row_count": 53,
+            "ratio_percent": 29.281767955801104
+        },
+        {
+            "field_value": "CA",
+            "row_count": 13,
+            "ratio_percent": 7.18232044198895
+        },
+        {
+            "field_value": "DE",
+            "row_count": 7,
+            "ratio_percent": 3.867403314917127
+        },
+        {
+            "field_value": "AU",
+            "row_count": 5,
+            "ratio_percent": 2.7624309392265194
+        },
+        {
+            "field_value": "PW",
+            "row_count": 1,
+            "ratio_percent": 0.5524861878453039
+        },
+        {
+            "field_value": "MP",
+            "row_count": 1,
+            "ratio_percent": 0.5524861878453039
+        },
+        {
+            "field_value": "MH",
+            "row_count": 1,
+            "ratio_percent": 0.5524861878453039
+        },
+        {
+            "field_value": "GB",
+            "row_count": 1,
+            "ratio_percent": 0.5524861878453039
+        },
+        {
+            "field_value": "FM",
+            "row_count": 1,
+            "ratio_percent": 0.5524861878453039
+        }
+    ]
+}
+@endjson

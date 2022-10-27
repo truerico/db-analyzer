@@ -1,0 +1,62 @@
+@startjson
+{
+    "field1": "StoreID",
+    "combination": "StoreID",
+    "null_distribution": {
+        "total_null_rows": 18484,
+        "total_not_null_rows": 1336
+    },
+    "data_distribution": [
+        {
+            "field_value": "**NULL**",
+            "row_count": 18484,
+            "ratio_percent": 93.25933400605449
+        },
+        {
+            "field_value": "1004",
+            "row_count": 2,
+            "ratio_percent": 0.010090817356205853
+        },
+        {
+            "field_value": "1002",
+            "row_count": 2,
+            "ratio_percent": 0.010090817356205853
+        },
+        {
+            "field_value": "1000",
+            "row_count": 2,
+            "ratio_percent": 0.010090817356205853
+        },
+        {
+            "field_value": "1018",
+            "row_count": 2,
+            "ratio_percent": 0.010090817356205853
+        },
+        {
+            "field_value": "1016",
+            "row_count": 2,
+            "ratio_percent": 0.010090817356205853
+        },
+        {
+            "field_value": "1014",
+            "row_count": 2,
+            "ratio_percent": 0.010090817356205853
+        },
+        {
+            "field_value": "1012",
+            "row_count": 2,
+            "ratio_percent": 0.010090817356205853
+        },
+        {
+            "field_value": "1010",
+            "row_count": 2,
+            "ratio_percent": 0.010090817356205853
+        },
+        {
+            "field_value": "1020",
+            "row_count": 2,
+            "ratio_percent": 0.010090817356205853
+        }
+    ]
+}
+@endjson

@@ -1,0 +1,23 @@
+[
+    {
+        "table": "Person.PhoneNumberType",
+        "total_records": 3,
+        "dataset": [
+            {
+                "field": "ModifiedDate",
+                "total_null_rows": 0,
+                "total_not_null_rows": 3
+            },
+            {
+                "field": "Name",
+                "total_null_rows": 0,
+                "total_not_null_rows": 3
+            },
+            {
+                "field": "PhoneNumberTypeID",
+                "total_null_rows": 0,
+                "total_not_null_rows": 3
+            }
+        ]
+    }
+]

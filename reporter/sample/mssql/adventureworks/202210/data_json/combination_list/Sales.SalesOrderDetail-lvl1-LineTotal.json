@@ -1,0 +1,62 @@
+@startjson
+{
+    "field1": "LineTotal",
+    "combination": "LineTotal",
+    "null_distribution": {
+        "total_null_rows": 0,
+        "total_not_null_rows": 121317
+    },
+    "data_distribution": [
+        {
+            "field_value": "4.990000",
+            "row_count": 8827,
+            "ratio_percent": 7.275979458773296
+        },
+        {
+            "field_value": "34.990000",
+            "row_count": 6440,
+            "ratio_percent": 5.308406900928971
+        },
+        {
+            "field_value": "8.990000",
+            "row_count": 4470,
+            "ratio_percent": 3.6845619327876555
+        },
+        {
+            "field_value": "2.290000",
+            "row_count": 3191,
+            "ratio_percent": 2.6302991336745882
+        },
+        {
+            "field_value": "3.990000",
+            "row_count": 2376,
+            "ratio_percent": 1.9585054031998812
+        },
+        {
+            "field_value": "21.980000",
+            "row_count": 2121,
+            "ratio_percent": 1.7483122728059546
+        },
+        {
+            "field_value": "9.990000",
+            "row_count": 2025,
+            "ratio_percent": 1.6691807413635351
+        },
+        {
+            "field_value": "24.990000",
+            "row_count": 1788,
+            "ratio_percent": 1.4738247731150622
+        },
+        {
+            "field_value": "49.990000",
+            "row_count": 1736,
+            "ratio_percent": 1.4309618602504184
+        },
+        {
+            "field_value": "539.990000",
+            "row_count": 1695,
+            "ratio_percent": 1.3971661020302184
+        }
+    ]
+}
+@endjson

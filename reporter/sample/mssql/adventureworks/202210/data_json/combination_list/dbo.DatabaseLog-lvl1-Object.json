@@ -1,0 +1,62 @@
+@startjson
+{
+    "field1": "Object",
+    "combination": "Object",
+    "null_distribution": {
+        "total_null_rows": 0,
+        "total_not_null_rows": 1596
+    },
+    "data_distribution": [
+        {
+            "field_value": "ModifiedDate",
+            "row_count": 69,
+            "ratio_percent": 4.323308270676692
+        },
+        {
+            "field_value": "rowguid",
+            "row_count": 29,
+            "ratio_percent": 1.8170426065162908
+        },
+        {
+            "field_value": "Name",
+            "row_count": 23,
+            "ratio_percent": 1.4411027568922306
+        },
+        {
+            "field_value": "BusinessEntityID",
+            "row_count": 17,
+            "ratio_percent": 1.0651629072681705
+        },
+        {
+            "field_value": "ProductID",
+            "row_count": 16,
+            "ratio_percent": 1.0025062656641603
+        },
+        {
+            "field_value": "EndDate",
+            "row_count": 7,
+            "ratio_percent": 0.43859649122807015
+        },
+        {
+            "field_value": "StartDate",
+            "row_count": 7,
+            "ratio_percent": 0.43859649122807015
+        },
+        {
+            "field_value": "Document",
+            "row_count": 6,
+            "ratio_percent": 0.37593984962406013
+        },
+        {
+            "field_value": "EmailAddress",
+            "row_count": 6,
+            "ratio_percent": 0.37593984962406013
+        },
+        {
+            "field_value": "Person",
+            "row_count": 6,
+            "ratio_percent": 0.37593984962406013
+        }
+    ]
+}
+@endjson

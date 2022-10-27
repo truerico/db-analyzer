@@ -1,0 +1,62 @@
+@startjson
+{
+    "field1": "RevisionNumber",
+    "combination": "RevisionNumber",
+    "null_distribution": {
+        "total_null_rows": 0,
+        "total_not_null_rows": 4012
+    },
+    "data_distribution": [
+        {
+            "field_value": "4",
+            "row_count": 3813,
+            "ratio_percent": 95.03988035892323
+        },
+        {
+            "field_value": "5",
+            "row_count": 130,
+            "ratio_percent": 3.2402791625124627
+        },
+        {
+            "field_value": "6",
+            "row_count": 43,
+            "ratio_percent": 1.0717846460618146
+        },
+        {
+            "field_value": "7",
+            "row_count": 15,
+            "ratio_percent": 0.37387836490528414
+        },
+        {
+            "field_value": "9",
+            "row_count": 4,
+            "ratio_percent": 0.09970089730807577
+        },
+        {
+            "field_value": "8",
+            "row_count": 3,
+            "ratio_percent": 0.07477567298105683
+        },
+        {
+            "field_value": "12",
+            "row_count": 1,
+            "ratio_percent": 0.024925224327018942
+        },
+        {
+            "field_value": "20",
+            "row_count": 1,
+            "ratio_percent": 0.024925224327018942
+        },
+        {
+            "field_value": "14",
+            "row_count": 1,
+            "ratio_percent": 0.024925224327018942
+        },
+        {
+            "field_value": "10",
+            "row_count": 1,
+            "ratio_percent": 0.024925224327018942
+        }
+    ]
+}
+@endjson

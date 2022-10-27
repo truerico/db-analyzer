@@ -1,0 +1,36 @@
+[
+    {
+        "db_name": "adventureworks",
+        "object_type": "TABLE",
+        "index_type": "CLUSTERED",
+        "type": 1,
+        "is_heap": 0,
+        "total_count": 69,
+        "idx_count": 102,
+        "partition_count": 69,
+        "row_count": 758737,
+        "total_space_MB": "91.91",
+        "used_space_MB": "85.45",
+        "unused_space_MB": "6.34",
+        "total_space_KB": "94024.00",
+        "used_space_KB": "87392.00",
+        "unused_space_KB": "6632.00"
+    },
+    {
+        "db_name": "adventureworks",
+        "object_type": "TABLE",
+        "index_type": "HEAP",
+        "type": 0,
+        "is_heap": 1,
+        "total_count": 2,
+        "idx_count": 2,
+        "partition_count": 2,
+        "row_count": 2100,
+        "total_space_MB": "6.46",
+        "used_space_MB": "6.36",
+        "unused_space_MB": "0.10",
+        "total_space_KB": "6616.00",
+        "used_space_KB": "6520.00",
+        "unused_space_KB": "96.00"
+    }
+]

@@ -1,0 +1,128 @@
+[
+    {
+        "table": "Production.UnitMeasure",
+        "total_records": 38,
+        "dataset": [
+            {
+                "field": "ModifiedDate",
+                "distribution": [
+                    {
+                        "field_value": "Apr 30 2008 12:00AM",
+                        "row_count": 38,
+                        "ratio_percent": 100.0
+                    }
+                ]
+            },
+            {
+                "field": "Name",
+                "distribution": [
+                    {
+                        "field_value": "Cubic decimeter",
+                        "row_count": 1,
+                        "ratio_percent": 2.6315789473684212
+                    },
+                    {
+                        "field_value": "Cubic centimeter",
+                        "row_count": 1,
+                        "ratio_percent": 2.6315789473684212
+                    },
+                    {
+                        "field_value": "Crate",
+                        "row_count": 1,
+                        "ratio_percent": 2.6315789473684212
+                    },
+                    {
+                        "field_value": "Container",
+                        "row_count": 1,
+                        "ratio_percent": 2.6315789473684212
+                    },
+                    {
+                        "field_value": "Centimeter",
+                        "row_count": 1,
+                        "ratio_percent": 2.6315789473684212
+                    },
+                    {
+                        "field_value": "Celsius",
+                        "row_count": 1,
+                        "ratio_percent": 2.6315789473684212
+                    },
+                    {
+                        "field_value": "Case",
+                        "row_count": 1,
+                        "ratio_percent": 2.6315789473684212
+                    },
+                    {
+                        "field_value": "Carton",
+                        "row_count": 1,
+                        "ratio_percent": 2.6315789473684212
+                    },
+                    {
+                        "field_value": "Canister",
+                        "row_count": 1,
+                        "ratio_percent": 2.6315789473684212
+                    },
+                    {
+                        "field_value": "Boxes",
+                        "row_count": 1,
+                        "ratio_percent": 2.6315789473684212
+                    }
+                ]
+            },
+            {
+                "field": "UnitMeasureCode",
+                "distribution": [
+                    {
+                        "field_value": "CR",
+                        "row_count": 1,
+                        "ratio_percent": 2.6315789473684212
+                    },
+                    {
+                        "field_value": "CM2",
+                        "row_count": 1,
+                        "ratio_percent": 2.6315789473684212
+                    },
+                    {
+                        "field_value": "CM",
+                        "row_count": 1,
+                        "ratio_percent": 2.6315789473684212
+                    },
+                    {
+                        "field_value": "CDM",
+                        "row_count": 1,
+                        "ratio_percent": 2.6315789473684212
+                    },
+                    {
+                        "field_value": "CCM",
+                        "row_count": 1,
+                        "ratio_percent": 2.6315789473684212
+                    },
+                    {
+                        "field_value": "CBM",
+                        "row_count": 1,
+                        "ratio_percent": 2.6315789473684212
+                    },
+                    {
+                        "field_value": "CAR",
+                        "row_count": 1,
+                        "ratio_percent": 2.6315789473684212
+                    },
+                    {
+                        "field_value": "CAN",
+                        "row_count": 1,
+                        "ratio_percent": 2.6315789473684212
+                    },
+                    {
+                        "field_value": "C",
+                        "row_count": 1,
+                        "ratio_percent": 2.6315789473684212
+                    },
+                    {
+                        "field_value": "BTL",
+                        "row_count": 1,
+                        "ratio_percent": 2.6315789473684212
+                    }
+                ]
+            }
+        ]
+    }
+]

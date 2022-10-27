@@ -1,0 +1,23 @@
+[
+    {
+        "table": "Person.ContactType",
+        "total_records": 20,
+        "dataset": [
+            {
+                "field": "ContactTypeID",
+                "total_null_rows": 0,
+                "total_not_null_rows": 20
+            },
+            {
+                "field": "ModifiedDate",
+                "total_null_rows": 0,
+                "total_not_null_rows": 20
+            },
+            {
+                "field": "Name",
+                "total_null_rows": 0,
+                "total_not_null_rows": 20
+            }
+        ]
+    }
+]

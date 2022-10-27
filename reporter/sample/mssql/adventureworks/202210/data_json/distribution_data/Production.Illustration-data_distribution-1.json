@@ -1,0 +1,48 @@
+[
+    {
+        "table": "Production.Illustration",
+        "total_records": 5,
+        "dataset": [
+            {
+                "field": "IllustrationID",
+                "distribution": [
+                    {
+                        "field_value": "7",
+                        "row_count": 1,
+                        "ratio_percent": 20.0
+                    },
+                    {
+                        "field_value": "6",
+                        "row_count": 1,
+                        "ratio_percent": 20.0
+                    },
+                    {
+                        "field_value": "5",
+                        "row_count": 1,
+                        "ratio_percent": 20.0
+                    },
+                    {
+                        "field_value": "4",
+                        "row_count": 1,
+                        "ratio_percent": 20.0
+                    },
+                    {
+                        "field_value": "3",
+                        "row_count": 1,
+                        "ratio_percent": 20.0
+                    }
+                ]
+            },
+            {
+                "field": "ModifiedDate",
+                "distribution": [
+                    {
+                        "field_value": "Jan  9 2014  1:06PM",
+                        "row_count": 5,
+                        "ratio_percent": 100.0
+                    }
+                ]
+            }
+        ]
+    }
+]

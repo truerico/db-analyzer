@@ -1,0 +1,62 @@
+@startjson
+{
+    "field1": "Name",
+    "combination": "Name",
+    "null_distribution": {
+        "total_null_rows": 0,
+        "total_not_null_rows": 16
+    },
+    "data_distribution": [
+        {
+            "field_value": "Stress test failed",
+            "row_count": 1,
+            "ratio_percent": 6.25
+        },
+        {
+            "field_value": "Seat assembly not as ordered",
+            "row_count": 1,
+            "ratio_percent": 6.25
+        },
+        {
+            "field_value": "Primer process failed",
+            "row_count": 1,
+            "ratio_percent": 6.25
+        },
+        {
+            "field_value": "Paint process failed",
+            "row_count": 1,
+            "ratio_percent": 6.25
+        },
+        {
+            "field_value": "Handling damage",
+            "row_count": 1,
+            "ratio_percent": 6.25
+        },
+        {
+            "field_value": "Gouge in metal",
+            "row_count": 1,
+            "ratio_percent": 6.25
+        },
+        {
+            "field_value": "Drill size too small",
+            "row_count": 1,
+            "ratio_percent": 6.25
+        },
+        {
+            "field_value": "Drill size too large",
+            "row_count": 1,
+            "ratio_percent": 6.25
+        },
+        {
+            "field_value": "Drill pattern incorrect",
+            "row_count": 1,
+            "ratio_percent": 6.25
+        },
+        {
+            "field_value": "Color incorrect",
+            "row_count": 1,
+            "ratio_percent": 6.25
+        }
+    ]
+}
+@endjson

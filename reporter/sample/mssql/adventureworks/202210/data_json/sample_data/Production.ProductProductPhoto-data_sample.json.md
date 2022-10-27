@@ -1,0 +1,41 @@
+```json
+@startjson
+[
+    {
+        "ProductID": 1,
+        "ProductPhotoID": 1,
+        "Primary": true,
+        "ModifiedDate": "2008-03-31 00:00:00",
+        "SYS_EXEC_DURATION": "0.295575"
+    },
+    {
+        "ProductID": 2,
+        "ProductPhotoID": 1,
+        "Primary": true,
+        "ModifiedDate": "2008-03-31 00:00:00",
+        "SYS_EXEC_DURATION": "0.295911"
+    },
+    {
+        "ProductID": 3,
+        "ProductPhotoID": 1,
+        "Primary": true,
+        "ModifiedDate": "2008-03-31 00:00:00",
+        "SYS_EXEC_DURATION": "0.296098"
+    },
+    {
+        "ProductID": 4,
+        "ProductPhotoID": 1,
+        "Primary": true,
+        "ModifiedDate": "2008-03-31 00:00:00",
+        "SYS_EXEC_DURATION": "0.296152"
+    },
+    {
+        "ProductID": 316,
+        "ProductPhotoID": 1,
+        "Primary": true,
+        "ModifiedDate": "2008-03-31 00:00:00",
+        "SYS_EXEC_DURATION": "0.296236"
+    }
+]
+@endjson
+```

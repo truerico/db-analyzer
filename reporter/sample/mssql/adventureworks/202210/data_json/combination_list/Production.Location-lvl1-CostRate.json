@@ -1,0 +1,47 @@
+@startjson
+{
+    "field1": "CostRate",
+    "combination": "CostRate",
+    "null_distribution": {
+        "total_null_rows": 0,
+        "total_not_null_rows": 14
+    },
+    "data_distribution": [
+        {
+            "field_value": "0.00",
+            "row_count": 7,
+            "ratio_percent": 50.0
+        },
+        {
+            "field_value": "12.25",
+            "row_count": 2,
+            "ratio_percent": 14.285714285714286
+        },
+        {
+            "field_value": "25.00",
+            "row_count": 1,
+            "ratio_percent": 7.142857142857143
+        },
+        {
+            "field_value": "22.50",
+            "row_count": 1,
+            "ratio_percent": 7.142857142857143
+        },
+        {
+            "field_value": "18.00",
+            "row_count": 1,
+            "ratio_percent": 7.142857142857143
+        },
+        {
+            "field_value": "15.75",
+            "row_count": 1,
+            "ratio_percent": 7.142857142857143
+        },
+        {
+            "field_value": "14.50",
+            "row_count": 1,
+            "ratio_percent": 7.142857142857143
+        }
+    ]
+}
+@endjson

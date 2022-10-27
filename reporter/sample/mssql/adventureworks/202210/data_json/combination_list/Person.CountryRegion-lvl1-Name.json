@@ -1,0 +1,62 @@
+@startjson
+{
+    "field1": "Name",
+    "combination": "Name",
+    "null_distribution": {
+        "total_null_rows": 0,
+        "total_not_null_rows": 238
+    },
+    "data_distribution": [
+        {
+            "field_value": "Armenia",
+            "row_count": 1,
+            "ratio_percent": 0.42016806722689076
+        },
+        {
+            "field_value": "Argentina",
+            "row_count": 1,
+            "ratio_percent": 0.42016806722689076
+        },
+        {
+            "field_value": "Antigua and Barbuda",
+            "row_count": 1,
+            "ratio_percent": 0.42016806722689076
+        },
+        {
+            "field_value": "Antarctica",
+            "row_count": 1,
+            "ratio_percent": 0.42016806722689076
+        },
+        {
+            "field_value": "Anguilla",
+            "row_count": 1,
+            "ratio_percent": 0.42016806722689076
+        },
+        {
+            "field_value": "Angola",
+            "row_count": 1,
+            "ratio_percent": 0.42016806722689076
+        },
+        {
+            "field_value": "Andorra",
+            "row_count": 1,
+            "ratio_percent": 0.42016806722689076
+        },
+        {
+            "field_value": "American Samoa",
+            "row_count": 1,
+            "ratio_percent": 0.42016806722689076
+        },
+        {
+            "field_value": "Algeria",
+            "row_count": 1,
+            "ratio_percent": 0.42016806722689076
+        },
+        {
+            "field_value": "Albania",
+            "row_count": 1,
+            "ratio_percent": 0.42016806722689076
+        }
+    ]
+}
+@endjson

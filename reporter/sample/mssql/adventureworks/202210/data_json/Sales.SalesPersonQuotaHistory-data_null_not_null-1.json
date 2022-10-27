@@ -1,0 +1,33 @@
+[
+    {
+        "table": "Sales.SalesPersonQuotaHistory",
+        "total_records": 163,
+        "dataset": [
+            {
+                "field": "BusinessEntityID",
+                "total_null_rows": 0,
+                "total_not_null_rows": 163
+            },
+            {
+                "field": "ModifiedDate",
+                "total_null_rows": 0,
+                "total_not_null_rows": 163
+            },
+            {
+                "field": "QuotaDate",
+                "total_null_rows": 0,
+                "total_not_null_rows": 163
+            },
+            {
+                "field": "SalesQuota",
+                "total_null_rows": 0,
+                "total_not_null_rows": 163
+            },
+            {
+                "field": "rowguid",
+                "total_null_rows": 0,
+                "total_not_null_rows": 163
+            }
+        ]
+    }
+]

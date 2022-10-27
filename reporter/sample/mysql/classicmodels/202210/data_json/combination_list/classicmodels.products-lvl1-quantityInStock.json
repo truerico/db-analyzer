@@ -1,0 +1,62 @@
+@startjson
+{
+    "field1": "quantityInStock",
+    "combination": "quantityInStock",
+    "null_distribution": {
+        "total_null_rows": 0,
+        "total_not_null_rows": 110
+    },
+    "data_distribution": [
+        {
+            "field_value": "9772",
+            "row_count": 1,
+            "ratio_percent": 0.9090909090909091
+        },
+        {
+            "field_value": "4074",
+            "row_count": 1,
+            "ratio_percent": 0.9090909090909091
+        },
+        {
+            "field_value": "8601",
+            "row_count": 1,
+            "ratio_percent": 0.9090909090909091
+        },
+        {
+            "field_value": "5992",
+            "row_count": 1,
+            "ratio_percent": 0.9090909090909091
+        },
+        {
+            "field_value": "1452",
+            "row_count": 1,
+            "ratio_percent": 0.9090909090909091
+        },
+        {
+            "field_value": "7083",
+            "row_count": 1,
+            "ratio_percent": 0.9090909090909091
+        },
+        {
+            "field_value": "6791",
+            "row_count": 1,
+            "ratio_percent": 0.9090909090909091
+        },
+        {
+            "field_value": "8693",
+            "row_count": 1,
+            "ratio_percent": 0.9090909090909091
+        },
+        {
+            "field_value": "8290",
+            "row_count": 1,
+            "ratio_percent": 0.9090909090909091
+        },
+        {
+            "field_value": "2756",
+            "row_count": 1,
+            "ratio_percent": 0.9090909090909091
+        }
+    ]
+}
+@endjson

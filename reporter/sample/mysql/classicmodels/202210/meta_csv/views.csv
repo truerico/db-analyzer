@@ -1,0 +1,8 @@
+"VIEW_SCHEMA","VIEW_NAME","VIEW_FULL_NAME","TEXT_LENGTH"
+"classicmodels","aboveavgproducts","classicmodels.aboveavgproducts","390"
+"classicmodels","bigsalesorder","classicmodels.bigsalesorder","170"
+"classicmodels","customerorders","classicmodels.customerorders","547"
+"classicmodels","customerorderstats","classicmodels.customerorderstats","341"
+"classicmodels","customerpayments","classicmodels.customerpayments","395"
+"classicmodels","daysofweek","classicmodels.daysofweek","189"
+"classicmodels","saleperorder","classicmodels.saleperorder","292"

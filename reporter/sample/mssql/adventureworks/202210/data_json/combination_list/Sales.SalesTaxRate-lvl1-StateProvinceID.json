@@ -1,0 +1,62 @@
+@startjson
+{
+    "field1": "StateProvinceID",
+    "combination": "StateProvinceID",
+    "null_distribution": {
+        "total_null_rows": 0,
+        "total_not_null_rows": 29
+    },
+    "data_distribution": [
+        {
+            "field_value": "1",
+            "row_count": 2,
+            "ratio_percent": 6.896551724137931
+        },
+        {
+            "field_value": "57",
+            "row_count": 2,
+            "ratio_percent": 6.896551724137931
+        },
+        {
+            "field_value": "63",
+            "row_count": 2,
+            "ratio_percent": 6.896551724137931
+        },
+        {
+            "field_value": "45",
+            "row_count": 1,
+            "ratio_percent": 3.4482758620689653
+        },
+        {
+            "field_value": "41",
+            "row_count": 1,
+            "ratio_percent": 3.4482758620689653
+        },
+        {
+            "field_value": "36",
+            "row_count": 1,
+            "ratio_percent": 3.4482758620689653
+        },
+        {
+            "field_value": "35",
+            "row_count": 1,
+            "ratio_percent": 3.4482758620689653
+        },
+        {
+            "field_value": "31",
+            "row_count": 1,
+            "ratio_percent": 3.4482758620689653
+        },
+        {
+            "field_value": "30",
+            "row_count": 1,
+            "ratio_percent": 3.4482758620689653
+        },
+        {
+            "field_value": "29",
+            "row_count": 1,
+            "ratio_percent": 3.4482758620689653
+        }
+    ]
+}
+@endjson

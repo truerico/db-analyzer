@@ -1,0 +1,33 @@
+[
+    {
+        "table": "Production.Location",
+        "total_records": 14,
+        "dataset": [
+            {
+                "field": "Availability",
+                "total_null_rows": 0,
+                "total_not_null_rows": 14
+            },
+            {
+                "field": "CostRate",
+                "total_null_rows": 0,
+                "total_not_null_rows": 14
+            },
+            {
+                "field": "LocationID",
+                "total_null_rows": 0,
+                "total_not_null_rows": 14
+            },
+            {
+                "field": "ModifiedDate",
+                "total_null_rows": 0,
+                "total_not_null_rows": 14
+            },
+            {
+                "field": "Name",
+                "total_null_rows": 0,
+                "total_not_null_rows": 14
+            }
+        ]
+    }
+]

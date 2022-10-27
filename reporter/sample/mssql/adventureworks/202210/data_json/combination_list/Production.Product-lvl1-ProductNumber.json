@@ -1,0 +1,62 @@
+@startjson
+{
+    "field1": "ProductNumber",
+    "combination": "ProductNumber",
+    "null_distribution": {
+        "total_null_rows": 0,
+        "total_not_null_rows": 504
+    },
+    "data_distribution": [
+        {
+            "field_value": "BK-M18B-42",
+            "row_count": 1,
+            "ratio_percent": 0.1984126984126984
+        },
+        {
+            "field_value": "BK-M18B-40",
+            "row_count": 1,
+            "ratio_percent": 0.1984126984126984
+        },
+        {
+            "field_value": "BE-2908",
+            "row_count": 1,
+            "ratio_percent": 0.1984126984126984
+        },
+        {
+            "field_value": "BE-2349",
+            "row_count": 1,
+            "ratio_percent": 0.1984126984126984
+        },
+        {
+            "field_value": "BC-R205",
+            "row_count": 1,
+            "ratio_percent": 0.1984126984126984
+        },
+        {
+            "field_value": "BC-M005",
+            "row_count": 1,
+            "ratio_percent": 0.1984126984126984
+        },
+        {
+            "field_value": "BB-9108",
+            "row_count": 1,
+            "ratio_percent": 0.1984126984126984
+        },
+        {
+            "field_value": "BB-8107",
+            "row_count": 1,
+            "ratio_percent": 0.1984126984126984
+        },
+        {
+            "field_value": "BB-7421",
+            "row_count": 1,
+            "ratio_percent": 0.1984126984126984
+        },
+        {
+            "field_value": "BA-8327",
+            "row_count": 1,
+            "ratio_percent": 0.1984126984126984
+        }
+    ]
+}
+@endjson

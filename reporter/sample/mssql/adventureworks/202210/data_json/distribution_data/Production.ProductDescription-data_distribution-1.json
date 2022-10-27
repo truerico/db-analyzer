@@ -1,0 +1,188 @@
+[
+    {
+        "table": "Production.ProductDescription",
+        "total_records": 762,
+        "dataset": [
+            {
+                "field": "Description",
+                "distribution": [
+                    {
+                        "field_value": "Conception liaison large.",
+                        "row_count": 2,
+                        "ratio_percent": 0.26246719160104987
+                    },
+                    {
+                        "field_value": "High-performance mountain replacement wheel.",
+                        "row_count": 2,
+                        "ratio_percent": 0.26246719160104987
+                    },
+                    {
+                        "field_value": "Replacement mountain wheel for entry-level rider.",
+                        "row_count": 2,
+                        "ratio_percent": 0.26246719160104987
+                    },
+                    {
+                        "field_value": "Replacement mountain wheel for the casual to serious rider.",
+                        "row_count": 2,
+                        "ratio_percent": 0.26246719160104987
+                    },
+                    {
+                        "field_value": "Roue avant pour v\u00e9lo de route pour cycliste occasionnel.",
+                        "row_count": 2,
+                        "ratio_percent": 0.26246719160104987
+                    },
+                    {
+                        "field_value": "Roue de secours tout-terrain hautes performances.",
+                        "row_count": 2,
+                        "ratio_percent": 0.26246719160104987
+                    },
+                    {
+                        "field_value": "Roue de secours tout-terrain pour v\u00e9t\u00e9tiste amateur \u00e0 confirm\u00e9.",
+                        "row_count": 2,
+                        "ratio_percent": 0.26246719160104987
+                    },
+                    {
+                        "field_value": "Roue de secours tout-terrain pour v\u00e9t\u00e9tiste occasionnel.",
+                        "row_count": 2,
+                        "ratio_percent": 0.26246719160104987
+                    },
+                    {
+                        "field_value": "Wide-link design.",
+                        "row_count": 2,
+                        "ratio_percent": 0.26246719160104987
+                    },
+                    {
+                        "field_value": "\u05d2\u05dc\u05d2\u05dc \u05d7\u05dc\u05d5\u05e4\u05d9 \u05dc\u05e8\u05db\u05d9\u05d1\u05d4 \u05d4\u05e8\u05e8\u05d9\u05ea \u05dc\u05e8\u05d5\u05db\u05d1 \u05d4\u05d7\u05d5\u05d1\u05d1 \u05d5\u05d4\u05e8\u05e6\u05d9\u05e0\u05d9.",
+                        "row_count": 2,
+                        "ratio_percent": 0.26246719160104987
+                    }
+                ]
+            },
+            {
+                "field": "ModifiedDate",
+                "distribution": [
+                    {
+                        "field_value": "Apr 30 2013 12:00AM",
+                        "row_count": 636,
+                        "ratio_percent": 83.46456692913385
+                    },
+                    {
+                        "field_value": "Feb  8 2014 10:32AM",
+                        "row_count": 126,
+                        "ratio_percent": 16.53543307086614
+                    }
+                ]
+            },
+            {
+                "field": "ProductDescriptionID",
+                "distribution": [
+                    {
+                        "field_value": "1189",
+                        "row_count": 1,
+                        "ratio_percent": 0.13123359580052493
+                    },
+                    {
+                        "field_value": "1188",
+                        "row_count": 1,
+                        "ratio_percent": 0.13123359580052493
+                    },
+                    {
+                        "field_value": "1187",
+                        "row_count": 1,
+                        "ratio_percent": 0.13123359580052493
+                    },
+                    {
+                        "field_value": "1186",
+                        "row_count": 1,
+                        "ratio_percent": 0.13123359580052493
+                    },
+                    {
+                        "field_value": "1185",
+                        "row_count": 1,
+                        "ratio_percent": 0.13123359580052493
+                    },
+                    {
+                        "field_value": "1183",
+                        "row_count": 1,
+                        "ratio_percent": 0.13123359580052493
+                    },
+                    {
+                        "field_value": "1182",
+                        "row_count": 1,
+                        "ratio_percent": 0.13123359580052493
+                    },
+                    {
+                        "field_value": "1146",
+                        "row_count": 1,
+                        "ratio_percent": 0.13123359580052493
+                    },
+                    {
+                        "field_value": "1090",
+                        "row_count": 1,
+                        "ratio_percent": 0.13123359580052493
+                    },
+                    {
+                        "field_value": "1062",
+                        "row_count": 1,
+                        "ratio_percent": 0.13123359580052493
+                    }
+                ]
+            },
+            {
+                "field": "rowguid",
+                "distribution": [
+                    {
+                        "field_value": "04902A2E-7819-4EBE-BC8A-8A115DF1356E",
+                        "row_count": 1,
+                        "ratio_percent": 0.13123359580052493
+                    },
+                    {
+                        "field_value": "0461F430-85BD-4D8D-A06A-5646D709E468",
+                        "row_count": 1,
+                        "ratio_percent": 0.13123359580052493
+                    },
+                    {
+                        "field_value": "03ACBB19-749A-48A1-B77E-5D2A48E8DC3A",
+                        "row_count": 1,
+                        "ratio_percent": 0.13123359580052493
+                    },
+                    {
+                        "field_value": "02F95326-9E0F-4B26-9DBC-ED6A28D5ACD1",
+                        "row_count": 1,
+                        "ratio_percent": 0.13123359580052493
+                    },
+                    {
+                        "field_value": "02B4A108-C110-40C5-8659-52754C33DD03",
+                        "row_count": 1,
+                        "ratio_percent": 0.13123359580052493
+                    },
+                    {
+                        "field_value": "02933A22-6F9C-44AC-ADC3-C1520C11C478",
+                        "row_count": 1,
+                        "ratio_percent": 0.13123359580052493
+                    },
+                    {
+                        "field_value": "02641AA5-4F32-4CE2-9FA9-DB357C007A50",
+                        "row_count": 1,
+                        "ratio_percent": 0.13123359580052493
+                    },
+                    {
+                        "field_value": "02417873-BDA7-4B1B-902A-5341CD329F5E",
+                        "row_count": 1,
+                        "ratio_percent": 0.13123359580052493
+                    },
+                    {
+                        "field_value": "01FC4BEE-5EE9-4B2A-A5C3-EABA6036A705",
+                        "row_count": 1,
+                        "ratio_percent": 0.13123359580052493
+                    },
+                    {
+                        "field_value": "016CBBE9-D51B-4A50-94CD-5FF2DA577C5B",
+                        "row_count": 1,
+                        "ratio_percent": 0.13123359580052493
+                    }
+                ]
+            }
+        ]
+    }
+]

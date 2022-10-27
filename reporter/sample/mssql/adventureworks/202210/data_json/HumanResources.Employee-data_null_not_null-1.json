@@ -1,0 +1,83 @@
+[
+    {
+        "table": "HumanResources.Employee",
+        "total_records": 290,
+        "dataset": [
+            {
+                "field": "BusinessEntityID",
+                "total_null_rows": 0,
+                "total_not_null_rows": 290
+            },
+            {
+                "field": "NationalIDNumber",
+                "total_null_rows": 0,
+                "total_not_null_rows": 290
+            },
+            {
+                "field": "OrganizationLevel",
+                "total_null_rows": 1,
+                "total_not_null_rows": 289
+            },
+            {
+                "field": "SalariedFlag",
+                "total_null_rows": 0,
+                "total_not_null_rows": 290
+            },
+            {
+                "field": "SickLeaveHours",
+                "total_null_rows": 0,
+                "total_not_null_rows": 290
+            },
+            {
+                "field": "VacationHours",
+                "total_null_rows": 0,
+                "total_not_null_rows": 290
+            },
+            {
+                "field": "rowguid",
+                "total_null_rows": 0,
+                "total_not_null_rows": 290
+            },
+            {
+                "field": "BirthDate",
+                "total_null_rows": 0,
+                "total_not_null_rows": 290
+            },
+            {
+                "field": "CurrentFlag",
+                "total_null_rows": 0,
+                "total_not_null_rows": 290
+            },
+            {
+                "field": "Gender",
+                "total_null_rows": 0,
+                "total_not_null_rows": 290
+            },
+            {
+                "field": "HireDate",
+                "total_null_rows": 0,
+                "total_not_null_rows": 290
+            },
+            {
+                "field": "JobTitle",
+                "total_null_rows": 0,
+                "total_not_null_rows": 290
+            },
+            {
+                "field": "LoginID",
+                "total_null_rows": 0,
+                "total_not_null_rows": 290
+            },
+            {
+                "field": "MaritalStatus",
+                "total_null_rows": 0,
+                "total_not_null_rows": 290
+            },
+            {
+                "field": "ModifiedDate",
+                "total_null_rows": 0,
+                "total_not_null_rows": 290
+            }
+        ]
+    }
+]

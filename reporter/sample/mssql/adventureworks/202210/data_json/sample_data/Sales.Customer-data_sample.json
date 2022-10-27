@@ -1,0 +1,52 @@
+[
+    {
+        "CustomerID": 1,
+        "AccountNumber": "AW00000001",
+        "rowguid": "3F5AE95E-B87D-4AED-95B4-C3797AFCB74F",
+        "ModifiedDate": "2014-09-12 11:15:07.263000",
+        "PersonID": null,
+        "StoreID": 934,
+        "TerritoryID": 1,
+        "SYS_EXEC_DURATION": "0.186574"
+    },
+    {
+        "CustomerID": 2,
+        "AccountNumber": "AW00000002",
+        "rowguid": "E552F657-A9AF-4A7D-A645-C429D6E02491",
+        "ModifiedDate": "2014-09-12 11:15:07.263000",
+        "PersonID": null,
+        "StoreID": 1028,
+        "TerritoryID": 1,
+        "SYS_EXEC_DURATION": "0.18677"
+    },
+    {
+        "CustomerID": 3,
+        "AccountNumber": "AW00000003",
+        "rowguid": "130774B1-DB21-4EF3-98C8-C104BCD6ED6D",
+        "ModifiedDate": "2014-09-12 11:15:07.263000",
+        "PersonID": null,
+        "StoreID": 642,
+        "TerritoryID": 4,
+        "SYS_EXEC_DURATION": "0.186868"
+    },
+    {
+        "CustomerID": 4,
+        "AccountNumber": "AW00000004",
+        "rowguid": "FF862851-1DAA-4044-BE7C-3E85583C054D",
+        "ModifiedDate": "2014-09-12 11:15:07.263000",
+        "PersonID": null,
+        "StoreID": 932,
+        "TerritoryID": 4,
+        "SYS_EXEC_DURATION": "0.186939"
+    },
+    {
+        "CustomerID": 5,
+        "AccountNumber": "AW00000005",
+        "rowguid": "83905BDC-6F5E-4F71-B162-C98DA069F38A",
+        "ModifiedDate": "2014-09-12 11:15:07.263000",
+        "PersonID": null,
+        "StoreID": 1026,
+        "TerritoryID": 4,
+        "SYS_EXEC_DURATION": "0.187018"
+    }
+]

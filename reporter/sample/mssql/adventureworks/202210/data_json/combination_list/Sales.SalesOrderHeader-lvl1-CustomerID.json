@@ -1,0 +1,62 @@
+@startjson
+{
+    "field1": "CustomerID",
+    "combination": "CustomerID",
+    "null_distribution": {
+        "total_null_rows": 0,
+        "total_not_null_rows": 31465
+    },
+    "data_distribution": [
+        {
+            "field_value": "11091",
+            "row_count": 28,
+            "ratio_percent": 0.08898776418242492
+        },
+        {
+            "field_value": "11176",
+            "row_count": 28,
+            "ratio_percent": 0.08898776418242492
+        },
+        {
+            "field_value": "11185",
+            "row_count": 27,
+            "ratio_percent": 0.08580962974733831
+        },
+        {
+            "field_value": "11200",
+            "row_count": 27,
+            "ratio_percent": 0.08580962974733831
+        },
+        {
+            "field_value": "11223",
+            "row_count": 27,
+            "ratio_percent": 0.08580962974733831
+        },
+        {
+            "field_value": "11262",
+            "row_count": 27,
+            "ratio_percent": 0.08580962974733831
+        },
+        {
+            "field_value": "11276",
+            "row_count": 27,
+            "ratio_percent": 0.08580962974733831
+        },
+        {
+            "field_value": "11277",
+            "row_count": 27,
+            "ratio_percent": 0.08580962974733831
+        },
+        {
+            "field_value": "11287",
+            "row_count": 27,
+            "ratio_percent": 0.08580962974733831
+        },
+        {
+            "field_value": "11300",
+            "row_count": 27,
+            "ratio_percent": 0.08580962974733831
+        }
+    ]
+}
+@endjson

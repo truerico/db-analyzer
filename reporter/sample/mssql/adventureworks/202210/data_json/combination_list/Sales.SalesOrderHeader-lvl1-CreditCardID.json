@@ -1,0 +1,62 @@
+@startjson
+{
+    "field1": "CreditCardID",
+    "combination": "CreditCardID",
+    "null_distribution": {
+        "total_null_rows": 1131,
+        "total_not_null_rows": 30334
+    },
+    "data_distribution": [
+        {
+            "field_value": "**NULL**",
+            "row_count": 1131,
+            "ratio_percent": 3.5944700460829493
+        },
+        {
+            "field_value": "11334",
+            "row_count": 28,
+            "ratio_percent": 0.08898776418242492
+        },
+        {
+            "field_value": "11843",
+            "row_count": 28,
+            "ratio_percent": 0.08898776418242492
+        },
+        {
+            "field_value": "10261",
+            "row_count": 27,
+            "ratio_percent": 0.08580962974733831
+        },
+        {
+            "field_value": "1246",
+            "row_count": 27,
+            "ratio_percent": 0.08580962974733831
+        },
+        {
+            "field_value": "14162",
+            "row_count": 27,
+            "ratio_percent": 0.08580962974733831
+        },
+        {
+            "field_value": "18822",
+            "row_count": 27,
+            "ratio_percent": 0.08580962974733831
+        },
+        {
+            "field_value": "2233",
+            "row_count": 27,
+            "ratio_percent": 0.08580962974733831
+        },
+        {
+            "field_value": "5475",
+            "row_count": 27,
+            "ratio_percent": 0.08580962974733831
+        },
+        {
+            "field_value": "6169",
+            "row_count": 27,
+            "ratio_percent": 0.08580962974733831
+        }
+    ]
+}
+@endjson

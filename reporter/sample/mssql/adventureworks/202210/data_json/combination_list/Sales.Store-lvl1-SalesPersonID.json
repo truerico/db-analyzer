@@ -1,0 +1,62 @@
+@startjson
+{
+    "field1": "SalesPersonID",
+    "combination": "SalesPersonID",
+    "null_distribution": {
+        "total_null_rows": 0,
+        "total_not_null_rows": 701
+    },
+    "data_distribution": [
+        {
+            "field_value": "279",
+            "row_count": 80,
+            "ratio_percent": 11.412268188302425
+        },
+        {
+            "field_value": "281",
+            "row_count": 79,
+            "ratio_percent": 11.269614835948644
+        },
+        {
+            "field_value": "275",
+            "row_count": 77,
+            "ratio_percent": 10.984308131241084
+        },
+        {
+            "field_value": "277",
+            "row_count": 76,
+            "ratio_percent": 10.841654778887303
+        },
+        {
+            "field_value": "282",
+            "row_count": 74,
+            "ratio_percent": 10.556348074179743
+        },
+        {
+            "field_value": "288",
+            "row_count": 40,
+            "ratio_percent": 5.706134094151213
+        },
+        {
+            "field_value": "286",
+            "row_count": 40,
+            "ratio_percent": 5.706134094151213
+        },
+        {
+            "field_value": "278",
+            "row_count": 40,
+            "ratio_percent": 5.706134094151213
+        },
+        {
+            "field_value": "289",
+            "row_count": 40,
+            "ratio_percent": 5.706134094151213
+        },
+        {
+            "field_value": "290",
+            "row_count": 40,
+            "ratio_percent": 5.706134094151213
+        }
+    ]
+}
+@endjson

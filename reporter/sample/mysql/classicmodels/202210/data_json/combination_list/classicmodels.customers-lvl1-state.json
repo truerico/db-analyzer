@@ -1,0 +1,62 @@
+@startjson
+{
+    "field1": "state",
+    "combination": "state",
+    "null_distribution": {
+        "total_null_rows": 73,
+        "total_not_null_rows": 49
+    },
+    "data_distribution": [
+        {
+            "field_value": "**NULL**",
+            "row_count": 73,
+            "ratio_percent": 59.83606557377049
+        },
+        {
+            "field_value": "CA",
+            "row_count": 11,
+            "ratio_percent": 9.01639344262295
+        },
+        {
+            "field_value": "MA",
+            "row_count": 9,
+            "ratio_percent": 7.377049180327869
+        },
+        {
+            "field_value": "NY",
+            "row_count": 6,
+            "ratio_percent": 4.918032786885246
+        },
+        {
+            "field_value": "CT",
+            "row_count": 4,
+            "ratio_percent": 3.278688524590164
+        },
+        {
+            "field_value": "PA",
+            "row_count": 3,
+            "ratio_percent": 2.459016393442623
+        },
+        {
+            "field_value": "BC",
+            "row_count": 2,
+            "ratio_percent": 1.639344262295082
+        },
+        {
+            "field_value": "Victoria",
+            "row_count": 2,
+            "ratio_percent": 1.639344262295082
+        },
+        {
+            "field_value": "NSW",
+            "row_count": 2,
+            "ratio_percent": 1.639344262295082
+        },
+        {
+            "field_value": "Qu\u00e9bec",
+            "row_count": 1,
+            "ratio_percent": 0.819672131147541
+        }
+    ]
+}
+@endjson

@@ -1,0 +1,62 @@
+@startjson
+{
+    "field1": "TotalDue",
+    "combination": "TotalDue",
+    "null_distribution": {
+        "total_null_rows": 0,
+        "total_not_null_rows": 4012
+    },
+    "data_distribution": [
+        {
+            "field_value": "48485.69",
+            "row_count": 163,
+            "ratio_percent": 4.062811565304088
+        },
+        {
+            "field_value": "38281.87",
+            "row_count": 102,
+            "ratio_percent": 2.542372881355932
+        },
+        {
+            "field_value": "166.62",
+            "row_count": 101,
+            "ratio_percent": 2.5174476570289133
+        },
+        {
+            "field_value": "31319.79",
+            "row_count": 67,
+            "ratio_percent": 1.6699900299102692
+        },
+        {
+            "field_value": "24880.98",
+            "row_count": 66,
+            "ratio_percent": 1.6450648055832502
+        },
+        {
+            "field_value": "113.33",
+            "row_count": 51,
+            "ratio_percent": 1.271186440677966
+        },
+        {
+            "field_value": "1410.28",
+            "row_count": 51,
+            "ratio_percent": 1.271186440677966
+        },
+        {
+            "field_value": "15104.71",
+            "row_count": 51,
+            "ratio_percent": 1.271186440677966
+        },
+        {
+            "field_value": "157.36",
+            "row_count": 51,
+            "ratio_percent": 1.271186440677966
+        },
+        {
+            "field_value": "158.06",
+            "row_count": 51,
+            "ratio_percent": 1.271186440677966
+        }
+    ]
+}
+@endjson

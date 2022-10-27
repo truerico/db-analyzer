@@ -1,0 +1,62 @@
+@startjson
+{
+    "field1": "DepartmentID",
+    "combination": "DepartmentID",
+    "null_distribution": {
+        "total_null_rows": 0,
+        "total_not_null_rows": 296
+    },
+    "data_distribution": [
+        {
+            "field_value": "7",
+            "row_count": 180,
+            "ratio_percent": 60.810810810810814
+        },
+        {
+            "field_value": "3",
+            "row_count": 18,
+            "ratio_percent": 6.081081081081081
+        },
+        {
+            "field_value": "5",
+            "row_count": 13,
+            "ratio_percent": 4.391891891891892
+        },
+        {
+            "field_value": "10",
+            "row_count": 11,
+            "ratio_percent": 3.7162162162162162
+        },
+        {
+            "field_value": "4",
+            "row_count": 10,
+            "ratio_percent": 3.3783783783783785
+        },
+        {
+            "field_value": "11",
+            "row_count": 10,
+            "ratio_percent": 3.3783783783783785
+        },
+        {
+            "field_value": "1",
+            "row_count": 7,
+            "ratio_percent": 2.364864864864865
+        },
+        {
+            "field_value": "14",
+            "row_count": 7,
+            "ratio_percent": 2.364864864864865
+        },
+        {
+            "field_value": "13",
+            "row_count": 7,
+            "ratio_percent": 2.364864864864865
+        },
+        {
+            "field_value": "15",
+            "row_count": 6,
+            "ratio_percent": 2.027027027027027
+        }
+    ]
+}
+@endjson

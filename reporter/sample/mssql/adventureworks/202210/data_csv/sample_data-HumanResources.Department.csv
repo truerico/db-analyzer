@@ -1,0 +1,6 @@
+DepartmentID,Name,GroupName,ModifiedDate,SYS_EXEC_DURATION
+1,Engineering,Research and Development,2008-04-30 00:00:00,0.192076
+2,Tool Design,Research and Development,2008-04-30 00:00:00,0.192276
+3,Sales,Sales and Marketing,2008-04-30 00:00:00,0.192332
+4,Marketing,Sales and Marketing,2008-04-30 00:00:00,0.192378
+5,Purchasing,Inventory Management,2008-04-30 00:00:00,0.192439

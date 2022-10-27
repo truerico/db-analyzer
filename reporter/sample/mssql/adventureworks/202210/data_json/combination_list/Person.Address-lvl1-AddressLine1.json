@@ -1,0 +1,62 @@
+@startjson
+{
+    "field1": "AddressLine1",
+    "combination": "AddressLine1",
+    "null_distribution": {
+        "total_null_rows": 0,
+        "total_not_null_rows": 19614
+    },
+    "data_distribution": [
+        {
+            "field_value": "Attach\u00e9 de Presse",
+            "row_count": 17,
+            "ratio_percent": 0.08667278474558988
+        },
+        {
+            "field_value": "Midi-Couleurs",
+            "row_count": 15,
+            "ratio_percent": 0.07647598654022637
+        },
+        {
+            "field_value": "88, avenue de l\u00b4 Union Centrale",
+            "row_count": 13,
+            "ratio_percent": 0.06627918833486285
+        },
+        {
+            "field_value": "6, route de Marseille",
+            "row_count": 12,
+            "ratio_percent": 0.06118078923218109
+        },
+        {
+            "field_value": "Helsenbergbogen 6",
+            "row_count": 10,
+            "ratio_percent": 0.05098399102681758
+        },
+        {
+            "field_value": "Im Himmelsweg 89",
+            "row_count": 10,
+            "ratio_percent": 0.05098399102681758
+        },
+        {
+            "field_value": "11, quai de l\u00b4 Iton",
+            "row_count": 9,
+            "ratio_percent": 0.04588559192413582
+        },
+        {
+            "field_value": "Postfach 22 99 99",
+            "row_count": 9,
+            "ratio_percent": 0.04588559192413582
+        },
+        {
+            "field_value": "Werftstr 54",
+            "row_count": 9,
+            "ratio_percent": 0.04588559192413582
+        },
+        {
+            "field_value": "2, route de Marseille",
+            "row_count": 8,
+            "ratio_percent": 0.040787192821454064
+        }
+    ]
+}
+@endjson

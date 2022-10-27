@@ -1,0 +1,27 @@
+@startjson
+{
+    "field1": "UnitMeasureCode",
+    "combination": "UnitMeasureCode",
+    "null_distribution": {
+        "total_null_rows": 0,
+        "total_not_null_rows": 2679
+    },
+    "data_distribution": [
+        {
+            "field_value": "EA",
+            "row_count": 2578,
+            "ratio_percent": 96.22993654348637
+        },
+        {
+            "field_value": "OZ",
+            "row_count": 92,
+            "ratio_percent": 3.4341172079134004
+        },
+        {
+            "field_value": "IN",
+            "row_count": 9,
+            "ratio_percent": 0.335946248600224
+        }
+    ]
+}
+@endjson

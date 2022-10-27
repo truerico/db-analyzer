@@ -1,0 +1,373 @@
+[
+    {
+        "table": "classicmodels.orders",
+        "total_records": 326,
+        "dataset": [
+            {
+                "field": "comments",
+                "distribution": [
+                    {
+                        "field_value": "**NULL**",
+                        "row_count": 246,
+                        "ratio_percent": 75.4601226993865
+                    },
+                    {
+                        "field_value": "They want to reevaluate their terms agreement with Finance.",
+                        "row_count": 7,
+                        "ratio_percent": 2.147239263803681
+                    },
+                    {
+                        "field_value": "Customer requested that DHL is used for this shipping",
+                        "row_count": 6,
+                        "ratio_percent": 1.8404907975460123
+                    },
+                    {
+                        "field_value": "Customer requested that FedEx Ground is used for this shipping",
+                        "row_count": 4,
+                        "ratio_percent": 1.2269938650306749
+                    },
+                    {
+                        "field_value": "Check on availability.",
+                        "row_count": 3,
+                        "ratio_percent": 0.9202453987730062
+                    },
+                    {
+                        "field_value": "Difficult to negotiate with customer. We need more marketing materials",
+                        "row_count": 3,
+                        "ratio_percent": 0.9202453987730062
+                    },
+                    {
+                        "field_value": "Customer requested that ad materials (such as posters, pamphlets) be included in the shippment",
+                        "row_count": 3,
+                        "ratio_percent": 0.9202453987730062
+                    },
+                    {
+                        "field_value": "Customer has worked with some of our vendors in the past and is aware of their MSRP",
+                        "row_count": 3,
+                        "ratio_percent": 0.9202453987730062
+                    },
+                    {
+                        "field_value": "Customer very concerned about the exact color of the models. There is high risk that he may dispute the order because there is a slight color mismatch",
+                        "row_count": 3,
+                        "ratio_percent": 0.9202453987730062
+                    },
+                    {
+                        "field_value": "Customer requested special shippment. The instructions were passed along to the warehouse",
+                        "row_count": 3,
+                        "ratio_percent": 0.9202453987730062
+                    }
+                ]
+            },
+            {
+                "field": "customerNumber",
+                "distribution": [
+                    {
+                        "field_value": "141",
+                        "row_count": 26,
+                        "ratio_percent": 7.975460122699387
+                    },
+                    {
+                        "field_value": "124",
+                        "row_count": 17,
+                        "ratio_percent": 5.214723926380368
+                    },
+                    {
+                        "field_value": "148",
+                        "row_count": 5,
+                        "ratio_percent": 1.5337423312883436
+                    },
+                    {
+                        "field_value": "353",
+                        "row_count": 5,
+                        "ratio_percent": 1.5337423312883436
+                    },
+                    {
+                        "field_value": "323",
+                        "row_count": 5,
+                        "ratio_percent": 1.5337423312883436
+                    },
+                    {
+                        "field_value": "145",
+                        "row_count": 5,
+                        "ratio_percent": 1.5337423312883436
+                    },
+                    {
+                        "field_value": "114",
+                        "row_count": 5,
+                        "ratio_percent": 1.5337423312883436
+                    },
+                    {
+                        "field_value": "131",
+                        "row_count": 4,
+                        "ratio_percent": 1.2269938650306749
+                    },
+                    {
+                        "field_value": "381",
+                        "row_count": 4,
+                        "ratio_percent": 1.2269938650306749
+                    },
+                    {
+                        "field_value": "119",
+                        "row_count": 4,
+                        "ratio_percent": 1.2269938650306749
+                    }
+                ]
+            },
+            {
+                "field": "orderNumber",
+                "distribution": [
+                    {
+                        "field_value": "10113",
+                        "row_count": 1,
+                        "ratio_percent": 0.3067484662576687
+                    },
+                    {
+                        "field_value": "10129",
+                        "row_count": 1,
+                        "ratio_percent": 0.3067484662576687
+                    },
+                    {
+                        "field_value": "10145",
+                        "row_count": 1,
+                        "ratio_percent": 0.3067484662576687
+                    },
+                    {
+                        "field_value": "10161",
+                        "row_count": 1,
+                        "ratio_percent": 0.3067484662576687
+                    },
+                    {
+                        "field_value": "10177",
+                        "row_count": 1,
+                        "ratio_percent": 0.3067484662576687
+                    },
+                    {
+                        "field_value": "10193",
+                        "row_count": 1,
+                        "ratio_percent": 0.3067484662576687
+                    },
+                    {
+                        "field_value": "10209",
+                        "row_count": 1,
+                        "ratio_percent": 0.3067484662576687
+                    },
+                    {
+                        "field_value": "10225",
+                        "row_count": 1,
+                        "ratio_percent": 0.3067484662576687
+                    },
+                    {
+                        "field_value": "10241",
+                        "row_count": 1,
+                        "ratio_percent": 0.3067484662576687
+                    },
+                    {
+                        "field_value": "10257",
+                        "row_count": 1,
+                        "ratio_percent": 0.3067484662576687
+                    }
+                ]
+            },
+            {
+                "field": "orderDate",
+                "distribution": [
+                    {
+                        "field_value": "2004-11-24",
+                        "row_count": 4,
+                        "ratio_percent": 1.2269938650306749
+                    },
+                    {
+                        "field_value": "2003-11-06",
+                        "row_count": 3,
+                        "ratio_percent": 0.9202453987730062
+                    },
+                    {
+                        "field_value": "2003-12-02",
+                        "row_count": 3,
+                        "ratio_percent": 0.9202453987730062
+                    },
+                    {
+                        "field_value": "2003-11-14",
+                        "row_count": 3,
+                        "ratio_percent": 0.9202453987730062
+                    },
+                    {
+                        "field_value": "2004-11-05",
+                        "row_count": 3,
+                        "ratio_percent": 0.9202453987730062
+                    },
+                    {
+                        "field_value": "2003-11-05",
+                        "row_count": 3,
+                        "ratio_percent": 0.9202453987730062
+                    },
+                    {
+                        "field_value": "2003-12-01",
+                        "row_count": 3,
+                        "ratio_percent": 0.9202453987730062
+                    },
+                    {
+                        "field_value": "2003-06-16",
+                        "row_count": 2,
+                        "ratio_percent": 0.6134969325153374
+                    },
+                    {
+                        "field_value": "2003-10-21",
+                        "row_count": 2,
+                        "ratio_percent": 0.6134969325153374
+                    },
+                    {
+                        "field_value": "2003-11-20",
+                        "row_count": 2,
+                        "ratio_percent": 0.6134969325153374
+                    }
+                ]
+            },
+            {
+                "field": "requiredDate",
+                "distribution": [
+                    {
+                        "field_value": "2004-12-01",
+                        "row_count": 5,
+                        "ratio_percent": 1.5337423312883436
+                    },
+                    {
+                        "field_value": "2004-11-12",
+                        "row_count": 4,
+                        "ratio_percent": 1.2269938650306749
+                    },
+                    {
+                        "field_value": "2005-03-09",
+                        "row_count": 4,
+                        "ratio_percent": 1.2269938650306749
+                    },
+                    {
+                        "field_value": "2003-12-09",
+                        "row_count": 3,
+                        "ratio_percent": 0.9202453987730062
+                    },
+                    {
+                        "field_value": "2003-11-14",
+                        "row_count": 3,
+                        "ratio_percent": 0.9202453987730062
+                    },
+                    {
+                        "field_value": "2004-09-17",
+                        "row_count": 3,
+                        "ratio_percent": 0.9202453987730062
+                    },
+                    {
+                        "field_value": "2004-10-24",
+                        "row_count": 3,
+                        "ratio_percent": 0.9202453987730062
+                    },
+                    {
+                        "field_value": "2005-02-18",
+                        "row_count": 3,
+                        "ratio_percent": 0.9202453987730062
+                    },
+                    {
+                        "field_value": "2003-10-30",
+                        "row_count": 3,
+                        "ratio_percent": 0.9202453987730062
+                    },
+                    {
+                        "field_value": "2003-11-15",
+                        "row_count": 3,
+                        "ratio_percent": 0.9202453987730062
+                    }
+                ]
+            },
+            {
+                "field": "shippedDate",
+                "distribution": [
+                    {
+                        "field_value": "**NULL**",
+                        "row_count": 14,
+                        "ratio_percent": 4.294478527607362
+                    },
+                    {
+                        "field_value": "2004-11-07",
+                        "row_count": 4,
+                        "ratio_percent": 1.2269938650306749
+                    },
+                    {
+                        "field_value": "2004-09-14",
+                        "row_count": 4,
+                        "ratio_percent": 1.2269938650306749
+                    },
+                    {
+                        "field_value": "2003-11-24",
+                        "row_count": 3,
+                        "ratio_percent": 0.9202453987730062
+                    },
+                    {
+                        "field_value": "2004-11-30",
+                        "row_count": 3,
+                        "ratio_percent": 0.9202453987730062
+                    },
+                    {
+                        "field_value": "2005-02-18",
+                        "row_count": 3,
+                        "ratio_percent": 0.9202453987730062
+                    },
+                    {
+                        "field_value": "2003-12-06",
+                        "row_count": 3,
+                        "ratio_percent": 0.9202453987730062
+                    },
+                    {
+                        "field_value": "2004-11-29",
+                        "row_count": 3,
+                        "ratio_percent": 0.9202453987730062
+                    },
+                    {
+                        "field_value": "2004-10-20",
+                        "row_count": 3,
+                        "ratio_percent": 0.9202453987730062
+                    },
+                    {
+                        "field_value": "2004-11-08",
+                        "row_count": 3,
+                        "ratio_percent": 0.9202453987730062
+                    }
+                ]
+            },
+            {
+                "field": "status",
+                "distribution": [
+                    {
+                        "field_value": "Shipped",
+                        "row_count": 303,
+                        "ratio_percent": 92.94478527607362
+                    },
+                    {
+                        "field_value": "In Process",
+                        "row_count": 6,
+                        "ratio_percent": 1.8404907975460123
+                    },
+                    {
+                        "field_value": "Cancelled",
+                        "row_count": 6,
+                        "ratio_percent": 1.8404907975460123
+                    },
+                    {
+                        "field_value": "On Hold",
+                        "row_count": 4,
+                        "ratio_percent": 1.2269938650306749
+                    },
+                    {
+                        "field_value": "Resolved",
+                        "row_count": 4,
+                        "ratio_percent": 1.2269938650306749
+                    },
+                    {
+                        "field_value": "Disputed",
+                        "row_count": 3,
+                        "ratio_percent": 0.9202453987730062
+                    }
+                ]
+            }
+        ]
+    }
+]

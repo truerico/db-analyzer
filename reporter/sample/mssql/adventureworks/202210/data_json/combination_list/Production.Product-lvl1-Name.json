@@ -1,0 +1,62 @@
+@startjson
+{
+    "field1": "Name",
+    "combination": "Name",
+    "null_distribution": {
+        "total_null_rows": 0,
+        "total_not_null_rows": 504
+    },
+    "data_distribution": [
+        {
+            "field_value": "Chainring",
+            "row_count": 1,
+            "ratio_percent": 0.1984126984126984
+        },
+        {
+            "field_value": "Chain Stays",
+            "row_count": 1,
+            "ratio_percent": 0.1984126984126984
+        },
+        {
+            "field_value": "Chain",
+            "row_count": 1,
+            "ratio_percent": 0.1984126984126984
+        },
+        {
+            "field_value": "Cable Lock",
+            "row_count": 1,
+            "ratio_percent": 0.1984126984126984
+        },
+        {
+            "field_value": "Blade",
+            "row_count": 1,
+            "ratio_percent": 0.1984126984126984
+        },
+        {
+            "field_value": "Bike Wash - Dissolver",
+            "row_count": 1,
+            "ratio_percent": 0.1984126984126984
+        },
+        {
+            "field_value": "Bearing Ball",
+            "row_count": 1,
+            "ratio_percent": 0.1984126984126984
+        },
+        {
+            "field_value": "BB Ball Bearing",
+            "row_count": 1,
+            "ratio_percent": 0.1984126984126984
+        },
+        {
+            "field_value": "AWC Logo Cap",
+            "row_count": 1,
+            "ratio_percent": 0.1984126984126984
+        },
+        {
+            "field_value": "All-Purpose Bike Stand",
+            "row_count": 1,
+            "ratio_percent": 0.1984126984126984
+        }
+    ]
+}
+@endjson

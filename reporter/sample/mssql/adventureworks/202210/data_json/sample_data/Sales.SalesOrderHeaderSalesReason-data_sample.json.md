@@ -1,0 +1,36 @@
+```json
+@startjson
+[
+    {
+        "SalesOrderID": 43697,
+        "SalesReasonID": 5,
+        "ModifiedDate": "2011-05-31 00:00:00",
+        "SYS_EXEC_DURATION": "0.186528"
+    },
+    {
+        "SalesOrderID": 43697,
+        "SalesReasonID": 9,
+        "ModifiedDate": "2011-05-31 00:00:00",
+        "SYS_EXEC_DURATION": "0.186662"
+    },
+    {
+        "SalesOrderID": 43702,
+        "SalesReasonID": 5,
+        "ModifiedDate": "2011-06-01 00:00:00",
+        "SYS_EXEC_DURATION": "0.186703"
+    },
+    {
+        "SalesOrderID": 43702,
+        "SalesReasonID": 9,
+        "ModifiedDate": "2011-06-01 00:00:00",
+        "SYS_EXEC_DURATION": "0.186742"
+    },
+    {
+        "SalesOrderID": 43703,
+        "SalesReasonID": 5,
+        "ModifiedDate": "2011-06-01 00:00:00",
+        "SYS_EXEC_DURATION": "0.186789"
+    }
+]
+@endjson
+```

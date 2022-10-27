@@ -1,0 +1,16 @@
+[
+    {
+        "host_name": "server-test",
+        "version": "5.7.40-0ubuntu0.18.04.1",
+        "character_set_server": "utf8mb4",
+        "tls_version": "TLSv1,TLSv1.1,TLSv1.2",
+        "startup_time": "2022-10-25 06:31:10",
+        "data_dir": "/var/lib/mysql/",
+        "general_log_file": "/var/lib/mysql/server-test.log",
+        "slow_query_log": 0,
+        "slow_query_log_file": "/var/lib/mysql/server-test-slow.log",
+        "version_comment": "(Ubuntu)",
+        "version_compile": "x86_64",
+        "version_os": "Linux"
+    }
+]

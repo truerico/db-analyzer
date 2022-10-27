@@ -1,0 +1,57 @@
+@startjson
+{
+    "field1": "UnitPriceDiscount",
+    "combination": "UnitPriceDiscount",
+    "null_distribution": {
+        "total_null_rows": 0,
+        "total_not_null_rows": 121317
+    },
+    "data_distribution": [
+        {
+            "field_value": "0.00",
+            "row_count": 118035,
+            "ratio_percent": 97.29469076881229
+        },
+        {
+            "field_value": "0.02",
+            "row_count": 1310,
+            "ratio_percent": 1.079815689474682
+        },
+        {
+            "field_value": "0.05",
+            "row_count": 606,
+            "ratio_percent": 0.49951779223027276
+        },
+        {
+            "field_value": "0.15",
+            "row_count": 590,
+            "ratio_percent": 0.4863292036565362
+        },
+        {
+            "field_value": "0.20",
+            "row_count": 231,
+            "ratio_percent": 0.19041024753332178
+        },
+        {
+            "field_value": "0.10",
+            "row_count": 178,
+            "ratio_percent": 0.1467230478828194
+        },
+        {
+            "field_value": "0.40",
+            "row_count": 169,
+            "ratio_percent": 0.13930446681009256
+        },
+        {
+            "field_value": "0.35",
+            "row_count": 137,
+            "ratio_percent": 0.11292728966261942
+        },
+        {
+            "field_value": "0.30",
+            "row_count": 61,
+            "ratio_percent": 0.05028149393737069
+        }
+    ]
+}
+@endjson

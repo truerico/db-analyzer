@@ -1,0 +1,28 @@
+[
+    {
+        "table": "Production.ProductDescription",
+        "total_records": 762,
+        "dataset": [
+            {
+                "field": "Description",
+                "total_null_rows": 0,
+                "total_not_null_rows": 762
+            },
+            {
+                "field": "ModifiedDate",
+                "total_null_rows": 0,
+                "total_not_null_rows": 762
+            },
+            {
+                "field": "ProductDescriptionID",
+                "total_null_rows": 0,
+                "total_not_null_rows": 762
+            },
+            {
+                "field": "rowguid",
+                "total_null_rows": 0,
+                "total_not_null_rows": 762
+            }
+        ]
+    }
+]

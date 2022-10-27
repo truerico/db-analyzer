@@ -1,0 +1,62 @@
+@startjson
+{
+    "field1": "country",
+    "combination": "country",
+    "null_distribution": {
+        "total_null_rows": 0,
+        "total_not_null_rows": 122
+    },
+    "data_distribution": [
+        {
+            "field_value": "USA",
+            "row_count": 36,
+            "ratio_percent": 29.508196721311474
+        },
+        {
+            "field_value": "Germany",
+            "row_count": 13,
+            "ratio_percent": 10.655737704918034
+        },
+        {
+            "field_value": "France",
+            "row_count": 12,
+            "ratio_percent": 9.836065573770492
+        },
+        {
+            "field_value": "Spain",
+            "row_count": 7,
+            "ratio_percent": 5.737704918032787
+        },
+        {
+            "field_value": "Australia",
+            "row_count": 5,
+            "ratio_percent": 4.098360655737705
+        },
+        {
+            "field_value": "UK",
+            "row_count": 5,
+            "ratio_percent": 4.098360655737705
+        },
+        {
+            "field_value": "New Zealand",
+            "row_count": 4,
+            "ratio_percent": 3.278688524590164
+        },
+        {
+            "field_value": "Italy",
+            "row_count": 4,
+            "ratio_percent": 3.278688524590164
+        },
+        {
+            "field_value": "Norway",
+            "row_count": 3,
+            "ratio_percent": 2.459016393442623
+        },
+        {
+            "field_value": "Singapore",
+            "row_count": 3,
+            "ratio_percent": 2.459016393442623
+        }
+    ]
+}
+@endjson

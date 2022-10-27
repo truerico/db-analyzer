@@ -1,0 +1,62 @@
+@startjson
+{
+    "field1": "CountryRegionCode",
+    "combination": "CountryRegionCode",
+    "null_distribution": {
+        "total_null_rows": 0,
+        "total_not_null_rows": 238
+    },
+    "data_distribution": [
+        {
+            "field_value": "AR",
+            "row_count": 1,
+            "ratio_percent": 0.42016806722689076
+        },
+        {
+            "field_value": "AQ",
+            "row_count": 1,
+            "ratio_percent": 0.42016806722689076
+        },
+        {
+            "field_value": "AO",
+            "row_count": 1,
+            "ratio_percent": 0.42016806722689076
+        },
+        {
+            "field_value": "AN",
+            "row_count": 1,
+            "ratio_percent": 0.42016806722689076
+        },
+        {
+            "field_value": "AM",
+            "row_count": 1,
+            "ratio_percent": 0.42016806722689076
+        },
+        {
+            "field_value": "AL",
+            "row_count": 1,
+            "ratio_percent": 0.42016806722689076
+        },
+        {
+            "field_value": "AI",
+            "row_count": 1,
+            "ratio_percent": 0.42016806722689076
+        },
+        {
+            "field_value": "AG",
+            "row_count": 1,
+            "ratio_percent": 0.42016806722689076
+        },
+        {
+            "field_value": "AF",
+            "row_count": 1,
+            "ratio_percent": 0.42016806722689076
+        },
+        {
+            "field_value": "AE",
+            "row_count": 1,
+            "ratio_percent": 0.42016806722689076
+        }
+    ]
+}
+@endjson

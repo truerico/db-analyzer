@@ -1,0 +1,62 @@
+@startjson
+{
+    "field1": "Name",
+    "combination": "Name",
+    "null_distribution": {
+        "total_null_rows": 0,
+        "total_not_null_rows": 38
+    },
+    "data_distribution": [
+        {
+            "field_value": "Cubic decimeter",
+            "row_count": 1,
+            "ratio_percent": 2.6315789473684212
+        },
+        {
+            "field_value": "Cubic centimeter",
+            "row_count": 1,
+            "ratio_percent": 2.6315789473684212
+        },
+        {
+            "field_value": "Crate",
+            "row_count": 1,
+            "ratio_percent": 2.6315789473684212
+        },
+        {
+            "field_value": "Container",
+            "row_count": 1,
+            "ratio_percent": 2.6315789473684212
+        },
+        {
+            "field_value": "Centimeter",
+            "row_count": 1,
+            "ratio_percent": 2.6315789473684212
+        },
+        {
+            "field_value": "Celsius",
+            "row_count": 1,
+            "ratio_percent": 2.6315789473684212
+        },
+        {
+            "field_value": "Case",
+            "row_count": 1,
+            "ratio_percent": 2.6315789473684212
+        },
+        {
+            "field_value": "Carton",
+            "row_count": 1,
+            "ratio_percent": 2.6315789473684212
+        },
+        {
+            "field_value": "Canister",
+            "row_count": 1,
+            "ratio_percent": 2.6315789473684212
+        },
+        {
+            "field_value": "Boxes",
+            "row_count": 1,
+            "ratio_percent": 2.6315789473684212
+        }
+    ]
+}
+@endjson

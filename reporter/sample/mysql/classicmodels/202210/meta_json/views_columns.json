@@ -1,0 +1,172 @@
+[
+    {
+        "column_name": "productCode",
+        "column_id": 1,
+        "data_type": "varchar",
+        "max_length": 15,
+        "is_nullable": "NO",
+        "view_schema": "classicmodels",
+        "view_name": "aboveavgproducts",
+        "view_full_name": "classicmodels.aboveavgproducts"
+    },
+    {
+        "column_name": "productName",
+        "column_id": 2,
+        "data_type": "varchar",
+        "max_length": 70,
+        "is_nullable": "NO",
+        "view_schema": "classicmodels",
+        "view_name": "aboveavgproducts",
+        "view_full_name": "classicmodels.aboveavgproducts"
+    },
+    {
+        "column_name": "buyPrice",
+        "column_id": 3,
+        "data_type": "decimal",
+        "max_length": 10,
+        "is_nullable": "NO",
+        "view_schema": "classicmodels",
+        "view_name": "aboveavgproducts",
+        "view_full_name": "classicmodels.aboveavgproducts"
+    },
+    {
+        "column_name": "orderNumber",
+        "column_id": 1,
+        "data_type": "int",
+        "max_length": 10,
+        "is_nullable": "NO",
+        "view_schema": "classicmodels",
+        "view_name": "bigsalesorder",
+        "view_full_name": "classicmodels.bigsalesorder"
+    },
+    {
+        "column_name": "total",
+        "column_id": 2,
+        "data_type": "decimal",
+        "max_length": 42,
+        "is_nullable": "YES",
+        "view_schema": "classicmodels",
+        "view_name": "bigsalesorder",
+        "view_full_name": "classicmodels.bigsalesorder"
+    },
+    {
+        "column_name": "orderNumber",
+        "column_id": 1,
+        "data_type": "int",
+        "max_length": 10,
+        "is_nullable": "NO",
+        "view_schema": "classicmodels",
+        "view_name": "customerorders",
+        "view_full_name": "classicmodels.customerorders"
+    },
+    {
+        "column_name": "customerName",
+        "column_id": 2,
+        "data_type": "varchar",
+        "max_length": 50,
+        "is_nullable": "NO",
+        "view_schema": "classicmodels",
+        "view_name": "customerorders",
+        "view_full_name": "classicmodels.customerorders"
+    },
+    {
+        "column_name": "total",
+        "column_id": 3,
+        "data_type": "decimal",
+        "max_length": 42,
+        "is_nullable": "YES",
+        "view_schema": "classicmodels",
+        "view_name": "customerorders",
+        "view_full_name": "classicmodels.customerorders"
+    },
+    {
+        "column_name": "customerName",
+        "column_id": 1,
+        "data_type": "varchar",
+        "max_length": 50,
+        "is_nullable": "NO",
+        "view_schema": "classicmodels",
+        "view_name": "customerorderstats",
+        "view_full_name": "classicmodels.customerorderstats"
+    },
+    {
+        "column_name": "orderCount",
+        "column_id": 2,
+        "data_type": "bigint",
+        "max_length": 19,
+        "is_nullable": "NO",
+        "view_schema": "classicmodels",
+        "view_name": "customerorderstats",
+        "view_full_name": "classicmodels.customerorderstats"
+    },
+    {
+        "column_name": "customerName",
+        "column_id": 1,
+        "data_type": "varchar",
+        "max_length": 50,
+        "is_nullable": "NO",
+        "view_schema": "classicmodels",
+        "view_name": "customerpayments",
+        "view_full_name": "classicmodels.customerpayments"
+    },
+    {
+        "column_name": "checkNumber",
+        "column_id": 2,
+        "data_type": "varchar",
+        "max_length": 50,
+        "is_nullable": "NO",
+        "view_schema": "classicmodels",
+        "view_name": "customerpayments",
+        "view_full_name": "classicmodels.customerpayments"
+    },
+    {
+        "column_name": "paymentDate",
+        "column_id": 3,
+        "data_type": "date",
+        "max_length": null,
+        "is_nullable": "NO",
+        "view_schema": "classicmodels",
+        "view_name": "customerpayments",
+        "view_full_name": "classicmodels.customerpayments"
+    },
+    {
+        "column_name": "amount",
+        "column_id": 4,
+        "data_type": "decimal",
+        "max_length": 10,
+        "is_nullable": "NO",
+        "view_schema": "classicmodels",
+        "view_name": "customerpayments",
+        "view_full_name": "classicmodels.customerpayments"
+    },
+    {
+        "column_name": "day",
+        "column_id": 1,
+        "data_type": "varchar",
+        "max_length": 3,
+        "is_nullable": "NO",
+        "view_schema": "classicmodels",
+        "view_name": "daysofweek",
+        "view_full_name": "classicmodels.daysofweek"
+    },
+    {
+        "column_name": "orderNumber",
+        "column_id": 1,
+        "data_type": "int",
+        "max_length": 10,
+        "is_nullable": "NO",
+        "view_schema": "classicmodels",
+        "view_name": "saleperorder",
+        "view_full_name": "classicmodels.saleperorder"
+    },
+    {
+        "column_name": "total",
+        "column_id": 2,
+        "data_type": "decimal",
+        "max_length": 42,
+        "is_nullable": "YES",
+        "view_schema": "classicmodels",
+        "view_name": "saleperorder",
+        "view_full_name": "classicmodels.saleperorder"
+    }
+]

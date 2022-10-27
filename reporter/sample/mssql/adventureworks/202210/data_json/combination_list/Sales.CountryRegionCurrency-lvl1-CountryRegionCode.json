@@ -1,0 +1,62 @@
+@startjson
+{
+    "field1": "CountryRegionCode",
+    "combination": "CountryRegionCode",
+    "null_distribution": {
+        "total_null_rows": 0,
+        "total_not_null_rows": 109
+    },
+    "data_distribution": [
+        {
+            "field_value": "BE",
+            "row_count": 2,
+            "ratio_percent": 1.834862385321101
+        },
+        {
+            "field_value": "AT",
+            "row_count": 2,
+            "ratio_percent": 1.834862385321101
+        },
+        {
+            "field_value": "DE",
+            "row_count": 2,
+            "ratio_percent": 1.834862385321101
+        },
+        {
+            "field_value": "ES",
+            "row_count": 2,
+            "ratio_percent": 1.834862385321101
+        },
+        {
+            "field_value": "FI",
+            "row_count": 2,
+            "ratio_percent": 1.834862385321101
+        },
+        {
+            "field_value": "FR",
+            "row_count": 2,
+            "ratio_percent": 1.834862385321101
+        },
+        {
+            "field_value": "GR",
+            "row_count": 2,
+            "ratio_percent": 1.834862385321101
+        },
+        {
+            "field_value": "IE",
+            "row_count": 2,
+            "ratio_percent": 1.834862385321101
+        },
+        {
+            "field_value": "IT",
+            "row_count": 2,
+            "ratio_percent": 1.834862385321101
+        },
+        {
+            "field_value": "NL",
+            "row_count": 2,
+            "ratio_percent": 1.834862385321101
+        }
+    ]
+}
+@endjson

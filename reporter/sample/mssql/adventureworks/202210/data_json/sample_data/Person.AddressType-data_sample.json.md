@@ -1,0 +1,41 @@
+```json
+@startjson
+[
+    {
+        "AddressTypeID": 1,
+        "Name": "Billing",
+        "rowguid": "B84F78B1-4EFE-4A0E-8CB7-70E9F112F886",
+        "ModifiedDate": "2008-04-30 00:00:00",
+        "SYS_EXEC_DURATION": "0.189382"
+    },
+    {
+        "AddressTypeID": 2,
+        "Name": "Home",
+        "rowguid": "41BC2FF6-F0FC-475F-8EB9-CEC0805AA0F2",
+        "ModifiedDate": "2008-04-30 00:00:00",
+        "SYS_EXEC_DURATION": "0.189573"
+    },
+    {
+        "AddressTypeID": 3,
+        "Name": "Main Office",
+        "rowguid": "8EEEC28C-07A2-4FB9-AD0A-42D4A0BBC575",
+        "ModifiedDate": "2008-04-30 00:00:00",
+        "SYS_EXEC_DURATION": "0.189739"
+    },
+    {
+        "AddressTypeID": 4,
+        "Name": "Primary",
+        "rowguid": "24CB3088-4345-47C4-86C5-17B535133D1E",
+        "ModifiedDate": "2008-04-30 00:00:00",
+        "SYS_EXEC_DURATION": "0.189805"
+    },
+    {
+        "AddressTypeID": 5,
+        "Name": "Shipping",
+        "rowguid": "B29DA3F8-19A3-47DA-9DAA-15C84F4A83A5",
+        "ModifiedDate": "2008-04-30 00:00:00",
+        "SYS_EXEC_DURATION": "0.189876"
+    }
+]
+@endjson
+```

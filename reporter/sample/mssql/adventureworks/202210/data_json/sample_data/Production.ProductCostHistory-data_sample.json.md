@@ -1,0 +1,46 @@
+```json
+@startjson
+[
+    {
+        "ProductID": 707,
+        "StartDate": "2011-05-31 00:00:00",
+        "EndDate": "2012-05-29 00:00:00",
+        "StandardCost": "12.0278",
+        "ModifiedDate": "2012-05-29 00:00:00",
+        "SYS_EXEC_DURATION": "0.189865"
+    },
+    {
+        "ProductID": 707,
+        "StartDate": "2012-05-30 00:00:00",
+        "EndDate": "2013-05-29 00:00:00",
+        "StandardCost": "13.8782",
+        "ModifiedDate": "2013-05-29 00:00:00",
+        "SYS_EXEC_DURATION": "0.190051"
+    },
+    {
+        "ProductID": 707,
+        "StartDate": "2013-05-30 00:00:00",
+        "EndDate": null,
+        "StandardCost": "13.0863",
+        "ModifiedDate": "2013-05-16 00:00:00",
+        "SYS_EXEC_DURATION": "0.190116"
+    },
+    {
+        "ProductID": 708,
+        "StartDate": "2011-05-31 00:00:00",
+        "EndDate": "2012-05-29 00:00:00",
+        "StandardCost": "12.0278",
+        "ModifiedDate": "2012-05-29 00:00:00",
+        "SYS_EXEC_DURATION": "0.190175"
+    },
+    {
+        "ProductID": 708,
+        "StartDate": "2012-05-30 00:00:00",
+        "EndDate": "2013-05-29 00:00:00",
+        "StandardCost": "13.8782",
+        "ModifiedDate": "2013-05-29 00:00:00",
+        "SYS_EXEC_DURATION": "0.190249"
+    }
+]
+@endjson
+```

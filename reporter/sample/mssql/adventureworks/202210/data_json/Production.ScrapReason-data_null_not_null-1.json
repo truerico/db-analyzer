@@ -1,0 +1,23 @@
+[
+    {
+        "table": "Production.ScrapReason",
+        "total_records": 16,
+        "dataset": [
+            {
+                "field": "ModifiedDate",
+                "total_null_rows": 0,
+                "total_not_null_rows": 16
+            },
+            {
+                "field": "Name",
+                "total_null_rows": 0,
+                "total_not_null_rows": 16
+            },
+            {
+                "field": "ScrapReasonID",
+                "total_null_rows": 0,
+                "total_not_null_rows": 16
+            }
+        ]
+    }
+]

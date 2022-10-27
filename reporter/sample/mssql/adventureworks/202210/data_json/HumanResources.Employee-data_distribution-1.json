@@ -1,0 +1,603 @@
+[
+    {
+        "table": "HumanResources.Employee",
+        "total_records": 290,
+        "dataset": [
+            {
+                "field": "BusinessEntityID",
+                "distribution": [
+                    {
+                        "field_value": "108",
+                        "row_count": 1,
+                        "ratio_percent": 0.3448275862068966
+                    },
+                    {
+                        "field_value": "107",
+                        "row_count": 1,
+                        "ratio_percent": 0.3448275862068966
+                    },
+                    {
+                        "field_value": "106",
+                        "row_count": 1,
+                        "ratio_percent": 0.3448275862068966
+                    },
+                    {
+                        "field_value": "105",
+                        "row_count": 1,
+                        "ratio_percent": 0.3448275862068966
+                    },
+                    {
+                        "field_value": "104",
+                        "row_count": 1,
+                        "ratio_percent": 0.3448275862068966
+                    },
+                    {
+                        "field_value": "103",
+                        "row_count": 1,
+                        "ratio_percent": 0.3448275862068966
+                    },
+                    {
+                        "field_value": "102",
+                        "row_count": 1,
+                        "ratio_percent": 0.3448275862068966
+                    },
+                    {
+                        "field_value": "101",
+                        "row_count": 1,
+                        "ratio_percent": 0.3448275862068966
+                    },
+                    {
+                        "field_value": "100",
+                        "row_count": 1,
+                        "ratio_percent": 0.3448275862068966
+                    },
+                    {
+                        "field_value": "10",
+                        "row_count": 1,
+                        "ratio_percent": 0.3448275862068966
+                    }
+                ]
+            },
+            {
+                "field": "NationalIDNumber",
+                "distribution": [
+                    {
+                        "field_value": "134219713",
+                        "row_count": 1,
+                        "ratio_percent": 0.3448275862068966
+                    },
+                    {
+                        "field_value": "132674823",
+                        "row_count": 1,
+                        "ratio_percent": 0.3448275862068966
+                    },
+                    {
+                        "field_value": "131471224",
+                        "row_count": 1,
+                        "ratio_percent": 0.3448275862068966
+                    },
+                    {
+                        "field_value": "1300049",
+                        "row_count": 1,
+                        "ratio_percent": 0.3448275862068966
+                    },
+                    {
+                        "field_value": "121491555",
+                        "row_count": 1,
+                        "ratio_percent": 0.3448275862068966
+                    },
+                    {
+                        "field_value": "113695504",
+                        "row_count": 1,
+                        "ratio_percent": 0.3448275862068966
+                    },
+                    {
+                        "field_value": "113393530",
+                        "row_count": 1,
+                        "ratio_percent": 0.3448275862068966
+                    },
+                    {
+                        "field_value": "112457891",
+                        "row_count": 1,
+                        "ratio_percent": 0.3448275862068966
+                    },
+                    {
+                        "field_value": "112432117",
+                        "row_count": 1,
+                        "ratio_percent": 0.3448275862068966
+                    },
+                    {
+                        "field_value": "109272464",
+                        "row_count": 1,
+                        "ratio_percent": 0.3448275862068966
+                    }
+                ]
+            },
+            {
+                "field": "OrganizationLevel",
+                "distribution": [
+                    {
+                        "field_value": "4",
+                        "row_count": 190,
+                        "ratio_percent": 65.51724137931035
+                    },
+                    {
+                        "field_value": "3",
+                        "row_count": 66,
+                        "ratio_percent": 22.75862068965517
+                    },
+                    {
+                        "field_value": "2",
+                        "row_count": 27,
+                        "ratio_percent": 9.310344827586206
+                    },
+                    {
+                        "field_value": "1",
+                        "row_count": 6,
+                        "ratio_percent": 2.0689655172413794
+                    },
+                    {
+                        "field_value": "**NULL**",
+                        "row_count": 1,
+                        "ratio_percent": 0.3448275862068966
+                    }
+                ]
+            },
+            {
+                "field": "SalariedFlag",
+                "distribution": [
+                    {
+                        "field_value": "0",
+                        "row_count": 238,
+                        "ratio_percent": 82.06896551724138
+                    },
+                    {
+                        "field_value": "1",
+                        "row_count": 52,
+                        "ratio_percent": 17.93103448275862
+                    }
+                ]
+            },
+            {
+                "field": "SickLeaveHours",
+                "distribution": [
+                    {
+                        "field_value": "64",
+                        "row_count": 7,
+                        "ratio_percent": 2.413793103448276
+                    },
+                    {
+                        "field_value": "24",
+                        "row_count": 6,
+                        "ratio_percent": 2.0689655172413794
+                    },
+                    {
+                        "field_value": "23",
+                        "row_count": 6,
+                        "ratio_percent": 2.0689655172413794
+                    },
+                    {
+                        "field_value": "22",
+                        "row_count": 6,
+                        "ratio_percent": 2.0689655172413794
+                    },
+                    {
+                        "field_value": "21",
+                        "row_count": 6,
+                        "ratio_percent": 2.0689655172413794
+                    },
+                    {
+                        "field_value": "20",
+                        "row_count": 6,
+                        "ratio_percent": 2.0689655172413794
+                    },
+                    {
+                        "field_value": "30",
+                        "row_count": 6,
+                        "ratio_percent": 2.0689655172413794
+                    },
+                    {
+                        "field_value": "31",
+                        "row_count": 6,
+                        "ratio_percent": 2.0689655172413794
+                    },
+                    {
+                        "field_value": "33",
+                        "row_count": 6,
+                        "ratio_percent": 2.0689655172413794
+                    },
+                    {
+                        "field_value": "37",
+                        "row_count": 6,
+                        "ratio_percent": 2.0689655172413794
+                    }
+                ]
+            },
+            {
+                "field": "VacationHours",
+                "distribution": [
+                    {
+                        "field_value": "48",
+                        "row_count": 4,
+                        "ratio_percent": 1.3793103448275863
+                    },
+                    {
+                        "field_value": "14",
+                        "row_count": 3,
+                        "ratio_percent": 1.0344827586206897
+                    },
+                    {
+                        "field_value": "10",
+                        "row_count": 3,
+                        "ratio_percent": 1.0344827586206897
+                    },
+                    {
+                        "field_value": "1",
+                        "row_count": 3,
+                        "ratio_percent": 1.0344827586206897
+                    },
+                    {
+                        "field_value": "0",
+                        "row_count": 3,
+                        "ratio_percent": 1.0344827586206897
+                    },
+                    {
+                        "field_value": "16",
+                        "row_count": 3,
+                        "ratio_percent": 1.0344827586206897
+                    },
+                    {
+                        "field_value": "2",
+                        "row_count": 3,
+                        "ratio_percent": 1.0344827586206897
+                    },
+                    {
+                        "field_value": "20",
+                        "row_count": 3,
+                        "ratio_percent": 1.0344827586206897
+                    },
+                    {
+                        "field_value": "21",
+                        "row_count": 3,
+                        "ratio_percent": 1.0344827586206897
+                    },
+                    {
+                        "field_value": "22",
+                        "row_count": 3,
+                        "ratio_percent": 1.0344827586206897
+                    }
+                ]
+            },
+            {
+                "field": "rowguid",
+                "distribution": [
+                    {
+                        "field_value": "08365B05-C143-4260-A93C-6B69418B1946",
+                        "row_count": 1,
+                        "ratio_percent": 0.3448275862068966
+                    },
+                    {
+                        "field_value": "065D8D5F-9504-4FFE-98DC-E69677F19F15",
+                        "row_count": 1,
+                        "ratio_percent": 0.3448275862068966
+                    },
+                    {
+                        "field_value": "05C84608-F445-4F9D-BB5C-0828C309C29D",
+                        "row_count": 1,
+                        "ratio_percent": 0.3448275862068966
+                    },
+                    {
+                        "field_value": "045C9CBB-3448-4599-9FA9-6C7A9F82F832",
+                        "row_count": 1,
+                        "ratio_percent": 0.3448275862068966
+                    },
+                    {
+                        "field_value": "042427B8-3883-4A87-A6A3-724EE1690F49",
+                        "row_count": 1,
+                        "ratio_percent": 0.3448275862068966
+                    },
+                    {
+                        "field_value": "0423D8D0-1B14-4718-8C17-85E2F98D222F",
+                        "row_count": 1,
+                        "ratio_percent": 0.3448275862068966
+                    },
+                    {
+                        "field_value": "03A9BA14-0D5B-4671-B851-2C1721EFBF01",
+                        "row_count": 1,
+                        "ratio_percent": 0.3448275862068966
+                    },
+                    {
+                        "field_value": "0217049E-1566-42B6-8027-41B751E2B00B",
+                        "row_count": 1,
+                        "ratio_percent": 0.3448275862068966
+                    },
+                    {
+                        "field_value": "01BCCE22-D63A-4C3F-9BA8-D3D5A4C3BD52",
+                        "row_count": 1,
+                        "ratio_percent": 0.3448275862068966
+                    },
+                    {
+                        "field_value": "01B119A2-2AF3-4775-818E-B421FECB07A7",
+                        "row_count": 1,
+                        "ratio_percent": 0.3448275862068966
+                    }
+                ]
+            },
+            {
+                "field": "BirthDate",
+                "distribution": [
+                    {
+                        "field_value": "1962-09-13",
+                        "row_count": 2,
+                        "ratio_percent": 0.6896551724137931
+                    },
+                    {
+                        "field_value": "1970-12-03",
+                        "row_count": 2,
+                        "ratio_percent": 0.6896551724137931
+                    },
+                    {
+                        "field_value": "1976-01-06",
+                        "row_count": 2,
+                        "ratio_percent": 0.6896551724137931
+                    },
+                    {
+                        "field_value": "1976-02-11",
+                        "row_count": 2,
+                        "ratio_percent": 0.6896551724137931
+                    },
+                    {
+                        "field_value": "1976-03-06",
+                        "row_count": 2,
+                        "ratio_percent": 0.6896551724137931
+                    },
+                    {
+                        "field_value": "1977-02-14",
+                        "row_count": 2,
+                        "ratio_percent": 0.6896551724137931
+                    },
+                    {
+                        "field_value": "1978-01-17",
+                        "row_count": 2,
+                        "ratio_percent": 0.6896551724137931
+                    },
+                    {
+                        "field_value": "1978-01-29",
+                        "row_count": 2,
+                        "ratio_percent": 0.6896551724137931
+                    },
+                    {
+                        "field_value": "1986-09-10",
+                        "row_count": 2,
+                        "ratio_percent": 0.6896551724137931
+                    },
+                    {
+                        "field_value": "1986-09-19",
+                        "row_count": 2,
+                        "ratio_percent": 0.6896551724137931
+                    }
+                ]
+            },
+            {
+                "field": "CurrentFlag",
+                "distribution": [
+                    {
+                        "field_value": "1",
+                        "row_count": 290,
+                        "ratio_percent": 100.0
+                    }
+                ]
+            },
+            {
+                "field": "Gender",
+                "distribution": [
+                    {
+                        "field_value": "M",
+                        "row_count": 206,
+                        "ratio_percent": 71.03448275862068
+                    },
+                    {
+                        "field_value": "F",
+                        "row_count": 84,
+                        "ratio_percent": 28.96551724137931
+                    }
+                ]
+            },
+            {
+                "field": "HireDate",
+                "distribution": [
+                    {
+                        "field_value": "2011-05-31",
+                        "row_count": 9,
+                        "ratio_percent": 3.103448275862069
+                    },
+                    {
+                        "field_value": "2008-12-07",
+                        "row_count": 5,
+                        "ratio_percent": 1.7241379310344827
+                    },
+                    {
+                        "field_value": "2009-02-08",
+                        "row_count": 5,
+                        "ratio_percent": 1.7241379310344827
+                    },
+                    {
+                        "field_value": "2009-02-26",
+                        "row_count": 5,
+                        "ratio_percent": 1.7241379310344827
+                    },
+                    {
+                        "field_value": "2008-12-12",
+                        "row_count": 4,
+                        "ratio_percent": 1.3793103448275863
+                    },
+                    {
+                        "field_value": "2009-01-04",
+                        "row_count": 4,
+                        "ratio_percent": 1.3793103448275863
+                    },
+                    {
+                        "field_value": "2009-01-12",
+                        "row_count": 4,
+                        "ratio_percent": 1.3793103448275863
+                    },
+                    {
+                        "field_value": "2009-01-22",
+                        "row_count": 4,
+                        "ratio_percent": 1.3793103448275863
+                    },
+                    {
+                        "field_value": "2008-12-02",
+                        "row_count": 3,
+                        "ratio_percent": 1.0344827586206897
+                    },
+                    {
+                        "field_value": "2008-12-04",
+                        "row_count": 3,
+                        "ratio_percent": 1.0344827586206897
+                    }
+                ]
+            },
+            {
+                "field": "JobTitle",
+                "distribution": [
+                    {
+                        "field_value": "Production Technician - WC40",
+                        "row_count": 26,
+                        "ratio_percent": 8.96551724137931
+                    },
+                    {
+                        "field_value": "Production Technician - WC50",
+                        "row_count": 26,
+                        "ratio_percent": 8.96551724137931
+                    },
+                    {
+                        "field_value": "Production Technician - WC60",
+                        "row_count": 26,
+                        "ratio_percent": 8.96551724137931
+                    },
+                    {
+                        "field_value": "Production Technician - WC30",
+                        "row_count": 25,
+                        "ratio_percent": 8.620689655172415
+                    },
+                    {
+                        "field_value": "Production Technician - WC20",
+                        "row_count": 22,
+                        "ratio_percent": 7.586206896551724
+                    },
+                    {
+                        "field_value": "Production Technician - WC10",
+                        "row_count": 17,
+                        "ratio_percent": 5.862068965517241
+                    },
+                    {
+                        "field_value": "Production Technician - WC45",
+                        "row_count": 15,
+                        "ratio_percent": 5.172413793103448
+                    },
+                    {
+                        "field_value": "Sales Representative",
+                        "row_count": 14,
+                        "ratio_percent": 4.827586206896552
+                    },
+                    {
+                        "field_value": "Buyer",
+                        "row_count": 9,
+                        "ratio_percent": 3.103448275862069
+                    },
+                    {
+                        "field_value": "Marketing Specialist",
+                        "row_count": 5,
+                        "ratio_percent": 1.7241379310344827
+                    }
+                ]
+            },
+            {
+                "field": "LoginID",
+                "distribution": [
+                    {
+                        "field_value": "adventure-works\\anibal0",
+                        "row_count": 1,
+                        "ratio_percent": 0.3448275862068966
+                    },
+                    {
+                        "field_value": "adventure-works\\angela0",
+                        "row_count": 1,
+                        "ratio_percent": 0.3448275862068966
+                    },
+                    {
+                        "field_value": "adventure-works\\andy0",
+                        "row_count": 1,
+                        "ratio_percent": 0.3448275862068966
+                    },
+                    {
+                        "field_value": "adventure-works\\andrew1",
+                        "row_count": 1,
+                        "ratio_percent": 0.3448275862068966
+                    },
+                    {
+                        "field_value": "adventure-works\\andrew0",
+                        "row_count": 1,
+                        "ratio_percent": 0.3448275862068966
+                    },
+                    {
+                        "field_value": "adventure-works\\andreas0",
+                        "row_count": 1,
+                        "ratio_percent": 0.3448275862068966
+                    },
+                    {
+                        "field_value": "adventure-works\\amy0",
+                        "row_count": 1,
+                        "ratio_percent": 0.3448275862068966
+                    },
+                    {
+                        "field_value": "adventure-works\\alice0",
+                        "row_count": 1,
+                        "ratio_percent": 0.3448275862068966
+                    },
+                    {
+                        "field_value": "adventure-works\\alex0",
+                        "row_count": 1,
+                        "ratio_percent": 0.3448275862068966
+                    },
+                    {
+                        "field_value": "adventure-works\\alejandro0",
+                        "row_count": 1,
+                        "ratio_percent": 0.3448275862068966
+                    }
+                ]
+            },
+            {
+                "field": "MaritalStatus",
+                "distribution": [
+                    {
+                        "field_value": "M",
+                        "row_count": 146,
+                        "ratio_percent": 50.3448275862069
+                    },
+                    {
+                        "field_value": "S",
+                        "row_count": 144,
+                        "ratio_percent": 49.6551724137931
+                    }
+                ]
+            },
+            {
+                "field": "ModifiedDate",
+                "distribution": [
+                    {
+                        "field_value": "Jun 30 2014 12:00AM",
+                        "row_count": 287,
+                        "ratio_percent": 98.96551724137932
+                    },
+                    {
+                        "field_value": "Dec 26 2014  9:17AM",
+                        "row_count": 3,
+                        "ratio_percent": 1.0344827586206897
+                    }
+                ]
+            }
+        ]
+    }
+]

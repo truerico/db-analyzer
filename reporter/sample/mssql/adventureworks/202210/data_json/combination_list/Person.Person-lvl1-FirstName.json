@@ -1,0 +1,62 @@
+@startjson
+{
+    "field1": "FirstName",
+    "combination": "FirstName",
+    "null_distribution": {
+        "total_null_rows": 0,
+        "total_not_null_rows": 19972
+    },
+    "data_distribution": [
+        {
+            "field_value": "Richard",
+            "row_count": 103,
+            "ratio_percent": 0.5157220108151412
+        },
+        {
+            "field_value": "Katherine",
+            "row_count": 99,
+            "ratio_percent": 0.49569397156018424
+        },
+        {
+            "field_value": "James",
+            "row_count": 97,
+            "ratio_percent": 0.4856799519327058
+        },
+        {
+            "field_value": "Marcus",
+            "row_count": 97,
+            "ratio_percent": 0.4856799519327058
+        },
+        {
+            "field_value": "Jennifer",
+            "row_count": 96,
+            "ratio_percent": 0.48067294211896655
+        },
+        {
+            "field_value": "Alexandra",
+            "row_count": 93,
+            "ratio_percent": 0.46565191267774886
+        },
+        {
+            "field_value": "Dalton",
+            "row_count": 93,
+            "ratio_percent": 0.46565191267774886
+        },
+        {
+            "field_value": "Lucas",
+            "row_count": 93,
+            "ratio_percent": 0.46565191267774886
+        },
+        {
+            "field_value": "Isabella",
+            "row_count": 92,
+            "ratio_percent": 0.4606449028640096
+        },
+        {
+            "field_value": "Morgan",
+            "row_count": 92,
+            "ratio_percent": 0.4606449028640096
+        }
+    ]
+}
+@endjson

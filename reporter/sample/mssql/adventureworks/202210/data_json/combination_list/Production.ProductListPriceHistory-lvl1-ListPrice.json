@@ -1,0 +1,62 @@
+@startjson
+{
+    "field1": "ListPrice",
+    "combination": "ListPrice",
+    "null_distribution": {
+        "total_null_rows": 0,
+        "total_not_null_rows": 395
+    },
+    "data_distribution": [
+        {
+            "field_value": "306.56",
+            "row_count": 12,
+            "ratio_percent": 3.037974683544304
+        },
+        {
+            "field_value": "337.22",
+            "row_count": 12,
+            "ratio_percent": 3.037974683544304
+        },
+        {
+            "field_value": "699.10",
+            "row_count": 12,
+            "ratio_percent": 3.037974683544304
+        },
+        {
+            "field_value": "782.99",
+            "row_count": 12,
+            "ratio_percent": 3.037974683544304
+        },
+        {
+            "field_value": "333.42",
+            "row_count": 10,
+            "ratio_percent": 2.5316455696202533
+        },
+        {
+            "field_value": "594.83",
+            "row_count": 10,
+            "ratio_percent": 2.5316455696202533
+        },
+        {
+            "field_value": "742.35",
+            "row_count": 10,
+            "ratio_percent": 2.5316455696202533
+        },
+        {
+            "field_value": "1301.36",
+            "row_count": 9,
+            "ratio_percent": 2.278481012658228
+        },
+        {
+            "field_value": "1431.50",
+            "row_count": 9,
+            "ratio_percent": 2.278481012658228
+        },
+        {
+            "field_value": "539.99",
+            "row_count": 9,
+            "ratio_percent": 2.278481012658228
+        }
+    ]
+}
+@endjson

@@ -1,0 +1,62 @@
+@startjson
+{
+    "field1": "ProductAssemblyID",
+    "combination": "ProductAssemblyID",
+    "null_distribution": {
+        "total_null_rows": 103,
+        "total_not_null_rows": 2576
+    },
+    "data_distribution": [
+        {
+            "field_value": "**NULL**",
+            "row_count": 103,
+            "ratio_percent": 3.8447181784247855
+        },
+        {
+            "field_value": "752",
+            "row_count": 18,
+            "ratio_percent": 0.671892497200448
+        },
+        {
+            "field_value": "770",
+            "row_count": 18,
+            "ratio_percent": 0.671892497200448
+        },
+        {
+            "field_value": "971",
+            "row_count": 18,
+            "ratio_percent": 0.671892497200448
+        },
+        {
+            "field_value": "972",
+            "row_count": 18,
+            "ratio_percent": 0.671892497200448
+        },
+        {
+            "field_value": "750",
+            "row_count": 17,
+            "ratio_percent": 0.6345651362448674
+        },
+        {
+            "field_value": "765",
+            "row_count": 17,
+            "ratio_percent": 0.6345651362448674
+        },
+        {
+            "field_value": "767",
+            "row_count": 17,
+            "ratio_percent": 0.6345651362448674
+        },
+        {
+            "field_value": "768",
+            "row_count": 17,
+            "ratio_percent": 0.6345651362448674
+        },
+        {
+            "field_value": "771",
+            "row_count": 17,
+            "ratio_percent": 0.6345651362448674
+        }
+    ]
+}
+@endjson

@@ -1,0 +1,62 @@
+@startjson
+{
+    "field1": "ProductID",
+    "combination": "ProductID",
+    "null_distribution": {
+        "total_null_rows": 0,
+        "total_not_null_rows": 538
+    },
+    "data_distribution": [
+        {
+            "field_value": "708",
+            "row_count": 5,
+            "ratio_percent": 0.929368029739777
+        },
+        {
+            "field_value": "707",
+            "row_count": 5,
+            "ratio_percent": 0.929368029739777
+        },
+        {
+            "field_value": "711",
+            "row_count": 5,
+            "ratio_percent": 0.929368029739777
+        },
+        {
+            "field_value": "863",
+            "row_count": 5,
+            "ratio_percent": 0.929368029739777
+        },
+        {
+            "field_value": "869",
+            "row_count": 5,
+            "ratio_percent": 0.929368029739777
+        },
+        {
+            "field_value": "712",
+            "row_count": 4,
+            "ratio_percent": 0.7434944237918215
+        },
+        {
+            "field_value": "709",
+            "row_count": 4,
+            "ratio_percent": 0.7434944237918215
+        },
+        {
+            "field_value": "715",
+            "row_count": 4,
+            "ratio_percent": 0.7434944237918215
+        },
+        {
+            "field_value": "762",
+            "row_count": 4,
+            "ratio_percent": 0.7434944237918215
+        },
+        {
+            "field_value": "782",
+            "row_count": 4,
+            "ratio_percent": 0.7434944237918215
+        }
+    ]
+}
+@endjson

@@ -1,0 +1,27 @@
+@startjson
+{
+    "field1": "PhoneNumberTypeID",
+    "combination": "PhoneNumberTypeID",
+    "null_distribution": {
+        "total_null_rows": 0,
+        "total_not_null_rows": 3
+    },
+    "data_distribution": [
+        {
+            "field_value": "3",
+            "row_count": 1,
+            "ratio_percent": 33.333333333333336
+        },
+        {
+            "field_value": "2",
+            "row_count": 1,
+            "ratio_percent": 33.333333333333336
+        },
+        {
+            "field_value": "1",
+            "row_count": 1,
+            "ratio_percent": 33.333333333333336
+        }
+    ]
+}
+@endjson

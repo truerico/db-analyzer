@@ -1,0 +1,18 @@
+[
+    {
+        "table": "Production.Illustration",
+        "total_records": 5,
+        "dataset": [
+            {
+                "field": "IllustrationID",
+                "total_null_rows": 0,
+                "total_not_null_rows": 5
+            },
+            {
+                "field": "ModifiedDate",
+                "total_null_rows": 0,
+                "total_not_null_rows": 5
+            }
+        ]
+    }
+]

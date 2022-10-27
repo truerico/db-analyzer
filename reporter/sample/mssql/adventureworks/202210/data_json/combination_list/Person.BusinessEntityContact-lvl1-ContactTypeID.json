@@ -1,0 +1,47 @@
+@startjson
+{
+    "field1": "ContactTypeID",
+    "combination": "ContactTypeID",
+    "null_distribution": {
+        "total_null_rows": 0,
+        "total_not_null_rows": 909
+    },
+    "data_distribution": [
+        {
+            "field_value": "11",
+            "row_count": 266,
+            "ratio_percent": 29.262926292629263
+        },
+        {
+            "field_value": "15",
+            "row_count": 245,
+            "ratio_percent": 26.952695269526952
+        },
+        {
+            "field_value": "14",
+            "row_count": 242,
+            "ratio_percent": 26.622662266226623
+        },
+        {
+            "field_value": "17",
+            "row_count": 54,
+            "ratio_percent": 5.9405940594059405
+        },
+        {
+            "field_value": "18",
+            "row_count": 44,
+            "ratio_percent": 4.84048404840484
+        },
+        {
+            "field_value": "19",
+            "row_count": 40,
+            "ratio_percent": 4.400440044004401
+        },
+        {
+            "field_value": "2",
+            "row_count": 18,
+            "ratio_percent": 1.9801980198019802
+        }
+    ]
+}
+@endjson

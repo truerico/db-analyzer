@@ -1,0 +1,17 @@
+@startjson
+{
+    "field1": "VersionDate",
+    "combination": "VersionDate",
+    "null_distribution": {
+        "total_null_rows": 0,
+        "total_not_null_rows": 1
+    },
+    "data_distribution": [
+        {
+            "field_value": "Jul  6 2017  1:03AM",
+            "row_count": 1,
+            "ratio_percent": 100.0
+        }
+    ]
+}
+@endjson

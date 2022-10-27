@@ -1,0 +1,278 @@
+[
+    {
+        "table": "Sales.CreditCard",
+        "total_records": 19118,
+        "dataset": [
+            {
+                "field": "CreditCardID",
+                "distribution": [
+                    {
+                        "field_value": "10006",
+                        "row_count": 1,
+                        "ratio_percent": 0.005230672664504655
+                    },
+                    {
+                        "field_value": "10005",
+                        "row_count": 1,
+                        "ratio_percent": 0.005230672664504655
+                    },
+                    {
+                        "field_value": "10004",
+                        "row_count": 1,
+                        "ratio_percent": 0.005230672664504655
+                    },
+                    {
+                        "field_value": "10003",
+                        "row_count": 1,
+                        "ratio_percent": 0.005230672664504655
+                    },
+                    {
+                        "field_value": "10002",
+                        "row_count": 1,
+                        "ratio_percent": 0.005230672664504655
+                    },
+                    {
+                        "field_value": "10001",
+                        "row_count": 1,
+                        "ratio_percent": 0.005230672664504655
+                    },
+                    {
+                        "field_value": "10000",
+                        "row_count": 1,
+                        "ratio_percent": 0.005230672664504655
+                    },
+                    {
+                        "field_value": "1000",
+                        "row_count": 1,
+                        "ratio_percent": 0.005230672664504655
+                    },
+                    {
+                        "field_value": "100",
+                        "row_count": 1,
+                        "ratio_percent": 0.005230672664504655
+                    },
+                    {
+                        "field_value": "10",
+                        "row_count": 1,
+                        "ratio_percent": 0.005230672664504655
+                    }
+                ]
+            },
+            {
+                "field": "CardType",
+                "distribution": [
+                    {
+                        "field_value": "SuperiorCard",
+                        "row_count": 4839,
+                        "ratio_percent": 25.31122502353803
+                    },
+                    {
+                        "field_value": "Distinguish",
+                        "row_count": 4832,
+                        "ratio_percent": 25.274610314886495
+                    },
+                    {
+                        "field_value": "ColonialVoice",
+                        "row_count": 4782,
+                        "ratio_percent": 25.01307668166126
+                    },
+                    {
+                        "field_value": "Vista",
+                        "row_count": 4665,
+                        "ratio_percent": 24.401087979914216
+                    }
+                ]
+            },
+            {
+                "field": "CardNumber",
+                "distribution": [
+                    {
+                        "field_value": "11111019008951",
+                        "row_count": 1,
+                        "ratio_percent": 0.005230672664504655
+                    },
+                    {
+                        "field_value": "11111018232698",
+                        "row_count": 1,
+                        "ratio_percent": 0.005230672664504655
+                    },
+                    {
+                        "field_value": "11111017448906",
+                        "row_count": 1,
+                        "ratio_percent": 0.005230672664504655
+                    },
+                    {
+                        "field_value": "11111017091860",
+                        "row_count": 1,
+                        "ratio_percent": 0.005230672664504655
+                    },
+                    {
+                        "field_value": "11111016740421",
+                        "row_count": 1,
+                        "ratio_percent": 0.005230672664504655
+                    },
+                    {
+                        "field_value": "11111016029803",
+                        "row_count": 1,
+                        "ratio_percent": 0.005230672664504655
+                    },
+                    {
+                        "field_value": "11111009772675",
+                        "row_count": 1,
+                        "ratio_percent": 0.005230672664504655
+                    },
+                    {
+                        "field_value": "11111007955171",
+                        "row_count": 1,
+                        "ratio_percent": 0.005230672664504655
+                    },
+                    {
+                        "field_value": "11111005230447",
+                        "row_count": 1,
+                        "ratio_percent": 0.005230672664504655
+                    },
+                    {
+                        "field_value": "11111002034157",
+                        "row_count": 1,
+                        "ratio_percent": 0.005230672664504655
+                    }
+                ]
+            },
+            {
+                "field": "ExpMonth",
+                "distribution": [
+                    {
+                        "field_value": "11",
+                        "row_count": 1623,
+                        "ratio_percent": 8.489381734491056
+                    },
+                    {
+                        "field_value": "8",
+                        "row_count": 1619,
+                        "ratio_percent": 8.468459043833036
+                    },
+                    {
+                        "field_value": "9",
+                        "row_count": 1615,
+                        "ratio_percent": 8.447536353175018
+                    },
+                    {
+                        "field_value": "1",
+                        "row_count": 1613,
+                        "ratio_percent": 8.437075007846008
+                    },
+                    {
+                        "field_value": "7",
+                        "row_count": 1611,
+                        "ratio_percent": 8.426613662517
+                    },
+                    {
+                        "field_value": "12",
+                        "row_count": 1607,
+                        "ratio_percent": 8.40569097185898
+                    },
+                    {
+                        "field_value": "3",
+                        "row_count": 1585,
+                        "ratio_percent": 8.29061617323988
+                    },
+                    {
+                        "field_value": "5",
+                        "row_count": 1584,
+                        "ratio_percent": 8.285385500575375
+                    },
+                    {
+                        "field_value": "10",
+                        "row_count": 1584,
+                        "ratio_percent": 8.285385500575375
+                    },
+                    {
+                        "field_value": "6",
+                        "row_count": 1579,
+                        "ratio_percent": 8.25923213725285
+                    }
+                ]
+            },
+            {
+                "field": "ExpYear",
+                "distribution": [
+                    {
+                        "field_value": "2007",
+                        "row_count": 4832,
+                        "ratio_percent": 25.274610314886495
+                    },
+                    {
+                        "field_value": "2006",
+                        "row_count": 4807,
+                        "ratio_percent": 25.143843498273878
+                    },
+                    {
+                        "field_value": "2005",
+                        "row_count": 4743,
+                        "ratio_percent": 24.80908044774558
+                    },
+                    {
+                        "field_value": "2008",
+                        "row_count": 4736,
+                        "ratio_percent": 24.77246573909405
+                    }
+                ]
+            },
+            {
+                "field": "ModifiedDate",
+                "distribution": [
+                    {
+                        "field_value": "Jul 31 2013 12:00AM",
+                        "row_count": 134,
+                        "ratio_percent": 0.7009101370436238
+                    },
+                    {
+                        "field_value": "Jun 30 2013 12:00AM",
+                        "row_count": 124,
+                        "ratio_percent": 0.6486034103985773
+                    },
+                    {
+                        "field_value": "Jun 30 2012 12:00AM",
+                        "row_count": 99,
+                        "ratio_percent": 0.5178365937859609
+                    },
+                    {
+                        "field_value": "Jul  1 2011 12:00AM",
+                        "row_count": 92,
+                        "ratio_percent": 0.48122188513442826
+                    },
+                    {
+                        "field_value": "Jul 31 2012 12:00AM",
+                        "row_count": 81,
+                        "ratio_percent": 0.42368448582487706
+                    },
+                    {
+                        "field_value": "Aug  1 2011 12:00AM",
+                        "row_count": 74,
+                        "ratio_percent": 0.3870697771733445
+                    },
+                    {
+                        "field_value": "May 30 2012 12:00AM",
+                        "row_count": 59,
+                        "ratio_percent": 0.30860968720577464
+                    },
+                    {
+                        "field_value": "Jul  7 2013 12:00AM",
+                        "row_count": 56,
+                        "ratio_percent": 0.2929176692122607
+                    },
+                    {
+                        "field_value": "Jul 18 2013 12:00AM",
+                        "row_count": 54,
+                        "ratio_percent": 0.28245632388325137
+                    },
+                    {
+                        "field_value": "May 14 2014 12:00AM",
+                        "row_count": 53,
+                        "ratio_percent": 0.2772256512187467
+                    }
+                ]
+            }
+        ]
+    }
+]

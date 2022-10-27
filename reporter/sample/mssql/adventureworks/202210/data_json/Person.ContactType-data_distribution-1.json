@@ -1,0 +1,128 @@
+[
+    {
+        "table": "Person.ContactType",
+        "total_records": 20,
+        "dataset": [
+            {
+                "field": "ContactTypeID",
+                "distribution": [
+                    {
+                        "field_value": "19",
+                        "row_count": 1,
+                        "ratio_percent": 5.0
+                    },
+                    {
+                        "field_value": "18",
+                        "row_count": 1,
+                        "ratio_percent": 5.0
+                    },
+                    {
+                        "field_value": "17",
+                        "row_count": 1,
+                        "ratio_percent": 5.0
+                    },
+                    {
+                        "field_value": "16",
+                        "row_count": 1,
+                        "ratio_percent": 5.0
+                    },
+                    {
+                        "field_value": "15",
+                        "row_count": 1,
+                        "ratio_percent": 5.0
+                    },
+                    {
+                        "field_value": "14",
+                        "row_count": 1,
+                        "ratio_percent": 5.0
+                    },
+                    {
+                        "field_value": "13",
+                        "row_count": 1,
+                        "ratio_percent": 5.0
+                    },
+                    {
+                        "field_value": "12",
+                        "row_count": 1,
+                        "ratio_percent": 5.0
+                    },
+                    {
+                        "field_value": "11",
+                        "row_count": 1,
+                        "ratio_percent": 5.0
+                    },
+                    {
+                        "field_value": "10",
+                        "row_count": 1,
+                        "ratio_percent": 5.0
+                    }
+                ]
+            },
+            {
+                "field": "ModifiedDate",
+                "distribution": [
+                    {
+                        "field_value": "Apr 30 2008 12:00AM",
+                        "row_count": 20,
+                        "ratio_percent": 100.0
+                    }
+                ]
+            },
+            {
+                "field": "Name",
+                "distribution": [
+                    {
+                        "field_value": "Owner",
+                        "row_count": 1,
+                        "ratio_percent": 5.0
+                    },
+                    {
+                        "field_value": "Order Administrator",
+                        "row_count": 1,
+                        "ratio_percent": 5.0
+                    },
+                    {
+                        "field_value": "Marketing Representative",
+                        "row_count": 1,
+                        "ratio_percent": 5.0
+                    },
+                    {
+                        "field_value": "Marketing Manager",
+                        "row_count": 1,
+                        "ratio_percent": 5.0
+                    },
+                    {
+                        "field_value": "Marketing Assistant",
+                        "row_count": 1,
+                        "ratio_percent": 5.0
+                    },
+                    {
+                        "field_value": "International Marketing Manager",
+                        "row_count": 1,
+                        "ratio_percent": 5.0
+                    },
+                    {
+                        "field_value": "Export Administrator",
+                        "row_count": 1,
+                        "ratio_percent": 5.0
+                    },
+                    {
+                        "field_value": "Coordinator Foreign Markets",
+                        "row_count": 1,
+                        "ratio_percent": 5.0
+                    },
+                    {
+                        "field_value": "Assistant Sales Representative",
+                        "row_count": 1,
+                        "ratio_percent": 5.0
+                    },
+                    {
+                        "field_value": "Assistant Sales Agent",
+                        "row_count": 1,
+                        "ratio_percent": 5.0
+                    }
+                ]
+            }
+        ]
+    }
+]

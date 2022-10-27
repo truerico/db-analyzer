@@ -1,0 +1,62 @@
+@startjson
+{
+    "field1": "phone",
+    "combination": "phone",
+    "null_distribution": {
+        "total_null_rows": 0,
+        "total_not_null_rows": 122
+    },
+    "data_distribution": [
+        {
+            "field_value": "6175558555",
+            "row_count": 2,
+            "ratio_percent": 1.639344262295082
+        },
+        {
+            "field_value": "(91) 555 94 44",
+            "row_count": 1,
+            "ratio_percent": 0.819672131147541
+        },
+        {
+            "field_value": "86 21 3555",
+            "row_count": 1,
+            "ratio_percent": 0.819672131147541
+        },
+        {
+            "field_value": "0555-09555",
+            "row_count": 1,
+            "ratio_percent": 0.819672131147541
+        },
+        {
+            "field_value": "0241-039123",
+            "row_count": 1,
+            "ratio_percent": 0.819672131147541
+        },
+        {
+            "field_value": "(171) 555-1555",
+            "row_count": 1,
+            "ratio_percent": 0.819672131147541
+        },
+        {
+            "field_value": "+47 2212 1555",
+            "row_count": 1,
+            "ratio_percent": 0.819672131147541
+        },
+        {
+            "field_value": "(1) 47.55.6555",
+            "row_count": 1,
+            "ratio_percent": 0.819672131147541
+        },
+        {
+            "field_value": "2155551555",
+            "row_count": 1,
+            "ratio_percent": 0.819672131147541
+        },
+        {
+            "field_value": "069-0555984",
+            "row_count": 1,
+            "ratio_percent": 0.819672131147541
+        }
+    ]
+}
+@endjson

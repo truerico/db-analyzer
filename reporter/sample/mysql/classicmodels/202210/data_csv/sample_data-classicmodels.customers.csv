@@ -1,0 +1,11 @@
+customerNumber,customerName,contactLastName,contactFirstName,phone,addressLine1,addressLine2,city,state,postalCode,country,creditLimit,salesRepEmployeeNumber,SYS_EXEC_DURATION
+114,"Australian Collectors, Co.",Ferguson,Peter,03 9520 4555,636 St Kilda Road,Level 3,Melbourne,Victoria,3004,Australia,117300.00,1611,0.20483
+250,Lyon Souveniers,Da Silva,Daniel,+33 1 46 62 7555,27 rue du Colonel Pierre Avia,,Paris,,75508,France,68100.00,1337,0.205188
+201,"UK Collectables, Ltd.",Devon,Elizabeth,(171) 555-2282,"12, Berkeley Gardens Blvd",,Liverpool,,WX1 6LT,UK,92700.00,1501,0.205457
+465,"Anton Designs, Ltd.",Anton,Carmen,+34 913 728555,"c/ Gobelas, 19-1 Urb. La Florida",,Madrid,,28023,Spain,0.00,,0.205805
+131,Land of Toys Inc.,Lee,Kwai,2125557818,897 Long Airport Avenue,,NYC,NY,10022,USA,114900.00,1323,0.206076
+112,Signal Gift Stores,King,Jean,7025551838,8489 Strong St.,,Las Vegas,NV,83030,USA,71800.00,1166,0.20635
+424,Classic Legends Inc.,Hernandez,Maria,2125558493,5905 Pompton St.,Suite 750,NYC,NY,10022,USA,67500.00,1286,0.206649
+205,Toys4GrownUps.com,Young,Julie,6265557265,78934 Hillside Dr.,,Pasadena,CA,90003,USA,90700.00,1166,0.206891
+125,Havel & Zbyszek Co,Piestrzeniewicz,Zbyszek ,(26) 642-7555,ul. Filtrowa 68,,Warszawa,,01-012,Poland,0.00,,0.20712
+169,Porto Imports Co.,de Castro,Isabel ,(1) 356-5555,Estrada da saúde n. 58,,Lisboa,,1756,Portugal,0.00,,0.207362

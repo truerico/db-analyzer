@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentStyleType="text/css" height="227px" preserveAspectRatio="none" style="width:442px;height:227px;background:#FFFFFF;" version="1.1" viewBox="0 0 442 227" width="442px" zoomAndPan="magnify"><defs/><g><rect fill="#DDDDDD" height="26.4883" rx="7.5" ry="7.5" style="stroke:#000000;stroke-width:2.0;" width="110" x="159.3852" y="5"/><text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="100" x="164.3852" y="23.5352">:: use case © ::</text><g id="elem_dbo_databaselog"><ellipse cx="71.285" cy="78.5812" fill="#D3D3D3" rx="65.285" ry="35.0929" style="stroke:#181818;stroke-width:0.5;"/><text fill="#000000" font-family="sans-serif" font-size="14" font-style="italic" lengthAdjust="spacing" textLength="52" x="40.937" y="63.5438">«Table»</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="31" x="51.437" y="80.0321">dbo.</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="84" x="24.937" y="96.5204">databaselog</text></g><g id="elem_dbo_errorlog"><ellipse cx="71.6509" cy="185.4315" fill="#D3D3D3" rx="49.6509" ry="36.4432" style="stroke:#181818;stroke-width:0.5;"/><text fill="#000000" font-family="sans-serif" font-size="14" font-style="italic" lengthAdjust="spacing" textLength="52" x="41.5448" y="172.8729">«Table»</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="31" x="52.0448" y="189.3612">dbo.</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="57" x="39.0448" y="205.8494">errorlog</text></g><g id="elem_dbo_awbuildversion"><ellipse cx="316.8278" cy="78.6832" fill="#D3D3D3" rx="77.3278" ry="34.695" style="stroke:#181818;stroke-width:0.5;"/><text fill="#000000" font-family="sans-serif" font-size="14" font-style="italic" lengthAdjust="spacing" textLength="52" x="286.2806" y="62.777">«Table»</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="31" x="296.7806" y="79.2653">dbo.</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="104" x="260.2806" y="95.7535">awbuildversion</text></g><g id="elem_production_transactionhistoryarchive"><ellipse cx="316.8852" cy="182.2408" fill="#D3D3D3" rx="119.8852" ry="34.2525" style="stroke:#181818;stroke-width:0.5;"/><text fill="#000000" font-family="sans-serif" font-size="14" font-style="italic" lengthAdjust="spacing" textLength="52" x="285.6052" y="165.1165">«Table»</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="80" x="271.6052" y="181.6047">production.</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="173" x="225.1052" y="198.093">transactionhistoryarchive</text></g><!--MD5=[274bd506eb63fa2e62daf3f99f093b3b]
+@startuml
+skinparam titleBorderRoundCorner 15
+skinparam titleBorderThickness 2
+skinparam titleBorderColor black
+skinparam titleBackgroundColor #DDDDDD
+title **:: use case © ::**
+!theme _none_
+skinparam shadowing False
+left to right direction
+skinparam linetype polyline
+skinparam usecase {
+BackgroundColor<< Table >> lightgrey
+BackgroundColor<< View >> YellowGreen
+}
+
+' TABLES ENTITIES 
+
+(dbo.\ndatabaselog) as (dbo_databaselog) << Table >>
+(dbo.\nerrorlog) as (dbo_errorlog) << Table >>
+(dbo.\nawbuildversion) as (dbo_awbuildversion) << Table >>
+(production.\ntransactionhistoryarchive) as (production_transactionhistoryarchive) << Table >>
+
+
+@enduml
+
+@startuml
+skinparam titleBorderRoundCorner 15
+skinparam titleBorderThickness 2
+skinparam titleBorderColor black
+skinparam titleBackgroundColor #DDDDDD
+title **:: use case © ::**
+skinparam shadowing False
+left to right direction
+skinparam linetype polyline
+skinparam usecase {
+BackgroundColor<< Table >> lightgrey
+BackgroundColor<< View >> YellowGreen
+}
+
+
+(dbo.\ndatabaselog) as (dbo_databaselog) << Table >>
+(dbo.\nerrorlog) as (dbo_errorlog) << Table >>
+(dbo.\nawbuildversion) as (dbo_awbuildversion) << Table >>
+(production.\ntransactionhistoryarchive) as (production_transactionhistoryarchive) << Table >>
+
+
+@enduml
+
+PlantUML version 1.2022.5(Sat Apr 30 06:55:52 EDT 2022)
+(GPL source distribution)
+Java Runtime: OpenJDK Runtime Environment
+JVM: OpenJDK 64-Bit Server VM
+Default Encoding: UTF-8
+Language: en
+Country: CA
+--></g></svg>

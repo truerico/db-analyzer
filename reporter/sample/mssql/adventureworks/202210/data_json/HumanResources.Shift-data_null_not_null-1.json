@@ -1,0 +1,33 @@
+[
+    {
+        "table": "HumanResources.Shift",
+        "total_records": 3,
+        "dataset": [
+            {
+                "field": "EndTime",
+                "total_null_rows": 0,
+                "total_not_null_rows": 3
+            },
+            {
+                "field": "ModifiedDate",
+                "total_null_rows": 0,
+                "total_not_null_rows": 3
+            },
+            {
+                "field": "Name",
+                "total_null_rows": 0,
+                "total_not_null_rows": 3
+            },
+            {
+                "field": "ShiftID",
+                "total_null_rows": 0,
+                "total_not_null_rows": 3
+            },
+            {
+                "field": "StartTime",
+                "total_null_rows": 0,
+                "total_not_null_rows": 3
+            }
+        ]
+    }
+]

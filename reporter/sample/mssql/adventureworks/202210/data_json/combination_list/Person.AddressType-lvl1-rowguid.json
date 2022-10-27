@@ -1,0 +1,42 @@
+@startjson
+{
+    "field1": "rowguid",
+    "combination": "rowguid",
+    "null_distribution": {
+        "total_null_rows": 0,
+        "total_not_null_rows": 6
+    },
+    "data_distribution": [
+        {
+            "field_value": "B84F78B1-4EFE-4A0E-8CB7-70E9F112F886",
+            "row_count": 1,
+            "ratio_percent": 16.666666666666668
+        },
+        {
+            "field_value": "B29DA3F8-19A3-47DA-9DAA-15C84F4A83A5",
+            "row_count": 1,
+            "ratio_percent": 16.666666666666668
+        },
+        {
+            "field_value": "A67F238A-5BA2-444B-966C-0467ED9C427F",
+            "row_count": 1,
+            "ratio_percent": 16.666666666666668
+        },
+        {
+            "field_value": "8EEEC28C-07A2-4FB9-AD0A-42D4A0BBC575",
+            "row_count": 1,
+            "ratio_percent": 16.666666666666668
+        },
+        {
+            "field_value": "41BC2FF6-F0FC-475F-8EB9-CEC0805AA0F2",
+            "row_count": 1,
+            "ratio_percent": 16.666666666666668
+        },
+        {
+            "field_value": "24CB3088-4345-47C4-86C5-17B535133D1E",
+            "row_count": 1,
+            "ratio_percent": 16.666666666666668
+        }
+    ]
+}
+@endjson

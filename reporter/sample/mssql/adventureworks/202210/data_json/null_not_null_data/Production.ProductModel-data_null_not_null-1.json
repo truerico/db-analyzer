@@ -1,0 +1,28 @@
+[
+    {
+        "table": "Production.ProductModel",
+        "total_records": 128,
+        "dataset": [
+            {
+                "field": "ModifiedDate",
+                "total_null_rows": 0,
+                "total_not_null_rows": 128
+            },
+            {
+                "field": "Name",
+                "total_null_rows": 0,
+                "total_not_null_rows": 128
+            },
+            {
+                "field": "ProductModelID",
+                "total_null_rows": 0,
+                "total_not_null_rows": 128
+            },
+            {
+                "field": "rowguid",
+                "total_null_rows": 0,
+                "total_not_null_rows": 128
+            }
+        ]
+    }
+]

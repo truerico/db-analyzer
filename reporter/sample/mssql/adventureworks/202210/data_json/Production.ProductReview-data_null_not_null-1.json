@@ -1,0 +1,48 @@
+[
+    {
+        "table": "Production.ProductReview",
+        "total_records": 4,
+        "dataset": [
+            {
+                "field": "Comments",
+                "total_null_rows": 0,
+                "total_not_null_rows": 4
+            },
+            {
+                "field": "EmailAddress",
+                "total_null_rows": 0,
+                "total_not_null_rows": 4
+            },
+            {
+                "field": "ModifiedDate",
+                "total_null_rows": 0,
+                "total_not_null_rows": 4
+            },
+            {
+                "field": "ProductReviewID",
+                "total_null_rows": 0,
+                "total_not_null_rows": 4
+            },
+            {
+                "field": "ProductID",
+                "total_null_rows": 0,
+                "total_not_null_rows": 4
+            },
+            {
+                "field": "ReviewerName",
+                "total_null_rows": 0,
+                "total_not_null_rows": 4
+            },
+            {
+                "field": "ReviewDate",
+                "total_null_rows": 0,
+                "total_not_null_rows": 4
+            },
+            {
+                "field": "Rating",
+                "total_null_rows": 0,
+                "total_not_null_rows": 4
+            }
+        ]
+    }
+]

@@ -1,0 +1,37 @@
+@startjson
+{
+    "field1": "Availability",
+    "combination": "Availability",
+    "null_distribution": {
+        "total_null_rows": 0,
+        "total_not_null_rows": 14
+    },
+    "data_distribution": [
+        {
+            "field_value": "0.00",
+            "row_count": 7,
+            "ratio_percent": 50.0
+        },
+        {
+            "field_value": "120.00",
+            "row_count": 4,
+            "ratio_percent": 28.571428571428573
+        },
+        {
+            "field_value": "96.00",
+            "row_count": 1,
+            "ratio_percent": 7.142857142857143
+        },
+        {
+            "field_value": "80.00",
+            "row_count": 1,
+            "ratio_percent": 7.142857142857143
+        },
+        {
+            "field_value": "108.00",
+            "row_count": 1,
+            "ratio_percent": 7.142857142857143
+        }
+    ]
+}
+@endjson

@@ -1,0 +1,62 @@
+@startjson
+{
+    "field1": "SalesYTD",
+    "combination": "SalesYTD",
+    "null_distribution": {
+        "total_null_rows": 0,
+        "total_not_null_rows": 17
+    },
+    "data_distribution": [
+        {
+            "field_value": "3121616.32",
+            "row_count": 1,
+            "ratio_percent": 5.882352941176471
+        },
+        {
+            "field_value": "2604540.72",
+            "row_count": 1,
+            "ratio_percent": 5.882352941176471
+        },
+        {
+            "field_value": "2458535.62",
+            "row_count": 1,
+            "ratio_percent": 5.882352941176471
+        },
+        {
+            "field_value": "2315185.61",
+            "row_count": 1,
+            "ratio_percent": 5.882352941176471
+        },
+        {
+            "field_value": "1827066.71",
+            "row_count": 1,
+            "ratio_percent": 5.882352941176471
+        },
+        {
+            "field_value": "172524.45",
+            "row_count": 1,
+            "ratio_percent": 5.882352941176471
+        },
+        {
+            "field_value": "1576562.20",
+            "row_count": 1,
+            "ratio_percent": 5.882352941176471
+        },
+        {
+            "field_value": "1573012.94",
+            "row_count": 1,
+            "ratio_percent": 5.882352941176471
+        },
+        {
+            "field_value": "1453719.47",
+            "row_count": 1,
+            "ratio_percent": 5.882352941176471
+        },
+        {
+            "field_value": "1421810.92",
+            "row_count": 1,
+            "ratio_percent": 5.882352941176471
+        }
+    ]
+}
+@endjson

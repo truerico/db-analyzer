@@ -1,0 +1,62 @@
+@startjson
+{
+    "field1": "PersonID",
+    "combination": "PersonID",
+    "null_distribution": {
+        "total_null_rows": 701,
+        "total_not_null_rows": 19119
+    },
+    "data_distribution": [
+        {
+            "field_value": "**NULL**",
+            "row_count": 701,
+            "ratio_percent": 3.5368314833501513
+        },
+        {
+            "field_value": "10009",
+            "row_count": 1,
+            "ratio_percent": 0.005045408678102927
+        },
+        {
+            "field_value": "10008",
+            "row_count": 1,
+            "ratio_percent": 0.005045408678102927
+        },
+        {
+            "field_value": "10007",
+            "row_count": 1,
+            "ratio_percent": 0.005045408678102927
+        },
+        {
+            "field_value": "10006",
+            "row_count": 1,
+            "ratio_percent": 0.005045408678102927
+        },
+        {
+            "field_value": "10005",
+            "row_count": 1,
+            "ratio_percent": 0.005045408678102927
+        },
+        {
+            "field_value": "10004",
+            "row_count": 1,
+            "ratio_percent": 0.005045408678102927
+        },
+        {
+            "field_value": "10003",
+            "row_count": 1,
+            "ratio_percent": 0.005045408678102927
+        },
+        {
+            "field_value": "10002",
+            "row_count": 1,
+            "ratio_percent": 0.005045408678102927
+        },
+        {
+            "field_value": "10001",
+            "row_count": 1,
+            "ratio_percent": 0.005045408678102927
+        }
+    ]
+}
+@endjson

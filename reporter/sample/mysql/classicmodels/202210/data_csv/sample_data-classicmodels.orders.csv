@@ -1,0 +1,11 @@
+orderNumber,orderDate,requiredDate,shippedDate,status,comments,customerNumber,SYS_EXEC_DURATION
+10262,2004-06-24,2004-07-01,,Cancelled,This customer found a better offer from one of our competitors. Will call back to renegotiate.,141,0.209479
+10402,2005-04-07,2005-04-14,2005-04-12,Shipped,,406,0.209772
+10140,2003-07-24,2003-08-02,2003-07-30,Shipped,,161,0.209974
+10161,2003-10-17,2003-10-25,2003-10-20,Shipped,,227,0.210168
+10361,2004-12-17,2004-12-24,2004-12-20,Shipped,,282,0.210357
+10210,2004-01-12,2004-01-22,2004-01-20,Shipped,,177,0.210562
+10387,2005-03-02,2005-03-09,2005-03-06,Shipped,We need to keep in close contact with their Marketing VP. He is the decision maker for all their purchases.,148,0.210774
+10135,2003-07-02,2003-07-12,2003-07-03,Shipped,,124,0.210964
+10112,2003-03-24,2003-04-03,2003-03-29,Shipped,"Customer requested that ad materials (such as posters, pamphlets) be included in the shippment",144,0.21116
+10280,2004-08-17,2004-08-27,2004-08-19,Shipped,,249,0.211359

@@ -1,0 +1,36 @@
+```json
+@startjson
+[
+    {
+        "CurrencyCode": "AED",
+        "Name": "Emirati Dirham",
+        "ModifiedDate": "2008-04-30 00:00:00",
+        "SYS_EXEC_DURATION": "0.195998"
+    },
+    {
+        "CurrencyCode": "AFA",
+        "Name": "Afghani",
+        "ModifiedDate": "2008-04-30 00:00:00",
+        "SYS_EXEC_DURATION": "0.196226"
+    },
+    {
+        "CurrencyCode": "ALL",
+        "Name": "Lek",
+        "ModifiedDate": "2008-04-30 00:00:00",
+        "SYS_EXEC_DURATION": "0.196284"
+    },
+    {
+        "CurrencyCode": "AMD",
+        "Name": "Armenian Dram",
+        "ModifiedDate": "2008-04-30 00:00:00",
+        "SYS_EXEC_DURATION": "0.19633"
+    },
+    {
+        "CurrencyCode": "ANG",
+        "Name": "Netherlands Antillian Guilder",
+        "ModifiedDate": "2008-04-30 00:00:00",
+        "SYS_EXEC_DURATION": "0.196394"
+    }
+]
+@endjson
+```

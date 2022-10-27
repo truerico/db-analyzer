@@ -1,0 +1,62 @@
+@startjson
+{
+    "field1": "ReferenceOrderLineID",
+    "combination": "ReferenceOrderLineID",
+    "null_distribution": {
+        "total_null_rows": 0,
+        "total_not_null_rows": 113443
+    },
+    "data_distribution": [
+        {
+            "field_value": "0",
+            "row_count": 31002,
+            "ratio_percent": 27.32826177022822
+        },
+        {
+            "field_value": "1",
+            "row_count": 25258,
+            "ratio_percent": 22.26492599807833
+        },
+        {
+            "field_value": "2",
+            "row_count": 19693,
+            "ratio_percent": 17.35937871882796
+        },
+        {
+            "field_value": "3",
+            "row_count": 11058,
+            "ratio_percent": 9.747626561356805
+        },
+        {
+            "field_value": "4",
+            "row_count": 5061,
+            "ratio_percent": 4.461271299242791
+        },
+        {
+            "field_value": "5",
+            "row_count": 1938,
+            "ratio_percent": 1.7083469231243884
+        },
+        {
+            "field_value": "6",
+            "row_count": 1118,
+            "ratio_percent": 0.985516955651737
+        },
+        {
+            "field_value": "7",
+            "row_count": 910,
+            "ratio_percent": 0.8021649639025766
+        },
+        {
+            "field_value": "8",
+            "row_count": 852,
+            "ratio_percent": 0.7510379662032916
+        },
+        {
+            "field_value": "9",
+            "row_count": 813,
+            "ratio_percent": 0.716659467750324
+        }
+    ]
+}
+@endjson

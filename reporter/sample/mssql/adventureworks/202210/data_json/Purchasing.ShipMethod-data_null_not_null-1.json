@@ -1,0 +1,38 @@
+[
+    {
+        "table": "Purchasing.ShipMethod",
+        "total_records": 5,
+        "dataset": [
+            {
+                "field": "ModifiedDate",
+                "total_null_rows": 0,
+                "total_not_null_rows": 5
+            },
+            {
+                "field": "Name",
+                "total_null_rows": 0,
+                "total_not_null_rows": 5
+            },
+            {
+                "field": "ShipMethodID",
+                "total_null_rows": 0,
+                "total_not_null_rows": 5
+            },
+            {
+                "field": "ShipBase",
+                "total_null_rows": 0,
+                "total_not_null_rows": 5
+            },
+            {
+                "field": "ShipRate",
+                "total_null_rows": 0,
+                "total_not_null_rows": 5
+            },
+            {
+                "field": "rowguid",
+                "total_null_rows": 0,
+                "total_not_null_rows": 5
+            }
+        ]
+    }
+]

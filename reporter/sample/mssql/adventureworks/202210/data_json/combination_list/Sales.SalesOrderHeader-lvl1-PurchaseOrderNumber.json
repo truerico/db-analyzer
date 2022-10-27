@@ -1,0 +1,62 @@
+@startjson
+{
+    "field1": "PurchaseOrderNumber",
+    "combination": "PurchaseOrderNumber",
+    "null_distribution": {
+        "total_null_rows": 27659,
+        "total_not_null_rows": 3806
+    },
+    "data_distribution": [
+        {
+            "field_value": "**NULL**",
+            "row_count": 27659,
+            "ratio_percent": 87.90402034006038
+        },
+        {
+            "field_value": "PO10092115747",
+            "row_count": 1,
+            "ratio_percent": 0.0031781344350866043
+        },
+        {
+            "field_value": "PO10063194196",
+            "row_count": 1,
+            "ratio_percent": 0.0031781344350866043
+        },
+        {
+            "field_value": "PO10063170594",
+            "row_count": 1,
+            "ratio_percent": 0.0031781344350866043
+        },
+        {
+            "field_value": "PO10063115282",
+            "row_count": 1,
+            "ratio_percent": 0.0031781344350866043
+        },
+        {
+            "field_value": "PO10034199265",
+            "row_count": 1,
+            "ratio_percent": 0.0031781344350866043
+        },
+        {
+            "field_value": "PO10034147207",
+            "row_count": 1,
+            "ratio_percent": 0.0031781344350866043
+        },
+        {
+            "field_value": "PO10034135364",
+            "row_count": 1,
+            "ratio_percent": 0.0031781344350866043
+        },
+        {
+            "field_value": "PO10034131333",
+            "row_count": 1,
+            "ratio_percent": 0.0031781344350866043
+        },
+        {
+            "field_value": "PO10005156366",
+            "row_count": 1,
+            "ratio_percent": 0.0031781344350866043
+        }
+    ]
+}
+@endjson

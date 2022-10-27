@@ -1,0 +1,48 @@
+[
+    {
+        "table": "Person.StateProvince",
+        "total_records": 181,
+        "dataset": [
+            {
+                "field": "CountryRegionCode",
+                "total_null_rows": 0,
+                "total_not_null_rows": 181
+            },
+            {
+                "field": "IsOnlyStateProvinceFlag",
+                "total_null_rows": 0,
+                "total_not_null_rows": 181
+            },
+            {
+                "field": "ModifiedDate",
+                "total_null_rows": 0,
+                "total_not_null_rows": 181
+            },
+            {
+                "field": "Name",
+                "total_null_rows": 0,
+                "total_not_null_rows": 181
+            },
+            {
+                "field": "StateProvinceID",
+                "total_null_rows": 0,
+                "total_not_null_rows": 181
+            },
+            {
+                "field": "StateProvinceCode",
+                "total_null_rows": 0,
+                "total_not_null_rows": 181
+            },
+            {
+                "field": "TerritoryID",
+                "total_null_rows": 0,
+                "total_not_null_rows": 181
+            },
+            {
+                "field": "rowguid",
+                "total_null_rows": 0,
+                "total_not_null_rows": 181
+            }
+        ]
+    }
+]

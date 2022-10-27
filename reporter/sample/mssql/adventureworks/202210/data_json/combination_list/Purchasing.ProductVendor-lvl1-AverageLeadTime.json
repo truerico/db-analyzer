@@ -1,0 +1,62 @@
+@startjson
+{
+    "field1": "AverageLeadTime",
+    "combination": "AverageLeadTime",
+    "null_distribution": {
+        "total_null_rows": 0,
+        "total_not_null_rows": 460
+    },
+    "data_distribution": [
+        {
+            "field_value": "17",
+            "row_count": 109,
+            "ratio_percent": 23.695652173913043
+        },
+        {
+            "field_value": "19",
+            "row_count": 101,
+            "ratio_percent": 21.956521739130434
+        },
+        {
+            "field_value": "16",
+            "row_count": 88,
+            "ratio_percent": 19.130434782608695
+        },
+        {
+            "field_value": "15",
+            "row_count": 85,
+            "ratio_percent": 18.47826086956522
+        },
+        {
+            "field_value": "18",
+            "row_count": 26,
+            "ratio_percent": 5.6521739130434785
+        },
+        {
+            "field_value": "45",
+            "row_count": 19,
+            "ratio_percent": 4.130434782608695
+        },
+        {
+            "field_value": "25",
+            "row_count": 10,
+            "ratio_percent": 2.1739130434782608
+        },
+        {
+            "field_value": "30",
+            "row_count": 8,
+            "ratio_percent": 1.7391304347826086
+        },
+        {
+            "field_value": "60",
+            "row_count": 7,
+            "ratio_percent": 1.5217391304347827
+        },
+        {
+            "field_value": "35",
+            "row_count": 3,
+            "ratio_percent": 0.6521739130434783
+        }
+    ]
+}
+@endjson

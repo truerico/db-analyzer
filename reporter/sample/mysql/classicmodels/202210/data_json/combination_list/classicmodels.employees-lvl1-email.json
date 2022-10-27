@@ -1,0 +1,62 @@
+@startjson
+{
+    "field1": "email",
+    "combination": "email",
+    "null_distribution": {
+        "total_null_rows": 0,
+        "total_not_null_rows": 23
+    },
+    "data_distribution": [
+        {
+            "field_value": "jfirrelli@classicmodelcars.com",
+            "row_count": 2,
+            "ratio_percent": 8.695652173913043
+        },
+        {
+            "field_value": "gbondur@classicmodelcars.com",
+            "row_count": 1,
+            "ratio_percent": 4.3478260869565215
+        },
+        {
+            "field_value": "ghernande@classicmodelcars.com",
+            "row_count": 1,
+            "ratio_percent": 4.3478260869565215
+        },
+        {
+            "field_value": "ykato@classicmodelcars.com",
+            "row_count": 1,
+            "ratio_percent": 4.3478260869565215
+        },
+        {
+            "field_value": "mpatterso@classicmodelcars.com",
+            "row_count": 1,
+            "ratio_percent": 4.3478260869565215
+        },
+        {
+            "field_value": "ftseng@classicmodelcars.com",
+            "row_count": 1,
+            "ratio_percent": 4.3478260869565215
+        },
+        {
+            "field_value": "pmarsh@classicmodelcars.com",
+            "row_count": 1,
+            "ratio_percent": 4.3478260869565215
+        },
+        {
+            "field_value": "ljennings@classicmodelcars.com",
+            "row_count": 1,
+            "ratio_percent": 4.3478260869565215
+        },
+        {
+            "field_value": "lbott@classicmodelcars.com",
+            "row_count": 1,
+            "ratio_percent": 4.3478260869565215
+        },
+        {
+            "field_value": "wpatterson@classicmodelcars.com",
+            "row_count": 1,
+            "ratio_percent": 4.3478260869565215
+        }
+    ]
+}
+@endjson

@@ -1,0 +1,28 @@
+[
+    {
+        "table": "classicmodels.productlines",
+        "total_records": 7,
+        "dataset": [
+            {
+                "field": "htmlDescription",
+                "total_null_rows": 7,
+                "total_not_null_rows": 0
+            },
+            {
+                "field": "image",
+                "total_null_rows": 7,
+                "total_not_null_rows": 0
+            },
+            {
+                "field": "productLine",
+                "total_null_rows": 0,
+                "total_not_null_rows": 7
+            },
+            {
+                "field": "textDescription",
+                "total_null_rows": 0,
+                "total_not_null_rows": 7
+            }
+        ]
+    }
+]

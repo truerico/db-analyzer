@@ -1,0 +1,42 @@
+@startjson
+{
+    "field1": "Name",
+    "combination": "Name",
+    "null_distribution": {
+        "total_null_rows": 0,
+        "total_not_null_rows": 6
+    },
+    "data_distribution": [
+        {
+            "field_value": "Shipping",
+            "row_count": 1,
+            "ratio_percent": 16.666666666666668
+        },
+        {
+            "field_value": "Primary",
+            "row_count": 1,
+            "ratio_percent": 16.666666666666668
+        },
+        {
+            "field_value": "Main Office",
+            "row_count": 1,
+            "ratio_percent": 16.666666666666668
+        },
+        {
+            "field_value": "Home",
+            "row_count": 1,
+            "ratio_percent": 16.666666666666668
+        },
+        {
+            "field_value": "Billing",
+            "row_count": 1,
+            "ratio_percent": 16.666666666666668
+        },
+        {
+            "field_value": "Archive",
+            "row_count": 1,
+            "ratio_percent": 16.666666666666668
+        }
+    ]
+}
+@endjson

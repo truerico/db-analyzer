@@ -1,0 +1,62 @@
+@startjson
+{
+    "field1": "ReferenceOrderID",
+    "combination": "ReferenceOrderID",
+    "null_distribution": {
+        "total_null_rows": 0,
+        "total_not_null_rows": 113443
+    },
+    "data_distribution": [
+        {
+            "field_value": "53465",
+            "row_count": 72,
+            "ratio_percent": 0.06346799714394012
+        },
+        {
+            "field_value": "57046",
+            "row_count": 68,
+            "ratio_percent": 0.05994199730261012
+        },
+        {
+            "field_value": "55297",
+            "row_count": 67,
+            "ratio_percent": 0.05906049734227762
+        },
+        {
+            "field_value": "58918",
+            "row_count": 66,
+            "ratio_percent": 0.05817899738194512
+        },
+        {
+            "field_value": "57061",
+            "row_count": 66,
+            "ratio_percent": 0.05817899738194512
+        },
+        {
+            "field_value": "53560",
+            "row_count": 63,
+            "ratio_percent": 0.05553449750094761
+        },
+        {
+            "field_value": "53536",
+            "row_count": 62,
+            "ratio_percent": 0.05465299754061511
+        },
+        {
+            "field_value": "53518",
+            "row_count": 62,
+            "ratio_percent": 0.05465299754061511
+        },
+        {
+            "field_value": "55249",
+            "row_count": 62,
+            "ratio_percent": 0.05465299754061511
+        },
+        {
+            "field_value": "71794",
+            "row_count": 62,
+            "ratio_percent": 0.05465299754061511
+        }
+    ]
+}
+@endjson

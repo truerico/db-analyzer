@@ -1,0 +1,27 @@
+@startjson
+{
+    "field1": "Category",
+    "combination": "Category",
+    "null_distribution": {
+        "total_null_rows": 0,
+        "total_not_null_rows": 16
+    },
+    "data_distribution": [
+        {
+            "field_value": "Reseller",
+            "row_count": 13,
+            "ratio_percent": 81.25
+        },
+        {
+            "field_value": "Customer",
+            "row_count": 2,
+            "ratio_percent": 12.5
+        },
+        {
+            "field_value": "No Discount",
+            "row_count": 1,
+            "ratio_percent": 6.25
+        }
+    ]
+}
+@endjson

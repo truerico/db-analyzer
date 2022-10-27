@@ -1,0 +1,62 @@
+@startjson
+{
+    "field1": "JobTitle",
+    "combination": "JobTitle",
+    "null_distribution": {
+        "total_null_rows": 0,
+        "total_not_null_rows": 290
+    },
+    "data_distribution": [
+        {
+            "field_value": "Production Technician - WC40",
+            "row_count": 26,
+            "ratio_percent": 8.96551724137931
+        },
+        {
+            "field_value": "Production Technician - WC50",
+            "row_count": 26,
+            "ratio_percent": 8.96551724137931
+        },
+        {
+            "field_value": "Production Technician - WC60",
+            "row_count": 26,
+            "ratio_percent": 8.96551724137931
+        },
+        {
+            "field_value": "Production Technician - WC30",
+            "row_count": 25,
+            "ratio_percent": 8.620689655172415
+        },
+        {
+            "field_value": "Production Technician - WC20",
+            "row_count": 22,
+            "ratio_percent": 7.586206896551724
+        },
+        {
+            "field_value": "Production Technician - WC10",
+            "row_count": 17,
+            "ratio_percent": 5.862068965517241
+        },
+        {
+            "field_value": "Production Technician - WC45",
+            "row_count": 15,
+            "ratio_percent": 5.172413793103448
+        },
+        {
+            "field_value": "Sales Representative",
+            "row_count": 14,
+            "ratio_percent": 4.827586206896552
+        },
+        {
+            "field_value": "Buyer",
+            "row_count": 9,
+            "ratio_percent": 3.103448275862069
+        },
+        {
+            "field_value": "Marketing Specialist",
+            "row_count": 5,
+            "ratio_percent": 1.7241379310344827
+        }
+    ]
+}
+@endjson

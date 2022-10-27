@@ -1,0 +1,36 @@
+```json
+@startjson
+[
+    {
+        "CultureID": "      ",
+        "Name": "Invariant Language (Invariant Country)",
+        "ModifiedDate": "2008-04-30 00:00:00",
+        "SYS_EXEC_DURATION": "0.185998"
+    },
+    {
+        "CultureID": "ar    ",
+        "Name": "Arabic",
+        "ModifiedDate": "2008-04-30 00:00:00",
+        "SYS_EXEC_DURATION": "0.186115"
+    },
+    {
+        "CultureID": "en    ",
+        "Name": "English",
+        "ModifiedDate": "2008-04-30 00:00:00",
+        "SYS_EXEC_DURATION": "0.186159"
+    },
+    {
+        "CultureID": "es    ",
+        "Name": "Spanish",
+        "ModifiedDate": "2008-04-30 00:00:00",
+        "SYS_EXEC_DURATION": "0.186198"
+    },
+    {
+        "CultureID": "fr    ",
+        "Name": "French",
+        "ModifiedDate": "2008-04-30 00:00:00",
+        "SYS_EXEC_DURATION": "0.186245"
+    }
+]
+@endjson
+```

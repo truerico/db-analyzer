@@ -1,0 +1,52 @@
+@startjson
+{
+    "field1": "productScale",
+    "combination": "productScale",
+    "null_distribution": {
+        "total_null_rows": 0,
+        "total_not_null_rows": 110
+    },
+    "data_distribution": [
+        {
+            "field_value": "1:18",
+            "row_count": 42,
+            "ratio_percent": 38.18181818181818
+        },
+        {
+            "field_value": "1:24",
+            "row_count": 27,
+            "ratio_percent": 24.545454545454547
+        },
+        {
+            "field_value": "1:700",
+            "row_count": 10,
+            "ratio_percent": 9.090909090909092
+        },
+        {
+            "field_value": "1:12",
+            "row_count": 9,
+            "ratio_percent": 8.181818181818182
+        },
+        {
+            "field_value": "1:32",
+            "row_count": 8,
+            "ratio_percent": 7.2727272727272725
+        },
+        {
+            "field_value": "1:10",
+            "row_count": 6,
+            "ratio_percent": 5.454545454545454
+        },
+        {
+            "field_value": "1:50",
+            "row_count": 4,
+            "ratio_percent": 3.6363636363636362
+        },
+        {
+            "field_value": "1:72",
+            "row_count": 4,
+            "ratio_percent": 3.6363636363636362
+        }
+    ]
+}
+@endjson

@@ -1,0 +1,62 @@
+@startjson
+{
+    "field1": "LastReceiptDate",
+    "combination": "LastReceiptDate",
+    "null_distribution": {
+        "total_null_rows": 0,
+        "total_not_null_rows": 460
+    },
+    "data_distribution": [
+        {
+            "field_value": "Aug 28 2011 12:00AM",
+            "row_count": 44,
+            "ratio_percent": 9.565217391304348
+        },
+        {
+            "field_value": "Aug 26 2011 12:00AM",
+            "row_count": 34,
+            "ratio_percent": 7.391304347826087
+        },
+        {
+            "field_value": "Aug 27 2011 12:00AM",
+            "row_count": 32,
+            "ratio_percent": 6.956521739130435
+        },
+        {
+            "field_value": "Aug 29 2011 12:00AM",
+            "row_count": 30,
+            "ratio_percent": 6.521739130434782
+        },
+        {
+            "field_value": "Aug 25 2011 12:00AM",
+            "row_count": 28,
+            "ratio_percent": 6.086956521739131
+        },
+        {
+            "field_value": "Aug 19 2011 12:00AM",
+            "row_count": 23,
+            "ratio_percent": 5.0
+        },
+        {
+            "field_value": "Aug 17 2011 12:00AM",
+            "row_count": 19,
+            "ratio_percent": 4.130434782608695
+        },
+        {
+            "field_value": "Aug 22 2011 12:00AM",
+            "row_count": 19,
+            "ratio_percent": 4.130434782608695
+        },
+        {
+            "field_value": "Aug  4 2011 12:00AM",
+            "row_count": 18,
+            "ratio_percent": 3.9130434782608696
+        },
+        {
+            "field_value": "Aug 20 2011 12:00AM",
+            "row_count": 17,
+            "ratio_percent": 3.6956521739130435
+        }
+    ]
+}
+@endjson

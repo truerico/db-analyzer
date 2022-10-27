@@ -1,0 +1,28 @@
+[
+    {
+        "table": "Production.ProductCategory",
+        "total_records": 4,
+        "dataset": [
+            {
+                "field": "ModifiedDate",
+                "total_null_rows": 0,
+                "total_not_null_rows": 4
+            },
+            {
+                "field": "Name",
+                "total_null_rows": 0,
+                "total_not_null_rows": 4
+            },
+            {
+                "field": "ProductCategoryID",
+                "total_null_rows": 0,
+                "total_not_null_rows": 4
+            },
+            {
+                "field": "rowguid",
+                "total_null_rows": 0,
+                "total_not_null_rows": 4
+            }
+        ]
+    }
+]

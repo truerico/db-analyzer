@@ -1,0 +1,62 @@
+@startjson
+{
+    "field1": "ModifiedDate",
+    "combination": "ModifiedDate",
+    "null_distribution": {
+        "total_null_rows": 0,
+        "total_not_null_rows": 8845
+    },
+    "data_distribution": [
+        {
+            "field_value": "Apr 10 2014 12:00AM",
+            "row_count": 58,
+            "ratio_percent": 0.6557377049180327
+        },
+        {
+            "field_value": "Jun 18 2014 12:00AM",
+            "row_count": 58,
+            "ratio_percent": 0.6557377049180327
+        },
+        {
+            "field_value": "Aug 12 2015 12:25PM",
+            "row_count": 57,
+            "ratio_percent": 0.644431882419446
+        },
+        {
+            "field_value": "Oct 17 2013 12:00AM",
+            "row_count": 57,
+            "ratio_percent": 0.644431882419446
+        },
+        {
+            "field_value": "Apr 29 2014 12:00AM",
+            "row_count": 56,
+            "ratio_percent": 0.6331260599208592
+        },
+        {
+            "field_value": "Nov 14 2013 12:00AM",
+            "row_count": 52,
+            "ratio_percent": 0.5879027699265121
+        },
+        {
+            "field_value": "Aug 28 2013 12:00AM",
+            "row_count": 51,
+            "ratio_percent": 0.5765969474279253
+        },
+        {
+            "field_value": "Apr 15 2014 12:00AM",
+            "row_count": 50,
+            "ratio_percent": 0.5652911249293386
+        },
+        {
+            "field_value": "Dec  6 2013 12:00AM",
+            "row_count": 50,
+            "ratio_percent": 0.5652911249293386
+        },
+        {
+            "field_value": "Feb 13 2014 12:00AM",
+            "row_count": 49,
+            "ratio_percent": 0.5539853024307518
+        }
+    ]
+}
+@endjson

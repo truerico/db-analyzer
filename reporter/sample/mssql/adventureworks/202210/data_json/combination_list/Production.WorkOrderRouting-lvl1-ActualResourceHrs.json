@@ -1,0 +1,42 @@
+@startjson
+{
+    "field1": "ActualResourceHrs",
+    "combination": "ActualResourceHrs",
+    "null_distribution": {
+        "total_null_rows": 0,
+        "total_not_null_rows": 67131
+    },
+    "data_distribution": [
+        {
+            "field_value": "3.0000",
+            "row_count": 30107,
+            "ratio_percent": 44.848132755358925
+        },
+        {
+            "field_value": "4.0000",
+            "row_count": 18554,
+            "ratio_percent": 27.638497862388466
+        },
+        {
+            "field_value": "4.1000",
+            "row_count": 9567,
+            "ratio_percent": 14.251240112615632
+        },
+        {
+            "field_value": "3.5000",
+            "row_count": 5923,
+            "ratio_percent": 8.823047474341214
+        },
+        {
+            "field_value": "2.0000",
+            "row_count": 1490,
+            "ratio_percent": 2.2195408976478825
+        },
+        {
+            "field_value": "1.0000",
+            "row_count": 1490,
+            "ratio_percent": 2.2195408976478825
+        }
+    ]
+}
+@endjson

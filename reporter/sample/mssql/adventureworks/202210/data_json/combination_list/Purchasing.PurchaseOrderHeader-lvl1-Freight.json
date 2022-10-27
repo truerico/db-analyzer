@@ -1,0 +1,62 @@
+@startjson
+{
+    "field1": "Freight",
+    "combination": "Freight",
+    "null_distribution": {
+        "total_null_rows": 0,
+        "total_not_null_rows": 4012
+    },
+    "data_distribution": [
+        {
+            "field_value": "1096.96",
+            "row_count": 163,
+            "ratio_percent": 4.062811565304088
+        },
+        {
+            "field_value": "866.11",
+            "row_count": 102,
+            "ratio_percent": 2.542372881355932
+        },
+        {
+            "field_value": "3.77",
+            "row_count": 101,
+            "ratio_percent": 2.5174476570289133
+        },
+        {
+            "field_value": "708.59",
+            "row_count": 67,
+            "ratio_percent": 1.6699900299102692
+        },
+        {
+            "field_value": "562.92",
+            "row_count": 66,
+            "ratio_percent": 1.6450648055832502
+        },
+        {
+            "field_value": "1.50",
+            "row_count": 51,
+            "ratio_percent": 1.271186440677966
+        },
+        {
+            "field_value": "11.37",
+            "row_count": 51,
+            "ratio_percent": 1.271186440677966
+        },
+        {
+            "field_value": "13.80",
+            "row_count": 51,
+            "ratio_percent": 1.271186440677966
+        },
+        {
+            "field_value": "142.79",
+            "row_count": 51,
+            "ratio_percent": 1.271186440677966
+        },
+        {
+            "field_value": "178.30",
+            "row_count": 51,
+            "ratio_percent": 1.271186440677966
+        }
+    ]
+}
+@endjson

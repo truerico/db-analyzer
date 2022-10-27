@@ -1,0 +1,4 @@
+"SUBSYSTEM","DATABASE_NAME","JOB_ID","JOB_NAME","STEP_ID","STEP_NAME","LAST_RUN_DATE","LAST_RUN_TIME","LAST_RUN_DURATION","LAST_RUN_STATUS"
+"TSQL","master","CA83E1CD-599B-4868-AD74-12F57C8EB5F4","syspolicy_purge_history","1","Verify that automation is enabled.","2022-10-27","02:00:00","00:00:00","Succeeded"
+"TSQL","master","CA83E1CD-599B-4868-AD74-12F57C8EB5F4","syspolicy_purge_history","2","Purge history.","2022-10-27","02:00:00","00:00:00","Succeeded"
+"PowerShell","master","CA83E1CD-599B-4868-AD74-12F57C8EB5F4","syspolicy_purge_history","3","Erase Phantom System Health Records.","2022-10-27","02:00:00","00:00:05","Succeeded"

@@ -1,0 +1,62 @@
+@startjson
+{
+    "field1": "rowguid",
+    "combination": "rowguid",
+    "null_distribution": {
+        "total_null_rows": 0,
+        "total_not_null_rows": 504
+    },
+    "data_distribution": [
+        {
+            "field_value": "06BE8347-45C1-4C40-AFCB-6AB34AD135FB",
+            "row_count": 1,
+            "ratio_percent": 0.1984126984126984
+        },
+        {
+            "field_value": "06534A20-4C00-4824-8BBA-B4E3A5724D93",
+            "row_count": 1,
+            "ratio_percent": 0.1984126984126984
+        },
+        {
+            "field_value": "060192C9-BCD9-4260-B729-D6BCFADFB08E",
+            "row_count": 1,
+            "ratio_percent": 0.1984126984126984
+        },
+        {
+            "field_value": "05CE123C-A402-478E-AE9B-75D7727AEAAD",
+            "row_count": 1,
+            "ratio_percent": 0.1984126984126984
+        },
+        {
+            "field_value": "05B2E20F-2399-4CB3-9B49-B28D6649C104",
+            "row_count": 1,
+            "ratio_percent": 0.1984126984126984
+        },
+        {
+            "field_value": "052E4F8B-0A2A-46B2-9F42-10FEBCFAE416",
+            "row_count": 1,
+            "ratio_percent": 0.1984126984126984
+        },
+        {
+            "field_value": "040A4B7D-4060-4507-AA92-7508B434797E",
+            "row_count": 1,
+            "ratio_percent": 0.1984126984126984
+        },
+        {
+            "field_value": "02C48826-21AD-41F3-85A6-BC9A85A4DCE4",
+            "row_count": 1,
+            "ratio_percent": 0.1984126984126984
+        },
+        {
+            "field_value": "02935111-A546-4C6D-941F-BE12D42C158E",
+            "row_count": 1,
+            "ratio_percent": 0.1984126984126984
+        },
+        {
+            "field_value": "01C901E3-4323-48ED-AB9E-9BFDA28BDEF6",
+            "row_count": 1,
+            "ratio_percent": 0.1984126984126984
+        }
+    ]
+}
+@endjson

@@ -1,0 +1,43 @@
+[
+    {
+        "table": "classicmodels.orders",
+        "total_records": 326,
+        "dataset": [
+            {
+                "field": "comments",
+                "total_null_rows": 246,
+                "total_not_null_rows": 80
+            },
+            {
+                "field": "customerNumber",
+                "total_null_rows": 0,
+                "total_not_null_rows": 326
+            },
+            {
+                "field": "orderNumber",
+                "total_null_rows": 0,
+                "total_not_null_rows": 326
+            },
+            {
+                "field": "orderDate",
+                "total_null_rows": 0,
+                "total_not_null_rows": 326
+            },
+            {
+                "field": "requiredDate",
+                "total_null_rows": 0,
+                "total_not_null_rows": 326
+            },
+            {
+                "field": "shippedDate",
+                "total_null_rows": 14,
+                "total_not_null_rows": 312
+            },
+            {
+                "field": "status",
+                "total_null_rows": 0,
+                "total_not_null_rows": 326
+            }
+        ]
+    }
+]

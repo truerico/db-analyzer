@@ -1,0 +1,33 @@
+[
+    {
+        "table": "Production.ProductCostHistory",
+        "total_records": 395,
+        "dataset": [
+            {
+                "field": "EndDate",
+                "total_null_rows": 195,
+                "total_not_null_rows": 200
+            },
+            {
+                "field": "ModifiedDate",
+                "total_null_rows": 0,
+                "total_not_null_rows": 395
+            },
+            {
+                "field": "ProductID",
+                "total_null_rows": 0,
+                "total_not_null_rows": 395
+            },
+            {
+                "field": "StartDate",
+                "total_null_rows": 0,
+                "total_not_null_rows": 395
+            },
+            {
+                "field": "StandardCost",
+                "total_null_rows": 0,
+                "total_not_null_rows": 395
+            }
+        ]
+    }
+]

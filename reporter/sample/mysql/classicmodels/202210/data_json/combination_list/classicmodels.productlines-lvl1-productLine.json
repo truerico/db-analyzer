@@ -1,0 +1,47 @@
+@startjson
+{
+    "field1": "productLine",
+    "combination": "productLine",
+    "null_distribution": {
+        "total_null_rows": 0,
+        "total_not_null_rows": 7
+    },
+    "data_distribution": [
+        {
+            "field_value": "Planes",
+            "row_count": 1,
+            "ratio_percent": 14.285714285714286
+        },
+        {
+            "field_value": "Motorcycles",
+            "row_count": 1,
+            "ratio_percent": 14.285714285714286
+        },
+        {
+            "field_value": "Classic Cars",
+            "row_count": 1,
+            "ratio_percent": 14.285714285714286
+        },
+        {
+            "field_value": "Vintage Cars",
+            "row_count": 1,
+            "ratio_percent": 14.285714285714286
+        },
+        {
+            "field_value": "Trucks and Buses",
+            "row_count": 1,
+            "ratio_percent": 14.285714285714286
+        },
+        {
+            "field_value": "Trains",
+            "row_count": 1,
+            "ratio_percent": 14.285714285714286
+        },
+        {
+            "field_value": "Ships",
+            "row_count": 1,
+            "ratio_percent": 14.285714285714286
+        }
+    ]
+}
+@endjson

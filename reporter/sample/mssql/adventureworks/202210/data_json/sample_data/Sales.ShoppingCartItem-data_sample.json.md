@@ -1,0 +1,33 @@
+```json
+@startjson
+[
+    {
+        "ShoppingCartItemID": 2,
+        "ShoppingCartID": "14951",
+        "Quantity": 3,
+        "DateCreated": "2013-11-09 17:54:07.603000",
+        "ModifiedDate": "2013-11-09 17:54:07.603000",
+        "ProductID": 862,
+        "SYS_EXEC_DURATION": "0.199978"
+    },
+    {
+        "ShoppingCartItemID": 4,
+        "ShoppingCartID": "20621",
+        "Quantity": 4,
+        "DateCreated": "2013-11-09 17:54:07.603000",
+        "ModifiedDate": "2013-11-09 17:54:07.603000",
+        "ProductID": 881,
+        "SYS_EXEC_DURATION": "0.200133"
+    },
+    {
+        "ShoppingCartItemID": 5,
+        "ShoppingCartID": "20621",
+        "Quantity": 7,
+        "DateCreated": "2013-11-09 17:54:07.603000",
+        "ModifiedDate": "2013-11-09 17:54:07.603000",
+        "ProductID": 874,
+        "SYS_EXEC_DURATION": "0.200202"
+    }
+]
+@endjson
+```

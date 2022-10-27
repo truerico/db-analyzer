@@ -1,0 +1,37 @@
+@startjson
+{
+    "field1": "BOMLevel",
+    "combination": "BOMLevel",
+    "null_distribution": {
+        "total_null_rows": 0,
+        "total_not_null_rows": 2679
+    },
+    "data_distribution": [
+        {
+            "field_value": "1",
+            "row_count": 1548,
+            "ratio_percent": 57.78275475923852
+        },
+        {
+            "field_value": "2",
+            "row_count": 993,
+            "ratio_percent": 37.066069428891375
+        },
+        {
+            "field_value": "0",
+            "row_count": 103,
+            "ratio_percent": 3.8447181784247855
+        },
+        {
+            "field_value": "3",
+            "row_count": 31,
+            "ratio_percent": 1.1571481896229936
+        },
+        {
+            "field_value": "4",
+            "row_count": 4,
+            "ratio_percent": 0.14930944382232175
+        }
+    ]
+}
+@endjson

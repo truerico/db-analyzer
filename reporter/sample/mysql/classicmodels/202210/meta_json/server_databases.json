@@ -1,0 +1,9 @@
+[
+    {
+        "catalog_name": "def",
+        "schema_name": "classicmodels",
+        "default_character_set_name": "latin1",
+        "default_collation_name": "latin1_swedish_ci",
+        "sql_path": null
+    }
+]

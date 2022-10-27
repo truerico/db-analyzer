@@ -1,0 +1,26 @@
+[
+    {
+        "job_id": "CA83E1CD-599B-4868-AD74-12F57C8EB5F4",
+        "job_name": "syspolicy_purge_history",
+        "job_is_scheduled": "Yes",
+        "job_schedule_name": "syspolicy_purge_history_schedule",
+        "next_run_date": "2022-10-28",
+        "next_run_time": "02:00:00",
+        "schedule_id": 8,
+        "schedule_uid": "7CF4D4E8-1205-4805-8086-181286BEE805",
+        "schedule_name": "syspolicy_purge_history_schedule",
+        "schedule_is_enabled": 1,
+        "freq_type": 4,
+        "freq_interval": 1,
+        "freq_subday_interval": 0,
+        "freq_relative_interval": 0,
+        "freq_recurrence_factor": 0,
+        "active_start_date": 20080101,
+        "active_end_date": 99991231,
+        "active_start_time": 20000,
+        "active_end_time": 235959,
+        "date_created": "2019-06-05 15:27:35.543000",
+        "date_modified": "2019-06-05 15:27:35.543000",
+        "version_number": 1
+    }
+]

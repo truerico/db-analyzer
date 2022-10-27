@@ -1,0 +1,2 @@
+"HOST_NAME","VERSION","VERSION_COMPILE","VERSION_OS","STARTUP_TIME","DATA_DIR","GENERAL_LOG_FILE","SLOW_QUERY_LOG","SLOW_QUERY_LOG_FILE"
+"server-test","5.7.40-0ubuntu0.18.04.1","x86_64","Linux","2022-10-25 06:31:10","/var/lib/mysql/","/var/lib/mysql/server-test.log","0","/var/lib/mysql/server-test-slow.log"

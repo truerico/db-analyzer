@@ -1,0 +1,22 @@
+@startjson
+{
+    "field1": "FileExtension",
+    "combination": "FileExtension",
+    "null_distribution": {
+        "total_null_rows": 0,
+        "total_not_null_rows": 13
+    },
+    "data_distribution": [
+        {
+            "field_value": ".doc",
+            "row_count": 9,
+            "ratio_percent": 69.23076923076923
+        },
+        {
+            "field_value": "**EMPTY**",
+            "row_count": 4,
+            "ratio_percent": 30.76923076923077
+        }
+    ]
+}
+@endjson

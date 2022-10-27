@@ -1,0 +1,62 @@
+@startjson
+{
+    "field1": "Name",
+    "combination": "Name",
+    "null_distribution": {
+        "total_null_rows": 0,
+        "total_not_null_rows": 20
+    },
+    "data_distribution": [
+        {
+            "field_value": "Owner",
+            "row_count": 1,
+            "ratio_percent": 5.0
+        },
+        {
+            "field_value": "Order Administrator",
+            "row_count": 1,
+            "ratio_percent": 5.0
+        },
+        {
+            "field_value": "Marketing Representative",
+            "row_count": 1,
+            "ratio_percent": 5.0
+        },
+        {
+            "field_value": "Marketing Manager",
+            "row_count": 1,
+            "ratio_percent": 5.0
+        },
+        {
+            "field_value": "Marketing Assistant",
+            "row_count": 1,
+            "ratio_percent": 5.0
+        },
+        {
+            "field_value": "International Marketing Manager",
+            "row_count": 1,
+            "ratio_percent": 5.0
+        },
+        {
+            "field_value": "Export Administrator",
+            "row_count": 1,
+            "ratio_percent": 5.0
+        },
+        {
+            "field_value": "Coordinator Foreign Markets",
+            "row_count": 1,
+            "ratio_percent": 5.0
+        },
+        {
+            "field_value": "Assistant Sales Representative",
+            "row_count": 1,
+            "ratio_percent": 5.0
+        },
+        {
+            "field_value": "Assistant Sales Agent",
+            "row_count": 1,
+            "ratio_percent": 5.0
+        }
+    ]
+}
+@endjson

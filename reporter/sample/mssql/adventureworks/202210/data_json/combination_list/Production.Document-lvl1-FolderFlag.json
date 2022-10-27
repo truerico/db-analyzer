@@ -1,0 +1,22 @@
+@startjson
+{
+    "field1": "FolderFlag",
+    "combination": "FolderFlag",
+    "null_distribution": {
+        "total_null_rows": 0,
+        "total_not_null_rows": 13
+    },
+    "data_distribution": [
+        {
+            "field_value": "0",
+            "row_count": 9,
+            "ratio_percent": 69.23076923076923
+        },
+        {
+            "field_value": "1",
+            "row_count": 4,
+            "ratio_percent": 30.76923076923077
+        }
+    ]
+}
+@endjson

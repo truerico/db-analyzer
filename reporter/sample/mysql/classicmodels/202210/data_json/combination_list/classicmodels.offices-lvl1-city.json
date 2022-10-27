@@ -1,0 +1,47 @@
+@startjson
+{
+    "field1": "city",
+    "combination": "city",
+    "null_distribution": {
+        "total_null_rows": 0,
+        "total_not_null_rows": 7
+    },
+    "data_distribution": [
+        {
+            "field_value": "NYC",
+            "row_count": 1,
+            "ratio_percent": 14.285714285714286
+        },
+        {
+            "field_value": "Boston",
+            "row_count": 1,
+            "ratio_percent": 14.285714285714286
+        },
+        {
+            "field_value": "San Francisco",
+            "row_count": 1,
+            "ratio_percent": 14.285714285714286
+        },
+        {
+            "field_value": "London",
+            "row_count": 1,
+            "ratio_percent": 14.285714285714286
+        },
+        {
+            "field_value": "Sydney",
+            "row_count": 1,
+            "ratio_percent": 14.285714285714286
+        },
+        {
+            "field_value": "Tokyo",
+            "row_count": 1,
+            "ratio_percent": 14.285714285714286
+        },
+        {
+            "field_value": "Paris",
+            "row_count": 1,
+            "ratio_percent": 14.285714285714286
+        }
+    ]
+}
+@endjson

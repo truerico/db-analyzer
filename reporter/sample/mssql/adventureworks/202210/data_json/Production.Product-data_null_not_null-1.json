@@ -1,0 +1,133 @@
+[
+    {
+        "table": "Production.Product",
+        "total_records": 504,
+        "dataset": [
+            {
+                "field": "Color",
+                "total_null_rows": 248,
+                "total_not_null_rows": 256
+            },
+            {
+                "field": "ProductID",
+                "total_null_rows": 0,
+                "total_not_null_rows": 504
+            },
+            {
+                "field": "ProductNumber",
+                "total_null_rows": 0,
+                "total_not_null_rows": 504
+            },
+            {
+                "field": "ProductLine",
+                "total_null_rows": 226,
+                "total_not_null_rows": 278
+            },
+            {
+                "field": "ProductSubcategoryID",
+                "total_null_rows": 209,
+                "total_not_null_rows": 295
+            },
+            {
+                "field": "ProductModelID",
+                "total_null_rows": 209,
+                "total_not_null_rows": 295
+            },
+            {
+                "field": "ReorderPoint",
+                "total_null_rows": 0,
+                "total_not_null_rows": 504
+            },
+            {
+                "field": "SafetyStockLevel",
+                "total_null_rows": 0,
+                "total_not_null_rows": 504
+            },
+            {
+                "field": "StandardCost",
+                "total_null_rows": 0,
+                "total_not_null_rows": 504
+            },
+            {
+                "field": "Size",
+                "total_null_rows": 293,
+                "total_not_null_rows": 211
+            },
+            {
+                "field": "Style",
+                "total_null_rows": 293,
+                "total_not_null_rows": 211
+            },
+            {
+                "field": "Class",
+                "total_null_rows": 257,
+                "total_not_null_rows": 247
+            },
+            {
+                "field": "SellStartDate",
+                "total_null_rows": 0,
+                "total_not_null_rows": 504
+            },
+            {
+                "field": "SellEndDate",
+                "total_null_rows": 406,
+                "total_not_null_rows": 98
+            },
+            {
+                "field": "SizeUnitMeasureCode",
+                "total_null_rows": 328,
+                "total_not_null_rows": 176
+            },
+            {
+                "field": "Weight",
+                "total_null_rows": 299,
+                "total_not_null_rows": 205
+            },
+            {
+                "field": "WeightUnitMeasureCode",
+                "total_null_rows": 299,
+                "total_not_null_rows": 205
+            },
+            {
+                "field": "rowguid",
+                "total_null_rows": 0,
+                "total_not_null_rows": 504
+            },
+            {
+                "field": "DaysToManufacture",
+                "total_null_rows": 0,
+                "total_not_null_rows": 504
+            },
+            {
+                "field": "DiscontinuedDate",
+                "total_null_rows": 504,
+                "total_not_null_rows": 0
+            },
+            {
+                "field": "FinishedGoodsFlag",
+                "total_null_rows": 0,
+                "total_not_null_rows": 504
+            },
+            {
+                "field": "ListPrice",
+                "total_null_rows": 0,
+                "total_not_null_rows": 504
+            },
+            {
+                "field": "MakeFlag",
+                "total_null_rows": 0,
+                "total_not_null_rows": 504
+            },
+            {
+                "field": "ModifiedDate",
+                "total_null_rows": 0,
+                "total_not_null_rows": 504
+            },
+            {
+                "field": "Name",
+                "total_null_rows": 0,
+                "total_not_null_rows": 504
+            }
+        ]
+    }
+]

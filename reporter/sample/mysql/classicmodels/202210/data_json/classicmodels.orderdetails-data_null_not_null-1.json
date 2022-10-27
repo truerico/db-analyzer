@@ -1,0 +1,33 @@
+[
+    {
+        "table": "classicmodels.orderdetails",
+        "total_records": 2996,
+        "dataset": [
+            {
+                "field": "orderNumber",
+                "total_null_rows": 0,
+                "total_not_null_rows": 2996
+            },
+            {
+                "field": "orderLineNumber",
+                "total_null_rows": 0,
+                "total_not_null_rows": 2996
+            },
+            {
+                "field": "productCode",
+                "total_null_rows": 0,
+                "total_not_null_rows": 2996
+            },
+            {
+                "field": "priceEach",
+                "total_null_rows": 0,
+                "total_not_null_rows": 2996
+            },
+            {
+                "field": "quantityOrdered",
+                "total_null_rows": 0,
+                "total_not_null_rows": 2996
+            }
+        ]
+    }
+]

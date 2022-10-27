@@ -1,0 +1,128 @@
+[
+    {
+        "table": "Production.ScrapReason",
+        "total_records": 16,
+        "dataset": [
+            {
+                "field": "ModifiedDate",
+                "distribution": [
+                    {
+                        "field_value": "Apr 30 2008 12:00AM",
+                        "row_count": 16,
+                        "ratio_percent": 100.0
+                    }
+                ]
+            },
+            {
+                "field": "Name",
+                "distribution": [
+                    {
+                        "field_value": "Stress test failed",
+                        "row_count": 1,
+                        "ratio_percent": 6.25
+                    },
+                    {
+                        "field_value": "Seat assembly not as ordered",
+                        "row_count": 1,
+                        "ratio_percent": 6.25
+                    },
+                    {
+                        "field_value": "Primer process failed",
+                        "row_count": 1,
+                        "ratio_percent": 6.25
+                    },
+                    {
+                        "field_value": "Paint process failed",
+                        "row_count": 1,
+                        "ratio_percent": 6.25
+                    },
+                    {
+                        "field_value": "Handling damage",
+                        "row_count": 1,
+                        "ratio_percent": 6.25
+                    },
+                    {
+                        "field_value": "Gouge in metal",
+                        "row_count": 1,
+                        "ratio_percent": 6.25
+                    },
+                    {
+                        "field_value": "Drill size too small",
+                        "row_count": 1,
+                        "ratio_percent": 6.25
+                    },
+                    {
+                        "field_value": "Drill size too large",
+                        "row_count": 1,
+                        "ratio_percent": 6.25
+                    },
+                    {
+                        "field_value": "Drill pattern incorrect",
+                        "row_count": 1,
+                        "ratio_percent": 6.25
+                    },
+                    {
+                        "field_value": "Color incorrect",
+                        "row_count": 1,
+                        "ratio_percent": 6.25
+                    }
+                ]
+            },
+            {
+                "field": "ScrapReasonID",
+                "distribution": [
+                    {
+                        "field_value": "4",
+                        "row_count": 1,
+                        "ratio_percent": 6.25
+                    },
+                    {
+                        "field_value": "3",
+                        "row_count": 1,
+                        "ratio_percent": 6.25
+                    },
+                    {
+                        "field_value": "2",
+                        "row_count": 1,
+                        "ratio_percent": 6.25
+                    },
+                    {
+                        "field_value": "16",
+                        "row_count": 1,
+                        "ratio_percent": 6.25
+                    },
+                    {
+                        "field_value": "15",
+                        "row_count": 1,
+                        "ratio_percent": 6.25
+                    },
+                    {
+                        "field_value": "14",
+                        "row_count": 1,
+                        "ratio_percent": 6.25
+                    },
+                    {
+                        "field_value": "13",
+                        "row_count": 1,
+                        "ratio_percent": 6.25
+                    },
+                    {
+                        "field_value": "12",
+                        "row_count": 1,
+                        "ratio_percent": 6.25
+                    },
+                    {
+                        "field_value": "11",
+                        "row_count": 1,
+                        "ratio_percent": 6.25
+                    },
+                    {
+                        "field_value": "10",
+                        "row_count": 1,
+                        "ratio_percent": 6.25
+                    }
+                ]
+            }
+        ]
+    }
+]

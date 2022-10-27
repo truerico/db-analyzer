@@ -1,0 +1,328 @@
+[
+    {
+        "table": "classicmodels.offices",
+        "total_records": 7,
+        "dataset": [
+            {
+                "field": "addressLine1",
+                "distribution": [
+                    {
+                        "field_value": "523 East 53rd Street",
+                        "row_count": 1,
+                        "ratio_percent": 14.285714285714286
+                    },
+                    {
+                        "field_value": "1550 Court Place",
+                        "row_count": 1,
+                        "ratio_percent": 14.285714285714286
+                    },
+                    {
+                        "field_value": "100 Market Street",
+                        "row_count": 1,
+                        "ratio_percent": 14.285714285714286
+                    },
+                    {
+                        "field_value": "25 Old Broad Street",
+                        "row_count": 1,
+                        "ratio_percent": 14.285714285714286
+                    },
+                    {
+                        "field_value": "5-11 Wentworth Avenue",
+                        "row_count": 1,
+                        "ratio_percent": 14.285714285714286
+                    },
+                    {
+                        "field_value": "4-1 Kioicho",
+                        "row_count": 1,
+                        "ratio_percent": 14.285714285714286
+                    },
+                    {
+                        "field_value": "43 Rue Jouffroy D'abbans",
+                        "row_count": 1,
+                        "ratio_percent": 14.285714285714286
+                    }
+                ]
+            },
+            {
+                "field": "addressLine2",
+                "distribution": [
+                    {
+                        "field_value": "**NULL**",
+                        "row_count": 2,
+                        "ratio_percent": 28.571428571428573
+                    },
+                    {
+                        "field_value": "apt. 5A",
+                        "row_count": 1,
+                        "ratio_percent": 14.285714285714286
+                    },
+                    {
+                        "field_value": "Suite 102",
+                        "row_count": 1,
+                        "ratio_percent": 14.285714285714286
+                    },
+                    {
+                        "field_value": "Suite 300",
+                        "row_count": 1,
+                        "ratio_percent": 14.285714285714286
+                    },
+                    {
+                        "field_value": "Level 7",
+                        "row_count": 1,
+                        "ratio_percent": 14.285714285714286
+                    },
+                    {
+                        "field_value": "Floor #2",
+                        "row_count": 1,
+                        "ratio_percent": 14.285714285714286
+                    }
+                ]
+            },
+            {
+                "field": "city",
+                "distribution": [
+                    {
+                        "field_value": "NYC",
+                        "row_count": 1,
+                        "ratio_percent": 14.285714285714286
+                    },
+                    {
+                        "field_value": "Boston",
+                        "row_count": 1,
+                        "ratio_percent": 14.285714285714286
+                    },
+                    {
+                        "field_value": "San Francisco",
+                        "row_count": 1,
+                        "ratio_percent": 14.285714285714286
+                    },
+                    {
+                        "field_value": "London",
+                        "row_count": 1,
+                        "ratio_percent": 14.285714285714286
+                    },
+                    {
+                        "field_value": "Sydney",
+                        "row_count": 1,
+                        "ratio_percent": 14.285714285714286
+                    },
+                    {
+                        "field_value": "Tokyo",
+                        "row_count": 1,
+                        "ratio_percent": 14.285714285714286
+                    },
+                    {
+                        "field_value": "Paris",
+                        "row_count": 1,
+                        "ratio_percent": 14.285714285714286
+                    }
+                ]
+            },
+            {
+                "field": "country",
+                "distribution": [
+                    {
+                        "field_value": "USA",
+                        "row_count": 3,
+                        "ratio_percent": 42.857142857142854
+                    },
+                    {
+                        "field_value": "Australia",
+                        "row_count": 1,
+                        "ratio_percent": 14.285714285714286
+                    },
+                    {
+                        "field_value": "Japan",
+                        "row_count": 1,
+                        "ratio_percent": 14.285714285714286
+                    },
+                    {
+                        "field_value": "France",
+                        "row_count": 1,
+                        "ratio_percent": 14.285714285714286
+                    },
+                    {
+                        "field_value": "UK",
+                        "row_count": 1,
+                        "ratio_percent": 14.285714285714286
+                    }
+                ]
+            },
+            {
+                "field": "officeCode",
+                "distribution": [
+                    {
+                        "field_value": "4",
+                        "row_count": 1,
+                        "ratio_percent": 14.285714285714286
+                    },
+                    {
+                        "field_value": "5",
+                        "row_count": 1,
+                        "ratio_percent": 14.285714285714286
+                    },
+                    {
+                        "field_value": "1",
+                        "row_count": 1,
+                        "ratio_percent": 14.285714285714286
+                    },
+                    {
+                        "field_value": "6",
+                        "row_count": 1,
+                        "ratio_percent": 14.285714285714286
+                    },
+                    {
+                        "field_value": "2",
+                        "row_count": 1,
+                        "ratio_percent": 14.285714285714286
+                    },
+                    {
+                        "field_value": "7",
+                        "row_count": 1,
+                        "ratio_percent": 14.285714285714286
+                    },
+                    {
+                        "field_value": "3",
+                        "row_count": 1,
+                        "ratio_percent": 14.285714285714286
+                    }
+                ]
+            },
+            {
+                "field": "phone",
+                "distribution": [
+                    {
+                        "field_value": "+1 212 555 3000",
+                        "row_count": 1,
+                        "ratio_percent": 14.285714285714286
+                    },
+                    {
+                        "field_value": "+1 215 837 0825",
+                        "row_count": 1,
+                        "ratio_percent": 14.285714285714286
+                    },
+                    {
+                        "field_value": "+1 650 219 4782",
+                        "row_count": 1,
+                        "ratio_percent": 14.285714285714286
+                    },
+                    {
+                        "field_value": "+44 20 7877 2041",
+                        "row_count": 1,
+                        "ratio_percent": 14.285714285714286
+                    },
+                    {
+                        "field_value": "+61 2 9264 2451",
+                        "row_count": 1,
+                        "ratio_percent": 14.285714285714286
+                    },
+                    {
+                        "field_value": "+81 33 224 5000",
+                        "row_count": 1,
+                        "ratio_percent": 14.285714285714286
+                    },
+                    {
+                        "field_value": "+33 14 723 4404",
+                        "row_count": 1,
+                        "ratio_percent": 14.285714285714286
+                    }
+                ]
+            },
+            {
+                "field": "postalCode",
+                "distribution": [
+                    {
+                        "field_value": "10022",
+                        "row_count": 1,
+                        "ratio_percent": 14.285714285714286
+                    },
+                    {
+                        "field_value": "EC2N 1HN",
+                        "row_count": 1,
+                        "ratio_percent": 14.285714285714286
+                    },
+                    {
+                        "field_value": "75017",
+                        "row_count": 1,
+                        "ratio_percent": 14.285714285714286
+                    },
+                    {
+                        "field_value": "94080",
+                        "row_count": 1,
+                        "ratio_percent": 14.285714285714286
+                    },
+                    {
+                        "field_value": "102-8578",
+                        "row_count": 1,
+                        "ratio_percent": 14.285714285714286
+                    },
+                    {
+                        "field_value": "02107",
+                        "row_count": 1,
+                        "ratio_percent": 14.285714285714286
+                    },
+                    {
+                        "field_value": "NSW 2010",
+                        "row_count": 1,
+                        "ratio_percent": 14.285714285714286
+                    }
+                ]
+            },
+            {
+                "field": "state",
+                "distribution": [
+                    {
+                        "field_value": "**NULL**",
+                        "row_count": 3,
+                        "ratio_percent": 42.857142857142854
+                    },
+                    {
+                        "field_value": "NY",
+                        "row_count": 1,
+                        "ratio_percent": 14.285714285714286
+                    },
+                    {
+                        "field_value": "MA",
+                        "row_count": 1,
+                        "ratio_percent": 14.285714285714286
+                    },
+                    {
+                        "field_value": "CA",
+                        "row_count": 1,
+                        "ratio_percent": 14.285714285714286
+                    },
+                    {
+                        "field_value": "Chiyoda-Ku",
+                        "row_count": 1,
+                        "ratio_percent": 14.285714285714286
+                    }
+                ]
+            },
+            {
+                "field": "territory",
+                "distribution": [
+                    {
+                        "field_value": "NA",
+                        "row_count": 3,
+                        "ratio_percent": 42.857142857142854
+                    },
+                    {
+                        "field_value": "EMEA",
+                        "row_count": 2,
+                        "ratio_percent": 28.571428571428573
+                    },
+                    {
+                        "field_value": "Japan",
+                        "row_count": 1,
+                        "ratio_percent": 14.285714285714286
+                    },
+                    {
+                        "field_value": "APAC",
+                        "row_count": 1,
+                        "ratio_percent": 14.285714285714286
+                    }
+                ]
+            }
+        ]
+    }
+]

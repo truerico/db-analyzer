@@ -1,0 +1,62 @@
+@startjson
+{
+    "field1": "DiscountPct",
+    "combination": "DiscountPct",
+    "null_distribution": {
+        "total_null_rows": 0,
+        "total_not_null_rows": 16
+    },
+    "data_distribution": [
+        {
+            "field_value": "0.15",
+            "row_count": 3,
+            "ratio_percent": 18.75
+        },
+        {
+            "field_value": "0.20",
+            "row_count": 2,
+            "ratio_percent": 12.5
+        },
+        {
+            "field_value": "0.10",
+            "row_count": 2,
+            "ratio_percent": 12.5
+        },
+        {
+            "field_value": "0.35",
+            "row_count": 2,
+            "ratio_percent": 12.5
+        },
+        {
+            "field_value": "0.50",
+            "row_count": 2,
+            "ratio_percent": 12.5
+        },
+        {
+            "field_value": "0.40",
+            "row_count": 1,
+            "ratio_percent": 6.25
+        },
+        {
+            "field_value": "0.30",
+            "row_count": 1,
+            "ratio_percent": 6.25
+        },
+        {
+            "field_value": "0.05",
+            "row_count": 1,
+            "ratio_percent": 6.25
+        },
+        {
+            "field_value": "0.02",
+            "row_count": 1,
+            "ratio_percent": 6.25
+        },
+        {
+            "field_value": "0.00",
+            "row_count": 1,
+            "ratio_percent": 6.25
+        }
+    ]
+}
+@endjson

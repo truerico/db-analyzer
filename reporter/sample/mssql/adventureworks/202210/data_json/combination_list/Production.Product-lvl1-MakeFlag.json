@@ -1,0 +1,22 @@
+@startjson
+{
+    "field1": "MakeFlag",
+    "combination": "MakeFlag",
+    "null_distribution": {
+        "total_null_rows": 0,
+        "total_not_null_rows": 504
+    },
+    "data_distribution": [
+        {
+            "field_value": "0",
+            "row_count": 265,
+            "ratio_percent": 52.57936507936508
+        },
+        {
+            "field_value": "1",
+            "row_count": 239,
+            "ratio_percent": 47.42063492063492
+        }
+    ]
+}
+@endjson

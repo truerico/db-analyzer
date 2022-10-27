@@ -1,0 +1,32 @@
+@startjson
+{
+    "field1": "ProductCategoryID",
+    "combination": "ProductCategoryID",
+    "null_distribution": {
+        "total_null_rows": 0,
+        "total_not_null_rows": 37
+    },
+    "data_distribution": [
+        {
+            "field_value": "2",
+            "row_count": 14,
+            "ratio_percent": 37.83783783783784
+        },
+        {
+            "field_value": "4",
+            "row_count": 12,
+            "ratio_percent": 32.432432432432435
+        },
+        {
+            "field_value": "3",
+            "row_count": 8,
+            "ratio_percent": 21.62162162162162
+        },
+        {
+            "field_value": "1",
+            "row_count": 3,
+            "ratio_percent": 8.108108108108109
+        }
+    ]
+}
+@endjson

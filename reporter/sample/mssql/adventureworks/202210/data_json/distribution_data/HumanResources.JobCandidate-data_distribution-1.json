@@ -1,0 +1,98 @@
+[
+    {
+        "table": "HumanResources.JobCandidate",
+        "total_records": 13,
+        "dataset": [
+            {
+                "field": "BusinessEntityID",
+                "distribution": [
+                    {
+                        "field_value": "**NULL**",
+                        "row_count": 11,
+                        "ratio_percent": 84.61538461538461
+                    },
+                    {
+                        "field_value": "274",
+                        "row_count": 1,
+                        "ratio_percent": 7.6923076923076925
+                    },
+                    {
+                        "field_value": "212",
+                        "row_count": 1,
+                        "ratio_percent": 7.6923076923076925
+                    }
+                ]
+            },
+            {
+                "field": "JobCandidateID",
+                "distribution": [
+                    {
+                        "field_value": "7",
+                        "row_count": 1,
+                        "ratio_percent": 7.6923076923076925
+                    },
+                    {
+                        "field_value": "6",
+                        "row_count": 1,
+                        "ratio_percent": 7.6923076923076925
+                    },
+                    {
+                        "field_value": "5",
+                        "row_count": 1,
+                        "ratio_percent": 7.6923076923076925
+                    },
+                    {
+                        "field_value": "4",
+                        "row_count": 1,
+                        "ratio_percent": 7.6923076923076925
+                    },
+                    {
+                        "field_value": "3",
+                        "row_count": 1,
+                        "ratio_percent": 7.6923076923076925
+                    },
+                    {
+                        "field_value": "2",
+                        "row_count": 1,
+                        "ratio_percent": 7.6923076923076925
+                    },
+                    {
+                        "field_value": "13",
+                        "row_count": 1,
+                        "ratio_percent": 7.6923076923076925
+                    },
+                    {
+                        "field_value": "12",
+                        "row_count": 1,
+                        "ratio_percent": 7.6923076923076925
+                    },
+                    {
+                        "field_value": "11",
+                        "row_count": 1,
+                        "ratio_percent": 7.6923076923076925
+                    },
+                    {
+                        "field_value": "10",
+                        "row_count": 1,
+                        "ratio_percent": 7.6923076923076925
+                    }
+                ]
+            },
+            {
+                "field": "ModifiedDate",
+                "distribution": [
+                    {
+                        "field_value": "Jun 23 2007 12:00AM",
+                        "row_count": 11,
+                        "ratio_percent": 84.61538461538461
+                    },
+                    {
+                        "field_value": "Dec 22 2013  6:32PM",
+                        "row_count": 2,
+                        "ratio_percent": 15.384615384615385
+                    }
+                ]
+            }
+        ]
+    }
+]

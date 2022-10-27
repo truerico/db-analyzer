@@ -1,0 +1,62 @@
+@startjson
+{
+    "field1": "ProductSubcategoryID",
+    "combination": "ProductSubcategoryID",
+    "null_distribution": {
+        "total_null_rows": 209,
+        "total_not_null_rows": 295
+    },
+    "data_distribution": [
+        {
+            "field_value": "**NULL**",
+            "row_count": 209,
+            "ratio_percent": 41.46825396825397
+        },
+        {
+            "field_value": "2",
+            "row_count": 43,
+            "ratio_percent": 8.531746031746032
+        },
+        {
+            "field_value": "14",
+            "row_count": 33,
+            "ratio_percent": 6.5476190476190474
+        },
+        {
+            "field_value": "1",
+            "row_count": 32,
+            "ratio_percent": 6.349206349206349
+        },
+        {
+            "field_value": "12",
+            "row_count": 28,
+            "ratio_percent": 5.555555555555555
+        },
+        {
+            "field_value": "3",
+            "row_count": 22,
+            "ratio_percent": 4.365079365079365
+        },
+        {
+            "field_value": "16",
+            "row_count": 18,
+            "ratio_percent": 3.5714285714285716
+        },
+        {
+            "field_value": "17",
+            "row_count": 14,
+            "ratio_percent": 2.7777777777777777
+        },
+        {
+            "field_value": "37",
+            "row_count": 11,
+            "ratio_percent": 2.1825396825396823
+        },
+        {
+            "field_value": "15",
+            "row_count": 9,
+            "ratio_percent": 1.7857142857142858
+        }
+    ]
+}
+@endjson

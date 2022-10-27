@@ -1,0 +1,18 @@
+[
+    {
+        "table": "Production.ProductDocument",
+        "total_records": 32,
+        "dataset": [
+            {
+                "field": "ModifiedDate",
+                "total_null_rows": 0,
+                "total_not_null_rows": 32
+            },
+            {
+                "field": "ProductID",
+                "total_null_rows": 0,
+                "total_not_null_rows": 32
+            }
+        ]
+    }
+]

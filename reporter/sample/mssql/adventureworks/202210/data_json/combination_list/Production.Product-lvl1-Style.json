@@ -1,0 +1,32 @@
+@startjson
+{
+    "field1": "Style",
+    "combination": "Style",
+    "null_distribution": {
+        "total_null_rows": 293,
+        "total_not_null_rows": 211
+    },
+    "data_distribution": [
+        {
+            "field_value": "**NULL**",
+            "row_count": 293,
+            "ratio_percent": 58.13492063492063
+        },
+        {
+            "field_value": "U",
+            "row_count": 176,
+            "ratio_percent": 34.92063492063492
+        },
+        {
+            "field_value": "W",
+            "row_count": 28,
+            "ratio_percent": 5.555555555555555
+        },
+        {
+            "field_value": "M",
+            "row_count": 7,
+            "ratio_percent": 1.3888888888888888
+        }
+    ]
+}
+@endjson

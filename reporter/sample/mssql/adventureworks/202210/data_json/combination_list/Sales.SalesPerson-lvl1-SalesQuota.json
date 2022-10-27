@@ -1,0 +1,27 @@
+@startjson
+{
+    "field1": "SalesQuota",
+    "combination": "SalesQuota",
+    "null_distribution": {
+        "total_null_rows": 3,
+        "total_not_null_rows": 14
+    },
+    "data_distribution": [
+        {
+            "field_value": "250000.00",
+            "row_count": 11,
+            "ratio_percent": 64.70588235294117
+        },
+        {
+            "field_value": "300000.00",
+            "row_count": 3,
+            "ratio_percent": 17.647058823529413
+        },
+        {
+            "field_value": "**NULL**",
+            "row_count": 3,
+            "ratio_percent": 17.647058823529413
+        }
+    ]
+}
+@endjson

@@ -1,0 +1,138 @@
+[
+    {
+        "table": "Sales.SalesOrderHeader",
+        "total_records": 31465,
+        "dataset": [
+            {
+                "field": "AccountNumber",
+                "total_null_rows": 0,
+                "total_not_null_rows": 31465
+            },
+            {
+                "field": "ModifiedDate",
+                "total_null_rows": 0,
+                "total_not_null_rows": 31465
+            },
+            {
+                "field": "OrderDate",
+                "total_null_rows": 0,
+                "total_not_null_rows": 31465
+            },
+            {
+                "field": "OnlineOrderFlag",
+                "total_null_rows": 0,
+                "total_not_null_rows": 31465
+            },
+            {
+                "field": "PurchaseOrderNumber",
+                "total_null_rows": 27659,
+                "total_not_null_rows": 3806
+            },
+            {
+                "field": "RevisionNumber",
+                "total_null_rows": 0,
+                "total_not_null_rows": 31465
+            },
+            {
+                "field": "SalesOrderID",
+                "total_null_rows": 0,
+                "total_not_null_rows": 31465
+            },
+            {
+                "field": "ShipDate",
+                "total_null_rows": 0,
+                "total_not_null_rows": 31465
+            },
+            {
+                "field": "Status",
+                "total_null_rows": 0,
+                "total_not_null_rows": 31465
+            },
+            {
+                "field": "SalesOrderNumber",
+                "total_null_rows": 0,
+                "total_not_null_rows": 31465
+            },
+            {
+                "field": "SubTotal",
+                "total_null_rows": 0,
+                "total_not_null_rows": 31465
+            },
+            {
+                "field": "BillToAddressID",
+                "total_null_rows": 0,
+                "total_not_null_rows": 31465
+            },
+            {
+                "field": "SalesPersonID",
+                "total_null_rows": 27659,
+                "total_not_null_rows": 3806
+            },
+            {
+                "field": "ShipToAddressID",
+                "total_null_rows": 0,
+                "total_not_null_rows": 31465
+            },
+            {
+                "field": "ShipMethodID",
+                "total_null_rows": 0,
+                "total_not_null_rows": 31465
+            },
+            {
+                "field": "TaxAmt",
+                "total_null_rows": 0,
+                "total_not_null_rows": 31465
+            },
+            {
+                "field": "TotalDue",
+                "total_null_rows": 0,
+                "total_not_null_rows": 31465
+            },
+            {
+                "field": "TerritoryID",
+                "total_null_rows": 0,
+                "total_not_null_rows": 31465
+            },
+            {
+                "field": "rowguid",
+                "total_null_rows": 0,
+                "total_not_null_rows": 31465
+            },
+            {
+                "field": "CreditCardApprovalCode",
+                "total_null_rows": 1131,
+                "total_not_null_rows": 30334
+            },
+            {
+                "field": "Comment",
+                "total_null_rows": 31465,
+                "total_not_null_rows": 0
+            },
+            {
+                "field": "CurrencyRateID",
+                "total_null_rows": 17489,
+                "total_not_null_rows": 13976
+            },
+            {
+                "field": "CustomerID",
+                "total_null_rows": 0,
+                "total_not_null_rows": 31465
+            },
+            {
+                "field": "CreditCardID",
+                "total_null_rows": 1131,
+                "total_not_null_rows": 30334
+            },
+            {
+                "field": "DueDate",
+                "total_null_rows": 0,
+                "total_not_null_rows": 31465
+            },
+            {
+                "field": "Freight",
+                "total_null_rows": 0,
+                "total_not_null_rows": 31465
+            }
+        ]
+    }
+]

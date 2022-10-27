@@ -1,0 +1,13 @@
+[
+    {
+        "computer_name": "ODSDB-TEST",
+        "instance_name": "ODSDB-TEST",
+        "edition": "Standard Edition (64-bit)",
+        "product_version": "13.0.1742.0",
+        "major_version": "SQL2016",
+        "product_level": "RTM",
+        "default_data_path": "E:\\MSSQL_DATA\\",
+        "default_log_path": "F:\\MSSQL_LOG\\",
+        "startup_time": "2022-10-12 09:46:00.173000"
+    }
+]

@@ -1,0 +1,133 @@
+[
+    {
+        "table": "Sales.CountryRegionCurrency",
+        "total_records": 109,
+        "dataset": [
+            {
+                "field": "CountryRegionCode",
+                "distribution": [
+                    {
+                        "field_value": "BE",
+                        "row_count": 2,
+                        "ratio_percent": 1.834862385321101
+                    },
+                    {
+                        "field_value": "AT",
+                        "row_count": 2,
+                        "ratio_percent": 1.834862385321101
+                    },
+                    {
+                        "field_value": "DE",
+                        "row_count": 2,
+                        "ratio_percent": 1.834862385321101
+                    },
+                    {
+                        "field_value": "ES",
+                        "row_count": 2,
+                        "ratio_percent": 1.834862385321101
+                    },
+                    {
+                        "field_value": "FI",
+                        "row_count": 2,
+                        "ratio_percent": 1.834862385321101
+                    },
+                    {
+                        "field_value": "FR",
+                        "row_count": 2,
+                        "ratio_percent": 1.834862385321101
+                    },
+                    {
+                        "field_value": "GR",
+                        "row_count": 2,
+                        "ratio_percent": 1.834862385321101
+                    },
+                    {
+                        "field_value": "IE",
+                        "row_count": 2,
+                        "ratio_percent": 1.834862385321101
+                    },
+                    {
+                        "field_value": "IT",
+                        "row_count": 2,
+                        "ratio_percent": 1.834862385321101
+                    },
+                    {
+                        "field_value": "NL",
+                        "row_count": 2,
+                        "ratio_percent": 1.834862385321101
+                    }
+                ]
+            },
+            {
+                "field": "CurrencyCode",
+                "distribution": [
+                    {
+                        "field_value": "EUR",
+                        "row_count": 12,
+                        "ratio_percent": 11.009174311926605
+                    },
+                    {
+                        "field_value": "USD",
+                        "row_count": 2,
+                        "ratio_percent": 1.834862385321101
+                    },
+                    {
+                        "field_value": "BOB",
+                        "row_count": 1,
+                        "ratio_percent": 0.9174311926605505
+                    },
+                    {
+                        "field_value": "BND",
+                        "row_count": 1,
+                        "ratio_percent": 0.9174311926605505
+                    },
+                    {
+                        "field_value": "BHD",
+                        "row_count": 1,
+                        "ratio_percent": 0.9174311926605505
+                    },
+                    {
+                        "field_value": "BGN",
+                        "row_count": 1,
+                        "ratio_percent": 0.9174311926605505
+                    },
+                    {
+                        "field_value": "BEF",
+                        "row_count": 1,
+                        "ratio_percent": 0.9174311926605505
+                    },
+                    {
+                        "field_value": "BDT",
+                        "row_count": 1,
+                        "ratio_percent": 0.9174311926605505
+                    },
+                    {
+                        "field_value": "BBD",
+                        "row_count": 1,
+                        "ratio_percent": 0.9174311926605505
+                    },
+                    {
+                        "field_value": "AUD",
+                        "row_count": 1,
+                        "ratio_percent": 0.9174311926605505
+                    }
+                ]
+            },
+            {
+                "field": "ModifiedDate",
+                "distribution": [
+                    {
+                        "field_value": "Feb  8 2014 10:17AM",
+                        "row_count": 99,
+                        "ratio_percent": 90.8256880733945
+                    },
+                    {
+                        "field_value": "Apr 30 2008 12:00AM",
+                        "row_count": 10,
+                        "ratio_percent": 9.174311926605505
+                    }
+                ]
+            }
+        ]
+    }
+]

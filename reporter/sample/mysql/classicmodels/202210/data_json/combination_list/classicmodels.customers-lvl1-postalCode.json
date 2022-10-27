@@ -1,0 +1,62 @@
+@startjson
+{
+    "field1": "postalCode",
+    "combination": "postalCode",
+    "null_distribution": {
+        "total_null_rows": 7,
+        "total_not_null_rows": 115
+    },
+    "data_distribution": [
+        {
+            "field_value": "**NULL**",
+            "row_count": 7,
+            "ratio_percent": 5.737704918032787
+        },
+        {
+            "field_value": "94217",
+            "row_count": 5,
+            "ratio_percent": 4.098360655737705
+        },
+        {
+            "field_value": "10022",
+            "row_count": 5,
+            "ratio_percent": 4.098360655737705
+        },
+        {
+            "field_value": "28023",
+            "row_count": 3,
+            "ratio_percent": 2.459016393442623
+        },
+        {
+            "field_value": "58339",
+            "row_count": 3,
+            "ratio_percent": 2.459016393442623
+        },
+        {
+            "field_value": "60528",
+            "row_count": 2,
+            "ratio_percent": 1.639344262295082
+        },
+        {
+            "field_value": "44000",
+            "row_count": 2,
+            "ratio_percent": 1.639344262295082
+        },
+        {
+            "field_value": "94019",
+            "row_count": 2,
+            "ratio_percent": 1.639344262295082
+        },
+        {
+            "field_value": "97562",
+            "row_count": 2,
+            "ratio_percent": 1.639344262295082
+        },
+        {
+            "field_value": "97823",
+            "row_count": 2,
+            "ratio_percent": 1.639344262295082
+        }
+    ]
+}
+@endjson

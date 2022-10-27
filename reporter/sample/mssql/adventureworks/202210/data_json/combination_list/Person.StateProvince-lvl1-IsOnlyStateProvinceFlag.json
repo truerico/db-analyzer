@@ -1,0 +1,22 @@
+@startjson
+{
+    "field1": "IsOnlyStateProvinceFlag",
+    "combination": "IsOnlyStateProvinceFlag",
+    "null_distribution": {
+        "total_null_rows": 0,
+        "total_not_null_rows": 181
+    },
+    "data_distribution": [
+        {
+            "field_value": "0",
+            "row_count": 173,
+            "ratio_percent": 95.58011049723757
+        },
+        {
+            "field_value": "1",
+            "row_count": 8,
+            "ratio_percent": 4.419889502762431
+        }
+    ]
+}
+@endjson

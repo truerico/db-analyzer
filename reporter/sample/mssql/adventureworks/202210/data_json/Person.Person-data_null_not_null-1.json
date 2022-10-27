@@ -1,0 +1,63 @@
+[
+    {
+        "table": "Person.Person",
+        "total_records": 19972,
+        "dataset": [
+            {
+                "field": "PersonType",
+                "total_null_rows": 0,
+                "total_not_null_rows": 19972
+            },
+            {
+                "field": "Suffix",
+                "total_null_rows": 19919,
+                "total_not_null_rows": 53
+            },
+            {
+                "field": "Title",
+                "total_null_rows": 18963,
+                "total_not_null_rows": 1009
+            },
+            {
+                "field": "rowguid",
+                "total_null_rows": 0,
+                "total_not_null_rows": 19972
+            },
+            {
+                "field": "BusinessEntityID",
+                "total_null_rows": 0,
+                "total_not_null_rows": 19972
+            },
+            {
+                "field": "EmailPromotion",
+                "total_null_rows": 0,
+                "total_not_null_rows": 19972
+            },
+            {
+                "field": "FirstName",
+                "total_null_rows": 0,
+                "total_not_null_rows": 19972
+            },
+            {
+                "field": "LastName",
+                "total_null_rows": 0,
+                "total_not_null_rows": 19972
+            },
+            {
+                "field": "MiddleName",
+                "total_null_rows": 8499,
+                "total_not_null_rows": 11473
+            },
+            {
+                "field": "ModifiedDate",
+                "total_null_rows": 0,
+                "total_not_null_rows": 19972
+            },
+            {
+                "field": "NameStyle",
+                "total_null_rows": 0,
+                "total_not_null_rows": 19972
+            }
+        ]
+    }
+]

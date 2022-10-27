@@ -1,0 +1,22 @@
+@startjson
+{
+    "field1": "Gender",
+    "combination": "Gender",
+    "null_distribution": {
+        "total_null_rows": 0,
+        "total_not_null_rows": 290
+    },
+    "data_distribution": [
+        {
+            "field_value": "M",
+            "row_count": 206,
+            "ratio_percent": 71.03448275862068
+        },
+        {
+            "field_value": "F",
+            "row_count": 84,
+            "ratio_percent": 28.96551724137931
+        }
+    ]
+}
+@endjson

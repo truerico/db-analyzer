@@ -1,0 +1,23 @@
+[
+    {
+        "table": "Sales.Currency",
+        "total_records": 105,
+        "dataset": [
+            {
+                "field": "CurrencyCode",
+                "total_null_rows": 0,
+                "total_not_null_rows": 105
+            },
+            {
+                "field": "ModifiedDate",
+                "total_null_rows": 0,
+                "total_not_null_rows": 105
+            },
+            {
+                "field": "Name",
+                "total_null_rows": 0,
+                "total_not_null_rows": 105
+            }
+        ]
+    }
+]

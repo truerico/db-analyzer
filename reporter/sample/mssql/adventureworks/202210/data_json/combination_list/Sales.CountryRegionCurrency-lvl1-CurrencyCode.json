@@ -1,0 +1,62 @@
+@startjson
+{
+    "field1": "CurrencyCode",
+    "combination": "CurrencyCode",
+    "null_distribution": {
+        "total_null_rows": 0,
+        "total_not_null_rows": 109
+    },
+    "data_distribution": [
+        {
+            "field_value": "EUR",
+            "row_count": 12,
+            "ratio_percent": 11.009174311926605
+        },
+        {
+            "field_value": "USD",
+            "row_count": 2,
+            "ratio_percent": 1.834862385321101
+        },
+        {
+            "field_value": "BOB",
+            "row_count": 1,
+            "ratio_percent": 0.9174311926605505
+        },
+        {
+            "field_value": "BND",
+            "row_count": 1,
+            "ratio_percent": 0.9174311926605505
+        },
+        {
+            "field_value": "BHD",
+            "row_count": 1,
+            "ratio_percent": 0.9174311926605505
+        },
+        {
+            "field_value": "BGN",
+            "row_count": 1,
+            "ratio_percent": 0.9174311926605505
+        },
+        {
+            "field_value": "BEF",
+            "row_count": 1,
+            "ratio_percent": 0.9174311926605505
+        },
+        {
+            "field_value": "BDT",
+            "row_count": 1,
+            "ratio_percent": 0.9174311926605505
+        },
+        {
+            "field_value": "BBD",
+            "row_count": 1,
+            "ratio_percent": 0.9174311926605505
+        },
+        {
+            "field_value": "AUD",
+            "row_count": 1,
+            "ratio_percent": 0.9174311926605505
+        }
+    ]
+}
+@endjson

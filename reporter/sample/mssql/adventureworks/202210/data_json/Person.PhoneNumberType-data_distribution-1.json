@@ -1,0 +1,58 @@
+[
+    {
+        "table": "Person.PhoneNumberType",
+        "total_records": 3,
+        "dataset": [
+            {
+                "field": "ModifiedDate",
+                "distribution": [
+                    {
+                        "field_value": "Dec 13 2017  1:19PM",
+                        "row_count": 3,
+                        "ratio_percent": 100.0
+                    }
+                ]
+            },
+            {
+                "field": "Name",
+                "distribution": [
+                    {
+                        "field_value": "Work",
+                        "row_count": 1,
+                        "ratio_percent": 33.333333333333336
+                    },
+                    {
+                        "field_value": "Home",
+                        "row_count": 1,
+                        "ratio_percent": 33.333333333333336
+                    },
+                    {
+                        "field_value": "Cell",
+                        "row_count": 1,
+                        "ratio_percent": 33.333333333333336
+                    }
+                ]
+            },
+            {
+                "field": "PhoneNumberTypeID",
+                "distribution": [
+                    {
+                        "field_value": "3",
+                        "row_count": 1,
+                        "ratio_percent": 33.333333333333336
+                    },
+                    {
+                        "field_value": "2",
+                        "row_count": 1,
+                        "ratio_percent": 33.333333333333336
+                    },
+                    {
+                        "field_value": "1",
+                        "row_count": 1,
+                        "ratio_percent": 33.333333333333336
+                    }
+                ]
+            }
+        ]
+    }
+]

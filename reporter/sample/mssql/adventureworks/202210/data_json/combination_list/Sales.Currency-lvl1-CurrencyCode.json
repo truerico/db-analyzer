@@ -1,0 +1,62 @@
+@startjson
+{
+    "field1": "CurrencyCode",
+    "combination": "CurrencyCode",
+    "null_distribution": {
+        "total_null_rows": 0,
+        "total_not_null_rows": 105
+    },
+    "data_distribution": [
+        {
+            "field_value": "AZM",
+            "row_count": 1,
+            "ratio_percent": 0.9523809523809523
+        },
+        {
+            "field_value": "AWG",
+            "row_count": 1,
+            "ratio_percent": 0.9523809523809523
+        },
+        {
+            "field_value": "AUD",
+            "row_count": 1,
+            "ratio_percent": 0.9523809523809523
+        },
+        {
+            "field_value": "ATS",
+            "row_count": 1,
+            "ratio_percent": 0.9523809523809523
+        },
+        {
+            "field_value": "ARS",
+            "row_count": 1,
+            "ratio_percent": 0.9523809523809523
+        },
+        {
+            "field_value": "AOA",
+            "row_count": 1,
+            "ratio_percent": 0.9523809523809523
+        },
+        {
+            "field_value": "ANG",
+            "row_count": 1,
+            "ratio_percent": 0.9523809523809523
+        },
+        {
+            "field_value": "AMD",
+            "row_count": 1,
+            "ratio_percent": 0.9523809523809523
+        },
+        {
+            "field_value": "ALL",
+            "row_count": 1,
+            "ratio_percent": 0.9523809523809523
+        },
+        {
+            "field_value": "AFA",
+            "row_count": 1,
+            "ratio_percent": 0.9523809523809523
+        }
+    ]
+}
+@endjson

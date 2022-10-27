@@ -1,0 +1,17 @@
+@startjson
+{
+    "field1": "CostLastYear",
+    "combination": "CostLastYear",
+    "null_distribution": {
+        "total_null_rows": 0,
+        "total_not_null_rows": 10
+    },
+    "data_distribution": [
+        {
+            "field_value": "0.00",
+            "row_count": 10,
+            "ratio_percent": 100.0
+        }
+    ]
+}
+@endjson

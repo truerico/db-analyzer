@@ -1,0 +1,62 @@
+@startjson
+{
+    "field1": "OnOrderQty",
+    "combination": "OnOrderQty",
+    "null_distribution": {
+        "total_null_rows": 305,
+        "total_not_null_rows": 155
+    },
+    "data_distribution": [
+        {
+            "field_value": "**NULL**",
+            "row_count": 305,
+            "ratio_percent": 66.30434782608695
+        },
+        {
+            "field_value": "3",
+            "row_count": 63,
+            "ratio_percent": 13.695652173913043
+        },
+        {
+            "field_value": "300",
+            "row_count": 34,
+            "ratio_percent": 7.391304347826087
+        },
+        {
+            "field_value": "60",
+            "row_count": 7,
+            "ratio_percent": 1.5217391304347827
+        },
+        {
+            "field_value": "150",
+            "row_count": 6,
+            "ratio_percent": 1.3043478260869565
+        },
+        {
+            "field_value": "1000",
+            "row_count": 4,
+            "ratio_percent": 0.8695652173913043
+        },
+        {
+            "field_value": "6000",
+            "row_count": 4,
+            "ratio_percent": 0.8695652173913043
+        },
+        {
+            "field_value": "750",
+            "row_count": 4,
+            "ratio_percent": 0.8695652173913043
+        },
+        {
+            "field_value": "1250",
+            "row_count": 3,
+            "ratio_percent": 0.6521739130434783
+        },
+        {
+            "field_value": "2000",
+            "row_count": 3,
+            "ratio_percent": 0.6521739130434783
+        }
+    ]
+}
+@endjson

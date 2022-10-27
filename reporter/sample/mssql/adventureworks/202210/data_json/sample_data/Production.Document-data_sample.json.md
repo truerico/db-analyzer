@@ -1,0 +1,81 @@
+```json
+@startjson
+[
+    {
+        "DocumentLevel": 0,
+        "Title": "Documents",
+        "FolderFlag": true,
+        "FileName": "Documents",
+        "FileExtension": "",
+        "Revision": "0    ",
+        "ChangeNumber": 0,
+        "Status": 2,
+        "DocumentSummary": null,
+        "rowguid": "27CF33AF-C338-4842-966C-75CA11AAA6A3",
+        "ModifiedDate": "2017-12-13 13:58:03.943000",
+        "Owner": 217,
+        "SYS_EXEC_DURATION": "0.218616"
+    },
+    {
+        "DocumentLevel": 1,
+        "Title": "Overview",
+        "FolderFlag": true,
+        "FileName": "Overview",
+        "FileExtension": "",
+        "Revision": "0    ",
+        "ChangeNumber": 0,
+        "Status": 2,
+        "DocumentSummary": null,
+        "rowguid": "26A266F1-1D23-40E2-AF48-6AB8D954FE37",
+        "ModifiedDate": "2017-12-13 13:58:03.977000",
+        "Owner": 217,
+        "SYS_EXEC_DURATION": "0.218824"
+    },
+    {
+        "DocumentLevel": 2,
+        "Title": "Introduction 1",
+        "FolderFlag": false,
+        "FileName": "Introduction 1.doc",
+        "FileExtension": ".doc",
+        "Revision": "4    ",
+        "ChangeNumber": 28,
+        "Status": 2,
+        "DocumentSummary": null,
+        "rowguid": "48265174-8451-4967-973A-639C2276CFAF",
+        "ModifiedDate": "2013-05-30 00:00:00",
+        "Owner": 219,
+        "SYS_EXEC_DURATION": "0.218908"
+    },
+    {
+        "DocumentLevel": 2,
+        "Title": "Repair and Service Guidelines",
+        "FolderFlag": false,
+        "FileName": "Repair and Service Guidelines.doc",
+        "FileExtension": ".doc",
+        "Revision": "0    ",
+        "ChangeNumber": 8,
+        "Status": 2,
+        "DocumentSummary": "It is important that you maintain your bicycle and keep it in good repair. Detailed repair and service guidelines are provided along with instructions for adjusting the tightness of the suspension fork.\r\n\r\n",
+        "rowguid": "7ED4DEF5-D5BB-4818-8748-5BB5F8315FA2",
+        "ModifiedDate": "2008-03-31 00:00:00",
+        "Owner": 220,
+        "SYS_EXEC_DURATION": "0.218993"
+    },
+    {
+        "DocumentLevel": 1,
+        "Title": "Maintenance",
+        "FolderFlag": true,
+        "FileName": "Maintenance",
+        "FileExtension": "",
+        "Revision": "0    ",
+        "ChangeNumber": 0,
+        "Status": 2,
+        "DocumentSummary": null,
+        "rowguid": "5184D96A-EE8C-499A-9316-625496784DE6",
+        "ModifiedDate": "2017-12-13 13:58:04.007000",
+        "Owner": 217,
+        "SYS_EXEC_DURATION": "0.219085"
+    }
+]
+@endjson
+```

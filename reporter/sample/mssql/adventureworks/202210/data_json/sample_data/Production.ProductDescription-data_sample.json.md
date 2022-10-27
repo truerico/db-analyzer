@@ -1,0 +1,41 @@
+```json
+@startjson
+[
+    {
+        "ProductDescriptionID": 3,
+        "Description": "Chromoly steel.",
+        "rowguid": "301EED3A-1A82-4855-99CB-2AFE8290D641",
+        "ModifiedDate": "2013-04-30 00:00:00",
+        "SYS_EXEC_DURATION": "0.205302"
+    },
+    {
+        "ProductDescriptionID": 4,
+        "Description": "Aluminum alloy cups; large diameter spindle.",
+        "rowguid": "DFEBA528-DA11-4650-9D86-CAFDA7294EB0",
+        "ModifiedDate": "2013-04-30 00:00:00",
+        "SYS_EXEC_DURATION": "0.205452"
+    },
+    {
+        "ProductDescriptionID": 5,
+        "Description": "Aluminum alloy cups and a hollow axle.",
+        "rowguid": "F7178DA7-1A7E-4997-8470-06737181305E",
+        "ModifiedDate": "2013-04-30 00:00:00",
+        "SYS_EXEC_DURATION": "0.205513"
+    },
+    {
+        "ProductDescriptionID": 8,
+        "Description": "Suitable for any type of riding, on or off-road. Fits any budget. Smooth-shifting with a comfortable ride.",
+        "rowguid": "8E6746E5-AD97-46E2-BD24-FCEA075C3B52",
+        "ModifiedDate": "2013-04-30 00:00:00",
+        "SYS_EXEC_DURATION": "0.205588"
+    },
+    {
+        "ProductDescriptionID": 64,
+        "Description": "This bike delivers a high-level of performance on a budget. It is responsive and maneuverable, and offers peace-of-mind when you decide to go off-road.",
+        "rowguid": "7B1C4E90-85E2-4792-B47B-E0C424E2EC94",
+        "ModifiedDate": "2013-04-30 00:00:00",
+        "SYS_EXEC_DURATION": "0.205655"
+    }
+]
+@endjson
+```

@@ -1,0 +1,73 @@
+[
+    {
+        "table": "Production.ProductModelIllustration",
+        "total_records": 7,
+        "dataset": [
+            {
+                "field": "IllustrationID",
+                "distribution": [
+                    {
+                        "field_value": "5",
+                        "row_count": 2,
+                        "ratio_percent": 28.571428571428573
+                    },
+                    {
+                        "field_value": "4",
+                        "row_count": 2,
+                        "ratio_percent": 28.571428571428573
+                    },
+                    {
+                        "field_value": "3",
+                        "row_count": 2,
+                        "ratio_percent": 28.571428571428573
+                    },
+                    {
+                        "field_value": "6",
+                        "row_count": 1,
+                        "ratio_percent": 14.285714285714286
+                    }
+                ]
+            },
+            {
+                "field": "ModifiedDate",
+                "distribution": [
+                    {
+                        "field_value": "Jan  9 2014  2:41PM",
+                        "row_count": 7,
+                        "ratio_percent": 100.0
+                    }
+                ]
+            },
+            {
+                "field": "ProductModelID",
+                "distribution": [
+                    {
+                        "field_value": "48",
+                        "row_count": 2,
+                        "ratio_percent": 28.571428571428573
+                    },
+                    {
+                        "field_value": "47",
+                        "row_count": 2,
+                        "ratio_percent": 28.571428571428573
+                    },
+                    {
+                        "field_value": "7",
+                        "row_count": 1,
+                        "ratio_percent": 14.285714285714286
+                    },
+                    {
+                        "field_value": "67",
+                        "row_count": 1,
+                        "ratio_percent": 14.285714285714286
+                    },
+                    {
+                        "field_value": "10",
+                        "row_count": 1,
+                        "ratio_percent": 14.285714285714286
+                    }
+                ]
+            }
+        ]
+    }
+]

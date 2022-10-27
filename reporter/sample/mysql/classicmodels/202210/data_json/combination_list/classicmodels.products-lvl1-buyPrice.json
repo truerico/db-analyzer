@@ -1,0 +1,62 @@
+@startjson
+{
+    "field1": "buyPrice",
+    "combination": "buyPrice",
+    "null_distribution": {
+        "total_null_rows": 0,
+        "total_not_null_rows": 110
+    },
+    "data_distribution": [
+        {
+            "field_value": "33.30",
+            "row_count": 2,
+            "ratio_percent": 1.8181818181818181
+        },
+        {
+            "field_value": "77.90",
+            "row_count": 2,
+            "ratio_percent": 1.8181818181818181
+        },
+        {
+            "field_value": "58.48",
+            "row_count": 1,
+            "ratio_percent": 0.9090909090909091
+        },
+        {
+            "field_value": "37.32",
+            "row_count": 1,
+            "ratio_percent": 0.9090909090909091
+        },
+        {
+            "field_value": "68.29",
+            "row_count": 1,
+            "ratio_percent": 0.9090909090909091
+        },
+        {
+            "field_value": "24.26",
+            "row_count": 1,
+            "ratio_percent": 0.9090909090909091
+        },
+        {
+            "field_value": "23.14",
+            "row_count": 1,
+            "ratio_percent": 0.9090909090909091
+        },
+        {
+            "field_value": "53.93",
+            "row_count": 1,
+            "ratio_percent": 0.9090909090909091
+        },
+        {
+            "field_value": "89.14",
+            "row_count": 1,
+            "ratio_percent": 0.9090909090909091
+        },
+        {
+            "field_value": "57.54",
+            "row_count": 1,
+            "ratio_percent": 0.9090909090909091
+        }
+    ]
+}
+@endjson

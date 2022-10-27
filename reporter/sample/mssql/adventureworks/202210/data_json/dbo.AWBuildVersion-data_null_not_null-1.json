@@ -1,0 +1,28 @@
+[
+    {
+        "table": "dbo.AWBuildVersion",
+        "total_records": 1,
+        "dataset": [
+            {
+                "field": "Database Version",
+                "total_null_rows": 0,
+                "total_not_null_rows": 1
+            },
+            {
+                "field": "ModifiedDate",
+                "total_null_rows": 0,
+                "total_not_null_rows": 1
+            },
+            {
+                "field": "SystemInformationID",
+                "total_null_rows": 0,
+                "total_not_null_rows": 1
+            },
+            {
+                "field": "VersionDate",
+                "total_null_rows": 0,
+                "total_not_null_rows": 1
+            }
+        ]
+    }
+]

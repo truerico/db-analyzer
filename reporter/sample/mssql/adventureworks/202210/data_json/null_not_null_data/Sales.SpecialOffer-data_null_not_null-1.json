@@ -1,0 +1,63 @@
+[
+    {
+        "table": "Sales.SpecialOffer",
+        "total_records": 16,
+        "dataset": [
+            {
+                "field": "Category",
+                "total_null_rows": 0,
+                "total_not_null_rows": 16
+            },
+            {
+                "field": "Type",
+                "total_null_rows": 0,
+                "total_not_null_rows": 16
+            },
+            {
+                "field": "rowguid",
+                "total_null_rows": 0,
+                "total_not_null_rows": 16
+            },
+            {
+                "field": "Description",
+                "total_null_rows": 0,
+                "total_not_null_rows": 16
+            },
+            {
+                "field": "DiscountPct",
+                "total_null_rows": 0,
+                "total_not_null_rows": 16
+            },
+            {
+                "field": "EndDate",
+                "total_null_rows": 0,
+                "total_not_null_rows": 16
+            },
+            {
+                "field": "MinQty",
+                "total_null_rows": 0,
+                "total_not_null_rows": 16
+            },
+            {
+                "field": "MaxQty",
+                "total_null_rows": 12,
+                "total_not_null_rows": 4
+            },
+            {
+                "field": "ModifiedDate",
+                "total_null_rows": 0,
+                "total_not_null_rows": 16
+            },
+            {
+                "field": "SpecialOfferID",
+                "total_null_rows": 0,
+                "total_not_null_rows": 16
+            },
+            {
+                "field": "StartDate",
+                "total_null_rows": 0,
+                "total_not_null_rows": 16
+            }
+        ]
+    }
+]

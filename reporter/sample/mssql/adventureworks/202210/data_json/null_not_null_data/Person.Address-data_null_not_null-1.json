@@ -1,0 +1,48 @@
+[
+    {
+        "table": "Person.Address",
+        "total_records": 19614,
+        "dataset": [
+            {
+                "field": "AddressID",
+                "total_null_rows": 0,
+                "total_not_null_rows": 19614
+            },
+            {
+                "field": "AddressLine1",
+                "total_null_rows": 0,
+                "total_not_null_rows": 19614
+            },
+            {
+                "field": "AddressLine2",
+                "total_null_rows": 19252,
+                "total_not_null_rows": 362
+            },
+            {
+                "field": "City",
+                "total_null_rows": 0,
+                "total_not_null_rows": 19614
+            },
+            {
+                "field": "ModifiedDate",
+                "total_null_rows": 0,
+                "total_not_null_rows": 19614
+            },
+            {
+                "field": "PostalCode",
+                "total_null_rows": 0,
+                "total_not_null_rows": 19614
+            },
+            {
+                "field": "StateProvinceID",
+                "total_null_rows": 0,
+                "total_not_null_rows": 19614
+            },
+            {
+                "field": "rowguid",
+                "total_null_rows": 0,
+                "total_not_null_rows": 19614
+            }
+        ]
+    }
+]

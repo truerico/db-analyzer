@@ -1,0 +1,17 @@
+@startjson
+{
+    "field1": "DiscontinuedDate",
+    "combination": "DiscontinuedDate",
+    "null_distribution": {
+        "total_null_rows": 504,
+        "total_not_null_rows": 0
+    },
+    "data_distribution": [
+        {
+            "field_value": "**NULL**",
+            "row_count": 504,
+            "ratio_percent": 100.0
+        }
+    ]
+}
+@endjson

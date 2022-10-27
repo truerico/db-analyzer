@@ -1,0 +1,62 @@
+@startjson
+{
+    "field1": "WorkOrderID",
+    "combination": "WorkOrderID",
+    "null_distribution": {
+        "total_null_rows": 0,
+        "total_not_null_rows": 67131
+    },
+    "data_distribution": [
+        {
+            "field_value": "51266",
+            "row_count": 6,
+            "ratio_percent": 0.008937748581132414
+        },
+        {
+            "field_value": "44776",
+            "row_count": 6,
+            "ratio_percent": 0.008937748581132414
+        },
+        {
+            "field_value": "60827",
+            "row_count": 6,
+            "ratio_percent": 0.008937748581132414
+        },
+        {
+            "field_value": "64055",
+            "row_count": 6,
+            "ratio_percent": 0.008937748581132414
+        },
+        {
+            "field_value": "8032",
+            "row_count": 6,
+            "ratio_percent": 0.008937748581132414
+        },
+        {
+            "field_value": "58995",
+            "row_count": 6,
+            "ratio_percent": 0.008937748581132414
+        },
+        {
+            "field_value": "71698",
+            "row_count": 6,
+            "ratio_percent": 0.008937748581132414
+        },
+        {
+            "field_value": "17088",
+            "row_count": 6,
+            "ratio_percent": 0.008937748581132414
+        },
+        {
+            "field_value": "49332",
+            "row_count": 6,
+            "ratio_percent": 0.008937748581132414
+        },
+        {
+            "field_value": "49006",
+            "row_count": 6,
+            "ratio_percent": 0.008937748581132414
+        }
+    ]
+}
+@endjson

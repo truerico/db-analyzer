@@ -1,0 +1,51 @@
+```json
+@startjson
+[
+    {
+        "BusinessEntityID": 1,
+        "DepartmentID": 16,
+        "ShiftID": 1,
+        "StartDate": "2009-01-14",
+        "EndDate": null,
+        "ModifiedDate": "2009-01-13 00:00:00",
+        "SYS_EXEC_DURATION": "0.183551"
+    },
+    {
+        "BusinessEntityID": 2,
+        "DepartmentID": 1,
+        "ShiftID": 1,
+        "StartDate": "2008-01-31",
+        "EndDate": null,
+        "ModifiedDate": "2008-01-30 00:00:00",
+        "SYS_EXEC_DURATION": "0.183679"
+    },
+    {
+        "BusinessEntityID": 3,
+        "DepartmentID": 1,
+        "ShiftID": 1,
+        "StartDate": "2007-11-11",
+        "EndDate": null,
+        "ModifiedDate": "2007-11-10 00:00:00",
+        "SYS_EXEC_DURATION": "0.183731"
+    },
+    {
+        "BusinessEntityID": 4,
+        "DepartmentID": 1,
+        "ShiftID": 1,
+        "StartDate": "2007-12-05",
+        "EndDate": "2010-05-30",
+        "ModifiedDate": "2010-05-28 00:00:00",
+        "SYS_EXEC_DURATION": "0.183777"
+    },
+    {
+        "BusinessEntityID": 4,
+        "DepartmentID": 2,
+        "ShiftID": 1,
+        "StartDate": "2010-05-31",
+        "EndDate": null,
+        "ModifiedDate": "2010-05-30 00:00:00",
+        "SYS_EXEC_DURATION": "0.183832"
+    }
+]
+@endjson
+```

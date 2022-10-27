@@ -1,0 +1,62 @@
+@startjson
+{
+    "field1": "PurchaseOrderID",
+    "combination": "PurchaseOrderID",
+    "null_distribution": {
+        "total_null_rows": 0,
+        "total_not_null_rows": 8845
+    },
+    "data_distribution": [
+        {
+            "field_value": "1015",
+            "row_count": 30,
+            "ratio_percent": 0.3391746749576032
+        },
+        {
+            "field_value": "135",
+            "row_count": 26,
+            "ratio_percent": 0.29395138496325607
+        },
+        {
+            "field_value": "2485",
+            "row_count": 26,
+            "ratio_percent": 0.29395138496325607
+        },
+        {
+            "field_value": "3275",
+            "row_count": 26,
+            "ratio_percent": 0.29395138496325607
+        },
+        {
+            "field_value": "1255",
+            "row_count": 24,
+            "ratio_percent": 0.2713397399660825
+        },
+        {
+            "field_value": "515",
+            "row_count": 20,
+            "ratio_percent": 0.22611644997173544
+        },
+        {
+            "field_value": "1115",
+            "row_count": 19,
+            "ratio_percent": 0.21481062747314866
+        },
+        {
+            "field_value": "1855",
+            "row_count": 19,
+            "ratio_percent": 0.21481062747314866
+        },
+        {
+            "field_value": "685",
+            "row_count": 19,
+            "ratio_percent": 0.21481062747314866
+        },
+        {
+            "field_value": "765",
+            "row_count": 17,
+            "ratio_percent": 0.19219898247597514
+        }
+    ]
+}
+@endjson

@@ -1,0 +1,403 @@
+[
+    {
+        "table": "classicmodels.employees",
+        "total_records": 23,
+        "dataset": [
+            {
+                "field": "employeeNumber",
+                "distribution": [
+                    {
+                        "field_value": "1401",
+                        "row_count": 1,
+                        "ratio_percent": 4.3478260869565215
+                    },
+                    {
+                        "field_value": "1216",
+                        "row_count": 1,
+                        "ratio_percent": 4.3478260869565215
+                    },
+                    {
+                        "field_value": "1102",
+                        "row_count": 1,
+                        "ratio_percent": 4.3478260869565215
+                    },
+                    {
+                        "field_value": "1621",
+                        "row_count": 1,
+                        "ratio_percent": 4.3478260869565215
+                    },
+                    {
+                        "field_value": "1501",
+                        "row_count": 1,
+                        "ratio_percent": 4.3478260869565215
+                    },
+                    {
+                        "field_value": "1286",
+                        "row_count": 1,
+                        "ratio_percent": 4.3478260869565215
+                    },
+                    {
+                        "field_value": "1143",
+                        "row_count": 1,
+                        "ratio_percent": 4.3478260869565215
+                    },
+                    {
+                        "field_value": "1625",
+                        "row_count": 1,
+                        "ratio_percent": 4.3478260869565215
+                    },
+                    {
+                        "field_value": "1002",
+                        "row_count": 1,
+                        "ratio_percent": 4.3478260869565215
+                    },
+                    {
+                        "field_value": "1504",
+                        "row_count": 1,
+                        "ratio_percent": 4.3478260869565215
+                    }
+                ]
+            },
+            {
+                "field": "extension",
+                "distribution": [
+                    {
+                        "field_value": "x102",
+                        "row_count": 3,
+                        "ratio_percent": 13.043478260869565
+                    },
+                    {
+                        "field_value": "x101",
+                        "row_count": 2,
+                        "ratio_percent": 8.695652173913043
+                    },
+                    {
+                        "field_value": "x6493",
+                        "row_count": 1,
+                        "ratio_percent": 4.3478260869565215
+                    },
+                    {
+                        "field_value": "x4871",
+                        "row_count": 1,
+                        "ratio_percent": 4.3478260869565215
+                    },
+                    {
+                        "field_value": "x2173",
+                        "row_count": 1,
+                        "ratio_percent": 4.3478260869565215
+                    },
+                    {
+                        "field_value": "x2028",
+                        "row_count": 1,
+                        "ratio_percent": 4.3478260869565215
+                    },
+                    {
+                        "field_value": "x5408",
+                        "row_count": 1,
+                        "ratio_percent": 4.3478260869565215
+                    },
+                    {
+                        "field_value": "x103",
+                        "row_count": 1,
+                        "ratio_percent": 4.3478260869565215
+                    },
+                    {
+                        "field_value": "x4334",
+                        "row_count": 1,
+                        "ratio_percent": 4.3478260869565215
+                    },
+                    {
+                        "field_value": "x5800",
+                        "row_count": 1,
+                        "ratio_percent": 4.3478260869565215
+                    }
+                ]
+            },
+            {
+                "field": "email",
+                "distribution": [
+                    {
+                        "field_value": "jfirrelli@classicmodelcars.com",
+                        "row_count": 2,
+                        "ratio_percent": 8.695652173913043
+                    },
+                    {
+                        "field_value": "gbondur@classicmodelcars.com",
+                        "row_count": 1,
+                        "ratio_percent": 4.3478260869565215
+                    },
+                    {
+                        "field_value": "ghernande@classicmodelcars.com",
+                        "row_count": 1,
+                        "ratio_percent": 4.3478260869565215
+                    },
+                    {
+                        "field_value": "ykato@classicmodelcars.com",
+                        "row_count": 1,
+                        "ratio_percent": 4.3478260869565215
+                    },
+                    {
+                        "field_value": "mpatterso@classicmodelcars.com",
+                        "row_count": 1,
+                        "ratio_percent": 4.3478260869565215
+                    },
+                    {
+                        "field_value": "ftseng@classicmodelcars.com",
+                        "row_count": 1,
+                        "ratio_percent": 4.3478260869565215
+                    },
+                    {
+                        "field_value": "pmarsh@classicmodelcars.com",
+                        "row_count": 1,
+                        "ratio_percent": 4.3478260869565215
+                    },
+                    {
+                        "field_value": "ljennings@classicmodelcars.com",
+                        "row_count": 1,
+                        "ratio_percent": 4.3478260869565215
+                    },
+                    {
+                        "field_value": "lbott@classicmodelcars.com",
+                        "row_count": 1,
+                        "ratio_percent": 4.3478260869565215
+                    },
+                    {
+                        "field_value": "wpatterson@classicmodelcars.com",
+                        "row_count": 1,
+                        "ratio_percent": 4.3478260869565215
+                    }
+                ]
+            },
+            {
+                "field": "firstName",
+                "distribution": [
+                    {
+                        "field_value": "Leslie",
+                        "row_count": 2,
+                        "ratio_percent": 8.695652173913043
+                    },
+                    {
+                        "field_value": "Gerard",
+                        "row_count": 2,
+                        "ratio_percent": 8.695652173913043
+                    },
+                    {
+                        "field_value": "George",
+                        "row_count": 1,
+                        "ratio_percent": 4.3478260869565215
+                    },
+                    {
+                        "field_value": "Peter",
+                        "row_count": 1,
+                        "ratio_percent": 4.3478260869565215
+                    },
+                    {
+                        "field_value": "William",
+                        "row_count": 1,
+                        "ratio_percent": 4.3478260869565215
+                    },
+                    {
+                        "field_value": "Foon Yue",
+                        "row_count": 1,
+                        "ratio_percent": 4.3478260869565215
+                    },
+                    {
+                        "field_value": "Andy",
+                        "row_count": 1,
+                        "ratio_percent": 4.3478260869565215
+                    },
+                    {
+                        "field_value": "Jeff",
+                        "row_count": 1,
+                        "ratio_percent": 4.3478260869565215
+                    },
+                    {
+                        "field_value": "Steve",
+                        "row_count": 1,
+                        "ratio_percent": 4.3478260869565215
+                    },
+                    {
+                        "field_value": "Barry",
+                        "row_count": 1,
+                        "ratio_percent": 4.3478260869565215
+                    }
+                ]
+            },
+            {
+                "field": "jobTitle",
+                "distribution": [
+                    {
+                        "field_value": "Sales Rep",
+                        "row_count": 17,
+                        "ratio_percent": 73.91304347826087
+                    },
+                    {
+                        "field_value": "VP Marketing",
+                        "row_count": 1,
+                        "ratio_percent": 4.3478260869565215
+                    },
+                    {
+                        "field_value": "VP Sales",
+                        "row_count": 1,
+                        "ratio_percent": 4.3478260869565215
+                    },
+                    {
+                        "field_value": "President",
+                        "row_count": 1,
+                        "ratio_percent": 4.3478260869565215
+                    },
+                    {
+                        "field_value": "Sales Manager (NA)",
+                        "row_count": 1,
+                        "ratio_percent": 4.3478260869565215
+                    },
+                    {
+                        "field_value": "Sale Manager (EMEA)",
+                        "row_count": 1,
+                        "ratio_percent": 4.3478260869565215
+                    },
+                    {
+                        "field_value": "Sales Manager (APAC)",
+                        "row_count": 1,
+                        "ratio_percent": 4.3478260869565215
+                    }
+                ]
+            },
+            {
+                "field": "lastName",
+                "distribution": [
+                    {
+                        "field_value": "Patterson",
+                        "row_count": 3,
+                        "ratio_percent": 13.043478260869565
+                    },
+                    {
+                        "field_value": "Bondur",
+                        "row_count": 2,
+                        "ratio_percent": 8.695652173913043
+                    },
+                    {
+                        "field_value": "Firrelli",
+                        "row_count": 2,
+                        "ratio_percent": 8.695652173913043
+                    },
+                    {
+                        "field_value": "Castillo",
+                        "row_count": 1,
+                        "ratio_percent": 4.3478260869565215
+                    },
+                    {
+                        "field_value": "Nishi",
+                        "row_count": 1,
+                        "ratio_percent": 4.3478260869565215
+                    },
+                    {
+                        "field_value": "Hernandez",
+                        "row_count": 1,
+                        "ratio_percent": 4.3478260869565215
+                    },
+                    {
+                        "field_value": "King",
+                        "row_count": 1,
+                        "ratio_percent": 4.3478260869565215
+                    },
+                    {
+                        "field_value": "Vanauf",
+                        "row_count": 1,
+                        "ratio_percent": 4.3478260869565215
+                    },
+                    {
+                        "field_value": "Marsh",
+                        "row_count": 1,
+                        "ratio_percent": 4.3478260869565215
+                    },
+                    {
+                        "field_value": "Tseng",
+                        "row_count": 1,
+                        "ratio_percent": 4.3478260869565215
+                    }
+                ]
+            },
+            {
+                "field": "officeCode",
+                "distribution": [
+                    {
+                        "field_value": "1",
+                        "row_count": 6,
+                        "ratio_percent": 26.08695652173913
+                    },
+                    {
+                        "field_value": "4",
+                        "row_count": 5,
+                        "ratio_percent": 21.73913043478261
+                    },
+                    {
+                        "field_value": "6",
+                        "row_count": 4,
+                        "ratio_percent": 17.391304347826086
+                    },
+                    {
+                        "field_value": "5",
+                        "row_count": 2,
+                        "ratio_percent": 8.695652173913043
+                    },
+                    {
+                        "field_value": "2",
+                        "row_count": 2,
+                        "ratio_percent": 8.695652173913043
+                    },
+                    {
+                        "field_value": "7",
+                        "row_count": 2,
+                        "ratio_percent": 8.695652173913043
+                    },
+                    {
+                        "field_value": "3",
+                        "row_count": 2,
+                        "ratio_percent": 8.695652173913043
+                    }
+                ]
+            },
+            {
+                "field": "reportsTo",
+                "distribution": [
+                    {
+                        "field_value": "1102",
+                        "row_count": 6,
+                        "ratio_percent": 26.08695652173913
+                    },
+                    {
+                        "field_value": "1143",
+                        "row_count": 6,
+                        "ratio_percent": 26.08695652173913
+                    },
+                    {
+                        "field_value": "1056",
+                        "row_count": 4,
+                        "ratio_percent": 17.391304347826086
+                    },
+                    {
+                        "field_value": "1088",
+                        "row_count": 3,
+                        "ratio_percent": 13.043478260869565
+                    },
+                    {
+                        "field_value": "1002",
+                        "row_count": 2,
+                        "ratio_percent": 8.695652173913043
+                    },
+                    {
+                        "field_value": "**NULL**",
+                        "row_count": 1,
+                        "ratio_percent": 4.3478260869565215
+                    },
+                    {
+                        "field_value": "1621",
+                        "row_count": 1,
+                        "ratio_percent": 4.3478260869565215
+                    }
+                ]
+            }
+        ]
+    }
+]

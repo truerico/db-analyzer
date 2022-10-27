@@ -1,0 +1,22 @@
+@startjson
+{
+    "field1": "PreferredVendorStatus",
+    "combination": "PreferredVendorStatus",
+    "null_distribution": {
+        "total_null_rows": 0,
+        "total_not_null_rows": 104
+    },
+    "data_distribution": [
+        {
+            "field_value": "1",
+            "row_count": 93,
+            "ratio_percent": 89.42307692307692
+        },
+        {
+            "field_value": "0",
+            "row_count": 11,
+            "ratio_percent": 10.576923076923077
+        }
+    ]
+}
+@endjson

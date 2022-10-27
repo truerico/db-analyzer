@@ -1,0 +1,33 @@
+[
+    {
+        "table": "Person.BusinessEntityAddress",
+        "total_records": 19614,
+        "dataset": [
+            {
+                "field": "AddressID",
+                "total_null_rows": 0,
+                "total_not_null_rows": 19614
+            },
+            {
+                "field": "AddressTypeID",
+                "total_null_rows": 0,
+                "total_not_null_rows": 19614
+            },
+            {
+                "field": "BusinessEntityID",
+                "total_null_rows": 0,
+                "total_not_null_rows": 19614
+            },
+            {
+                "field": "ModifiedDate",
+                "total_null_rows": 0,
+                "total_not_null_rows": 19614
+            },
+            {
+                "field": "rowguid",
+                "total_null_rows": 0,
+                "total_not_null_rows": 19614
+            }
+        ]
+    }
+]

@@ -1,0 +1,47 @@
+@startjson
+{
+    "field1": "ActualCost",
+    "combination": "ActualCost",
+    "null_distribution": {
+        "total_null_rows": 0,
+        "total_not_null_rows": 67131
+    },
+    "data_distribution": [
+        {
+            "field_value": "36.75",
+            "row_count": 30107,
+            "ratio_percent": 44.848132755358925
+        },
+        {
+            "field_value": "49.00",
+            "row_count": 18554,
+            "ratio_percent": 27.638497862388466
+        },
+        {
+            "field_value": "92.25",
+            "row_count": 9567,
+            "ratio_percent": 14.251240112615632
+        },
+        {
+            "field_value": "87.50",
+            "row_count": 5923,
+            "ratio_percent": 8.823047474341214
+        },
+        {
+            "field_value": "14.50",
+            "row_count": 1490,
+            "ratio_percent": 2.2195408976478825
+        },
+        {
+            "field_value": "31.50",
+            "row_count": 816,
+            "ratio_percent": 1.215533807034008
+        },
+        {
+            "field_value": "36.00",
+            "row_count": 674,
+            "ratio_percent": 1.0040070906138743
+        }
+    ]
+}
+@endjson

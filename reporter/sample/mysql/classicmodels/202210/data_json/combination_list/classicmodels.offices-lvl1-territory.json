@@ -1,0 +1,32 @@
+@startjson
+{
+    "field1": "territory",
+    "combination": "territory",
+    "null_distribution": {
+        "total_null_rows": 0,
+        "total_not_null_rows": 7
+    },
+    "data_distribution": [
+        {
+            "field_value": "NA",
+            "row_count": 3,
+            "ratio_percent": 42.857142857142854
+        },
+        {
+            "field_value": "EMEA",
+            "row_count": 2,
+            "ratio_percent": 28.571428571428573
+        },
+        {
+            "field_value": "Japan",
+            "row_count": 1,
+            "ratio_percent": 14.285714285714286
+        },
+        {
+            "field_value": "APAC",
+            "row_count": 1,
+            "ratio_percent": 14.285714285714286
+        }
+    ]
+}
+@endjson

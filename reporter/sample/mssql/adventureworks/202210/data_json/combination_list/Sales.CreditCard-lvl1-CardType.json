@@ -1,0 +1,32 @@
+@startjson
+{
+    "field1": "CardType",
+    "combination": "CardType",
+    "null_distribution": {
+        "total_null_rows": 0,
+        "total_not_null_rows": 19118
+    },
+    "data_distribution": [
+        {
+            "field_value": "SuperiorCard",
+            "row_count": 4839,
+            "ratio_percent": 25.31122502353803
+        },
+        {
+            "field_value": "Distinguish",
+            "row_count": 4832,
+            "ratio_percent": 25.274610314886495
+        },
+        {
+            "field_value": "ColonialVoice",
+            "row_count": 4782,
+            "ratio_percent": 25.01307668166126
+        },
+        {
+            "field_value": "Vista",
+            "row_count": 4665,
+            "ratio_percent": 24.401087979914216
+        }
+    ]
+}
+@endjson

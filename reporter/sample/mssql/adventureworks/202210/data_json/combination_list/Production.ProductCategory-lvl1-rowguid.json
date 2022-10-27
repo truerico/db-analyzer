@@ -1,0 +1,32 @@
+@startjson
+{
+    "field1": "rowguid",
+    "combination": "rowguid",
+    "null_distribution": {
+        "total_null_rows": 0,
+        "total_not_null_rows": 4
+    },
+    "data_distribution": [
+        {
+            "field_value": "CFBDA25C-DF71-47A7-B81B-64EE161AA37C",
+            "row_count": 1,
+            "ratio_percent": 25.0
+        },
+        {
+            "field_value": "C657828D-D808-4ABA-91A3-AF2CE02300E9",
+            "row_count": 1,
+            "ratio_percent": 25.0
+        },
+        {
+            "field_value": "2BE3BE36-D9A2-4EEE-B593-ED895D97C2A6",
+            "row_count": 1,
+            "ratio_percent": 25.0
+        },
+        {
+            "field_value": "10A7C342-CA82-48D4-8A38-46A2EB089B74",
+            "row_count": 1,
+            "ratio_percent": 25.0
+        }
+    ]
+}
+@endjson

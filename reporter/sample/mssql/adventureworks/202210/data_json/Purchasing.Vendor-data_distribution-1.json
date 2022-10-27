@@ -1,0 +1,328 @@
+[
+    {
+        "table": "Purchasing.Vendor",
+        "total_records": 104,
+        "dataset": [
+            {
+                "field": "AccountNumber",
+                "distribution": [
+                    {
+                        "field_value": "BICYCLE0001",
+                        "row_count": 1,
+                        "ratio_percent": 0.9615384615384616
+                    },
+                    {
+                        "field_value": "BERGERON0001",
+                        "row_count": 1,
+                        "ratio_percent": 0.9615384615384616
+                    },
+                    {
+                        "field_value": "BEAUMONT0001",
+                        "row_count": 1,
+                        "ratio_percent": 0.9615384615384616
+                    },
+                    {
+                        "field_value": "AUSTRALI0001",
+                        "row_count": 1,
+                        "ratio_percent": 0.9615384615384616
+                    },
+                    {
+                        "field_value": "AURORAB0001",
+                        "row_count": 1,
+                        "ratio_percent": 0.9615384615384616
+                    },
+                    {
+                        "field_value": "ANDERSON0001",
+                        "row_count": 1,
+                        "ratio_percent": 0.9615384615384616
+                    },
+                    {
+                        "field_value": "AMERICAN0002",
+                        "row_count": 1,
+                        "ratio_percent": 0.9615384615384616
+                    },
+                    {
+                        "field_value": "AMERICAN0001",
+                        "row_count": 1,
+                        "ratio_percent": 0.9615384615384616
+                    },
+                    {
+                        "field_value": "ALLENSON0001",
+                        "row_count": 1,
+                        "ratio_percent": 0.9615384615384616
+                    },
+                    {
+                        "field_value": "ADVANCED0001",
+                        "row_count": 1,
+                        "ratio_percent": 0.9615384615384616
+                    }
+                ]
+            },
+            {
+                "field": "ActiveFlag",
+                "distribution": [
+                    {
+                        "field_value": "1",
+                        "row_count": 100,
+                        "ratio_percent": 96.15384615384616
+                    },
+                    {
+                        "field_value": "0",
+                        "row_count": 4,
+                        "ratio_percent": 3.8461538461538463
+                    }
+                ]
+            },
+            {
+                "field": "BusinessEntityID",
+                "distribution": [
+                    {
+                        "field_value": "1512",
+                        "row_count": 1,
+                        "ratio_percent": 0.9615384615384616
+                    },
+                    {
+                        "field_value": "1510",
+                        "row_count": 1,
+                        "ratio_percent": 0.9615384615384616
+                    },
+                    {
+                        "field_value": "1508",
+                        "row_count": 1,
+                        "ratio_percent": 0.9615384615384616
+                    },
+                    {
+                        "field_value": "1506",
+                        "row_count": 1,
+                        "ratio_percent": 0.9615384615384616
+                    },
+                    {
+                        "field_value": "1504",
+                        "row_count": 1,
+                        "ratio_percent": 0.9615384615384616
+                    },
+                    {
+                        "field_value": "1502",
+                        "row_count": 1,
+                        "ratio_percent": 0.9615384615384616
+                    },
+                    {
+                        "field_value": "1500",
+                        "row_count": 1,
+                        "ratio_percent": 0.9615384615384616
+                    },
+                    {
+                        "field_value": "1498",
+                        "row_count": 1,
+                        "ratio_percent": 0.9615384615384616
+                    },
+                    {
+                        "field_value": "1496",
+                        "row_count": 1,
+                        "ratio_percent": 0.9615384615384616
+                    },
+                    {
+                        "field_value": "1494",
+                        "row_count": 1,
+                        "ratio_percent": 0.9615384615384616
+                    }
+                ]
+            },
+            {
+                "field": "CreditRating",
+                "distribution": [
+                    {
+                        "field_value": "1",
+                        "row_count": 84,
+                        "ratio_percent": 80.76923076923077
+                    },
+                    {
+                        "field_value": "2",
+                        "row_count": 9,
+                        "ratio_percent": 8.653846153846153
+                    },
+                    {
+                        "field_value": "3",
+                        "row_count": 7,
+                        "ratio_percent": 6.730769230769231
+                    },
+                    {
+                        "field_value": "5",
+                        "row_count": 2,
+                        "ratio_percent": 1.9230769230769231
+                    },
+                    {
+                        "field_value": "4",
+                        "row_count": 2,
+                        "ratio_percent": 1.9230769230769231
+                    }
+                ]
+            },
+            {
+                "field": "ModifiedDate",
+                "distribution": [
+                    {
+                        "field_value": "Feb  2 2012 12:00AM",
+                        "row_count": 20,
+                        "ratio_percent": 19.23076923076923
+                    },
+                    {
+                        "field_value": "Jan 25 2012 12:00AM",
+                        "row_count": 19,
+                        "ratio_percent": 18.26923076923077
+                    },
+                    {
+                        "field_value": "Dec 24 2011 12:00AM",
+                        "row_count": 17,
+                        "ratio_percent": 16.346153846153847
+                    },
+                    {
+                        "field_value": "Feb  3 2012 12:00AM",
+                        "row_count": 11,
+                        "ratio_percent": 10.576923076923077
+                    },
+                    {
+                        "field_value": "Dec 23 2011 12:00AM",
+                        "row_count": 10,
+                        "ratio_percent": 9.615384615384615
+                    },
+                    {
+                        "field_value": "Feb 18 2012 12:00AM",
+                        "row_count": 7,
+                        "ratio_percent": 6.730769230769231
+                    },
+                    {
+                        "field_value": "Jan 29 2012 12:00AM",
+                        "row_count": 6,
+                        "ratio_percent": 5.769230769230769
+                    },
+                    {
+                        "field_value": "May  9 2011 12:00AM",
+                        "row_count": 5,
+                        "ratio_percent": 4.8076923076923075
+                    },
+                    {
+                        "field_value": "Jan 17 2012 12:00AM",
+                        "row_count": 5,
+                        "ratio_percent": 4.8076923076923075
+                    },
+                    {
+                        "field_value": "Apr 25 2011 12:00AM",
+                        "row_count": 4,
+                        "ratio_percent": 3.8461538461538463
+                    }
+                ]
+            },
+            {
+                "field": "Name",
+                "distribution": [
+                    {
+                        "field_value": "Bicycle Specialists",
+                        "row_count": 1,
+                        "ratio_percent": 0.9615384615384616
+                    },
+                    {
+                        "field_value": "Bergeron Off-Roads",
+                        "row_count": 1,
+                        "ratio_percent": 0.9615384615384616
+                    },
+                    {
+                        "field_value": "Beaumont Bikes",
+                        "row_count": 1,
+                        "ratio_percent": 0.9615384615384616
+                    },
+                    {
+                        "field_value": "Australia Bike Retailer",
+                        "row_count": 1,
+                        "ratio_percent": 0.9615384615384616
+                    },
+                    {
+                        "field_value": "Aurora Bike Center",
+                        "row_count": 1,
+                        "ratio_percent": 0.9615384615384616
+                    },
+                    {
+                        "field_value": "Anderson's Custom Bikes",
+                        "row_count": 1,
+                        "ratio_percent": 0.9615384615384616
+                    },
+                    {
+                        "field_value": "American Bikes",
+                        "row_count": 1,
+                        "ratio_percent": 0.9615384615384616
+                    },
+                    {
+                        "field_value": "American Bicycles and Wheels",
+                        "row_count": 1,
+                        "ratio_percent": 0.9615384615384616
+                    },
+                    {
+                        "field_value": "Allenson Cycles",
+                        "row_count": 1,
+                        "ratio_percent": 0.9615384615384616
+                    },
+                    {
+                        "field_value": "Advanced Bicycles",
+                        "row_count": 1,
+                        "ratio_percent": 0.9615384615384616
+                    }
+                ]
+            },
+            {
+                "field": "PreferredVendorStatus",
+                "distribution": [
+                    {
+                        "field_value": "1",
+                        "row_count": 93,
+                        "ratio_percent": 89.42307692307692
+                    },
+                    {
+                        "field_value": "0",
+                        "row_count": 11,
+                        "ratio_percent": 10.576923076923077
+                    }
+                ]
+            },
+            {
+                "field": "PurchasingWebServiceURL",
+                "distribution": [
+                    {
+                        "field_value": "**NULL**",
+                        "row_count": 98,
+                        "ratio_percent": 94.23076923076923
+                    },
+                    {
+                        "field_value": "www.wideworldimporters.com/",
+                        "row_count": 1,
+                        "ratio_percent": 0.9615384615384616
+                    },
+                    {
+                        "field_value": "www.treyresearch.net/",
+                        "row_count": 1,
+                        "ratio_percent": 0.9615384615384616
+                    },
+                    {
+                        "field_value": "www.proseware.com/",
+                        "row_count": 1,
+                        "ratio_percent": 0.9615384615384616
+                    },
+                    {
+                        "field_value": "www.northwindtraders.com/",
+                        "row_count": 1,
+                        "ratio_percent": 0.9615384615384616
+                    },
+                    {
+                        "field_value": "www.litwareinc.com/",
+                        "row_count": 1,
+                        "ratio_percent": 0.9615384615384616
+                    },
+                    {
+                        "field_value": "www.adatum.com/",
+                        "row_count": 1,
+                        "ratio_percent": 0.9615384615384616
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,62 @@
+@startjson
+{
+    "field1": "employeeNumber",
+    "combination": "employeeNumber",
+    "null_distribution": {
+        "total_null_rows": 0,
+        "total_not_null_rows": 23
+    },
+    "data_distribution": [
+        {
+            "field_value": "1401",
+            "row_count": 1,
+            "ratio_percent": 4.3478260869565215
+        },
+        {
+            "field_value": "1216",
+            "row_count": 1,
+            "ratio_percent": 4.3478260869565215
+        },
+        {
+            "field_value": "1102",
+            "row_count": 1,
+            "ratio_percent": 4.3478260869565215
+        },
+        {
+            "field_value": "1621",
+            "row_count": 1,
+            "ratio_percent": 4.3478260869565215
+        },
+        {
+            "field_value": "1501",
+            "row_count": 1,
+            "ratio_percent": 4.3478260869565215
+        },
+        {
+            "field_value": "1286",
+            "row_count": 1,
+            "ratio_percent": 4.3478260869565215
+        },
+        {
+            "field_value": "1143",
+            "row_count": 1,
+            "ratio_percent": 4.3478260869565215
+        },
+        {
+            "field_value": "1625",
+            "row_count": 1,
+            "ratio_percent": 4.3478260869565215
+        },
+        {
+            "field_value": "1002",
+            "row_count": 1,
+            "ratio_percent": 4.3478260869565215
+        },
+        {
+            "field_value": "1504",
+            "row_count": 1,
+            "ratio_percent": 4.3478260869565215
+        }
+    ]
+}
+@endjson

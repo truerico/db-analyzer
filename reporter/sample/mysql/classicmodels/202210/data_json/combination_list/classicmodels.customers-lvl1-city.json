@@ -1,0 +1,62 @@
+@startjson
+{
+    "field1": "city",
+    "combination": "city",
+    "null_distribution": {
+        "total_null_rows": 0,
+        "total_not_null_rows": 122
+    },
+    "data_distribution": [
+        {
+            "field_value": "NYC",
+            "row_count": 5,
+            "ratio_percent": 4.098360655737705
+        },
+        {
+            "field_value": "Madrid",
+            "row_count": 5,
+            "ratio_percent": 4.098360655737705
+        },
+        {
+            "field_value": "Brickhaven",
+            "row_count": 3,
+            "ratio_percent": 2.459016393442623
+        },
+        {
+            "field_value": "Paris",
+            "row_count": 3,
+            "ratio_percent": 2.459016393442623
+        },
+        {
+            "field_value": "Auckland",
+            "row_count": 3,
+            "ratio_percent": 2.459016393442623
+        },
+        {
+            "field_value": "Singapore",
+            "row_count": 3,
+            "ratio_percent": 2.459016393442623
+        },
+        {
+            "field_value": "Glendale",
+            "row_count": 2,
+            "ratio_percent": 1.639344262295082
+        },
+        {
+            "field_value": "Cambridge",
+            "row_count": 2,
+            "ratio_percent": 1.639344262295082
+        },
+        {
+            "field_value": "London",
+            "row_count": 2,
+            "ratio_percent": 1.639344262295082
+        },
+        {
+            "field_value": "San Francisco",
+            "row_count": 2,
+            "ratio_percent": 1.639344262295082
+        }
+    ]
+}
+@endjson

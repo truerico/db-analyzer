@@ -1,0 +1,11 @@
+employeeNumber,lastName,firstName,extension,email,jobTitle,officeCode,reportsTo,SYS_EXEC_DURATION
+1401,Castillo,Pamela,x2759,pcastillo@classicmodelcars.com,Sales Rep,4,1102,0.197749
+1102,Bondur,Gerard,x5408,gbondur@classicmodelcars.com,Sale Manager (EMEA),4,1056,0.19807
+1611,Fixter,Andy,x101,afixter@classicmodelcars.com,Sales Rep,6,1088,0.198318
+1501,Bott,Larry,x2311,lbott@classicmodelcars.com,Sales Rep,7,1102,0.198539
+1702,Gerard,Martin,x2312,mgerard@classicmodelcars.com,Sales Rep,4,1102,0.198754
+1619,King,Tom,x103,tking@classicmodelcars.com,Sales Rep,6,1088,0.198966
+1337,Bondur,Loui,x6493,lbondur@classicmodelcars.com,Sales Rep,4,1102,0.199176
+1076,Firrelli,Jeff,x9273,jfirrelli@classicmodelcars.com,VP Marketing,1,1002,0.199402
+1504,Jones,Barry,x102,bjones@classicmodelcars.com,Sales Rep,7,1102,0.199611
+1621,Nishi,Mami,x101,mnishi@classicmodelcars.com,Sales Rep,5,1056,0.19983

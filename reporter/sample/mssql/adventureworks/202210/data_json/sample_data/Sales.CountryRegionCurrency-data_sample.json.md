@@ -1,0 +1,36 @@
+```json
+@startjson
+[
+    {
+        "CountryRegionCode": "AE",
+        "CurrencyCode": "AED",
+        "ModifiedDate": "2014-02-08 10:17:21.510000",
+        "SYS_EXEC_DURATION": "0.178249"
+    },
+    {
+        "CountryRegionCode": "AR",
+        "CurrencyCode": "ARS",
+        "ModifiedDate": "2014-02-08 10:17:21.510000",
+        "SYS_EXEC_DURATION": "0.178372"
+    },
+    {
+        "CountryRegionCode": "AT",
+        "CurrencyCode": "ATS",
+        "ModifiedDate": "2014-02-08 10:17:21.510000",
+        "SYS_EXEC_DURATION": "0.178416"
+    },
+    {
+        "CountryRegionCode": "AT",
+        "CurrencyCode": "EUR",
+        "ModifiedDate": "2008-04-30 00:00:00",
+        "SYS_EXEC_DURATION": "0.178455"
+    },
+    {
+        "CountryRegionCode": "AU",
+        "CurrencyCode": "AUD",
+        "ModifiedDate": "2014-02-08 10:17:21.510000",
+        "SYS_EXEC_DURATION": "0.178503"
+    }
+]
+@endjson
+```

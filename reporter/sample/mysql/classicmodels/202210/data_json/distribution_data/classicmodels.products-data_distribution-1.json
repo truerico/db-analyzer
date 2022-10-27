@@ -1,0 +1,478 @@
+[
+    {
+        "table": "classicmodels.products",
+        "total_records": 110,
+        "dataset": [
+            {
+                "field": "MSRP",
+                "distribution": [
+                    {
+                        "field_value": "50.31",
+                        "row_count": 2,
+                        "ratio_percent": 1.8181818181818181
+                    },
+                    {
+                        "field_value": "117.44",
+                        "row_count": 2,
+                        "ratio_percent": 1.8181818181818181
+                    },
+                    {
+                        "field_value": "127.13",
+                        "row_count": 1,
+                        "ratio_percent": 0.9090909090909091
+                    },
+                    {
+                        "field_value": "76.17",
+                        "row_count": 1,
+                        "ratio_percent": 0.9090909090909091
+                    },
+                    {
+                        "field_value": "58.58",
+                        "row_count": 1,
+                        "ratio_percent": 0.9090909090909091
+                    },
+                    {
+                        "field_value": "53.91",
+                        "row_count": 1,
+                        "ratio_percent": 0.9090909090909091
+                    },
+                    {
+                        "field_value": "121.08",
+                        "row_count": 1,
+                        "ratio_percent": 0.9090909090909091
+                    },
+                    {
+                        "field_value": "99.89",
+                        "row_count": 1,
+                        "ratio_percent": 0.9090909090909091
+                    },
+                    {
+                        "field_value": "151.08",
+                        "row_count": 1,
+                        "ratio_percent": 0.9090909090909091
+                    },
+                    {
+                        "field_value": "80.41",
+                        "row_count": 1,
+                        "ratio_percent": 0.9090909090909091
+                    }
+                ]
+            },
+            {
+                "field": "buyPrice",
+                "distribution": [
+                    {
+                        "field_value": "33.30",
+                        "row_count": 2,
+                        "ratio_percent": 1.8181818181818181
+                    },
+                    {
+                        "field_value": "77.90",
+                        "row_count": 2,
+                        "ratio_percent": 1.8181818181818181
+                    },
+                    {
+                        "field_value": "58.48",
+                        "row_count": 1,
+                        "ratio_percent": 0.9090909090909091
+                    },
+                    {
+                        "field_value": "37.32",
+                        "row_count": 1,
+                        "ratio_percent": 0.9090909090909091
+                    },
+                    {
+                        "field_value": "68.29",
+                        "row_count": 1,
+                        "ratio_percent": 0.9090909090909091
+                    },
+                    {
+                        "field_value": "24.26",
+                        "row_count": 1,
+                        "ratio_percent": 0.9090909090909091
+                    },
+                    {
+                        "field_value": "23.14",
+                        "row_count": 1,
+                        "ratio_percent": 0.9090909090909091
+                    },
+                    {
+                        "field_value": "53.93",
+                        "row_count": 1,
+                        "ratio_percent": 0.9090909090909091
+                    },
+                    {
+                        "field_value": "89.14",
+                        "row_count": 1,
+                        "ratio_percent": 0.9090909090909091
+                    },
+                    {
+                        "field_value": "57.54",
+                        "row_count": 1,
+                        "ratio_percent": 0.9090909090909091
+                    }
+                ]
+            },
+            {
+                "field": "productCode",
+                "distribution": [
+                    {
+                        "field_value": "S18_1984",
+                        "row_count": 1,
+                        "ratio_percent": 0.9090909090909091
+                    },
+                    {
+                        "field_value": "S24_1444",
+                        "row_count": 1,
+                        "ratio_percent": 0.9090909090909091
+                    },
+                    {
+                        "field_value": "S32_3207",
+                        "row_count": 1,
+                        "ratio_percent": 0.9090909090909091
+                    },
+                    {
+                        "field_value": "S18_1129",
+                        "row_count": 1,
+                        "ratio_percent": 0.9090909090909091
+                    },
+                    {
+                        "field_value": "S18_4409",
+                        "row_count": 1,
+                        "ratio_percent": 0.9090909090909091
+                    },
+                    {
+                        "field_value": "S24_4258",
+                        "row_count": 1,
+                        "ratio_percent": 0.9090909090909091
+                    },
+                    {
+                        "field_value": "S12_3148",
+                        "row_count": 1,
+                        "ratio_percent": 0.9090909090909091
+                    },
+                    {
+                        "field_value": "S18_3278",
+                        "row_count": 1,
+                        "ratio_percent": 0.9090909090909091
+                    },
+                    {
+                        "field_value": "S24_3420",
+                        "row_count": 1,
+                        "ratio_percent": 0.9090909090909091
+                    },
+                    {
+                        "field_value": "S700_3962",
+                        "row_count": 1,
+                        "ratio_percent": 0.9090909090909091
+                    }
+                ]
+            },
+            {
+                "field": "productName",
+                "distribution": [
+                    {
+                        "field_value": "1995 Honda Civic",
+                        "row_count": 1,
+                        "ratio_percent": 0.9090909090909091
+                    },
+                    {
+                        "field_value": "1970 Dodge Coronet",
+                        "row_count": 1,
+                        "ratio_percent": 0.9090909090909091
+                    },
+                    {
+                        "field_value": "1950's Chicago Surface Lines Streetcar",
+                        "row_count": 1,
+                        "ratio_percent": 0.9090909090909091
+                    },
+                    {
+                        "field_value": "1962 LanciaA Delta 16V",
+                        "row_count": 1,
+                        "ratio_percent": 0.9090909090909091
+                    },
+                    {
+                        "field_value": "18th Century Vintage Horse Carriage",
+                        "row_count": 1,
+                        "ratio_percent": 0.9090909090909091
+                    },
+                    {
+                        "field_value": "1952 Citroen-15CV",
+                        "row_count": 1,
+                        "ratio_percent": 0.9090909090909091
+                    },
+                    {
+                        "field_value": "The USS Constitution Ship",
+                        "row_count": 1,
+                        "ratio_percent": 0.9090909090909091
+                    },
+                    {
+                        "field_value": "1937 Lincoln Berline",
+                        "row_count": 1,
+                        "ratio_percent": 0.9090909090909091
+                    },
+                    {
+                        "field_value": "1904 Buick Runabout",
+                        "row_count": 1,
+                        "ratio_percent": 0.9090909090909091
+                    },
+                    {
+                        "field_value": "1900s Vintage Tri-Plane",
+                        "row_count": 1,
+                        "ratio_percent": 0.9090909090909091
+                    }
+                ]
+            },
+            {
+                "field": "productScale",
+                "distribution": [
+                    {
+                        "field_value": "1:18",
+                        "row_count": 42,
+                        "ratio_percent": 38.18181818181818
+                    },
+                    {
+                        "field_value": "1:24",
+                        "row_count": 27,
+                        "ratio_percent": 24.545454545454547
+                    },
+                    {
+                        "field_value": "1:700",
+                        "row_count": 10,
+                        "ratio_percent": 9.090909090909092
+                    },
+                    {
+                        "field_value": "1:12",
+                        "row_count": 9,
+                        "ratio_percent": 8.181818181818182
+                    },
+                    {
+                        "field_value": "1:32",
+                        "row_count": 8,
+                        "ratio_percent": 7.2727272727272725
+                    },
+                    {
+                        "field_value": "1:10",
+                        "row_count": 6,
+                        "ratio_percent": 5.454545454545454
+                    },
+                    {
+                        "field_value": "1:50",
+                        "row_count": 4,
+                        "ratio_percent": 3.6363636363636362
+                    },
+                    {
+                        "field_value": "1:72",
+                        "row_count": 4,
+                        "ratio_percent": 3.6363636363636362
+                    }
+                ]
+            },
+            {
+                "field": "productVendor",
+                "distribution": [
+                    {
+                        "field_value": "Classic Metal Creations",
+                        "row_count": 10,
+                        "ratio_percent": 9.090909090909092
+                    },
+                    {
+                        "field_value": "Carousel DieCast Legends",
+                        "row_count": 9,
+                        "ratio_percent": 8.181818181818182
+                    },
+                    {
+                        "field_value": "Gearbox Collectibles",
+                        "row_count": 9,
+                        "ratio_percent": 8.181818181818182
+                    },
+                    {
+                        "field_value": "Motor City Art Classics",
+                        "row_count": 9,
+                        "ratio_percent": 8.181818181818182
+                    },
+                    {
+                        "field_value": "Exoto Designs",
+                        "row_count": 9,
+                        "ratio_percent": 8.181818181818182
+                    },
+                    {
+                        "field_value": "Highway 66 Mini Classics",
+                        "row_count": 9,
+                        "ratio_percent": 8.181818181818182
+                    },
+                    {
+                        "field_value": "Unimax Art Galleries",
+                        "row_count": 8,
+                        "ratio_percent": 7.2727272727272725
+                    },
+                    {
+                        "field_value": "Welly Diecast Productions",
+                        "row_count": 8,
+                        "ratio_percent": 7.2727272727272725
+                    },
+                    {
+                        "field_value": "Min Lin Diecast",
+                        "row_count": 8,
+                        "ratio_percent": 7.2727272727272725
+                    },
+                    {
+                        "field_value": "Autoart Studio Design",
+                        "row_count": 8,
+                        "ratio_percent": 7.2727272727272725
+                    }
+                ]
+            },
+            {
+                "field": "productDescription",
+                "distribution": [
+                    {
+                        "field_value": "Turnable front wheels; steering function; detailed interior; detailed engine; opening hood; opening trunk; opening doors; and detailed chassis.",
+                        "row_count": 4,
+                        "ratio_percent": 3.6363636363636362
+                    },
+                    {
+                        "field_value": "Features include: Turnable front wheels; steering function; detailed interior; detailed engine; opening hood; opening trunk; opening doors; and detailed chassis.",
+                        "row_count": 3,
+                        "ratio_percent": 2.727272727272727
+                    },
+                    {
+                        "field_value": "Features opening trunk,  working steering system",
+                        "row_count": 3,
+                        "ratio_percent": 2.727272727272727
+                    },
+                    {
+                        "field_value": "This replica features opening doors, superb detail and craftsmanship, working steering system, opening forward compartment, opening rear trunk with removable spare, 4 wheel independent spring suspension as well as factory baked enamel finish.",
+                        "row_count": 3,
+                        "ratio_percent": 2.727272727272727
+                    },
+                    {
+                        "field_value": "Features rotating wheels , working kick stand. Comes with stand.",
+                        "row_count": 3,
+                        "ratio_percent": 2.727272727272727
+                    },
+                    {
+                        "field_value": "Exact replica. Wood and Metal. Many extras including rigging, long boats, pilot house, anchors, etc. Comes with three masts, all square-rigged.",
+                        "row_count": 2,
+                        "ratio_percent": 1.8181818181818181
+                    },
+                    {
+                        "field_value": "Detailed scale replica with working suspension and constructed from over 70 parts",
+                        "row_count": 2,
+                        "ratio_percent": 1.8181818181818181
+                    },
+                    {
+                        "field_value": "Exact replia with official logos and insignias and retractable wheels",
+                        "row_count": 2,
+                        "ratio_percent": 1.8181818181818181
+                    },
+                    {
+                        "field_value": "10\" Wingspan with retractable landing gears.Comes with pilot",
+                        "row_count": 2,
+                        "ratio_percent": 1.8181818181818181
+                    },
+                    {
+                        "field_value": "This replica features working kickstand, front suspension, gear-shift lever, footbrake lever, drive chain, wheels and steering. All parts are particularly delicate due to their precise scale and require special care and attention.",
+                        "row_count": 1,
+                        "ratio_percent": 0.9090909090909091
+                    }
+                ]
+            },
+            {
+                "field": "productLine",
+                "distribution": [
+                    {
+                        "field_value": "Classic Cars",
+                        "row_count": 38,
+                        "ratio_percent": 34.54545454545455
+                    },
+                    {
+                        "field_value": "Vintage Cars",
+                        "row_count": 24,
+                        "ratio_percent": 21.818181818181817
+                    },
+                    {
+                        "field_value": "Motorcycles",
+                        "row_count": 13,
+                        "ratio_percent": 11.818181818181818
+                    },
+                    {
+                        "field_value": "Planes",
+                        "row_count": 12,
+                        "ratio_percent": 10.909090909090908
+                    },
+                    {
+                        "field_value": "Trucks and Buses",
+                        "row_count": 11,
+                        "ratio_percent": 10.0
+                    },
+                    {
+                        "field_value": "Ships",
+                        "row_count": 9,
+                        "ratio_percent": 8.181818181818182
+                    },
+                    {
+                        "field_value": "Trains",
+                        "row_count": 3,
+                        "ratio_percent": 2.727272727272727
+                    }
+                ]
+            },
+            {
+                "field": "quantityInStock",
+                "distribution": [
+                    {
+                        "field_value": "9772",
+                        "row_count": 1,
+                        "ratio_percent": 0.9090909090909091
+                    },
+                    {
+                        "field_value": "4074",
+                        "row_count": 1,
+                        "ratio_percent": 0.9090909090909091
+                    },
+                    {
+                        "field_value": "8601",
+                        "row_count": 1,
+                        "ratio_percent": 0.9090909090909091
+                    },
+                    {
+                        "field_value": "5992",
+                        "row_count": 1,
+                        "ratio_percent": 0.9090909090909091
+                    },
+                    {
+                        "field_value": "1452",
+                        "row_count": 1,
+                        "ratio_percent": 0.9090909090909091
+                    },
+                    {
+                        "field_value": "7083",
+                        "row_count": 1,
+                        "ratio_percent": 0.9090909090909091
+                    },
+                    {
+                        "field_value": "6791",
+                        "row_count": 1,
+                        "ratio_percent": 0.9090909090909091
+                    },
+                    {
+                        "field_value": "8693",
+                        "row_count": 1,
+                        "ratio_percent": 0.9090909090909091
+                    },
+                    {
+                        "field_value": "8290",
+                        "row_count": 1,
+                        "ratio_percent": 0.9090909090909091
+                    },
+                    {
+                        "field_value": "2756",
+                        "row_count": 1,
+                        "ratio_percent": 0.9090909090909091
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,22 @@
+@startjson
+{
+    "field1": "ModifiedDate",
+    "combination": "ModifiedDate",
+    "null_distribution": {
+        "total_null_rows": 0,
+        "total_not_null_rows": 290
+    },
+    "data_distribution": [
+        {
+            "field_value": "Jun 30 2014 12:00AM",
+            "row_count": 287,
+            "ratio_percent": 98.96551724137932
+        },
+        {
+            "field_value": "Dec 26 2014  9:17AM",
+            "row_count": 3,
+            "ratio_percent": 1.0344827586206897
+        }
+    ]
+}
+@endjson

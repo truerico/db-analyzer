@@ -1,0 +1,28 @@
+[
+    {
+        "table": "Production.ProductProductPhoto",
+        "total_records": 504,
+        "dataset": [
+            {
+                "field": "ModifiedDate",
+                "total_null_rows": 0,
+                "total_not_null_rows": 504
+            },
+            {
+                "field": "ProductID",
+                "total_null_rows": 0,
+                "total_not_null_rows": 504
+            },
+            {
+                "field": "ProductPhotoID",
+                "total_null_rows": 0,
+                "total_not_null_rows": 504
+            },
+            {
+                "field": "Primary",
+                "total_null_rows": 0,
+                "total_not_null_rows": 504
+            }
+        ]
+    }
+]

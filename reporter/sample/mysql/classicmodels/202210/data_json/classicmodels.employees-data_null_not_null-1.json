@@ -1,0 +1,48 @@
+[
+    {
+        "table": "classicmodels.employees",
+        "total_records": 23,
+        "dataset": [
+            {
+                "field": "employeeNumber",
+                "total_null_rows": 0,
+                "total_not_null_rows": 23
+            },
+            {
+                "field": "extension",
+                "total_null_rows": 0,
+                "total_not_null_rows": 23
+            },
+            {
+                "field": "email",
+                "total_null_rows": 0,
+                "total_not_null_rows": 23
+            },
+            {
+                "field": "firstName",
+                "total_null_rows": 0,
+                "total_not_null_rows": 23
+            },
+            {
+                "field": "jobTitle",
+                "total_null_rows": 0,
+                "total_not_null_rows": 23
+            },
+            {
+                "field": "lastName",
+                "total_null_rows": 0,
+                "total_not_null_rows": 23
+            },
+            {
+                "field": "officeCode",
+                "total_null_rows": 0,
+                "total_not_null_rows": 23
+            },
+            {
+                "field": "reportsTo",
+                "total_null_rows": 1,
+                "total_not_null_rows": 22
+            }
+        ]
+    }
+]

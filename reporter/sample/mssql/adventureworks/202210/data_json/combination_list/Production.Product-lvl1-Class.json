@@ -1,0 +1,32 @@
+@startjson
+{
+    "field1": "Class",
+    "combination": "Class",
+    "null_distribution": {
+        "total_null_rows": 257,
+        "total_not_null_rows": 247
+    },
+    "data_distribution": [
+        {
+            "field_value": "**NULL**",
+            "row_count": 257,
+            "ratio_percent": 50.992063492063494
+        },
+        {
+            "field_value": "L",
+            "row_count": 97,
+            "ratio_percent": 19.246031746031747
+        },
+        {
+            "field_value": "H",
+            "row_count": 82,
+            "ratio_percent": 16.26984126984127
+        },
+        {
+            "field_value": "M",
+            "row_count": 68,
+            "ratio_percent": 13.492063492063492
+        }
+    ]
+}
+@endjson

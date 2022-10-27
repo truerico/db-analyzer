@@ -1,0 +1,58 @@
+[
+    {
+        "table": "Sales.SalesTerritory",
+        "total_records": 10,
+        "dataset": [
+            {
+                "field": "CostYTD",
+                "total_null_rows": 0,
+                "total_not_null_rows": 10
+            },
+            {
+                "field": "rowguid",
+                "total_null_rows": 0,
+                "total_not_null_rows": 10
+            },
+            {
+                "field": "CostLastYear",
+                "total_null_rows": 0,
+                "total_not_null_rows": 10
+            },
+            {
+                "field": "CountryRegionCode",
+                "total_null_rows": 0,
+                "total_not_null_rows": 10
+            },
+            {
+                "field": "Group",
+                "total_null_rows": 0,
+                "total_not_null_rows": 10
+            },
+            {
+                "field": "ModifiedDate",
+                "total_null_rows": 0,
+                "total_not_null_rows": 10
+            },
+            {
+                "field": "Name",
+                "total_null_rows": 0,
+                "total_not_null_rows": 10
+            },
+            {
+                "field": "SalesYTD",
+                "total_null_rows": 0,
+                "total_not_null_rows": 10
+            },
+            {
+                "field": "SalesLastYear",
+                "total_null_rows": 0,
+                "total_not_null_rows": 10
+            },
+            {
+                "field": "TerritoryID",
+                "total_null_rows": 0,
+                "total_not_null_rows": 10
+            }
+        ]
+    }
+]

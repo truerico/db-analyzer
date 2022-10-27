@@ -1,0 +1,208 @@
+[
+    {
+        "table": "Production.ProductModel",
+        "total_records": 128,
+        "dataset": [
+            {
+                "field": "ModifiedDate",
+                "distribution": [
+                    {
+                        "field_value": "Apr 30 2013 12:00AM",
+                        "row_count": 55,
+                        "ratio_percent": 42.96875
+                    },
+                    {
+                        "field_value": "Apr 30 2012 12:00AM",
+                        "row_count": 43,
+                        "ratio_percent": 33.59375
+                    },
+                    {
+                        "field_value": "May  1 2011 12:00AM",
+                        "row_count": 12,
+                        "ratio_percent": 9.375
+                    },
+                    {
+                        "field_value": "Apr 15 2015  4:34PM",
+                        "row_count": 9,
+                        "ratio_percent": 7.03125
+                    },
+                    {
+                        "field_value": "Oct 19 2012  9:56AM",
+                        "row_count": 8,
+                        "ratio_percent": 6.25
+                    },
+                    {
+                        "field_value": "Mar 31 2008 12:00AM",
+                        "row_count": 1,
+                        "ratio_percent": 0.78125
+                    }
+                ]
+            },
+            {
+                "field": "Name",
+                "distribution": [
+                    {
+                        "field_value": "Half-Finger Gloves",
+                        "row_count": 1,
+                        "ratio_percent": 0.78125
+                    },
+                    {
+                        "field_value": "Full-Finger Gloves",
+                        "row_count": 1,
+                        "ratio_percent": 0.78125
+                    },
+                    {
+                        "field_value": "Front Derailleur",
+                        "row_count": 1,
+                        "ratio_percent": 0.78125
+                    },
+                    {
+                        "field_value": "Front Brakes",
+                        "row_count": 1,
+                        "ratio_percent": 0.78125
+                    },
+                    {
+                        "field_value": "Fender Set - Mountain",
+                        "row_count": 1,
+                        "ratio_percent": 0.78125
+                    },
+                    {
+                        "field_value": "Cycling Cap",
+                        "row_count": 1,
+                        "ratio_percent": 0.78125
+                    },
+                    {
+                        "field_value": "Classic Vest",
+                        "row_count": 1,
+                        "ratio_percent": 0.78125
+                    },
+                    {
+                        "field_value": "Chain",
+                        "row_count": 1,
+                        "ratio_percent": 0.78125
+                    },
+                    {
+                        "field_value": "Cable Lock",
+                        "row_count": 1,
+                        "ratio_percent": 0.78125
+                    },
+                    {
+                        "field_value": "Bike Wash",
+                        "row_count": 1,
+                        "ratio_percent": 0.78125
+                    }
+                ]
+            },
+            {
+                "field": "ProductModelID",
+                "distribution": [
+                    {
+                        "field_value": "108",
+                        "row_count": 1,
+                        "ratio_percent": 0.78125
+                    },
+                    {
+                        "field_value": "107",
+                        "row_count": 1,
+                        "ratio_percent": 0.78125
+                    },
+                    {
+                        "field_value": "106",
+                        "row_count": 1,
+                        "ratio_percent": 0.78125
+                    },
+                    {
+                        "field_value": "105",
+                        "row_count": 1,
+                        "ratio_percent": 0.78125
+                    },
+                    {
+                        "field_value": "104",
+                        "row_count": 1,
+                        "ratio_percent": 0.78125
+                    },
+                    {
+                        "field_value": "103",
+                        "row_count": 1,
+                        "ratio_percent": 0.78125
+                    },
+                    {
+                        "field_value": "102",
+                        "row_count": 1,
+                        "ratio_percent": 0.78125
+                    },
+                    {
+                        "field_value": "101",
+                        "row_count": 1,
+                        "ratio_percent": 0.78125
+                    },
+                    {
+                        "field_value": "100",
+                        "row_count": 1,
+                        "ratio_percent": 0.78125
+                    },
+                    {
+                        "field_value": "10",
+                        "row_count": 1,
+                        "ratio_percent": 0.78125
+                    }
+                ]
+            },
+            {
+                "field": "rowguid",
+                "distribution": [
+                    {
+                        "field_value": "10E0C8FD-CA13-437B-8E22-51853AE160A7",
+                        "row_count": 1,
+                        "ratio_percent": 0.78125
+                    },
+                    {
+                        "field_value": "1099A23A-C9ED-41B1-8CC1-E2C1C54A10C8",
+                        "row_count": 1,
+                        "ratio_percent": 0.78125
+                    },
+                    {
+                        "field_value": "0D48C51D-7603-4010-9265-0491805BB010",
+                        "row_count": 1,
+                        "ratio_percent": 0.78125
+                    },
+                    {
+                        "field_value": "0D3A6AD7-6891-4DE9-B14F-E1A841EB220C",
+                        "row_count": 1,
+                        "ratio_percent": 0.78125
+                    },
+                    {
+                        "field_value": "09CAA74E-F47B-4FCA-B206-9D3E46DF9751",
+                        "row_count": 1,
+                        "ratio_percent": 0.78125
+                    },
+                    {
+                        "field_value": "059A2000-7549-4B49-8E0C-2DE6B2771EF4",
+                        "row_count": 1,
+                        "ratio_percent": 0.78125
+                    },
+                    {
+                        "field_value": "0481D7E1-4970-4EFA-A560-020F6579918D",
+                        "row_count": 1,
+                        "ratio_percent": 0.78125
+                    },
+                    {
+                        "field_value": "0434F63A-A361-4D0B-A9FC-8AC2A866CE85",
+                        "row_count": 1,
+                        "ratio_percent": 0.78125
+                    },
+                    {
+                        "field_value": "02A562E2-4DFA-4778-BBAC-BBDDCECF99B0",
+                        "row_count": 1,
+                        "ratio_percent": 0.78125
+                    },
+                    {
+                        "field_value": "02200AA0-C369-4D77-A67C-75973EFDA81B",
+                        "row_count": 1,
+                        "ratio_percent": 0.78125
+                    }
+                ]
+            }
+        ]
+    }
+]

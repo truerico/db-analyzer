@@ -1,0 +1,63 @@
+[
+    {
+        "table": "Sales.SalesOrderDetail",
+        "total_records": 121317,
+        "dataset": [
+            {
+                "field": "CarrierTrackingNumber",
+                "total_null_rows": 60398,
+                "total_not_null_rows": 60919
+            },
+            {
+                "field": "UnitPriceDiscount",
+                "total_null_rows": 0,
+                "total_not_null_rows": 121317
+            },
+            {
+                "field": "rowguid",
+                "total_null_rows": 0,
+                "total_not_null_rows": 121317
+            },
+            {
+                "field": "LineTotal",
+                "total_null_rows": 0,
+                "total_not_null_rows": 121317
+            },
+            {
+                "field": "ModifiedDate",
+                "total_null_rows": 0,
+                "total_not_null_rows": 121317
+            },
+            {
+                "field": "OrderQty",
+                "total_null_rows": 0,
+                "total_not_null_rows": 121317
+            },
+            {
+                "field": "ProductID",
+                "total_null_rows": 0,
+                "total_not_null_rows": 121317
+            },
+            {
+                "field": "SalesOrderID",
+                "total_null_rows": 0,
+                "total_not_null_rows": 121317
+            },
+            {
+                "field": "SalesOrderDetailID",
+                "total_null_rows": 0,
+                "total_not_null_rows": 121317
+            },
+            {
+                "field": "SpecialOfferID",
+                "total_null_rows": 0,
+                "total_not_null_rows": 121317
+            },
+            {
+                "field": "UnitPrice",
+                "total_null_rows": 0,
+                "total_not_null_rows": 121317
+            }
+        ]
+    }
+]

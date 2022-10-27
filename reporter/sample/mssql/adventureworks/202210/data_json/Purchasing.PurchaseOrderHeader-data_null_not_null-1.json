@@ -1,0 +1,73 @@
+[
+    {
+        "table": "Purchasing.PurchaseOrderHeader",
+        "total_records": 4012,
+        "dataset": [
+            {
+                "field": "EmployeeID",
+                "total_null_rows": 0,
+                "total_not_null_rows": 4012
+            },
+            {
+                "field": "ShipMethodID",
+                "total_null_rows": 0,
+                "total_not_null_rows": 4012
+            },
+            {
+                "field": "TaxAmt",
+                "total_null_rows": 0,
+                "total_not_null_rows": 4012
+            },
+            {
+                "field": "TotalDue",
+                "total_null_rows": 0,
+                "total_not_null_rows": 4012
+            },
+            {
+                "field": "VendorID",
+                "total_null_rows": 0,
+                "total_not_null_rows": 4012
+            },
+            {
+                "field": "Freight",
+                "total_null_rows": 0,
+                "total_not_null_rows": 4012
+            },
+            {
+                "field": "ModifiedDate",
+                "total_null_rows": 0,
+                "total_not_null_rows": 4012
+            },
+            {
+                "field": "OrderDate",
+                "total_null_rows": 0,
+                "total_not_null_rows": 4012
+            },
+            {
+                "field": "PurchaseOrderID",
+                "total_null_rows": 0,
+                "total_not_null_rows": 4012
+            },
+            {
+                "field": "RevisionNumber",
+                "total_null_rows": 0,
+                "total_not_null_rows": 4012
+            },
+            {
+                "field": "Status",
+                "total_null_rows": 0,
+                "total_not_null_rows": 4012
+            },
+            {
+                "field": "ShipDate",
+                "total_null_rows": 0,
+                "total_not_null_rows": 4012
+            },
+            {
+                "field": "SubTotal",
+                "total_null_rows": 0,
+                "total_not_null_rows": 4012
+            }
+        ]
+    }
+]

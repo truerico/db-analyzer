@@ -1,0 +1,6 @@
+ProductPhotoID,ThumbnailPhotoFileName,LargePhotoFileName,ModifiedDate,SYS_EXEC_DURATION
+1,no_image_available_small.gif,no_image_available_large.gif,2008-04-30 00:00:00,0.187097
+69,racer02_black_f_small.gif,racer02_black_f_large.gif,2008-04-30 00:00:00,0.187239
+70,racer02_black_small.gif,racer02_black_large.gif,2012-10-19 09:56:38.273000,0.187286
+72,racer02_blue_f_small.gif,racer02_blue_f_large.gif,2012-10-19 09:56:38.273000,0.187328
+73,racer02_blue_small.gif,racer02_blue_large.gif,2012-10-19 09:56:38.273000,0.18738

@@ -1,0 +1,62 @@
+@startjson
+{
+    "field1": "orderLineNumber",
+    "combination": "orderLineNumber",
+    "null_distribution": {
+        "total_null_rows": 0,
+        "total_not_null_rows": 2996
+    },
+    "data_distribution": [
+        {
+            "field_value": "1",
+            "row_count": 326,
+            "ratio_percent": 10.881174899866489
+        },
+        {
+            "field_value": "2",
+            "row_count": 309,
+            "ratio_percent": 10.313751668891856
+        },
+        {
+            "field_value": "3",
+            "row_count": 287,
+            "ratio_percent": 9.57943925233645
+        },
+        {
+            "field_value": "4",
+            "row_count": 273,
+            "ratio_percent": 9.11214953271028
+        },
+        {
+            "field_value": "5",
+            "row_count": 256,
+            "ratio_percent": 8.544726301735647
+        },
+        {
+            "field_value": "6",
+            "row_count": 238,
+            "ratio_percent": 7.94392523364486
+        },
+        {
+            "field_value": "7",
+            "row_count": 212,
+            "ratio_percent": 7.076101468624833
+        },
+        {
+            "field_value": "8",
+            "row_count": 201,
+            "ratio_percent": 6.70894526034713
+        },
+        {
+            "field_value": "9",
+            "row_count": 177,
+            "ratio_percent": 5.907877169559413
+        },
+        {
+            "field_value": "10",
+            "row_count": 149,
+            "ratio_percent": 4.973297730307076
+        }
+    ]
+}
+@endjson

@@ -1,0 +1,62 @@
+@startjson
+{
+    "field1": "ScrappedQty",
+    "combination": "ScrappedQty",
+    "null_distribution": {
+        "total_null_rows": 0,
+        "total_not_null_rows": 72591
+    },
+    "data_distribution": [
+        {
+            "field_value": "0",
+            "row_count": 71862,
+            "ratio_percent": 98.99574327395958
+        },
+        {
+            "field_value": "1",
+            "row_count": 352,
+            "ratio_percent": 0.48490859748453663
+        },
+        {
+            "field_value": "2",
+            "row_count": 114,
+            "ratio_percent": 0.1570442616853329
+        },
+        {
+            "field_value": "3",
+            "row_count": 47,
+            "ratio_percent": 0.06474631841412848
+        },
+        {
+            "field_value": "4",
+            "row_count": 23,
+            "ratio_percent": 0.031684368585637335
+        },
+        {
+            "field_value": "7",
+            "row_count": 16,
+            "ratio_percent": 0.022041299885660757
+        },
+        {
+            "field_value": "6",
+            "row_count": 15,
+            "ratio_percent": 0.020663718642806958
+        },
+        {
+            "field_value": "5",
+            "row_count": 13,
+            "ratio_percent": 0.017908556157099364
+        },
+        {
+            "field_value": "11",
+            "row_count": 8,
+            "ratio_percent": 0.011020649942830378
+        },
+        {
+            "field_value": "14",
+            "row_count": 7,
+            "ratio_percent": 0.009643068699976581
+        }
+    ]
+}
+@endjson

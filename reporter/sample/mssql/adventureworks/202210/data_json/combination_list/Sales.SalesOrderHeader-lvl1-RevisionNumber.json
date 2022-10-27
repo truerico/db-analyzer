@@ -1,0 +1,22 @@
+@startjson
+{
+    "field1": "RevisionNumber",
+    "combination": "RevisionNumber",
+    "null_distribution": {
+        "total_null_rows": 0,
+        "total_not_null_rows": 31465
+    },
+    "data_distribution": [
+        {
+            "field_value": "8",
+            "row_count": 31435,
+            "ratio_percent": 99.9046559669474
+        },
+        {
+            "field_value": "9",
+            "row_count": 30,
+            "ratio_percent": 0.09534403305259813
+        }
+    ]
+}
+@endjson

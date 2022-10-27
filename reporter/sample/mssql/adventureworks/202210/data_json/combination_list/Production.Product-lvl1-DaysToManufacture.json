@@ -1,0 +1,32 @@
+@startjson
+{
+    "field1": "DaysToManufacture",
+    "combination": "DaysToManufacture",
+    "null_distribution": {
+        "total_null_rows": 0,
+        "total_not_null_rows": 504
+    },
+    "data_distribution": [
+        {
+            "field_value": "0",
+            "row_count": 246,
+            "ratio_percent": 48.80952380952381
+        },
+        {
+            "field_value": "1",
+            "row_count": 154,
+            "ratio_percent": 30.555555555555557
+        },
+        {
+            "field_value": "4",
+            "row_count": 97,
+            "ratio_percent": 19.246031746031747
+        },
+        {
+            "field_value": "2",
+            "row_count": 7,
+            "ratio_percent": 1.3888888888888888
+        }
+    ]
+}
+@endjson

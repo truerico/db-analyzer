@@ -1,0 +1,62 @@
+@startjson
+{
+    "field1": "Bonus",
+    "combination": "Bonus",
+    "null_distribution": {
+        "total_null_rows": 0,
+        "total_not_null_rows": 17
+    },
+    "data_distribution": [
+        {
+            "field_value": "0.00",
+            "row_count": 3,
+            "ratio_percent": 17.647058823529413
+        },
+        {
+            "field_value": "5000.00",
+            "row_count": 2,
+            "ratio_percent": 11.764705882352942
+        },
+        {
+            "field_value": "5650.00",
+            "row_count": 1,
+            "ratio_percent": 5.882352941176471
+        },
+        {
+            "field_value": "5150.00",
+            "row_count": 1,
+            "ratio_percent": 5.882352941176471
+        },
+        {
+            "field_value": "500.00",
+            "row_count": 1,
+            "ratio_percent": 5.882352941176471
+        },
+        {
+            "field_value": "4100.00",
+            "row_count": 1,
+            "ratio_percent": 5.882352941176471
+        },
+        {
+            "field_value": "3900.00",
+            "row_count": 1,
+            "ratio_percent": 5.882352941176471
+        },
+        {
+            "field_value": "3550.00",
+            "row_count": 1,
+            "ratio_percent": 5.882352941176471
+        },
+        {
+            "field_value": "3500.00",
+            "row_count": 1,
+            "ratio_percent": 5.882352941176471
+        },
+        {
+            "field_value": "2500.00",
+            "row_count": 1,
+            "ratio_percent": 5.882352941176471
+        }
+    ]
+}
+@endjson

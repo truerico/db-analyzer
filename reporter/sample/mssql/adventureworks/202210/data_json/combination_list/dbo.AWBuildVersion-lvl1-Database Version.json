@@ -1,0 +1,17 @@
+@startjson
+{
+    "field1": "Database Version",
+    "combination": "Database Version",
+    "null_distribution": {
+        "total_null_rows": 0,
+        "total_not_null_rows": 1
+    },
+    "data_distribution": [
+        {
+            "field_value": "13.0.1742.0",
+            "row_count": 1,
+            "ratio_percent": 100.0
+        }
+    ]
+}
+@endjson

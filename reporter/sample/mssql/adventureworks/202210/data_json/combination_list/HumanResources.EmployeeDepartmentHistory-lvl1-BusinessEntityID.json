@@ -1,0 +1,62 @@
+@startjson
+{
+    "field1": "BusinessEntityID",
+    "combination": "BusinessEntityID",
+    "null_distribution": {
+        "total_null_rows": 0,
+        "total_not_null_rows": 296
+    },
+    "data_distribution": [
+        {
+            "field_value": "250",
+            "row_count": 3,
+            "ratio_percent": 1.0135135135135136
+        },
+        {
+            "field_value": "16",
+            "row_count": 2,
+            "ratio_percent": 0.6756756756756757
+        },
+        {
+            "field_value": "224",
+            "row_count": 2,
+            "ratio_percent": 0.6756756756756757
+        },
+        {
+            "field_value": "234",
+            "row_count": 2,
+            "ratio_percent": 0.6756756756756757
+        },
+        {
+            "field_value": "4",
+            "row_count": 2,
+            "ratio_percent": 0.6756756756756757
+        },
+        {
+            "field_value": "108",
+            "row_count": 1,
+            "ratio_percent": 0.33783783783783783
+        },
+        {
+            "field_value": "107",
+            "row_count": 1,
+            "ratio_percent": 0.33783783783783783
+        },
+        {
+            "field_value": "106",
+            "row_count": 1,
+            "ratio_percent": 0.33783783783783783
+        },
+        {
+            "field_value": "105",
+            "row_count": 1,
+            "ratio_percent": 0.33783783783783783
+        },
+        {
+            "field_value": "104",
+            "row_count": 1,
+            "ratio_percent": 0.33783783783783783
+        }
+    ]
+}
+@endjson

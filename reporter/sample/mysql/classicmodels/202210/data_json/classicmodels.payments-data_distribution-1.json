@@ -1,0 +1,228 @@
+[
+    {
+        "table": "classicmodels.payments",
+        "total_records": 273,
+        "dataset": [
+            {
+                "field": "amount",
+                "distribution": [
+                    {
+                        "field_value": "1676.14",
+                        "row_count": 1,
+                        "ratio_percent": 0.3663003663003663
+                    },
+                    {
+                        "field_value": "50025.35",
+                        "row_count": 1,
+                        "ratio_percent": 0.3663003663003663
+                    },
+                    {
+                        "field_value": "35152.12",
+                        "row_count": 1,
+                        "ratio_percent": 0.3663003663003663
+                    },
+                    {
+                        "field_value": "17359.53",
+                        "row_count": 1,
+                        "ratio_percent": 0.3663003663003663
+                    },
+                    {
+                        "field_value": "12432.32",
+                        "row_count": 1,
+                        "ratio_percent": 0.3663003663003663
+                    },
+                    {
+                        "field_value": "45352.47",
+                        "row_count": 1,
+                        "ratio_percent": 0.3663003663003663
+                    },
+                    {
+                        "field_value": "1834.56",
+                        "row_count": 1,
+                        "ratio_percent": 0.3663003663003663
+                    },
+                    {
+                        "field_value": "49165.16",
+                        "row_count": 1,
+                        "ratio_percent": 0.3663003663003663
+                    },
+                    {
+                        "field_value": "36070.47",
+                        "row_count": 1,
+                        "ratio_percent": 0.3663003663003663
+                    },
+                    {
+                        "field_value": "45084.38",
+                        "row_count": 1,
+                        "ratio_percent": 0.3663003663003663
+                    }
+                ]
+            },
+            {
+                "field": "customerNumber",
+                "distribution": [
+                    {
+                        "field_value": "141",
+                        "row_count": 13,
+                        "ratio_percent": 4.761904761904762
+                    },
+                    {
+                        "field_value": "124",
+                        "row_count": 9,
+                        "ratio_percent": 3.2967032967032965
+                    },
+                    {
+                        "field_value": "151",
+                        "row_count": 4,
+                        "ratio_percent": 1.465201465201465
+                    },
+                    {
+                        "field_value": "121",
+                        "row_count": 4,
+                        "ratio_percent": 1.465201465201465
+                    },
+                    {
+                        "field_value": "276",
+                        "row_count": 4,
+                        "ratio_percent": 1.465201465201465
+                    },
+                    {
+                        "field_value": "323",
+                        "row_count": 4,
+                        "ratio_percent": 1.465201465201465
+                    },
+                    {
+                        "field_value": "161",
+                        "row_count": 4,
+                        "ratio_percent": 1.465201465201465
+                    },
+                    {
+                        "field_value": "145",
+                        "row_count": 4,
+                        "ratio_percent": 1.465201465201465
+                    },
+                    {
+                        "field_value": "128",
+                        "row_count": 4,
+                        "ratio_percent": 1.465201465201465
+                    },
+                    {
+                        "field_value": "398",
+                        "row_count": 4,
+                        "ratio_percent": 1.465201465201465
+                    }
+                ]
+            },
+            {
+                "field": "checkNumber",
+                "distribution": [
+                    {
+                        "field_value": "AE192287",
+                        "row_count": 1,
+                        "ratio_percent": 0.3663003663003663
+                    },
+                    {
+                        "field_value": "II180006",
+                        "row_count": 1,
+                        "ratio_percent": 0.3663003663003663
+                    },
+                    {
+                        "field_value": "LF501133",
+                        "row_count": 1,
+                        "ratio_percent": 0.3663003663003663
+                    },
+                    {
+                        "field_value": "AF246722",
+                        "row_count": 1,
+                        "ratio_percent": 0.3663003663003663
+                    },
+                    {
+                        "field_value": "HG438769",
+                        "row_count": 1,
+                        "ratio_percent": 0.3663003663003663
+                    },
+                    {
+                        "field_value": "PE176846",
+                        "row_count": 1,
+                        "ratio_percent": 0.3663003663003663
+                    },
+                    {
+                        "field_value": "FH668230",
+                        "row_count": 1,
+                        "ratio_percent": 0.3663003663003663
+                    },
+                    {
+                        "field_value": "KM172879",
+                        "row_count": 1,
+                        "ratio_percent": 0.3663003663003663
+                    },
+                    {
+                        "field_value": "NM739638",
+                        "row_count": 1,
+                        "ratio_percent": 0.3663003663003663
+                    },
+                    {
+                        "field_value": "EM979878",
+                        "row_count": 1,
+                        "ratio_percent": 0.3663003663003663
+                    }
+                ]
+            },
+            {
+                "field": "paymentDate",
+                "distribution": [
+                    {
+                        "field_value": "2003-12-09",
+                        "row_count": 3,
+                        "ratio_percent": 1.098901098901099
+                    },
+                    {
+                        "field_value": "2004-06-21",
+                        "row_count": 3,
+                        "ratio_percent": 1.098901098901099
+                    },
+                    {
+                        "field_value": "2003-11-24",
+                        "row_count": 3,
+                        "ratio_percent": 1.098901098901099
+                    },
+                    {
+                        "field_value": "2003-11-18",
+                        "row_count": 3,
+                        "ratio_percent": 1.098901098901099
+                    },
+                    {
+                        "field_value": "2004-09-05",
+                        "row_count": 2,
+                        "ratio_percent": 0.7326007326007326
+                    },
+                    {
+                        "field_value": "2004-12-31",
+                        "row_count": 2,
+                        "ratio_percent": 0.7326007326007326
+                    },
+                    {
+                        "field_value": "2003-12-10",
+                        "row_count": 2,
+                        "ratio_percent": 0.7326007326007326
+                    },
+                    {
+                        "field_value": "2004-11-16",
+                        "row_count": 2,
+                        "ratio_percent": 0.7326007326007326
+                    },
+                    {
+                        "field_value": "2004-12-17",
+                        "row_count": 2,
+                        "ratio_percent": 0.7326007326007326
+                    },
+                    {
+                        "field_value": "2004-12-08",
+                        "row_count": 2,
+                        "ratio_percent": 0.7326007326007326
+                    }
+                ]
+            }
+        ]
+    }
+]

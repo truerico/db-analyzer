@@ -1,0 +1,62 @@
+@startjson
+{
+    "field1": "Name",
+    "combination": "Name",
+    "null_distribution": {
+        "total_null_rows": 0,
+        "total_not_null_rows": 10
+    },
+    "data_distribution": [
+        {
+            "field_value": "Television  Advertisement",
+            "row_count": 1,
+            "ratio_percent": 10.0
+        },
+        {
+            "field_value": "Sponsorship",
+            "row_count": 1,
+            "ratio_percent": 10.0
+        },
+        {
+            "field_value": "Review",
+            "row_count": 1,
+            "ratio_percent": 10.0
+        },
+        {
+            "field_value": "Quality",
+            "row_count": 1,
+            "ratio_percent": 10.0
+        },
+        {
+            "field_value": "Price",
+            "row_count": 1,
+            "ratio_percent": 10.0
+        },
+        {
+            "field_value": "Other",
+            "row_count": 1,
+            "ratio_percent": 10.0
+        },
+        {
+            "field_value": "On Promotion",
+            "row_count": 1,
+            "ratio_percent": 10.0
+        },
+        {
+            "field_value": "Manufacturer",
+            "row_count": 1,
+            "ratio_percent": 10.0
+        },
+        {
+            "field_value": "Magazine Advertisement",
+            "row_count": 1,
+            "ratio_percent": 10.0
+        },
+        {
+            "field_value": "Demo Event",
+            "row_count": 1,
+            "ratio_percent": 10.0
+        }
+    ]
+}
+@endjson

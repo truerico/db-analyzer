@@ -1,0 +1,163 @@
+[
+    {
+        "table": "HumanResources.Department",
+        "total_records": 16,
+        "dataset": [
+            {
+                "field": "DepartmentID",
+                "distribution": [
+                    {
+                        "field_value": "4",
+                        "row_count": 1,
+                        "ratio_percent": 6.25
+                    },
+                    {
+                        "field_value": "3",
+                        "row_count": 1,
+                        "ratio_percent": 6.25
+                    },
+                    {
+                        "field_value": "2",
+                        "row_count": 1,
+                        "ratio_percent": 6.25
+                    },
+                    {
+                        "field_value": "16",
+                        "row_count": 1,
+                        "ratio_percent": 6.25
+                    },
+                    {
+                        "field_value": "15",
+                        "row_count": 1,
+                        "ratio_percent": 6.25
+                    },
+                    {
+                        "field_value": "14",
+                        "row_count": 1,
+                        "ratio_percent": 6.25
+                    },
+                    {
+                        "field_value": "13",
+                        "row_count": 1,
+                        "ratio_percent": 6.25
+                    },
+                    {
+                        "field_value": "12",
+                        "row_count": 1,
+                        "ratio_percent": 6.25
+                    },
+                    {
+                        "field_value": "11",
+                        "row_count": 1,
+                        "ratio_percent": 6.25
+                    },
+                    {
+                        "field_value": "10",
+                        "row_count": 1,
+                        "ratio_percent": 6.25
+                    }
+                ]
+            },
+            {
+                "field": "GroupName",
+                "distribution": [
+                    {
+                        "field_value": "Executive General and Administration",
+                        "row_count": 5,
+                        "ratio_percent": 31.25
+                    },
+                    {
+                        "field_value": "Research and Development",
+                        "row_count": 3,
+                        "ratio_percent": 18.75
+                    },
+                    {
+                        "field_value": "Sales and Marketing",
+                        "row_count": 2,
+                        "ratio_percent": 12.5
+                    },
+                    {
+                        "field_value": "Quality Assurance",
+                        "row_count": 2,
+                        "ratio_percent": 12.5
+                    },
+                    {
+                        "field_value": "Manufacturing",
+                        "row_count": 2,
+                        "ratio_percent": 12.5
+                    },
+                    {
+                        "field_value": "Inventory Management",
+                        "row_count": 2,
+                        "ratio_percent": 12.5
+                    }
+                ]
+            },
+            {
+                "field": "ModifiedDate",
+                "distribution": [
+                    {
+                        "field_value": "Apr 30 2008 12:00AM",
+                        "row_count": 16,
+                        "ratio_percent": 100.0
+                    }
+                ]
+            },
+            {
+                "field": "Name",
+                "distribution": [
+                    {
+                        "field_value": "Purchasing",
+                        "row_count": 1,
+                        "ratio_percent": 6.25
+                    },
+                    {
+                        "field_value": "Production Control",
+                        "row_count": 1,
+                        "ratio_percent": 6.25
+                    },
+                    {
+                        "field_value": "Production",
+                        "row_count": 1,
+                        "ratio_percent": 6.25
+                    },
+                    {
+                        "field_value": "Marketing",
+                        "row_count": 1,
+                        "ratio_percent": 6.25
+                    },
+                    {
+                        "field_value": "Information Services",
+                        "row_count": 1,
+                        "ratio_percent": 6.25
+                    },
+                    {
+                        "field_value": "Human Resources",
+                        "row_count": 1,
+                        "ratio_percent": 6.25
+                    },
+                    {
+                        "field_value": "Finance",
+                        "row_count": 1,
+                        "ratio_percent": 6.25
+                    },
+                    {
+                        "field_value": "Facilities and Maintenance",
+                        "row_count": 1,
+                        "ratio_percent": 6.25
+                    },
+                    {
+                        "field_value": "Executive",
+                        "row_count": 1,
+                        "ratio_percent": 6.25
+                    },
+                    {
+                        "field_value": "Engineering",
+                        "row_count": 1,
+                        "ratio_percent": 6.25
+                    }
+                ]
+            }
+        ]
+    }
+]

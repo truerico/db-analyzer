@@ -1,0 +1,27 @@
+@startjson
+{
+    "field1": "TransactionType",
+    "combination": "TransactionType",
+    "null_distribution": {
+        "total_null_rows": 0,
+        "total_not_null_rows": 89253
+    },
+    "data_distribution": [
+        {
+            "field_value": "S",
+            "row_count": 46742,
+            "ratio_percent": 52.370228451704705
+        },
+        {
+            "field_value": "W",
+            "row_count": 41589,
+            "ratio_percent": 46.59675305031764
+        },
+        {
+            "field_value": "P",
+            "row_count": 922,
+            "ratio_percent": 1.033018497977659
+        }
+    ]
+}
+@endjson

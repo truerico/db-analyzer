@@ -1,0 +1,62 @@
+@startjson
+{
+    "field1": "MiddleName",
+    "combination": "MiddleName",
+    "null_distribution": {
+        "total_null_rows": 8499,
+        "total_not_null_rows": 11473
+    },
+    "data_distribution": [
+        {
+            "field_value": "**NULL**",
+            "row_count": 8499,
+            "ratio_percent": 42.55457640696976
+        },
+        {
+            "field_value": "A",
+            "row_count": 1319,
+            "ratio_percent": 6.6042459443220505
+        },
+        {
+            "field_value": "L",
+            "row_count": 1278,
+            "ratio_percent": 6.398958541958742
+        },
+        {
+            "field_value": "M",
+            "row_count": 1141,
+            "ratio_percent": 5.712998197476467
+        },
+        {
+            "field_value": "J",
+            "row_count": 1000,
+            "ratio_percent": 5.007009813739235
+        },
+        {
+            "field_value": "C",
+            "row_count": 937,
+            "ratio_percent": 4.691568195473663
+        },
+        {
+            "field_value": "E",
+            "row_count": 736,
+            "ratio_percent": 3.685159222912077
+        },
+        {
+            "field_value": "R",
+            "row_count": 699,
+            "ratio_percent": 3.499899859803725
+        },
+        {
+            "field_value": "D",
+            "row_count": 574,
+            "ratio_percent": 2.874023633086321
+        },
+        {
+            "field_value": "S",
+            "row_count": 492,
+            "ratio_percent": 2.4634488283597036
+        }
+    ]
+}
+@endjson

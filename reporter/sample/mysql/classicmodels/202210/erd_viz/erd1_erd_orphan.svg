@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentStyleType="text/css" height="44px" preserveAspectRatio="none" style="width:140px;height:44px;background:#FFFFFF;" version="1.1" viewBox="0 0 140 44" width="140px" zoomAndPan="magnify"><defs/><g><rect fill="#DDDDDD" height="26.4883" rx="7.5" ry="7.5" style="stroke:#000000;stroke-width:2.0;" width="122" x="5" y="5"/><text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="112" x="10" y="23.5352">:: table erd1 © ::</text><!--MD5=[264c52b02629ca2bf46fe43fb7443f33]
+@startuml
+skinparam titleBorderRoundCorner 15
+skinparam titleBorderThickness 2
+skinparam titleBorderColor black
+skinparam titleBackgroundColor #DDDDDD
+title **:: table erd1 © ::**
+!theme _none_
+skinparam shadowing False
+left to right direction
+skinparam linetype ortho
+skinparam packageStyle rectangle
+hide circle
+
+
+
+@enduml
+
+@startuml
+skinparam titleBorderRoundCorner 15
+skinparam titleBorderThickness 2
+skinparam titleBorderColor black
+skinparam titleBackgroundColor #DDDDDD
+title **:: table erd1 © ::**
+skinparam shadowing False
+left to right direction
+skinparam linetype ortho
+skinparam packageStyle rectangle
+hide circle
+
+
+
+@enduml
+
+PlantUML version 1.2022.5(Sat Apr 30 06:55:52 EDT 2022)
+(GPL source distribution)
+Java Runtime: OpenJDK Runtime Environment
+JVM: OpenJDK 64-Bit Server VM
+Default Encoding: UTF-8
+Language: en
+Country: CA
+--></g></svg>

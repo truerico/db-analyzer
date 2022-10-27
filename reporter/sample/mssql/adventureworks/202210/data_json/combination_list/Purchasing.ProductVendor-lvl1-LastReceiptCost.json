@@ -1,0 +1,62 @@
+@startjson
+{
+    "field1": "LastReceiptCost",
+    "combination": "LastReceiptCost",
+    "null_distribution": {
+        "total_null_rows": 0,
+        "total_not_null_rows": 460
+    },
+    "data_distribution": [
+        {
+            "field_value": "39.07",
+            "row_count": 14,
+            "ratio_percent": 3.0434782608695654
+        },
+        {
+            "field_value": "41.17",
+            "row_count": 14,
+            "ratio_percent": 3.0434782608695654
+        },
+        {
+            "field_value": "43.27",
+            "row_count": 14,
+            "ratio_percent": 3.0434782608695654
+        },
+        {
+            "field_value": "36.97",
+            "row_count": 13,
+            "ratio_percent": 2.8260869565217392
+        },
+        {
+            "field_value": "39.28",
+            "row_count": 10,
+            "ratio_percent": 2.1739130434782608
+        },
+        {
+            "field_value": "41.38",
+            "row_count": 10,
+            "ratio_percent": 2.1739130434782608
+        },
+        {
+            "field_value": "43.48",
+            "row_count": 10,
+            "ratio_percent": 2.1739130434782608
+        },
+        {
+            "field_value": "45.58",
+            "row_count": 10,
+            "ratio_percent": 2.1739130434782608
+        },
+        {
+            "field_value": "37.18",
+            "row_count": 9,
+            "ratio_percent": 1.9565217391304348
+        },
+        {
+            "field_value": "39.12",
+            "row_count": 8,
+            "ratio_percent": 1.7391304347826086
+        }
+    ]
+}
+@endjson

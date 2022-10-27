@@ -1,0 +1,28 @@
+[
+    {
+        "table": "Production.ProductModelProductDescriptionCulture",
+        "total_records": 762,
+        "dataset": [
+            {
+                "field": "CultureID",
+                "total_null_rows": 0,
+                "total_not_null_rows": 762
+            },
+            {
+                "field": "ModifiedDate",
+                "total_null_rows": 0,
+                "total_not_null_rows": 762
+            },
+            {
+                "field": "ProductModelID",
+                "total_null_rows": 0,
+                "total_not_null_rows": 762
+            },
+            {
+                "field": "ProductDescriptionID",
+                "total_null_rows": 0,
+                "total_not_null_rows": 762
+            }
+        ]
+    }
+]

@@ -1,0 +1,62 @@
+@startjson
+{
+    "field1": "AddressLine2",
+    "combination": "AddressLine2",
+    "null_distribution": {
+        "total_null_rows": 19252,
+        "total_not_null_rows": 362
+    },
+    "data_distribution": [
+        {
+            "field_value": "**NULL**",
+            "row_count": 19252,
+            "ratio_percent": 98.15437952482921
+        },
+        {
+            "field_value": "Verkaufsabteilung",
+            "row_count": 35,
+            "ratio_percent": 0.17844396859386152
+        },
+        {
+            "field_value": "Einkaufsabteilung",
+            "row_count": 16,
+            "ratio_percent": 0.08157438564290813
+        },
+        {
+            "field_value": "# 1",
+            "row_count": 9,
+            "ratio_percent": 0.04588559192413582
+        },
+        {
+            "field_value": "Kreditorenbuchhaltung",
+            "row_count": 8,
+            "ratio_percent": 0.040787192821454064
+        },
+        {
+            "field_value": "# 2",
+            "row_count": 8,
+            "ratio_percent": 0.040787192821454064
+        },
+        {
+            "field_value": "Unit A",
+            "row_count": 7,
+            "ratio_percent": 0.03568879371877231
+        },
+        {
+            "field_value": "#9",
+            "row_count": 7,
+            "ratio_percent": 0.03568879371877231
+        },
+        {
+            "field_value": "Unit C",
+            "row_count": 6,
+            "ratio_percent": 0.030590394616090547
+        },
+        {
+            "field_value": "#3",
+            "row_count": 6,
+            "ratio_percent": 0.030590394616090547
+        }
+    ]
+}
+@endjson

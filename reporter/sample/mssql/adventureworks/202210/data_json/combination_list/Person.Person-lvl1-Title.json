@@ -1,0 +1,47 @@
+@startjson
+{
+    "field1": "Title",
+    "combination": "Title",
+    "null_distribution": {
+        "total_null_rows": 18963,
+        "total_not_null_rows": 1009
+    },
+    "data_distribution": [
+        {
+            "field_value": "**NULL**",
+            "row_count": 18963,
+            "ratio_percent": 94.94792709793711
+        },
+        {
+            "field_value": "Mr.",
+            "row_count": 577,
+            "ratio_percent": 2.8890446625275388
+        },
+        {
+            "field_value": "Ms.",
+            "row_count": 415,
+            "ratio_percent": 2.0779090727017824
+        },
+        {
+            "field_value": "Sr.",
+            "row_count": 11,
+            "ratio_percent": 0.05507710795113158
+        },
+        {
+            "field_value": "Sra.",
+            "row_count": 3,
+            "ratio_percent": 0.015021029441217705
+        },
+        {
+            "field_value": "Mrs.",
+            "row_count": 2,
+            "ratio_percent": 0.01001401962747847
+        },
+        {
+            "field_value": "Ms",
+            "row_count": 1,
+            "ratio_percent": 0.005007009813739235
+        }
+    ]
+}
+@endjson

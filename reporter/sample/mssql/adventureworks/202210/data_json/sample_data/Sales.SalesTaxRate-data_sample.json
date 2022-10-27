@@ -1,0 +1,52 @@
+[
+    {
+        "SalesTaxRateID": 1,
+        "TaxType": 1,
+        "TaxRate": "14.0000",
+        "Name": "Canadian GST + Alberta Provincial Tax",
+        "rowguid": "683DE5DD-521A-47D4-A573-06A3CDB1BC5D",
+        "ModifiedDate": "2008-04-30 00:00:00",
+        "StateProvinceID": 1,
+        "SYS_EXEC_DURATION": "0.184315"
+    },
+    {
+        "SalesTaxRateID": 2,
+        "TaxType": 1,
+        "TaxRate": "14.2500",
+        "Name": "Canadian GST + Ontario Provincial Tax",
+        "rowguid": "05C4FFDB-4F84-4CDF-ABE5-FDF3216EA74E",
+        "ModifiedDate": "2008-04-30 00:00:00",
+        "StateProvinceID": 57,
+        "SYS_EXEC_DURATION": "0.184498"
+    },
+    {
+        "SalesTaxRateID": 3,
+        "TaxType": 1,
+        "TaxRate": "14.2500",
+        "Name": "Canadian GST + Quebec Provincial Tax",
+        "rowguid": "D4EDB557-56D7-403C-B538-4DF5E7302588",
+        "ModifiedDate": "2008-04-30 00:00:00",
+        "StateProvinceID": 63,
+        "SYS_EXEC_DURATION": "0.184582"
+    },
+    {
+        "SalesTaxRateID": 4,
+        "TaxType": 2,
+        "TaxRate": "7.0000",
+        "Name": "Canadian GST",
+        "rowguid": "F0D76907-B433-453F-B95E-16FCE73B807A",
+        "ModifiedDate": "2008-04-30 00:00:00",
+        "StateProvinceID": 1,
+        "SYS_EXEC_DURATION": "0.184675"
+    },
+    {
+        "SalesTaxRateID": 5,
+        "TaxType": 2,
+        "TaxRate": "7.0000",
+        "Name": "Canadian GST",
+        "rowguid": "7E0E97A2-878B-476F-A648-05A3DD4450ED",
+        "ModifiedDate": "2008-04-30 00:00:00",
+        "StateProvinceID": 57,
+        "SYS_EXEC_DURATION": "0.184762"
+    }
+]

@@ -1,0 +1,62 @@
+@startjson
+{
+    "field1": "TSQL",
+    "combination": "TSQL",
+    "null_distribution": {
+        "total_null_rows": 0,
+        "total_not_null_rows": 1596
+    },
+    "data_distribution": [
+        {
+            "field_value": "CREATE FUNCTION [dbo].[ufnGetPurchaseOrderStatusText](@Status [tinyint])\r\nRETURNS [nvarchar](15) \r\nAS \r\n-- Returns the sales order status text representation for the status value.\r\nBEGIN\r\n    DECLARE @ret [nvarchar](15);\r\n\r\n    SET @ret = \r\n        CASE @Status\r\n            WHEN 1 THEN 'Pending'\r\n            WHEN 2 THEN 'Approved'\r\n            WHEN 3 THEN 'Rejected'\r\n            WHEN 4 THEN 'Complete'\r\n            ELSE '** Invalid **'\r\n        END;\r\n    \r\n    RETURN @ret\r\nEND;",
+            "row_count": 1,
+            "ratio_percent": 0.06265664160401002
+        },
+        {
+            "field_value": "CREATE FUNCTION [dbo].[ufnGetProductStandardCost](@ProductID [int], @OrderDate [datetime])\r\nRETURNS [money] \r\nAS \r\n-- Returns the standard cost for the product on a specific date.\r\nBEGIN\r\n    DECLARE @StandardCost money;\r\n\r\n    SELECT @StandardCost = pch.[StandardCost] \r\n    FROM [Production].[Product] p \r\n        INNER JOIN [Production].[ProductCostHistory] pch \r\n        ON p.[ProductID] = pch.[ProductID] \r\n            AND p.[ProductID] = @ProductID \r\n            AND @OrderDate BETWEEN pch.[StartDate] AND COALESCE(pch.[EndDate], CONVERT(datetime, '99991231', 112)); -- Make sure we get all the prices!\r\n\r\n    RETURN @StandardCost;\r\nEND;",
+            "row_count": 1,
+            "ratio_percent": 0.06265664160401002
+        },
+        {
+            "field_value": "CREATE FUNCTION [dbo].[ufnGetProductListPrice](@ProductID [int], @OrderDate [datetime])\r\nRETURNS [money] \r\nAS \r\nBEGIN\r\n    DECLARE @ListPrice money;\r\n\r\n    SELECT @ListPrice = plph.[ListPrice] \r\n    FROM [Production].[Product] p \r\n        INNER JOIN [Production].[ProductListPriceHistory] plph \r\n        ON p.[ProductID] = plph.[ProductID] \r\n            AND p.[ProductID] = @ProductID \r\n            AND @OrderDate BETWEEN plph.[StartDate] AND COALESCE(plph.[EndDate], CONVERT(datetime, '99991231', 112)); -- Make sure we get all the prices!\r\n\r\n    RETURN @ListPrice;\r\nEND;",
+            "row_count": 1,
+            "ratio_percent": 0.06265664160401002
+        },
+        {
+            "field_value": "CREATE FUNCTION [dbo].[ufnGetDocumentStatusText](@Status [tinyint])\r\nRETURNS [nvarchar](16) \r\nAS \r\n-- Returns the sales order status text representation for the status value.\r\nBEGIN\r\n    DECLARE @ret [nvarchar](16);\r\n\r\n    SET @ret = \r\n        CASE @Status\r\n            WHEN 1 THEN N'Pending approval'\r\n            WHEN 2 THEN N'Approved'\r\n            WHEN 3 THEN N'Obsolete'\r\n            ELSE N'** Invalid **'\r\n        END;\r\n    \r\n    RETURN @ret\r\nEND;",
+            "row_count": 1,
+            "ratio_percent": 0.06265664160401002
+        },
+        {
+            "field_value": "CREATE FUNCTION [dbo].[ufnGetContactInformation](@PersonID int)\r\nRETURNS @retContactInformation TABLE \r\n(\r\n    -- Columns returned by the function\r\n    [PersonID] int NOT NULL, \r\n    [FirstName] [nvarchar](50) NULL, \r\n    [LastName] [nvarchar](50) NULL, \r\n\t[JobTitle] [nvarchar](50) NULL,\r\n    [BusinessEntityType] [nvarchar](50) NULL\r\n)\r\nAS \r\n-- Returns the first name, last name, job title and business entity type for the specified contact.\r\n-- Since a contact can serve multiple roles, more than one row may be returned.\r\nBEGIN\r\n\tIF @PersonID IS NOT NULL \r\n\t\tBEGIN\r\n\t\tIF EXISTS(SELECT * FROM [HumanResources].[Employee] e \r\n\t\t\t\t\tWHERE e.[BusinessEntityID] = @PersonID) \r\n\t\t\tINSERT INTO @retContactInformation\r\n\t\t\t\tSELECT @PersonID, p.FirstName, p.LastName, e.[JobTitle], 'Employee'\r\n\t\t\t\tFROM [HumanResources].[Employee] AS e\r\n\t\t\t\t\tINNER JOIN [Person].[Person] p\r\n\t\t\t\t\tON p.[BusinessEntityID] = e.[BusinessEntityID]\r\n\t\t\t\tWHERE e.[BusinessEntityID] = @PersonID;\r\n\r\n\t\tIF EXISTS(SELECT * FROM [Purchasing].[Vendor] AS v\r\n\t\t\t\t\tINNER JOIN [Person].[BusinessEntityContact] bec \r\n\t\t\t\t\tON bec.[BusinessEntityID] = v.[BusinessEntityID]\r\n\t\t\t\t\tWHERE bec.[PersonID] = @PersonID)\r\n\t\t\tINSERT INTO @retContactInformation\r\n\t\t\t\tSELECT @PersonID, p.FirstName, p.LastName, ct.[Name], 'Vendor Contact' \r\n\t\t\t\tFROM [Purchasing].[Vendor] AS v\r\n\t\t\t\t\tINNER JOIN [Person].[BusinessEntityContact] bec \r\n\t\t\t\t\tON bec.[BusinessEntityID] = v.[BusinessEntityID]\r\n\t\t\t\t\tINNER JOIN [Person].ContactType ct\r\n\t\t\t\t\tON ct.[ContactTypeID] = bec.[ContactTypeID]\r\n\t\t\t\t\tINNER JOIN [Person].[Person] p\r\n\t\t\t\t\tON p.[BusinessEntityID] = bec.[PersonID]\r\n\t\t\t\tWHERE bec.[PersonID] = @PersonID;\r\n\t\t\r\n\t\tIF EXISTS(SELECT * FROM [Sales].[Store] AS s\r\n\t\t\t\t\tINNER JOIN [Person].[BusinessEntityContact] bec \r\n\t\t\t\t\tON bec.[BusinessEntityID] = s.[BusinessEntityID]\r\n\t\t\t\t\tWHERE bec.[PersonID] = @PersonID)\r\n\t\t\tINSERT INTO @retContactInformation\r\n\t\t\t\tSELECT @PersonID, p.FirstName, p.LastName, ct.[Name], 'Store Contact' \r\n\t\t\t\tFROM [Sales].[Store] AS s\r\n\t\t\t\t\tINNER JOIN [Person].[BusinessEntityContact] bec \r\n\t\t\t\t\tON bec.[BusinessEntityID] = s.[BusinessEntityID]\r\n\t\t\t\t\tINNER JOIN [Person].ContactType ct\r\n\t\t\t\t\tON ct.[ContactTypeID] = bec.[ContactTypeID]\r\n\t\t\t\t\tINNER JOIN [Person].[Person] p\r\n\t\t\t\t\tON p.[BusinessEntityID] = bec.[PersonID]\r\n\t\t\t\tWHERE bec.[PersonID] = @PersonID;\r\n\r\n\t\tIF EXISTS(SELECT * FROM [Person].[Person] AS p\r\n\t\t\t\t\tINNER JOIN [Sales].[Customer] AS c\r\n\t\t\t\t\tON c.[PersonID] = p.[BusinessEntityID]\r\n\t\t\t\t\tWHERE p.[BusinessEntityID] = @PersonID AND c.[StoreID] IS NULL) \r\n\t\t\tINSERT INTO @retContactInformation\r\n\t\t\t\tSELECT @PersonID, p.FirstName, p.LastName, NULL, 'Consumer' \r\n\t\t\t\tFROM [Person].[Person] AS p\r\n\t\t\t\t\tINNER JOIN [Sales].[Customer] AS c\r\n\t\t\t\t\tON c.[PersonID] = p.[BusinessEntityID]\r\n\t\t\t\t\tWHERE p.[BusinessEntityID] = @PersonID AND c.[StoreID] IS NULL; \r\n\t\tEND\r\n\r\n\tRETURN;\r\nEND;",
+            "row_count": 1,
+            "ratio_percent": 0.06265664160401002
+        },
+        {
+            "field_value": "CREATE FUNCTION [dbo].[ufnGetAccountingStartDate]()\r\nRETURNS [datetime] \r\nAS \r\nBEGIN\r\n    RETURN CONVERT(datetime, '20030701', 112);\r\nEND;",
+            "row_count": 1,
+            "ratio_percent": 0.06265664160401002
+        },
+        {
+            "field_value": "CREATE FUNCTION [dbo].[ufnGetAccountingEndDate]()\r\nRETURNS [datetime] \r\nAS \r\nBEGIN\r\n    RETURN DATEADD(millisecond, -2, CONVERT(datetime, '20040701', 112));\r\nEND;",
+            "row_count": 1,
+            "ratio_percent": 0.06265664160401002
+        },
+        {
+            "field_value": "--A stored procedure which demonstrates integrated full text search\r\n\r\nCREATE PROCEDURE [dbo].[uspSearchCandidateResumes]\r\n    @searchString [nvarchar](1000),   \r\n    @useInflectional [bit]=0,\r\n    @useThesaurus [bit]=0,\r\n    @language[int]=0\r\n\r\n\r\nWITH EXECUTE AS CALLER\r\nAS\r\nBEGIN\r\n    SET NOCOUNT ON;\r\n\r\n      DECLARE @string nvarchar(1050)\r\n      --setting the lcid to the default instance LCID if needed\r\n      IF @language = NULL OR @language = 0 \r\n      BEGIN \r\n            SELECT @language =CONVERT(int, serverproperty('lcid'))  \r\n      END\r\n      \r\n\r\n            --FREETEXTTABLE case as inflectional and Thesaurus were required\r\n      IF @useThesaurus = 1 AND @useInflectional = 1  \r\n        BEGIN\r\n                  SELECT FT_TBL.[JobCandidateID], KEY_TBL.[RANK] FROM [HumanResources].[JobCandidate] AS FT_TBL \r\n                        INNER JOIN FREETEXTTABLE([HumanResources].[JobCandidate],*, @searchString,LANGUAGE @language) AS KEY_TBL\r\n                   ON  FT_TBL.[JobCandidateID] =KEY_TBL.[KEY]\r\n            END\r\n\r\n      ELSE IF @useThesaurus = 1\r\n            BEGIN\r\n                  SELECT @string ='FORMSOF(THESAURUS,\"'+@searchString +'\"'+')'      \r\n                  SELECT FT_TBL.[JobCandidateID], KEY_TBL.[RANK] FROM [HumanResources].[JobCandidate] AS FT_TBL \r\n                        INNER JOIN CONTAINSTABLE([HumanResources].[JobCandidate],*, @string,LANGUAGE @language) AS KEY_TBL\r\n                   ON  FT_TBL.[JobCandidateID] =KEY_TBL.[KEY]\r\n        END\r\n\r\n      ELSE IF @useInflectional = 1\r\n            BEGIN\r\n                  SELECT @string ='FORMSOF(INFLECTIONAL,\"'+@searchString +'\"'+')'\r\n                  SELECT FT_TBL.[JobCandidateID], KEY_TBL.[RANK] FROM [HumanResources].[JobCandidate] AS FT_TBL \r\n                        INNER JOIN CONTAINSTABLE([HumanResources].[JobCandidate],*, @string,LANGUAGE @language) AS KEY_TBL\r\n                   ON  FT_TBL.[JobCandidateID] =KEY_TBL.[KEY]\r\n        END\r\n  \r\n      ELSE --base case, plain CONTAINSTABLE\r\n            BEGIN\r\n                  SELECT @string='\"'+@searchString +'\"'\r\n                  SELECT FT_TBL.[JobCandidateID],KEY_TBL.[RANK] FROM [HumanResources].[JobCandidate] AS FT_TBL \r\n                        INNER JOIN CONTAINSTABLE([HumanResources].[JobCandidate],*,@string,LANGUAGE @language) AS KEY_TBL\r\n                   ON  FT_TBL.[JobCandidateID] =KEY_TBL.[KEY]\r\n            END\r\n\r\nEND;",
+            "row_count": 1,
+            "ratio_percent": 0.06265664160401002
+        },
+        {
+            "field_value": "CREATE FUNCTION [dbo].[ufnGetProductDealerPrice](@ProductID [int], @OrderDate [datetime])\r\nRETURNS [money] \r\nAS \r\n-- Returns the dealer price for the product on a specific date.\r\nBEGIN\r\n    DECLARE @DealerPrice money;\r\n    DECLARE @DealerDiscount money;\r\n\r\n    SET @DealerDiscount = 0.60  -- 60% of list price\r\n\r\n    SELECT @DealerPrice = plph.[ListPrice] * @DealerDiscount \r\n    FROM [Production].[Product] p \r\n        INNER JOIN [Production].[ProductListPriceHistory] plph \r\n        ON p.[ProductID] = plph.[ProductID] \r\n            AND p.[ProductID] = @ProductID \r\n            AND @OrderDate BETWEEN plph.[StartDate] AND COALESCE(plph.[EndDate], CONVERT(datetime, '99991231', 112)); -- Make sure we get all the prices!\r\n\r\n    RETURN @DealerPrice;\r\nEND;",
+            "row_count": 1,
+            "ratio_percent": 0.06265664160401002
+        },
+        {
+            "field_value": "-- uspPrintError prints error information about the error that caused \r\n-- execution to jump to the CATCH block of a TRY...CATCH construct. \r\n-- Should be executed from within the scope of a CATCH block otherwise \r\n-- it will return without printing any error information.\r\nCREATE PROCEDURE [dbo].[uspPrintError] \r\nAS\r\nBEGIN\r\n    SET NOCOUNT ON;\r\n\r\n    -- Print error information. \r\n    PRINT 'Error ' + CONVERT(varchar(50), ERROR_NUMBER()) +\r\n          ', Severity ' + CONVERT(varchar(5), ERROR_SEVERITY()) +\r\n          ', State ' + CONVERT(varchar(5), ERROR_STATE()) + \r\n          ', Procedure ' + ISNULL(ERROR_PROCEDURE(), '-') + \r\n          ', Line ' + CONVERT(varchar(5), ERROR_LINE());\r\n    PRINT ERROR_MESSAGE();\r\nEND;",
+            "row_count": 1,
+            "ratio_percent": 0.06265664160401002
+        }
+    ]
+}
+@endjson

@@ -1,0 +1,62 @@
+@startjson
+{
+    "field1": "ExpMonth",
+    "combination": "ExpMonth",
+    "null_distribution": {
+        "total_null_rows": 0,
+        "total_not_null_rows": 19118
+    },
+    "data_distribution": [
+        {
+            "field_value": "11",
+            "row_count": 1623,
+            "ratio_percent": 8.489381734491056
+        },
+        {
+            "field_value": "8",
+            "row_count": 1619,
+            "ratio_percent": 8.468459043833036
+        },
+        {
+            "field_value": "9",
+            "row_count": 1615,
+            "ratio_percent": 8.447536353175018
+        },
+        {
+            "field_value": "1",
+            "row_count": 1613,
+            "ratio_percent": 8.437075007846008
+        },
+        {
+            "field_value": "7",
+            "row_count": 1611,
+            "ratio_percent": 8.426613662517
+        },
+        {
+            "field_value": "12",
+            "row_count": 1607,
+            "ratio_percent": 8.40569097185898
+        },
+        {
+            "field_value": "3",
+            "row_count": 1585,
+            "ratio_percent": 8.29061617323988
+        },
+        {
+            "field_value": "5",
+            "row_count": 1584,
+            "ratio_percent": 8.285385500575375
+        },
+        {
+            "field_value": "10",
+            "row_count": 1584,
+            "ratio_percent": 8.285385500575375
+        },
+        {
+            "field_value": "6",
+            "row_count": 1579,
+            "ratio_percent": 8.25923213725285
+        }
+    ]
+}
+@endjson

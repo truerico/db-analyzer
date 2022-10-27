@@ -1,0 +1,52 @@
+@startjson
+{
+    "field1": "Name",
+    "combination": "Name",
+    "null_distribution": {
+        "total_null_rows": 0,
+        "total_not_null_rows": 8
+    },
+    "data_distribution": [
+        {
+            "field_value": "Thai",
+            "row_count": 1,
+            "ratio_percent": 12.5
+        },
+        {
+            "field_value": "Spanish",
+            "row_count": 1,
+            "ratio_percent": 12.5
+        },
+        {
+            "field_value": "Invariant Language (Invariant Country)",
+            "row_count": 1,
+            "ratio_percent": 12.5
+        },
+        {
+            "field_value": "Hebrew",
+            "row_count": 1,
+            "ratio_percent": 12.5
+        },
+        {
+            "field_value": "French",
+            "row_count": 1,
+            "ratio_percent": 12.5
+        },
+        {
+            "field_value": "English",
+            "row_count": 1,
+            "ratio_percent": 12.5
+        },
+        {
+            "field_value": "Chinese",
+            "row_count": 1,
+            "ratio_percent": 12.5
+        },
+        {
+            "field_value": "Arabic",
+            "row_count": 1,
+            "ratio_percent": 12.5
+        }
+    ]
+}
+@endjson

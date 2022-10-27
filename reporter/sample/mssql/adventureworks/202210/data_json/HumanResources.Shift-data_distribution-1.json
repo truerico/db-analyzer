@@ -1,0 +1,98 @@
+[
+    {
+        "table": "HumanResources.Shift",
+        "total_records": 3,
+        "dataset": [
+            {
+                "field": "EndTime",
+                "distribution": [
+                    {
+                        "field_value": "23:00:00.0000000",
+                        "row_count": 1,
+                        "ratio_percent": 33.333333333333336
+                    },
+                    {
+                        "field_value": "15:00:00.0000000",
+                        "row_count": 1,
+                        "ratio_percent": 33.333333333333336
+                    },
+                    {
+                        "field_value": "07:00:00.0000000",
+                        "row_count": 1,
+                        "ratio_percent": 33.333333333333336
+                    }
+                ]
+            },
+            {
+                "field": "ModifiedDate",
+                "distribution": [
+                    {
+                        "field_value": "Apr 30 2008 12:00AM",
+                        "row_count": 3,
+                        "ratio_percent": 100.0
+                    }
+                ]
+            },
+            {
+                "field": "Name",
+                "distribution": [
+                    {
+                        "field_value": "Night",
+                        "row_count": 1,
+                        "ratio_percent": 33.333333333333336
+                    },
+                    {
+                        "field_value": "Evening",
+                        "row_count": 1,
+                        "ratio_percent": 33.333333333333336
+                    },
+                    {
+                        "field_value": "Day",
+                        "row_count": 1,
+                        "ratio_percent": 33.333333333333336
+                    }
+                ]
+            },
+            {
+                "field": "ShiftID",
+                "distribution": [
+                    {
+                        "field_value": "3",
+                        "row_count": 1,
+                        "ratio_percent": 33.333333333333336
+                    },
+                    {
+                        "field_value": "2",
+                        "row_count": 1,
+                        "ratio_percent": 33.333333333333336
+                    },
+                    {
+                        "field_value": "1",
+                        "row_count": 1,
+                        "ratio_percent": 33.333333333333336
+                    }
+                ]
+            },
+            {
+                "field": "StartTime",
+                "distribution": [
+                    {
+                        "field_value": "23:00:00.0000000",
+                        "row_count": 1,
+                        "ratio_percent": 33.333333333333336
+                    },
+                    {
+                        "field_value": "15:00:00.0000000",
+                        "row_count": 1,
+                        "ratio_percent": 33.333333333333336
+                    },
+                    {
+                        "field_value": "07:00:00.0000000",
+                        "row_count": 1,
+                        "ratio_percent": 33.333333333333336
+                    }
+                ]
+            }
+        ]
+    }
+]

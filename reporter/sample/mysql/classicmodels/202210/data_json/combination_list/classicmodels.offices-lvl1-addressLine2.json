@@ -1,0 +1,42 @@
+@startjson
+{
+    "field1": "addressLine2",
+    "combination": "addressLine2",
+    "null_distribution": {
+        "total_null_rows": 2,
+        "total_not_null_rows": 5
+    },
+    "data_distribution": [
+        {
+            "field_value": "**NULL**",
+            "row_count": 2,
+            "ratio_percent": 28.571428571428573
+        },
+        {
+            "field_value": "apt. 5A",
+            "row_count": 1,
+            "ratio_percent": 14.285714285714286
+        },
+        {
+            "field_value": "Suite 102",
+            "row_count": 1,
+            "ratio_percent": 14.285714285714286
+        },
+        {
+            "field_value": "Suite 300",
+            "row_count": 1,
+            "ratio_percent": 14.285714285714286
+        },
+        {
+            "field_value": "Level 7",
+            "row_count": 1,
+            "ratio_percent": 14.285714285714286
+        },
+        {
+            "field_value": "Floor #2",
+            "row_count": 1,
+            "ratio_percent": 14.285714285714286
+        }
+    ]
+}
+@endjson

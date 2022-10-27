@@ -1,0 +1,62 @@
+@startjson
+{
+    "field1": "extension",
+    "combination": "extension",
+    "null_distribution": {
+        "total_null_rows": 0,
+        "total_not_null_rows": 23
+    },
+    "data_distribution": [
+        {
+            "field_value": "x102",
+            "row_count": 3,
+            "ratio_percent": 13.043478260869565
+        },
+        {
+            "field_value": "x101",
+            "row_count": 2,
+            "ratio_percent": 8.695652173913043
+        },
+        {
+            "field_value": "x6493",
+            "row_count": 1,
+            "ratio_percent": 4.3478260869565215
+        },
+        {
+            "field_value": "x4871",
+            "row_count": 1,
+            "ratio_percent": 4.3478260869565215
+        },
+        {
+            "field_value": "x2173",
+            "row_count": 1,
+            "ratio_percent": 4.3478260869565215
+        },
+        {
+            "field_value": "x2028",
+            "row_count": 1,
+            "ratio_percent": 4.3478260869565215
+        },
+        {
+            "field_value": "x5408",
+            "row_count": 1,
+            "ratio_percent": 4.3478260869565215
+        },
+        {
+            "field_value": "x103",
+            "row_count": 1,
+            "ratio_percent": 4.3478260869565215
+        },
+        {
+            "field_value": "x4334",
+            "row_count": 1,
+            "ratio_percent": 4.3478260869565215
+        },
+        {
+            "field_value": "x5800",
+            "row_count": 1,
+            "ratio_percent": 4.3478260869565215
+        }
+    ]
+}
+@endjson

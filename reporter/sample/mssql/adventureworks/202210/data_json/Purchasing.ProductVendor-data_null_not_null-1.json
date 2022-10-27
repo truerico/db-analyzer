@@ -1,0 +1,63 @@
+[
+    {
+        "table": "Purchasing.ProductVendor",
+        "total_records": 460,
+        "dataset": [
+            {
+                "field": "AverageLeadTime",
+                "total_null_rows": 0,
+                "total_not_null_rows": 460
+            },
+            {
+                "field": "StandardPrice",
+                "total_null_rows": 0,
+                "total_not_null_rows": 460
+            },
+            {
+                "field": "UnitMeasureCode",
+                "total_null_rows": 0,
+                "total_not_null_rows": 460
+            },
+            {
+                "field": "BusinessEntityID",
+                "total_null_rows": 0,
+                "total_not_null_rows": 460
+            },
+            {
+                "field": "LastReceiptCost",
+                "total_null_rows": 0,
+                "total_not_null_rows": 460
+            },
+            {
+                "field": "LastReceiptDate",
+                "total_null_rows": 0,
+                "total_not_null_rows": 460
+            },
+            {
+                "field": "MinOrderQty",
+                "total_null_rows": 0,
+                "total_not_null_rows": 460
+            },
+            {
+                "field": "MaxOrderQty",
+                "total_null_rows": 0,
+                "total_not_null_rows": 460
+            },
+            {
+                "field": "ModifiedDate",
+                "total_null_rows": 0,
+                "total_not_null_rows": 460
+            },
+            {
+                "field": "OnOrderQty",
+                "total_null_rows": 305,
+                "total_not_null_rows": 155
+            },
+            {
+                "field": "ProductID",
+                "total_null_rows": 0,
+                "total_not_null_rows": 460
+            }
+        ]
+    }
+]

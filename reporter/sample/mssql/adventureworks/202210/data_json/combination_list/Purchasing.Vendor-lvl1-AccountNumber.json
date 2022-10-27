@@ -1,0 +1,62 @@
+@startjson
+{
+    "field1": "AccountNumber",
+    "combination": "AccountNumber",
+    "null_distribution": {
+        "total_null_rows": 0,
+        "total_not_null_rows": 104
+    },
+    "data_distribution": [
+        {
+            "field_value": "BICYCLE0001",
+            "row_count": 1,
+            "ratio_percent": 0.9615384615384616
+        },
+        {
+            "field_value": "BERGERON0001",
+            "row_count": 1,
+            "ratio_percent": 0.9615384615384616
+        },
+        {
+            "field_value": "BEAUMONT0001",
+            "row_count": 1,
+            "ratio_percent": 0.9615384615384616
+        },
+        {
+            "field_value": "AUSTRALI0001",
+            "row_count": 1,
+            "ratio_percent": 0.9615384615384616
+        },
+        {
+            "field_value": "AURORAB0001",
+            "row_count": 1,
+            "ratio_percent": 0.9615384615384616
+        },
+        {
+            "field_value": "ANDERSON0001",
+            "row_count": 1,
+            "ratio_percent": 0.9615384615384616
+        },
+        {
+            "field_value": "AMERICAN0002",
+            "row_count": 1,
+            "ratio_percent": 0.9615384615384616
+        },
+        {
+            "field_value": "AMERICAN0001",
+            "row_count": 1,
+            "ratio_percent": 0.9615384615384616
+        },
+        {
+            "field_value": "ALLENSON0001",
+            "row_count": 1,
+            "ratio_percent": 0.9615384615384616
+        },
+        {
+            "field_value": "ADVANCED0001",
+            "row_count": 1,
+            "ratio_percent": 0.9615384615384616
+        }
+    ]
+}
+@endjson

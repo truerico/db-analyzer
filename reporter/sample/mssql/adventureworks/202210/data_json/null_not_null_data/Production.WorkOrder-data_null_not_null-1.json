@@ -1,0 +1,58 @@
+[
+    {
+        "table": "Production.WorkOrder",
+        "total_records": 72591,
+        "dataset": [
+            {
+                "field": "DueDate",
+                "total_null_rows": 0,
+                "total_not_null_rows": 72591
+            },
+            {
+                "field": "WorkOrderID",
+                "total_null_rows": 0,
+                "total_not_null_rows": 72591
+            },
+            {
+                "field": "EndDate",
+                "total_null_rows": 0,
+                "total_not_null_rows": 72591
+            },
+            {
+                "field": "ModifiedDate",
+                "total_null_rows": 0,
+                "total_not_null_rows": 72591
+            },
+            {
+                "field": "OrderQty",
+                "total_null_rows": 0,
+                "total_not_null_rows": 72591
+            },
+            {
+                "field": "ProductID",
+                "total_null_rows": 0,
+                "total_not_null_rows": 72591
+            },
+            {
+                "field": "StockedQty",
+                "total_null_rows": 0,
+                "total_not_null_rows": 72591
+            },
+            {
+                "field": "ScrappedQty",
+                "total_null_rows": 0,
+                "total_not_null_rows": 72591
+            },
+            {
+                "field": "StartDate",
+                "total_null_rows": 0,
+                "total_not_null_rows": 72591
+            },
+            {
+                "field": "ScrapReasonID",
+                "total_null_rows": 71862,
+                "total_not_null_rows": 729
+            }
+        ]
+    }
+]

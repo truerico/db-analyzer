@@ -1,0 +1,62 @@
+@startjson
+{
+    "field1": "QuotaDate",
+    "combination": "QuotaDate",
+    "null_distribution": {
+        "total_null_rows": 0,
+        "total_not_null_rows": 163
+    },
+    "data_distribution": [
+        {
+            "field_value": "Mar  1 2014 12:00AM",
+            "row_count": 17,
+            "ratio_percent": 10.429447852760736
+        },
+        {
+            "field_value": "May 30 2013 12:00AM",
+            "row_count": 17,
+            "ratio_percent": 10.429447852760736
+        },
+        {
+            "field_value": "Aug 30 2013 12:00AM",
+            "row_count": 17,
+            "ratio_percent": 10.429447852760736
+        },
+        {
+            "field_value": "Nov 30 2013 12:00AM",
+            "row_count": 17,
+            "ratio_percent": 10.429447852760736
+        },
+        {
+            "field_value": "Nov 30 2012 12:00AM",
+            "row_count": 14,
+            "ratio_percent": 8.588957055214724
+        },
+        {
+            "field_value": "Aug 30 2012 12:00AM",
+            "row_count": 14,
+            "ratio_percent": 8.588957055214724
+        },
+        {
+            "field_value": "Feb 28 2013 12:00AM",
+            "row_count": 14,
+            "ratio_percent": 8.588957055214724
+        },
+        {
+            "field_value": "May 30 2012 12:00AM",
+            "row_count": 13,
+            "ratio_percent": 7.975460122699387
+        },
+        {
+            "field_value": "May 31 2011 12:00AM",
+            "row_count": 10,
+            "ratio_percent": 6.134969325153374
+        },
+        {
+            "field_value": "Feb 29 2012 12:00AM",
+            "row_count": 10,
+            "ratio_percent": 6.134969325153374
+        }
+    ]
+}
+@endjson

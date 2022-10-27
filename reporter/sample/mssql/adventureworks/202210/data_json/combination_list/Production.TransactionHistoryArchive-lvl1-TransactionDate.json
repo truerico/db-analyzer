@@ -1,0 +1,62 @@
+@startjson
+{
+    "field1": "TransactionDate",
+    "combination": "TransactionDate",
+    "null_distribution": {
+        "total_null_rows": 0,
+        "total_not_null_rows": 89253
+    },
+    "data_distribution": [
+        {
+            "field_value": "Jun 30 2013 12:00AM",
+            "row_count": 3973,
+            "ratio_percent": 4.451390989658611
+        },
+        {
+            "field_value": "Jun 30 2012 12:00AM",
+            "row_count": 3014,
+            "ratio_percent": 3.3769173024996357
+        },
+        {
+            "field_value": "Sep 30 2012 12:00AM",
+            "row_count": 2399,
+            "ratio_percent": 2.6878648336750586
+        },
+        {
+            "field_value": "Mar 30 2013 12:00AM",
+            "row_count": 2368,
+            "ratio_percent": 2.6531321076042262
+        },
+        {
+            "field_value": "May 30 2013 12:00AM",
+            "row_count": 2287,
+            "ratio_percent": 2.5623788556126965
+        },
+        {
+            "field_value": "Jul 31 2012 12:00AM",
+            "row_count": 2234,
+            "ratio_percent": 2.5029970981367575
+        },
+        {
+            "field_value": "May 30 2012 12:00AM",
+            "row_count": 1817,
+            "ratio_percent": 2.0357859119581416
+        },
+        {
+            "field_value": "Oct 30 2012 12:00AM",
+            "row_count": 1791,
+            "ratio_percent": 2.0066552384793788
+        },
+        {
+            "field_value": "Apr 30 2013 12:00AM",
+            "row_count": 1767,
+            "ratio_percent": 1.9797653860374442
+        },
+        {
+            "field_value": "Dec 31 2012 12:00AM",
+            "row_count": 1723,
+            "ratio_percent": 1.9304673232272305
+        }
+    ]
+}
+@endjson

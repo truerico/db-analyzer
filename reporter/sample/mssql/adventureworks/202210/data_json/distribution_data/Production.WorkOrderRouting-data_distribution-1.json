@@ -1,0 +1,588 @@
+[
+    {
+        "table": "Production.WorkOrderRouting",
+        "total_records": 67131,
+        "dataset": [
+            {
+                "field": "ActualStartDate",
+                "distribution": [
+                    {
+                        "field_value": "Apr 17 2014 12:00AM",
+                        "row_count": 342,
+                        "ratio_percent": 0.5094516691245475
+                    },
+                    {
+                        "field_value": "Jun  1 2014 12:00AM",
+                        "row_count": 337,
+                        "ratio_percent": 0.5020035453069371
+                    },
+                    {
+                        "field_value": "Nov  4 2013 12:00AM",
+                        "row_count": 333,
+                        "ratio_percent": 0.4960450462528489
+                    },
+                    {
+                        "field_value": "Apr  5 2014 12:00AM",
+                        "row_count": 326,
+                        "ratio_percent": 0.4856176729081944
+                    },
+                    {
+                        "field_value": "Nov  8 2013 12:00AM",
+                        "row_count": 322,
+                        "ratio_percent": 0.47965917385410617
+                    },
+                    {
+                        "field_value": "Apr 13 2014 12:00AM",
+                        "row_count": 315,
+                        "ratio_percent": 0.4692318005094517
+                    },
+                    {
+                        "field_value": "Apr  1 2014 12:00AM",
+                        "row_count": 309,
+                        "ratio_percent": 0.46029405192831924
+                    },
+                    {
+                        "field_value": "Apr  9 2014 12:00AM",
+                        "row_count": 303,
+                        "ratio_percent": 0.45135630334718685
+                    },
+                    {
+                        "field_value": "Nov 12 2013 12:00AM",
+                        "row_count": 301,
+                        "ratio_percent": 0.4483770538201427
+                    },
+                    {
+                        "field_value": "Nov 16 2013 12:00AM",
+                        "row_count": 293,
+                        "ratio_percent": 0.43646005571196617
+                    }
+                ]
+            },
+            {
+                "field": "ScheduledStartDate",
+                "distribution": [
+                    {
+                        "field_value": "Jul  3 2013 12:00AM",
+                        "row_count": 235,
+                        "ratio_percent": 0.35006181942768616
+                    },
+                    {
+                        "field_value": "Jun  2 2013 12:00AM",
+                        "row_count": 230,
+                        "ratio_percent": 0.3426136956100758
+                    },
+                    {
+                        "field_value": "Aug  3 2013 12:00AM",
+                        "row_count": 217,
+                        "ratio_percent": 0.32324857368428894
+                    },
+                    {
+                        "field_value": "Oct  3 2013 12:00AM",
+                        "row_count": 213,
+                        "ratio_percent": 0.31729007463020065
+                    },
+                    {
+                        "field_value": "Sep  2 2013 12:00AM",
+                        "row_count": 210,
+                        "ratio_percent": 0.31282120033963445
+                    },
+                    {
+                        "field_value": "Apr  3 2014 12:00AM",
+                        "row_count": 209,
+                        "ratio_percent": 0.31133157557611235
+                    },
+                    {
+                        "field_value": "Mar  4 2014 12:00AM",
+                        "row_count": 209,
+                        "ratio_percent": 0.31133157557611235
+                    },
+                    {
+                        "field_value": "Nov  2 2013 12:00AM",
+                        "row_count": 209,
+                        "ratio_percent": 0.31133157557611235
+                    },
+                    {
+                        "field_value": "May  4 2014 12:00AM",
+                        "row_count": 209,
+                        "ratio_percent": 0.31133157557611235
+                    },
+                    {
+                        "field_value": "Jan  3 2014 12:00AM",
+                        "row_count": 204,
+                        "ratio_percent": 0.303883451758502
+                    }
+                ]
+            },
+            {
+                "field": "ScheduledEndDate",
+                "distribution": [
+                    {
+                        "field_value": "Jul 14 2013 12:00AM",
+                        "row_count": 235,
+                        "ratio_percent": 0.35006181942768616
+                    },
+                    {
+                        "field_value": "Jun 13 2013 12:00AM",
+                        "row_count": 230,
+                        "ratio_percent": 0.3426136956100758
+                    },
+                    {
+                        "field_value": "Aug 14 2013 12:00AM",
+                        "row_count": 217,
+                        "ratio_percent": 0.32324857368428894
+                    },
+                    {
+                        "field_value": "Oct 14 2013 12:00AM",
+                        "row_count": 213,
+                        "ratio_percent": 0.31729007463020065
+                    },
+                    {
+                        "field_value": "Sep 13 2013 12:00AM",
+                        "row_count": 210,
+                        "ratio_percent": 0.31282120033963445
+                    },
+                    {
+                        "field_value": "Mar 15 2014 12:00AM",
+                        "row_count": 209,
+                        "ratio_percent": 0.31133157557611235
+                    },
+                    {
+                        "field_value": "May 15 2014 12:00AM",
+                        "row_count": 209,
+                        "ratio_percent": 0.31133157557611235
+                    },
+                    {
+                        "field_value": "Apr 14 2014 12:00AM",
+                        "row_count": 209,
+                        "ratio_percent": 0.31133157557611235
+                    },
+                    {
+                        "field_value": "Nov 13 2013 12:00AM",
+                        "row_count": 209,
+                        "ratio_percent": 0.31133157557611235
+                    },
+                    {
+                        "field_value": "Jan 14 2014 12:00AM",
+                        "row_count": 204,
+                        "ratio_percent": 0.303883451758502
+                    }
+                ]
+            },
+            {
+                "field": "WorkOrderID",
+                "distribution": [
+                    {
+                        "field_value": "51266",
+                        "row_count": 6,
+                        "ratio_percent": 0.008937748581132414
+                    },
+                    {
+                        "field_value": "44776",
+                        "row_count": 6,
+                        "ratio_percent": 0.008937748581132414
+                    },
+                    {
+                        "field_value": "60827",
+                        "row_count": 6,
+                        "ratio_percent": 0.008937748581132414
+                    },
+                    {
+                        "field_value": "64055",
+                        "row_count": 6,
+                        "ratio_percent": 0.008937748581132414
+                    },
+                    {
+                        "field_value": "8032",
+                        "row_count": 6,
+                        "ratio_percent": 0.008937748581132414
+                    },
+                    {
+                        "field_value": "58995",
+                        "row_count": 6,
+                        "ratio_percent": 0.008937748581132414
+                    },
+                    {
+                        "field_value": "71698",
+                        "row_count": 6,
+                        "ratio_percent": 0.008937748581132414
+                    },
+                    {
+                        "field_value": "17088",
+                        "row_count": 6,
+                        "ratio_percent": 0.008937748581132414
+                    },
+                    {
+                        "field_value": "49332",
+                        "row_count": 6,
+                        "ratio_percent": 0.008937748581132414
+                    },
+                    {
+                        "field_value": "49006",
+                        "row_count": 6,
+                        "ratio_percent": 0.008937748581132414
+                    }
+                ]
+            },
+            {
+                "field": "ActualEndDate",
+                "distribution": [
+                    {
+                        "field_value": "Jun  1 2014 12:00AM",
+                        "row_count": 343,
+                        "ratio_percent": 0.5109412938880696
+                    },
+                    {
+                        "field_value": "Apr 19 2014 12:00AM",
+                        "row_count": 335,
+                        "ratio_percent": 0.49902429577989305
+                    },
+                    {
+                        "field_value": "Nov 18 2013 12:00AM",
+                        "row_count": 325,
+                        "ratio_percent": 0.48412804814467236
+                    },
+                    {
+                        "field_value": "May 20 2014 12:00AM",
+                        "row_count": 323,
+                        "ratio_percent": 0.4811487986176282
+                    },
+                    {
+                        "field_value": "Jul 19 2013 12:00AM",
+                        "row_count": 317,
+                        "ratio_percent": 0.4722110500364958
+                    },
+                    {
+                        "field_value": "Sep 18 2013 12:00AM",
+                        "row_count": 316,
+                        "ratio_percent": 0.4707214252729737
+                    },
+                    {
+                        "field_value": "Apr 17 2014 12:00AM",
+                        "row_count": 313,
+                        "ratio_percent": 0.46625255098240753
+                    },
+                    {
+                        "field_value": "Apr 13 2014 12:00AM",
+                        "row_count": 306,
+                        "ratio_percent": 0.45582517763775304
+                    },
+                    {
+                        "field_value": "Mar 20 2014 12:00AM",
+                        "row_count": 304,
+                        "ratio_percent": 0.4528459281107089
+                    },
+                    {
+                        "field_value": "Jan 19 2014 12:00AM",
+                        "row_count": 302,
+                        "ratio_percent": 0.44986667858366475
+                    }
+                ]
+            },
+            {
+                "field": "ActualResourceHrs",
+                "distribution": [
+                    {
+                        "field_value": "3.0000",
+                        "row_count": 30107,
+                        "ratio_percent": 44.848132755358925
+                    },
+                    {
+                        "field_value": "4.0000",
+                        "row_count": 18554,
+                        "ratio_percent": 27.638497862388466
+                    },
+                    {
+                        "field_value": "4.1000",
+                        "row_count": 9567,
+                        "ratio_percent": 14.251240112615632
+                    },
+                    {
+                        "field_value": "3.5000",
+                        "row_count": 5923,
+                        "ratio_percent": 8.823047474341214
+                    },
+                    {
+                        "field_value": "2.0000",
+                        "row_count": 1490,
+                        "ratio_percent": 2.2195408976478825
+                    },
+                    {
+                        "field_value": "1.0000",
+                        "row_count": 1490,
+                        "ratio_percent": 2.2195408976478825
+                    }
+                ]
+            },
+            {
+                "field": "ActualCost",
+                "distribution": [
+                    {
+                        "field_value": "36.75",
+                        "row_count": 30107,
+                        "ratio_percent": 44.848132755358925
+                    },
+                    {
+                        "field_value": "49.00",
+                        "row_count": 18554,
+                        "ratio_percent": 27.638497862388466
+                    },
+                    {
+                        "field_value": "92.25",
+                        "row_count": 9567,
+                        "ratio_percent": 14.251240112615632
+                    },
+                    {
+                        "field_value": "87.50",
+                        "row_count": 5923,
+                        "ratio_percent": 8.823047474341214
+                    },
+                    {
+                        "field_value": "14.50",
+                        "row_count": 1490,
+                        "ratio_percent": 2.2195408976478825
+                    },
+                    {
+                        "field_value": "31.50",
+                        "row_count": 816,
+                        "ratio_percent": 1.215533807034008
+                    },
+                    {
+                        "field_value": "36.00",
+                        "row_count": 674,
+                        "ratio_percent": 1.0040070906138743
+                    }
+                ]
+            },
+            {
+                "field": "LocationID",
+                "distribution": [
+                    {
+                        "field_value": "50",
+                        "row_count": 30107,
+                        "ratio_percent": 44.848132755358925
+                    },
+                    {
+                        "field_value": "60",
+                        "row_count": 18554,
+                        "ratio_percent": 27.638497862388466
+                    },
+                    {
+                        "field_value": "10",
+                        "row_count": 9567,
+                        "ratio_percent": 14.251240112615632
+                    },
+                    {
+                        "field_value": "20",
+                        "row_count": 5923,
+                        "ratio_percent": 8.823047474341214
+                    },
+                    {
+                        "field_value": "30",
+                        "row_count": 1490,
+                        "ratio_percent": 2.2195408976478825
+                    },
+                    {
+                        "field_value": "40",
+                        "row_count": 816,
+                        "ratio_percent": 1.215533807034008
+                    },
+                    {
+                        "field_value": "45",
+                        "row_count": 674,
+                        "ratio_percent": 1.0040070906138743
+                    }
+                ]
+            },
+            {
+                "field": "ModifiedDate",
+                "distribution": [
+                    {
+                        "field_value": "Jun  1 2014 12:00AM",
+                        "row_count": 343,
+                        "ratio_percent": 0.5109412938880696
+                    },
+                    {
+                        "field_value": "Apr 19 2014 12:00AM",
+                        "row_count": 335,
+                        "ratio_percent": 0.49902429577989305
+                    },
+                    {
+                        "field_value": "Nov 18 2013 12:00AM",
+                        "row_count": 325,
+                        "ratio_percent": 0.48412804814467236
+                    },
+                    {
+                        "field_value": "May 20 2014 12:00AM",
+                        "row_count": 323,
+                        "ratio_percent": 0.4811487986176282
+                    },
+                    {
+                        "field_value": "Jul 19 2013 12:00AM",
+                        "row_count": 317,
+                        "ratio_percent": 0.4722110500364958
+                    },
+                    {
+                        "field_value": "Sep 18 2013 12:00AM",
+                        "row_count": 316,
+                        "ratio_percent": 0.4707214252729737
+                    },
+                    {
+                        "field_value": "Apr 17 2014 12:00AM",
+                        "row_count": 313,
+                        "ratio_percent": 0.46625255098240753
+                    },
+                    {
+                        "field_value": "Apr 13 2014 12:00AM",
+                        "row_count": 306,
+                        "ratio_percent": 0.45582517763775304
+                    },
+                    {
+                        "field_value": "Mar 20 2014 12:00AM",
+                        "row_count": 304,
+                        "ratio_percent": 0.4528459281107089
+                    },
+                    {
+                        "field_value": "Jan 19 2014 12:00AM",
+                        "row_count": 302,
+                        "ratio_percent": 0.44986667858366475
+                    }
+                ]
+            },
+            {
+                "field": "OperationSequence",
+                "distribution": [
+                    {
+                        "field_value": "6",
+                        "row_count": 30107,
+                        "ratio_percent": 44.848132755358925
+                    },
+                    {
+                        "field_value": "7",
+                        "row_count": 18554,
+                        "ratio_percent": 27.638497862388466
+                    },
+                    {
+                        "field_value": "1",
+                        "row_count": 9567,
+                        "ratio_percent": 14.251240112615632
+                    },
+                    {
+                        "field_value": "2",
+                        "row_count": 5923,
+                        "ratio_percent": 8.823047474341214
+                    },
+                    {
+                        "field_value": "3",
+                        "row_count": 1490,
+                        "ratio_percent": 2.2195408976478825
+                    },
+                    {
+                        "field_value": "4",
+                        "row_count": 816,
+                        "ratio_percent": 1.215533807034008
+                    },
+                    {
+                        "field_value": "5",
+                        "row_count": 674,
+                        "ratio_percent": 1.0040070906138743
+                    }
+                ]
+            },
+            {
+                "field": "ProductID",
+                "distribution": [
+                    {
+                        "field_value": "813",
+                        "row_count": 3093,
+                        "ratio_percent": 4.607409393573759
+                    },
+                    {
+                        "field_value": "748",
+                        "row_count": 2874,
+                        "ratio_percent": 4.281181570362426
+                    },
+                    {
+                        "field_value": "810",
+                        "row_count": 2832,
+                        "ratio_percent": 4.2186173302944985
+                    },
+                    {
+                        "field_value": "747",
+                        "row_count": 2802,
+                        "ratio_percent": 4.173928587388836
+                    },
+                    {
+                        "field_value": "811",
+                        "row_count": 2463,
+                        "ratio_percent": 3.6689457925548554
+                    },
+                    {
+                        "field_value": "945",
+                        "row_count": 2210,
+                        "ratio_percent": 3.292070727383772
+                    },
+                    {
+                        "field_value": "804",
+                        "row_count": 2208,
+                        "ratio_percent": 3.289091477856728
+                    },
+                    {
+                        "field_value": "519",
+                        "row_count": 2026,
+                        "ratio_percent": 3.0179797708957112
+                    },
+                    {
+                        "field_value": "516",
+                        "row_count": 1852,
+                        "ratio_percent": 2.7587850620428713
+                    },
+                    {
+                        "field_value": "812",
+                        "row_count": 1806,
+                        "ratio_percent": 2.6902623229208564
+                    }
+                ]
+            },
+            {
+                "field": "PlannedCost",
+                "distribution": [
+                    {
+                        "field_value": "36.75",
+                        "row_count": 30107,
+                        "ratio_percent": 44.848132755358925
+                    },
+                    {
+                        "field_value": "49.00",
+                        "row_count": 18554,
+                        "ratio_percent": 27.638497862388466
+                    },
+                    {
+                        "field_value": "92.25",
+                        "row_count": 9567,
+                        "ratio_percent": 14.251240112615632
+                    },
+                    {
+                        "field_value": "87.50",
+                        "row_count": 5923,
+                        "ratio_percent": 8.823047474341214
+                    },
+                    {
+                        "field_value": "14.50",
+                        "row_count": 1490,
+                        "ratio_percent": 2.2195408976478825
+                    },
+                    {
+                        "field_value": "31.50",
+                        "row_count": 816,
+                        "ratio_percent": 1.215533807034008
+                    },
+                    {
+                        "field_value": "36.00",
+                        "row_count": 674,
+                        "ratio_percent": 1.0040070906138743
+                    }
+                ]
+            }
+        ]
+    }
+]

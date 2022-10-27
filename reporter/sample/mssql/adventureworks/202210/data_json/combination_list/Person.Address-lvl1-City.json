@@ -1,0 +1,62 @@
+@startjson
+{
+    "field1": "City",
+    "combination": "City",
+    "null_distribution": {
+        "total_null_rows": 0,
+        "total_not_null_rows": 19614
+    },
+    "data_distribution": [
+        {
+            "field_value": "London",
+            "row_count": 434,
+            "ratio_percent": 2.212705210563883
+        },
+        {
+            "field_value": "Paris",
+            "row_count": 398,
+            "ratio_percent": 2.02916284286734
+        },
+        {
+            "field_value": "Burien",
+            "row_count": 215,
+            "ratio_percent": 1.096155807076578
+        },
+        {
+            "field_value": "Concord",
+            "row_count": 214,
+            "ratio_percent": 1.0910574079738962
+        },
+        {
+            "field_value": "Beaverton",
+            "row_count": 213,
+            "ratio_percent": 1.0859590088712145
+        },
+        {
+            "field_value": "Bellingham",
+            "row_count": 213,
+            "ratio_percent": 1.0859590088712145
+        },
+        {
+            "field_value": "Chula Vista",
+            "row_count": 207,
+            "ratio_percent": 1.055368614255124
+        },
+        {
+            "field_value": "Berkeley",
+            "row_count": 202,
+            "ratio_percent": 1.0298766187417152
+        },
+        {
+            "field_value": "Burlingame",
+            "row_count": 201,
+            "ratio_percent": 1.0247782196390334
+        },
+        {
+            "field_value": "Burbank",
+            "row_count": 196,
+            "ratio_percent": 0.9992862241256245
+        }
+    ]
+}
+@endjson

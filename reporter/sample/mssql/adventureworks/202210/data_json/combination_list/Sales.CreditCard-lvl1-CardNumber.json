@@ -1,0 +1,62 @@
+@startjson
+{
+    "field1": "CardNumber",
+    "combination": "CardNumber",
+    "null_distribution": {
+        "total_null_rows": 0,
+        "total_not_null_rows": 19118
+    },
+    "data_distribution": [
+        {
+            "field_value": "11111019008951",
+            "row_count": 1,
+            "ratio_percent": 0.005230672664504655
+        },
+        {
+            "field_value": "11111018232698",
+            "row_count": 1,
+            "ratio_percent": 0.005230672664504655
+        },
+        {
+            "field_value": "11111017448906",
+            "row_count": 1,
+            "ratio_percent": 0.005230672664504655
+        },
+        {
+            "field_value": "11111017091860",
+            "row_count": 1,
+            "ratio_percent": 0.005230672664504655
+        },
+        {
+            "field_value": "11111016740421",
+            "row_count": 1,
+            "ratio_percent": 0.005230672664504655
+        },
+        {
+            "field_value": "11111016029803",
+            "row_count": 1,
+            "ratio_percent": 0.005230672664504655
+        },
+        {
+            "field_value": "11111009772675",
+            "row_count": 1,
+            "ratio_percent": 0.005230672664504655
+        },
+        {
+            "field_value": "11111007955171",
+            "row_count": 1,
+            "ratio_percent": 0.005230672664504655
+        },
+        {
+            "field_value": "11111005230447",
+            "row_count": 1,
+            "ratio_percent": 0.005230672664504655
+        },
+        {
+            "field_value": "11111002034157",
+            "row_count": 1,
+            "ratio_percent": 0.005230672664504655
+        }
+    ]
+}
+@endjson

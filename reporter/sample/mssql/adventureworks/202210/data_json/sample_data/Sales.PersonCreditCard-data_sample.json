@@ -1,0 +1,32 @@
+[
+    {
+        "BusinessEntityID": 293,
+        "CreditCardID": 17038,
+        "ModifiedDate": "2013-07-31 00:00:00",
+        "SYS_EXEC_DURATION": "0.179182"
+    },
+    {
+        "BusinessEntityID": 295,
+        "CreditCardID": 15369,
+        "ModifiedDate": "2011-08-01 00:00:00",
+        "SYS_EXEC_DURATION": "0.179298"
+    },
+    {
+        "BusinessEntityID": 297,
+        "CreditCardID": 8010,
+        "ModifiedDate": "2011-08-01 00:00:00",
+        "SYS_EXEC_DURATION": "0.179339"
+    },
+    {
+        "BusinessEntityID": 299,
+        "CreditCardID": 5316,
+        "ModifiedDate": "2013-07-31 00:00:00",
+        "SYS_EXEC_DURATION": "0.179375"
+    },
+    {
+        "BusinessEntityID": 301,
+        "CreditCardID": 6653,
+        "ModifiedDate": "2011-05-31 00:00:00",
+        "SYS_EXEC_DURATION": "0.17942"
+    }
+]

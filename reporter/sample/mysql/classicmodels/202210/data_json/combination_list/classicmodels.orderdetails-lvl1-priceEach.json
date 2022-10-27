@@ -1,0 +1,62 @@
+@startjson
+{
+    "field1": "priceEach",
+    "combination": "priceEach",
+    "null_distribution": {
+        "total_null_rows": 0,
+        "total_not_null_rows": 2996
+    },
+    "data_distribution": [
+        {
+            "field_value": "98.48",
+            "row_count": 8,
+            "ratio_percent": 0.26702269692923897
+        },
+        {
+            "field_value": "117.48",
+            "row_count": 8,
+            "ratio_percent": 0.26702269692923897
+        },
+        {
+            "field_value": "153.00",
+            "row_count": 6,
+            "ratio_percent": 0.20026702269692923
+        },
+        {
+            "field_value": "62.00",
+            "row_count": 6,
+            "ratio_percent": 0.20026702269692923
+        },
+        {
+            "field_value": "89.38",
+            "row_count": 6,
+            "ratio_percent": 0.20026702269692923
+        },
+        {
+            "field_value": "56.55",
+            "row_count": 6,
+            "ratio_percent": 0.20026702269692923
+        },
+        {
+            "field_value": "61.70",
+            "row_count": 6,
+            "ratio_percent": 0.20026702269692923
+        },
+        {
+            "field_value": "104.81",
+            "row_count": 6,
+            "ratio_percent": 0.20026702269692923
+        },
+        {
+            "field_value": "43.27",
+            "row_count": 6,
+            "ratio_percent": 0.20026702269692923
+        },
+        {
+            "field_value": "67.03",
+            "row_count": 6,
+            "ratio_percent": 0.20026702269692923
+        }
+    ]
+}
+@endjson

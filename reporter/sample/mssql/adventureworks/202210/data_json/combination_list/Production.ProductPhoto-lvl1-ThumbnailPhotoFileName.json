@@ -1,0 +1,62 @@
+@startjson
+{
+    "field1": "ThumbnailPhotoFileName",
+    "combination": "ThumbnailPhotoFileName",
+    "null_distribution": {
+        "total_null_rows": 0,
+        "total_not_null_rows": 101
+    },
+    "data_distribution": [
+        {
+            "field_value": "chain_lube_small.gif",
+            "row_count": 1,
+            "ratio_percent": 0.9900990099009901
+        },
+        {
+            "field_value": "bikepump_small.gif",
+            "row_count": 1,
+            "ratio_percent": 0.9900990099009901
+        },
+        {
+            "field_value": "bike_shorts_male_small.gif",
+            "row_count": 1,
+            "ratio_percent": 0.9900990099009901
+        },
+        {
+            "field_value": "bike_shorts_female_small.gif",
+            "row_count": 1,
+            "ratio_percent": 0.9900990099009901
+        },
+        {
+            "field_value": "bike_shoes_small.gif",
+            "row_count": 1,
+            "ratio_percent": 0.9900990099009901
+        },
+        {
+            "field_value": "bike_lock_small.gif",
+            "row_count": 1,
+            "ratio_percent": 0.9900990099009901
+        },
+        {
+            "field_value": "awc_tee_male_yellow_small.gif",
+            "row_count": 1,
+            "ratio_percent": 0.9900990099009901
+        },
+        {
+            "field_value": "awc_tee_male_small.gif",
+            "row_count": 1,
+            "ratio_percent": 0.9900990099009901
+        },
+        {
+            "field_value": "awc_tee_female_small.gif",
+            "row_count": 1,
+            "ratio_percent": 0.9900990099009901
+        },
+        {
+            "field_value": "awc_jersey_male_small.gif",
+            "row_count": 1,
+            "ratio_percent": 0.9900990099009901
+        }
+    ]
+}
+@endjson

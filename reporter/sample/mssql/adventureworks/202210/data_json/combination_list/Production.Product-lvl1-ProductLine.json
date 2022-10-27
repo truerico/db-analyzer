@@ -1,0 +1,37 @@
+@startjson
+{
+    "field1": "ProductLine",
+    "combination": "ProductLine",
+    "null_distribution": {
+        "total_null_rows": 226,
+        "total_not_null_rows": 278
+    },
+    "data_distribution": [
+        {
+            "field_value": "**NULL**",
+            "row_count": 226,
+            "ratio_percent": 44.84126984126984
+        },
+        {
+            "field_value": "R",
+            "row_count": 100,
+            "ratio_percent": 19.841269841269842
+        },
+        {
+            "field_value": "M",
+            "row_count": 91,
+            "ratio_percent": 18.055555555555557
+        },
+        {
+            "field_value": "T",
+            "row_count": 52,
+            "ratio_percent": 10.317460317460318
+        },
+        {
+            "field_value": "S",
+            "row_count": 35,
+            "ratio_percent": 6.944444444444445
+        }
+    ]
+}
+@endjson

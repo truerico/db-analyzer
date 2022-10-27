@@ -1,0 +1,17 @@
+@startjson
+{
+    "field1": "Comment",
+    "combination": "Comment",
+    "null_distribution": {
+        "total_null_rows": 31465,
+        "total_not_null_rows": 0
+    },
+    "data_distribution": [
+        {
+            "field_value": "**NULL**",
+            "row_count": 31465,
+            "ratio_percent": 100.0
+        }
+    ]
+}
+@endjson

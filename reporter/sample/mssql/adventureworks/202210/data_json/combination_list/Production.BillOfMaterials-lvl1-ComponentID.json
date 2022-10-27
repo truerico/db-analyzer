@@ -1,0 +1,62 @@
+@startjson
+{
+    "field1": "ComponentID",
+    "combination": "ComponentID",
+    "null_distribution": {
+        "total_null_rows": 0,
+        "total_not_null_rows": 2679
+    },
+    "data_distribution": [
+        {
+            "field_value": "948",
+            "row_count": 108,
+            "ratio_percent": 4.031354983202688
+        },
+        {
+            "field_value": "945",
+            "row_count": 104,
+            "ratio_percent": 3.882045539380366
+        },
+        {
+            "field_value": "894",
+            "row_count": 103,
+            "ratio_percent": 3.8447181784247855
+        },
+        {
+            "field_value": "907",
+            "row_count": 103,
+            "ratio_percent": 3.8447181784247855
+        },
+        {
+            "field_value": "952",
+            "row_count": 102,
+            "ratio_percent": 3.807390817469205
+        },
+        {
+            "field_value": "327",
+            "row_count": 95,
+            "ratio_percent": 3.5460992907801416
+        },
+        {
+            "field_value": "324",
+            "row_count": 93,
+            "ratio_percent": 3.471444568868981
+        },
+        {
+            "field_value": "533",
+            "row_count": 90,
+            "ratio_percent": 3.3594624860022395
+        },
+        {
+            "field_value": "326",
+            "row_count": 80,
+            "ratio_percent": 2.9861888764464353
+        },
+        {
+            "field_value": "325",
+            "row_count": 79,
+            "ratio_percent": 2.948861515490855
+        }
+    ]
+}
+@endjson

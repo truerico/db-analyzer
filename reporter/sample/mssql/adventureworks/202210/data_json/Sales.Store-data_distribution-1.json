@@ -1,0 +1,238 @@
+[
+    {
+        "table": "Sales.Store",
+        "total_records": 701,
+        "dataset": [
+            {
+                "field": "BusinessEntityID",
+                "distribution": [
+                    {
+                        "field_value": "1020",
+                        "row_count": 1,
+                        "ratio_percent": 0.14265335235378032
+                    },
+                    {
+                        "field_value": "1018",
+                        "row_count": 1,
+                        "ratio_percent": 0.14265335235378032
+                    },
+                    {
+                        "field_value": "1016",
+                        "row_count": 1,
+                        "ratio_percent": 0.14265335235378032
+                    },
+                    {
+                        "field_value": "1014",
+                        "row_count": 1,
+                        "ratio_percent": 0.14265335235378032
+                    },
+                    {
+                        "field_value": "1012",
+                        "row_count": 1,
+                        "ratio_percent": 0.14265335235378032
+                    },
+                    {
+                        "field_value": "1010",
+                        "row_count": 1,
+                        "ratio_percent": 0.14265335235378032
+                    },
+                    {
+                        "field_value": "1008",
+                        "row_count": 1,
+                        "ratio_percent": 0.14265335235378032
+                    },
+                    {
+                        "field_value": "1006",
+                        "row_count": 1,
+                        "ratio_percent": 0.14265335235378032
+                    },
+                    {
+                        "field_value": "1004",
+                        "row_count": 1,
+                        "ratio_percent": 0.14265335235378032
+                    },
+                    {
+                        "field_value": "1002",
+                        "row_count": 1,
+                        "ratio_percent": 0.14265335235378032
+                    }
+                ]
+            },
+            {
+                "field": "ModifiedDate",
+                "distribution": [
+                    {
+                        "field_value": "Sep 12 2014 11:15AM",
+                        "row_count": 701,
+                        "ratio_percent": 100.0
+                    }
+                ]
+            },
+            {
+                "field": "Name",
+                "distribution": [
+                    {
+                        "field_value": "Friendly Bike Shop",
+                        "row_count": 2,
+                        "ratio_percent": 0.28530670470756064
+                    },
+                    {
+                        "field_value": "Sports Products Store",
+                        "row_count": 2,
+                        "ratio_percent": 0.28530670470756064
+                    },
+                    {
+                        "field_value": "Active Cycling",
+                        "row_count": 1,
+                        "ratio_percent": 0.14265335235378032
+                    },
+                    {
+                        "field_value": "Action Bicycle Specialists",
+                        "row_count": 1,
+                        "ratio_percent": 0.14265335235378032
+                    },
+                    {
+                        "field_value": "Ace Bicycle Supply",
+                        "row_count": 1,
+                        "ratio_percent": 0.14265335235378032
+                    },
+                    {
+                        "field_value": "Acclaimed Bicycle Company",
+                        "row_count": 1,
+                        "ratio_percent": 0.14265335235378032
+                    },
+                    {
+                        "field_value": "Accessories Network",
+                        "row_count": 1,
+                        "ratio_percent": 0.14265335235378032
+                    },
+                    {
+                        "field_value": "Acceptable Sales & Service",
+                        "row_count": 1,
+                        "ratio_percent": 0.14265335235378032
+                    },
+                    {
+                        "field_value": "A Typical Bike Shop",
+                        "row_count": 1,
+                        "ratio_percent": 0.14265335235378032
+                    },
+                    {
+                        "field_value": "A Great Bicycle Company",
+                        "row_count": 1,
+                        "ratio_percent": 0.14265335235378032
+                    }
+                ]
+            },
+            {
+                "field": "SalesPersonID",
+                "distribution": [
+                    {
+                        "field_value": "279",
+                        "row_count": 80,
+                        "ratio_percent": 11.412268188302425
+                    },
+                    {
+                        "field_value": "281",
+                        "row_count": 79,
+                        "ratio_percent": 11.269614835948644
+                    },
+                    {
+                        "field_value": "275",
+                        "row_count": 77,
+                        "ratio_percent": 10.984308131241084
+                    },
+                    {
+                        "field_value": "277",
+                        "row_count": 76,
+                        "ratio_percent": 10.841654778887303
+                    },
+                    {
+                        "field_value": "282",
+                        "row_count": 74,
+                        "ratio_percent": 10.556348074179743
+                    },
+                    {
+                        "field_value": "288",
+                        "row_count": 40,
+                        "ratio_percent": 5.706134094151213
+                    },
+                    {
+                        "field_value": "286",
+                        "row_count": 40,
+                        "ratio_percent": 5.706134094151213
+                    },
+                    {
+                        "field_value": "278",
+                        "row_count": 40,
+                        "ratio_percent": 5.706134094151213
+                    },
+                    {
+                        "field_value": "289",
+                        "row_count": 40,
+                        "ratio_percent": 5.706134094151213
+                    },
+                    {
+                        "field_value": "290",
+                        "row_count": 40,
+                        "ratio_percent": 5.706134094151213
+                    }
+                ]
+            },
+            {
+                "field": "rowguid",
+                "distribution": [
+                    {
+                        "field_value": "03E77D8A-62B6-41EE-B081-7EC3E60C9A3E",
+                        "row_count": 1,
+                        "ratio_percent": 0.14265335235378032
+                    },
+                    {
+                        "field_value": "039E021A-8084-4BF1-9E4F-51583CA75867",
+                        "row_count": 1,
+                        "ratio_percent": 0.14265335235378032
+                    },
+                    {
+                        "field_value": "035FC393-8BF1-4522-9DD7-F7CF3140740A",
+                        "row_count": 1,
+                        "ratio_percent": 0.14265335235378032
+                    },
+                    {
+                        "field_value": "03189C8F-84CC-4207-92D4-4DA26EFDBB17",
+                        "row_count": 1,
+                        "ratio_percent": 0.14265335235378032
+                    },
+                    {
+                        "field_value": "02F5437E-F74E-4F8B-92EE-F129C8AC0986",
+                        "row_count": 1,
+                        "ratio_percent": 0.14265335235378032
+                    },
+                    {
+                        "field_value": "01CD6B0B-1C26-4490-BC7B-FA20C8ADAB95",
+                        "row_count": 1,
+                        "ratio_percent": 0.14265335235378032
+                    },
+                    {
+                        "field_value": "019E92AA-628C-4914-ACBC-D540E595E887",
+                        "row_count": 1,
+                        "ratio_percent": 0.14265335235378032
+                    },
+                    {
+                        "field_value": "01351A38-0674-4191-918D-3C10B5932E8A",
+                        "row_count": 1,
+                        "ratio_percent": 0.14265335235378032
+                    },
+                    {
+                        "field_value": "00E69DB8-5933-4F61-A963-7808C4BAF0C5",
+                        "row_count": 1,
+                        "ratio_percent": 0.14265335235378032
+                    },
+                    {
+                        "field_value": "00A7E190-D705-4791-AAB5-AD218497DD06",
+                        "row_count": 1,
+                        "ratio_percent": 0.14265335235378032
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,52 @@
+@startjson
+{
+    "field1": "CultureID",
+    "combination": "CultureID",
+    "null_distribution": {
+        "total_null_rows": 0,
+        "total_not_null_rows": 8
+    },
+    "data_distribution": [
+        {
+            "field_value": "zh-cht",
+            "row_count": 1,
+            "ratio_percent": 12.5
+        },
+        {
+            "field_value": "th",
+            "row_count": 1,
+            "ratio_percent": 12.5
+        },
+        {
+            "field_value": "he",
+            "row_count": 1,
+            "ratio_percent": 12.5
+        },
+        {
+            "field_value": "fr",
+            "row_count": 1,
+            "ratio_percent": 12.5
+        },
+        {
+            "field_value": "es",
+            "row_count": 1,
+            "ratio_percent": 12.5
+        },
+        {
+            "field_value": "en",
+            "row_count": 1,
+            "ratio_percent": 12.5
+        },
+        {
+            "field_value": "ar",
+            "row_count": 1,
+            "ratio_percent": 12.5
+        },
+        {
+            "field_value": "**EMPTY**",
+            "row_count": 1,
+            "ratio_percent": 12.5
+        }
+    ]
+}
+@endjson

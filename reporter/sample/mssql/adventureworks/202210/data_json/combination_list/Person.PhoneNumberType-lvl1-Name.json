@@ -1,0 +1,27 @@
+@startjson
+{
+    "field1": "Name",
+    "combination": "Name",
+    "null_distribution": {
+        "total_null_rows": 0,
+        "total_not_null_rows": 3
+    },
+    "data_distribution": [
+        {
+            "field_value": "Work",
+            "row_count": 1,
+            "ratio_percent": 33.333333333333336
+        },
+        {
+            "field_value": "Home",
+            "row_count": 1,
+            "ratio_percent": 33.333333333333336
+        },
+        {
+            "field_value": "Cell",
+            "row_count": 1,
+            "ratio_percent": 33.333333333333336
+        }
+    ]
+}
+@endjson

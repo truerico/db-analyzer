@@ -1,0 +1,61 @@
+```json
+@startjson
+[
+    {
+        "BusinessEntityID": 1492,
+        "AccountNumber": "AUSTRALI0001",
+        "Name": "Australia Bike Retailer",
+        "CreditRating": 1,
+        "PreferredVendorStatus": true,
+        "ActiveFlag": true,
+        "PurchasingWebServiceURL": null,
+        "ModifiedDate": "2011-12-23 00:00:00",
+        "SYS_EXEC_DURATION": "0.183976"
+    },
+    {
+        "BusinessEntityID": 1494,
+        "AccountNumber": "ALLENSON0001",
+        "Name": "Allenson Cycles",
+        "CreditRating": 2,
+        "PreferredVendorStatus": true,
+        "ActiveFlag": true,
+        "PurchasingWebServiceURL": null,
+        "ModifiedDate": "2011-04-25 00:00:00",
+        "SYS_EXEC_DURATION": "0.184129"
+    },
+    {
+        "BusinessEntityID": 1496,
+        "AccountNumber": "ADVANCED0001",
+        "Name": "Advanced Bicycles",
+        "CreditRating": 1,
+        "PreferredVendorStatus": true,
+        "ActiveFlag": true,
+        "PurchasingWebServiceURL": null,
+        "ModifiedDate": "2011-04-25 00:00:00",
+        "SYS_EXEC_DURATION": "0.184189"
+    },
+    {
+        "BusinessEntityID": 1498,
+        "AccountNumber": "TRIKES0001",
+        "Name": "Trikes, Inc.",
+        "CreditRating": 2,
+        "PreferredVendorStatus": true,
+        "ActiveFlag": true,
+        "PurchasingWebServiceURL": null,
+        "ModifiedDate": "2012-02-03 00:00:00",
+        "SYS_EXEC_DURATION": "0.184244"
+    },
+    {
+        "BusinessEntityID": 1500,
+        "AccountNumber": "MORGANB0001",
+        "Name": "Morgan Bike Accessories",
+        "CreditRating": 1,
+        "PreferredVendorStatus": true,
+        "ActiveFlag": true,
+        "PurchasingWebServiceURL": null,
+        "ModifiedDate": "2012-02-02 00:00:00",
+        "SYS_EXEC_DURATION": "0.184309"
+    }
+]
+@endjson
+```

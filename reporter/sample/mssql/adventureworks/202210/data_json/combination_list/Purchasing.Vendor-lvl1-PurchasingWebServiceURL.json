@@ -1,0 +1,47 @@
+@startjson
+{
+    "field1": "PurchasingWebServiceURL",
+    "combination": "PurchasingWebServiceURL",
+    "null_distribution": {
+        "total_null_rows": 98,
+        "total_not_null_rows": 6
+    },
+    "data_distribution": [
+        {
+            "field_value": "**NULL**",
+            "row_count": 98,
+            "ratio_percent": 94.23076923076923
+        },
+        {
+            "field_value": "www.wideworldimporters.com/",
+            "row_count": 1,
+            "ratio_percent": 0.9615384615384616
+        },
+        {
+            "field_value": "www.treyresearch.net/",
+            "row_count": 1,
+            "ratio_percent": 0.9615384615384616
+        },
+        {
+            "field_value": "www.proseware.com/",
+            "row_count": 1,
+            "ratio_percent": 0.9615384615384616
+        },
+        {
+            "field_value": "www.northwindtraders.com/",
+            "row_count": 1,
+            "ratio_percent": 0.9615384615384616
+        },
+        {
+            "field_value": "www.litwareinc.com/",
+            "row_count": 1,
+            "ratio_percent": 0.9615384615384616
+        },
+        {
+            "field_value": "www.adatum.com/",
+            "row_count": 1,
+            "ratio_percent": 0.9615384615384616
+        }
+    ]
+}
+@endjson

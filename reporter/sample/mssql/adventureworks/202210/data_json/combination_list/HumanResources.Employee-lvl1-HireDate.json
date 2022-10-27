@@ -1,0 +1,62 @@
+@startjson
+{
+    "field1": "HireDate",
+    "combination": "HireDate",
+    "null_distribution": {
+        "total_null_rows": 0,
+        "total_not_null_rows": 290
+    },
+    "data_distribution": [
+        {
+            "field_value": "2011-05-31",
+            "row_count": 9,
+            "ratio_percent": 3.103448275862069
+        },
+        {
+            "field_value": "2008-12-07",
+            "row_count": 5,
+            "ratio_percent": 1.7241379310344827
+        },
+        {
+            "field_value": "2009-02-08",
+            "row_count": 5,
+            "ratio_percent": 1.7241379310344827
+        },
+        {
+            "field_value": "2009-02-26",
+            "row_count": 5,
+            "ratio_percent": 1.7241379310344827
+        },
+        {
+            "field_value": "2008-12-12",
+            "row_count": 4,
+            "ratio_percent": 1.3793103448275863
+        },
+        {
+            "field_value": "2009-01-04",
+            "row_count": 4,
+            "ratio_percent": 1.3793103448275863
+        },
+        {
+            "field_value": "2009-01-12",
+            "row_count": 4,
+            "ratio_percent": 1.3793103448275863
+        },
+        {
+            "field_value": "2009-01-22",
+            "row_count": 4,
+            "ratio_percent": 1.3793103448275863
+        },
+        {
+            "field_value": "2008-12-02",
+            "row_count": 3,
+            "ratio_percent": 1.0344827586206897
+        },
+        {
+            "field_value": "2008-12-04",
+            "row_count": 3,
+            "ratio_percent": 1.0344827586206897
+        }
+    ]
+}
+@endjson

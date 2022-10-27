@@ -1,0 +1,42 @@
+[
+    {
+        "BusinessEntityID": 1,
+        "RateChangeDate": "2009-01-14 00:00:00",
+        "Rate": "125.5000",
+        "PayFrequency": 2,
+        "ModifiedDate": "2014-06-30 00:00:00",
+        "SYS_EXEC_DURATION": "0.191739"
+    },
+    {
+        "BusinessEntityID": 2,
+        "RateChangeDate": "2008-01-31 00:00:00",
+        "Rate": "63.4615",
+        "PayFrequency": 2,
+        "ModifiedDate": "2014-06-30 00:00:00",
+        "SYS_EXEC_DURATION": "0.191897"
+    },
+    {
+        "BusinessEntityID": 3,
+        "RateChangeDate": "2007-11-11 00:00:00",
+        "Rate": "43.2692",
+        "PayFrequency": 2,
+        "ModifiedDate": "2014-06-30 00:00:00",
+        "SYS_EXEC_DURATION": "0.191966"
+    },
+    {
+        "BusinessEntityID": 4,
+        "RateChangeDate": "2007-12-05 00:00:00",
+        "Rate": "8.6200",
+        "PayFrequency": 2,
+        "ModifiedDate": "2007-11-21 00:00:00",
+        "SYS_EXEC_DURATION": "0.192028"
+    },
+    {
+        "BusinessEntityID": 4,
+        "RateChangeDate": "2010-05-31 00:00:00",
+        "Rate": "23.7200",
+        "PayFrequency": 2,
+        "ModifiedDate": "2010-05-16 00:00:00",
+        "SYS_EXEC_DURATION": "0.192103"
+    }
+]

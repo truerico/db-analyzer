@@ -1,0 +1,348 @@
+[
+    {
+        "table": "Sales.CurrencyRate",
+        "total_records": 13532,
+        "dataset": [
+            {
+                "field": "AverageRate",
+                "distribution": [
+                    {
+                        "field_value": "1.00",
+                        "row_count": 1887,
+                        "ratio_percent": 13.944723618090451
+                    },
+                    {
+                        "field_value": "3.75",
+                        "row_count": 1100,
+                        "ratio_percent": 8.12887969258055
+                    },
+                    {
+                        "field_value": "8.28",
+                        "row_count": 659,
+                        "ratio_percent": 4.869937924918712
+                    },
+                    {
+                        "field_value": "8.29",
+                        "row_count": 419,
+                        "ratio_percent": 3.0963641738102274
+                    },
+                    {
+                        "field_value": "0.69",
+                        "row_count": 217,
+                        "ratio_percent": 1.603606266627254
+                    },
+                    {
+                        "field_value": "0.70",
+                        "row_count": 204,
+                        "ratio_percent": 1.5075376884422111
+                    },
+                    {
+                        "field_value": "0.68",
+                        "row_count": 122,
+                        "ratio_percent": 0.9015666568134791
+                    },
+                    {
+                        "field_value": "1.57",
+                        "row_count": 117,
+                        "ratio_percent": 0.8646172036653857
+                    },
+                    {
+                        "field_value": "1.54",
+                        "row_count": 102,
+                        "ratio_percent": 0.7537688442211056
+                    },
+                    {
+                        "field_value": "1.56",
+                        "row_count": 102,
+                        "ratio_percent": 0.7537688442211056
+                    }
+                ]
+            },
+            {
+                "field": "CurrencyRateID",
+                "distribution": [
+                    {
+                        "field_value": "10006",
+                        "row_count": 1,
+                        "ratio_percent": 0.0073898906296186815
+                    },
+                    {
+                        "field_value": "10005",
+                        "row_count": 1,
+                        "ratio_percent": 0.0073898906296186815
+                    },
+                    {
+                        "field_value": "10004",
+                        "row_count": 1,
+                        "ratio_percent": 0.0073898906296186815
+                    },
+                    {
+                        "field_value": "10003",
+                        "row_count": 1,
+                        "ratio_percent": 0.0073898906296186815
+                    },
+                    {
+                        "field_value": "10002",
+                        "row_count": 1,
+                        "ratio_percent": 0.0073898906296186815
+                    },
+                    {
+                        "field_value": "10001",
+                        "row_count": 1,
+                        "ratio_percent": 0.0073898906296186815
+                    },
+                    {
+                        "field_value": "10000",
+                        "row_count": 1,
+                        "ratio_percent": 0.0073898906296186815
+                    },
+                    {
+                        "field_value": "1000",
+                        "row_count": 1,
+                        "ratio_percent": 0.0073898906296186815
+                    },
+                    {
+                        "field_value": "100",
+                        "row_count": 1,
+                        "ratio_percent": 0.0073898906296186815
+                    },
+                    {
+                        "field_value": "10",
+                        "row_count": 1,
+                        "ratio_percent": 0.0073898906296186815
+                    }
+                ]
+            },
+            {
+                "field": "CurrencyRateDate",
+                "distribution": [
+                    {
+                        "field_value": "Aug  1 2011 12:00AM",
+                        "row_count": 14,
+                        "ratio_percent": 0.10345846881466154
+                    },
+                    {
+                        "field_value": "Aug  2 2011 12:00AM",
+                        "row_count": 14,
+                        "ratio_percent": 0.10345846881466154
+                    },
+                    {
+                        "field_value": "Aug  3 2011 12:00AM",
+                        "row_count": 14,
+                        "ratio_percent": 0.10345846881466154
+                    },
+                    {
+                        "field_value": "Aug  4 2011 12:00AM",
+                        "row_count": 14,
+                        "ratio_percent": 0.10345846881466154
+                    },
+                    {
+                        "field_value": "Aug  5 2011 12:00AM",
+                        "row_count": 14,
+                        "ratio_percent": 0.10345846881466154
+                    },
+                    {
+                        "field_value": "Aug  6 2011 12:00AM",
+                        "row_count": 14,
+                        "ratio_percent": 0.10345846881466154
+                    },
+                    {
+                        "field_value": "Aug  7 2011 12:00AM",
+                        "row_count": 14,
+                        "ratio_percent": 0.10345846881466154
+                    },
+                    {
+                        "field_value": "Aug  8 2011 12:00AM",
+                        "row_count": 14,
+                        "ratio_percent": 0.10345846881466154
+                    },
+                    {
+                        "field_value": "Aug  9 2011 12:00AM",
+                        "row_count": 14,
+                        "ratio_percent": 0.10345846881466154
+                    },
+                    {
+                        "field_value": "Aug 10 2011 12:00AM",
+                        "row_count": 14,
+                        "ratio_percent": 0.10345846881466154
+                    }
+                ]
+            },
+            {
+                "field": "EndOfDayRate",
+                "distribution": [
+                    {
+                        "field_value": "1.00",
+                        "row_count": 1889,
+                        "ratio_percent": 13.959503399349689
+                    },
+                    {
+                        "field_value": "8.28",
+                        "row_count": 659,
+                        "ratio_percent": 4.869937924918712
+                    },
+                    {
+                        "field_value": "3.75",
+                        "row_count": 558,
+                        "ratio_percent": 4.123558971327224
+                    },
+                    {
+                        "field_value": "8.29",
+                        "row_count": 419,
+                        "ratio_percent": 3.0963641738102274
+                    },
+                    {
+                        "field_value": "3.76",
+                        "row_count": 321,
+                        "ratio_percent": 2.372154892107597
+                    },
+                    {
+                        "field_value": "3.74",
+                        "row_count": 231,
+                        "ratio_percent": 1.7070647354419155
+                    },
+                    {
+                        "field_value": "0.69",
+                        "row_count": 216,
+                        "ratio_percent": 1.5962163759976353
+                    },
+                    {
+                        "field_value": "0.70",
+                        "row_count": 208,
+                        "ratio_percent": 1.5370972509606857
+                    },
+                    {
+                        "field_value": "0.68",
+                        "row_count": 122,
+                        "ratio_percent": 0.9015666568134791
+                    },
+                    {
+                        "field_value": "1.57",
+                        "row_count": 116,
+                        "ratio_percent": 0.857227313035767
+                    }
+                ]
+            },
+            {
+                "field": "FromCurrencyCode",
+                "distribution": [
+                    {
+                        "field_value": "USD",
+                        "row_count": 13532,
+                        "ratio_percent": 100.0
+                    }
+                ]
+            },
+            {
+                "field": "ModifiedDate",
+                "distribution": [
+                    {
+                        "field_value": "Jan  2 2014  5:39PM",
+                        "row_count": 1097,
+                        "ratio_percent": 8.106710020691693
+                    },
+                    {
+                        "field_value": "Aug  1 2011 12:00AM",
+                        "row_count": 13,
+                        "ratio_percent": 0.09606857818504286
+                    },
+                    {
+                        "field_value": "Aug  2 2011 12:00AM",
+                        "row_count": 13,
+                        "ratio_percent": 0.09606857818504286
+                    },
+                    {
+                        "field_value": "Aug  3 2011 12:00AM",
+                        "row_count": 13,
+                        "ratio_percent": 0.09606857818504286
+                    },
+                    {
+                        "field_value": "Aug  4 2011 12:00AM",
+                        "row_count": 13,
+                        "ratio_percent": 0.09606857818504286
+                    },
+                    {
+                        "field_value": "Aug  5 2011 12:00AM",
+                        "row_count": 13,
+                        "ratio_percent": 0.09606857818504286
+                    },
+                    {
+                        "field_value": "Aug  6 2011 12:00AM",
+                        "row_count": 13,
+                        "ratio_percent": 0.09606857818504286
+                    },
+                    {
+                        "field_value": "Aug  7 2011 12:00AM",
+                        "row_count": 13,
+                        "ratio_percent": 0.09606857818504286
+                    },
+                    {
+                        "field_value": "Aug  8 2011 12:00AM",
+                        "row_count": 13,
+                        "ratio_percent": 0.09606857818504286
+                    },
+                    {
+                        "field_value": "Aug  9 2011 12:00AM",
+                        "row_count": 13,
+                        "ratio_percent": 0.09606857818504286
+                    }
+                ]
+            },
+            {
+                "field": "ToCurrencyCode",
+                "distribution": [
+                    {
+                        "field_value": "USD",
+                        "row_count": 1097,
+                        "ratio_percent": 8.106710020691693
+                    },
+                    {
+                        "field_value": "BRL",
+                        "row_count": 1097,
+                        "ratio_percent": 8.106710020691693
+                    },
+                    {
+                        "field_value": "CAD",
+                        "row_count": 1097,
+                        "ratio_percent": 8.106710020691693
+                    },
+                    {
+                        "field_value": "ARS",
+                        "row_count": 1097,
+                        "ratio_percent": 8.106710020691693
+                    },
+                    {
+                        "field_value": "AUD",
+                        "row_count": 1097,
+                        "ratio_percent": 8.106710020691693
+                    },
+                    {
+                        "field_value": "SAR",
+                        "row_count": 1097,
+                        "ratio_percent": 8.106710020691693
+                    },
+                    {
+                        "field_value": "VEB",
+                        "row_count": 1097,
+                        "ratio_percent": 8.106710020691693
+                    },
+                    {
+                        "field_value": "GBP",
+                        "row_count": 1097,
+                        "ratio_percent": 8.106710020691693
+                    },
+                    {
+                        "field_value": "CNY",
+                        "row_count": 1097,
+                        "ratio_percent": 8.106710020691693
+                    },
+                    {
+                        "field_value": "EUR",
+                        "row_count": 1097,
+                        "ratio_percent": 8.106710020691693
+                    }
+                ]
+            }
+        ]
+    }
+]

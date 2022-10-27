@@ -1,0 +1,52 @@
+[
+    {
+        "CurrencyRateID": 1,
+        "CurrencyRateDate": "2011-05-31 00:00:00",
+        "AverageRate": "1.0000",
+        "EndOfDayRate": "1.0002",
+        "ModifiedDate": "2011-05-31 00:00:00",
+        "FromCurrencyCode": "USD",
+        "ToCurrencyCode": "ARS",
+        "SYS_EXEC_DURATION": "0.184506"
+    },
+    {
+        "CurrencyRateID": 2,
+        "CurrencyRateDate": "2011-05-31 00:00:00",
+        "AverageRate": "1.5491",
+        "EndOfDayRate": "1.5500",
+        "ModifiedDate": "2011-05-31 00:00:00",
+        "FromCurrencyCode": "USD",
+        "ToCurrencyCode": "AUD",
+        "SYS_EXEC_DURATION": "0.184694"
+    },
+    {
+        "CurrencyRateID": 3,
+        "CurrencyRateDate": "2011-05-31 00:00:00",
+        "AverageRate": "1.9379",
+        "EndOfDayRate": "1.9419",
+        "ModifiedDate": "2011-05-31 00:00:00",
+        "FromCurrencyCode": "USD",
+        "ToCurrencyCode": "BRL",
+        "SYS_EXEC_DURATION": "0.184795"
+    },
+    {
+        "CurrencyRateID": 4,
+        "CurrencyRateDate": "2011-05-31 00:00:00",
+        "AverageRate": "1.4641",
+        "EndOfDayRate": "1.4683",
+        "ModifiedDate": "2011-05-31 00:00:00",
+        "FromCurrencyCode": "USD",
+        "ToCurrencyCode": "CAD",
+        "SYS_EXEC_DURATION": "0.184874"
+    },
+    {
+        "CurrencyRateID": 5,
+        "CurrencyRateDate": "2011-05-31 00:00:00",
+        "AverageRate": "8.2781",
+        "EndOfDayRate": "8.2784",
+        "ModifiedDate": "2011-05-31 00:00:00",
+        "FromCurrencyCode": "USD",
+        "ToCurrencyCode": "CNY",
+        "SYS_EXEC_DURATION": "0.184964"
+    }
+]

@@ -1,0 +1,62 @@
+@startjson
+{
+    "field1": "firstName",
+    "combination": "firstName",
+    "null_distribution": {
+        "total_null_rows": 0,
+        "total_not_null_rows": 23
+    },
+    "data_distribution": [
+        {
+            "field_value": "Leslie",
+            "row_count": 2,
+            "ratio_percent": 8.695652173913043
+        },
+        {
+            "field_value": "Gerard",
+            "row_count": 2,
+            "ratio_percent": 8.695652173913043
+        },
+        {
+            "field_value": "George",
+            "row_count": 1,
+            "ratio_percent": 4.3478260869565215
+        },
+        {
+            "field_value": "Peter",
+            "row_count": 1,
+            "ratio_percent": 4.3478260869565215
+        },
+        {
+            "field_value": "William",
+            "row_count": 1,
+            "ratio_percent": 4.3478260869565215
+        },
+        {
+            "field_value": "Foon Yue",
+            "row_count": 1,
+            "ratio_percent": 4.3478260869565215
+        },
+        {
+            "field_value": "Andy",
+            "row_count": 1,
+            "ratio_percent": 4.3478260869565215
+        },
+        {
+            "field_value": "Jeff",
+            "row_count": 1,
+            "ratio_percent": 4.3478260869565215
+        },
+        {
+            "field_value": "Steve",
+            "row_count": 1,
+            "ratio_percent": 4.3478260869565215
+        },
+        {
+            "field_value": "Barry",
+            "row_count": 1,
+            "ratio_percent": 4.3478260869565215
+        }
+    ]
+}
+@endjson

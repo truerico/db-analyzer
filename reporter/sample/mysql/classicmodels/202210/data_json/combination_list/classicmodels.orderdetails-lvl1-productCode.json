@@ -1,0 +1,62 @@
+@startjson
+{
+    "field1": "productCode",
+    "combination": "productCode",
+    "null_distribution": {
+        "total_null_rows": 0,
+        "total_not_null_rows": 2996
+    },
+    "data_distribution": [
+        {
+            "field_value": "S18_3232",
+            "row_count": 53,
+            "ratio_percent": 1.7690253671562082
+        },
+        {
+            "field_value": "S18_2581",
+            "row_count": 28,
+            "ratio_percent": 0.9345794392523364
+        },
+        {
+            "field_value": "S24_2022",
+            "row_count": 28,
+            "ratio_percent": 0.9345794392523364
+        },
+        {
+            "field_value": "S24_1444",
+            "row_count": 28,
+            "ratio_percent": 0.9345794392523364
+        },
+        {
+            "field_value": "S18_1097",
+            "row_count": 28,
+            "ratio_percent": 0.9345794392523364
+        },
+        {
+            "field_value": "S24_4258",
+            "row_count": 28,
+            "ratio_percent": 0.9345794392523364
+        },
+        {
+            "field_value": "S12_2823",
+            "row_count": 28,
+            "ratio_percent": 0.9345794392523364
+        },
+        {
+            "field_value": "S24_3420",
+            "row_count": 28,
+            "ratio_percent": 0.9345794392523364
+        },
+        {
+            "field_value": "S10_2016",
+            "row_count": 28,
+            "ratio_percent": 0.9345794392523364
+        },
+        {
+            "field_value": "S18_2949",
+            "row_count": 28,
+            "ratio_percent": 0.9345794392523364
+        }
+    ]
+}
+@endjson

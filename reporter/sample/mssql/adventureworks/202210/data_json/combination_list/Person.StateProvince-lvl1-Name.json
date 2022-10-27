@@ -1,0 +1,62 @@
+@startjson
+{
+    "field1": "Name",
+    "combination": "Name",
+    "null_distribution": {
+        "total_null_rows": 0,
+        "total_not_null_rows": 181
+    },
+    "data_distribution": [
+        {
+            "field_value": "Ard\u00e8che",
+            "row_count": 1,
+            "ratio_percent": 0.5524861878453039
+        },
+        {
+            "field_value": "American Samoa",
+            "row_count": 1,
+            "ratio_percent": 0.5524861878453039
+        },
+        {
+            "field_value": "Alpes-Maritimes",
+            "row_count": 1,
+            "ratio_percent": 0.5524861878453039
+        },
+        {
+            "field_value": "Alpes-de-Haute Provence",
+            "row_count": 1,
+            "ratio_percent": 0.5524861878453039
+        },
+        {
+            "field_value": "Alpes (Haute)",
+            "row_count": 1,
+            "ratio_percent": 0.5524861878453039
+        },
+        {
+            "field_value": "Allier",
+            "row_count": 1,
+            "ratio_percent": 0.5524861878453039
+        },
+        {
+            "field_value": "Alberta",
+            "row_count": 1,
+            "ratio_percent": 0.5524861878453039
+        },
+        {
+            "field_value": "Alaska",
+            "row_count": 1,
+            "ratio_percent": 0.5524861878453039
+        },
+        {
+            "field_value": "Alabama",
+            "row_count": 1,
+            "ratio_percent": 0.5524861878453039
+        },
+        {
+            "field_value": "Aisne",
+            "row_count": 1,
+            "ratio_percent": 0.5524861878453039
+        }
+    ]
+}
+@endjson

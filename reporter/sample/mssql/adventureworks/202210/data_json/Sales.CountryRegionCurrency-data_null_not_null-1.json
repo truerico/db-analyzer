@@ -1,0 +1,23 @@
+[
+    {
+        "table": "Sales.CountryRegionCurrency",
+        "total_records": 109,
+        "dataset": [
+            {
+                "field": "CountryRegionCode",
+                "total_null_rows": 0,
+                "total_not_null_rows": 109
+            },
+            {
+                "field": "CurrencyCode",
+                "total_null_rows": 0,
+                "total_not_null_rows": 109
+            },
+            {
+                "field": "ModifiedDate",
+                "total_null_rows": 0,
+                "total_not_null_rows": 109
+            }
+        ]
+    }
+]

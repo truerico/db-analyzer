@@ -1,0 +1,42 @@
+@startjson
+{
+    "field1": "PersonType",
+    "combination": "PersonType",
+    "null_distribution": {
+        "total_null_rows": 0,
+        "total_not_null_rows": 19972
+    },
+    "data_distribution": [
+        {
+            "field_value": "IN",
+            "row_count": 18484,
+            "ratio_percent": 92.54956939715602
+        },
+        {
+            "field_value": "SC",
+            "row_count": 753,
+            "ratio_percent": 3.770278389745644
+        },
+        {
+            "field_value": "GC",
+            "row_count": 289,
+            "ratio_percent": 1.447025836170639
+        },
+        {
+            "field_value": "EM",
+            "row_count": 273,
+            "ratio_percent": 1.3669136791508112
+        },
+        {
+            "field_value": "VC",
+            "row_count": 156,
+            "ratio_percent": 0.7810935309433207
+        },
+        {
+            "field_value": "SP",
+            "row_count": 17,
+            "ratio_percent": 0.08511916683356699
+        }
+    ]
+}
+@endjson

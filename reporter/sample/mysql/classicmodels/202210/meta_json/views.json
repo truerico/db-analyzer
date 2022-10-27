@@ -1,0 +1,79 @@
+[
+    {
+        "view_schema": "classicmodels",
+        "view_name": "aboveavgproducts",
+        "view_full_name": "classicmodels.aboveavgproducts",
+        "text_length": 390,
+        "definition": "select `classicmodels`.`products`.`productCode` AS `productCode`,`classicmodels`.`products`.`productName` AS `productName`,`classicmodels`.`products`.`buyPrice` AS `buyPrice` from `classicmodels`.`products` where (`classicmodels`.`products`.`buyPrice` > (select avg(`classicmodels`.`products`.`buyPrice`) from `classicmodels`.`products`)) order by `classicmodels`.`products`.`buyPrice` desc",
+        "is_updatable": "YES",
+        "definer": "dba@localhost",
+        "security_type": "DEFINER",
+        "view_full_name_sql": "`classicmodels`.`aboveavgproducts`"
+    },
+    {
+        "view_schema": "classicmodels",
+        "view_name": "bigsalesorder",
+        "view_full_name": "classicmodels.bigsalesorder",
+        "text_length": 170,
+        "definition": "select `saleperorder`.`orderNumber` AS `orderNumber`,round(`saleperorder`.`total`,2) AS `total` from `classicmodels`.`saleperorder` where (`saleperorder`.`total` > 60000)",
+        "is_updatable": "YES",
+        "definer": "dba@localhost",
+        "security_type": "DEFINER",
+        "view_full_name_sql": "`classicmodels`.`bigsalesorder`"
+    },
+    {
+        "view_schema": "classicmodels",
+        "view_name": "customerorders",
+        "view_full_name": "classicmodels.customerorders",
+        "text_length": 547,
+        "definition": "select `classicmodels`.`orderdetails`.`orderNumber` AS `orderNumber`,`classicmodels`.`customers`.`customerName` AS `customerName`,sum((`classicmodels`.`orderdetails`.`quantityOrdered` * `classicmodels`.`orderdetails`.`priceEach`)) AS `total` from ((`classicmodels`.`orderdetails` join `classicmodels`.`orders` `o` on((`classicmodels`.`orderdetails`.`orderNumber` = `o`.`orderNumber`))) join `classicmodels`.`customers` on((`o`.`customerNumber` = `classicmodels`.`customers`.`customerNumber`))) group by `classicmodels`.`orderdetails`.`orderNumber`",
+        "is_updatable": "NO",
+        "definer": "dba@localhost",
+        "security_type": "DEFINER",
+        "view_full_name_sql": "`classicmodels`.`customerorders`"
+    },
+    {
+        "view_schema": "classicmodels",
+        "view_name": "customerorderstats",
+        "view_full_name": "classicmodels.customerorderstats",
+        "text_length": 341,
+        "definition": "select `classicmodels`.`customers`.`customerName` AS `customerName`,count(`classicmodels`.`orders`.`orderNumber`) AS `orderCount` from (`classicmodels`.`customers` join `classicmodels`.`orders` on((`classicmodels`.`customers`.`customerNumber` = `classicmodels`.`orders`.`customerNumber`))) group by `classicmodels`.`customers`.`customerName`",
+        "is_updatable": "NO",
+        "definer": "dba@localhost",
+        "security_type": "DEFINER",
+        "view_full_name_sql": "`classicmodels`.`customerorderstats`"
+    },
+    {
+        "view_schema": "classicmodels",
+        "view_name": "customerpayments",
+        "view_full_name": "classicmodels.customerpayments",
+        "text_length": 395,
+        "definition": "select `classicmodels`.`customers`.`customerName` AS `customerName`,`classicmodels`.`payments`.`checkNumber` AS `checkNumber`,`classicmodels`.`payments`.`paymentDate` AS `paymentDate`,`classicmodels`.`payments`.`amount` AS `amount` from (`classicmodels`.`customers` join `classicmodels`.`payments` on((`classicmodels`.`customers`.`customerNumber` = `classicmodels`.`payments`.`customerNumber`)))",
+        "is_updatable": "YES",
+        "definer": "dba@localhost",
+        "security_type": "DEFINER",
+        "view_full_name_sql": "`classicmodels`.`customerpayments`"
+    },
+    {
+        "view_schema": "classicmodels",
+        "view_name": "daysofweek",
+        "view_full_name": "classicmodels.daysofweek",
+        "text_length": 189,
+        "definition": "select 'Mon' AS `day` union select 'Tue' AS `Tue` union select 'Web' AS `Web` union select 'Thu' AS `Thu` union select 'Fri' AS `Fri` union select 'Sat' AS `Sat` union select 'Sun' AS `Sun`",
+        "is_updatable": "NO",
+        "definer": "dba@localhost",
+        "security_type": "DEFINER",
+        "view_full_name_sql": "`classicmodels`.`daysofweek`"
+    },
+    {
+        "view_schema": "classicmodels",
+        "view_name": "saleperorder",
+        "view_full_name": "classicmodels.saleperorder",
+        "text_length": 292,
+        "definition": "select `classicmodels`.`orderdetails`.`orderNumber` AS `orderNumber`,sum((`classicmodels`.`orderdetails`.`quantityOrdered` * `classicmodels`.`orderdetails`.`priceEach`)) AS `total` from `classicmodels`.`orderdetails` group by `classicmodels`.`orderdetails`.`orderNumber` order by `total` desc",
+        "is_updatable": "NO",
+        "definer": "dba@localhost",
+        "security_type": "DEFINER",
+        "view_full_name_sql": "`classicmodels`.`saleperorder`"
+    }
+]

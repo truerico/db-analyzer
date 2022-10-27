@@ -1,0 +1,53 @@
+[
+    {
+        "table": "classicmodels.products",
+        "total_records": 110,
+        "dataset": [
+            {
+                "field": "MSRP",
+                "total_null_rows": 0,
+                "total_not_null_rows": 110
+            },
+            {
+                "field": "buyPrice",
+                "total_null_rows": 0,
+                "total_not_null_rows": 110
+            },
+            {
+                "field": "productCode",
+                "total_null_rows": 0,
+                "total_not_null_rows": 110
+            },
+            {
+                "field": "productName",
+                "total_null_rows": 0,
+                "total_not_null_rows": 110
+            },
+            {
+                "field": "productScale",
+                "total_null_rows": 0,
+                "total_not_null_rows": 110
+            },
+            {
+                "field": "productVendor",
+                "total_null_rows": 0,
+                "total_not_null_rows": 110
+            },
+            {
+                "field": "productDescription",
+                "total_null_rows": 0,
+                "total_not_null_rows": 110
+            },
+            {
+                "field": "productLine",
+                "total_null_rows": 0,
+                "total_not_null_rows": 110
+            },
+            {
+                "field": "quantityInStock",
+                "total_null_rows": 0,
+                "total_not_null_rows": 110
+            }
+        ]
+    }
+]

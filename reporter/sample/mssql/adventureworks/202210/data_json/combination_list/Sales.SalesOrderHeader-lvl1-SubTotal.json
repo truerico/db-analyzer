@@ -1,0 +1,62 @@
+@startjson
+{
+    "field1": "SubTotal",
+    "combination": "SubTotal",
+    "null_distribution": {
+        "total_null_rows": 0,
+        "total_not_null_rows": 31465
+    },
+    "data_distribution": [
+        {
+            "field_value": "3578.27",
+            "row_count": 1551,
+            "ratio_percent": 4.929286508819323
+        },
+        {
+            "field_value": "2181.56",
+            "row_count": 758,
+            "ratio_percent": 2.409025901795646
+        },
+        {
+            "field_value": "782.99",
+            "row_count": 593,
+            "ratio_percent": 1.8846337200063563
+        },
+        {
+            "field_value": "39.98",
+            "row_count": 578,
+            "ratio_percent": 1.8369617034800572
+        },
+        {
+            "field_value": "4.99",
+            "row_count": 576,
+            "ratio_percent": 1.830605434609884
+        },
+        {
+            "field_value": "2049.10",
+            "row_count": 554,
+            "ratio_percent": 1.7606864770379786
+        },
+        {
+            "field_value": "2443.35",
+            "row_count": 543,
+            "ratio_percent": 1.725726998252026
+        },
+        {
+            "field_value": "2071.42",
+            "row_count": 521,
+            "ratio_percent": 1.6558080406801208
+        },
+        {
+            "field_value": "7.28",
+            "row_count": 359,
+            "ratio_percent": 1.140950262196091
+        },
+        {
+            "field_value": "1000.44",
+            "row_count": 357,
+            "ratio_percent": 1.1345939933259177
+        }
+    ]
+}
+@endjson

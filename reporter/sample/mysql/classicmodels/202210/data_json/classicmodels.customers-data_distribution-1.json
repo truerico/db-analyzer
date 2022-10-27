@@ -1,0 +1,723 @@
+[
+    {
+        "table": "classicmodels.customers",
+        "total_records": 122,
+        "dataset": [
+            {
+                "field": "addressLine1",
+                "distribution": [
+                    {
+                        "field_value": "C/ Moralzarzal, 86",
+                        "row_count": 1,
+                        "ratio_percent": 0.819672131147541
+                    },
+                    {
+                        "field_value": "Smagsloget 45",
+                        "row_count": 1,
+                        "ratio_percent": 0.819672131147541
+                    },
+                    {
+                        "field_value": "Maubelstr. 90",
+                        "row_count": 1,
+                        "ratio_percent": 0.819672131147541
+                    },
+                    {
+                        "field_value": "C/ Araquil, 67",
+                        "row_count": 1,
+                        "ratio_percent": 0.819672131147541
+                    },
+                    {
+                        "field_value": "Fauntleroy Circus",
+                        "row_count": 1,
+                        "ratio_percent": 0.819672131147541
+                    },
+                    {
+                        "field_value": "Drammensveien 126A",
+                        "row_count": 1,
+                        "ratio_percent": 0.819672131147541
+                    },
+                    {
+                        "field_value": "2-2-8 Roppongi",
+                        "row_count": 1,
+                        "ratio_percent": 0.819672131147541
+                    },
+                    {
+                        "field_value": "7586 Pompton St.",
+                        "row_count": 1,
+                        "ratio_percent": 0.819672131147541
+                    },
+                    {
+                        "field_value": "Magazinweg 7",
+                        "row_count": 1,
+                        "ratio_percent": 0.819672131147541
+                    },
+                    {
+                        "field_value": "59 rue de l'Abbaye",
+                        "row_count": 1,
+                        "ratio_percent": 0.819672131147541
+                    }
+                ]
+            },
+            {
+                "field": "phone",
+                "distribution": [
+                    {
+                        "field_value": "6175558555",
+                        "row_count": 2,
+                        "ratio_percent": 1.639344262295082
+                    },
+                    {
+                        "field_value": "(91) 555 94 44",
+                        "row_count": 1,
+                        "ratio_percent": 0.819672131147541
+                    },
+                    {
+                        "field_value": "86 21 3555",
+                        "row_count": 1,
+                        "ratio_percent": 0.819672131147541
+                    },
+                    {
+                        "field_value": "0555-09555",
+                        "row_count": 1,
+                        "ratio_percent": 0.819672131147541
+                    },
+                    {
+                        "field_value": "0241-039123",
+                        "row_count": 1,
+                        "ratio_percent": 0.819672131147541
+                    },
+                    {
+                        "field_value": "(171) 555-1555",
+                        "row_count": 1,
+                        "ratio_percent": 0.819672131147541
+                    },
+                    {
+                        "field_value": "+47 2212 1555",
+                        "row_count": 1,
+                        "ratio_percent": 0.819672131147541
+                    },
+                    {
+                        "field_value": "(1) 47.55.6555",
+                        "row_count": 1,
+                        "ratio_percent": 0.819672131147541
+                    },
+                    {
+                        "field_value": "2155551555",
+                        "row_count": 1,
+                        "ratio_percent": 0.819672131147541
+                    },
+                    {
+                        "field_value": "069-0555984",
+                        "row_count": 1,
+                        "ratio_percent": 0.819672131147541
+                    }
+                ]
+            },
+            {
+                "field": "postalCode",
+                "distribution": [
+                    {
+                        "field_value": "**NULL**",
+                        "row_count": 7,
+                        "ratio_percent": 5.737704918032787
+                    },
+                    {
+                        "field_value": "94217",
+                        "row_count": 5,
+                        "ratio_percent": 4.098360655737705
+                    },
+                    {
+                        "field_value": "10022",
+                        "row_count": 5,
+                        "ratio_percent": 4.098360655737705
+                    },
+                    {
+                        "field_value": "28023",
+                        "row_count": 3,
+                        "ratio_percent": 2.459016393442623
+                    },
+                    {
+                        "field_value": "58339",
+                        "row_count": 3,
+                        "ratio_percent": 2.459016393442623
+                    },
+                    {
+                        "field_value": "60528",
+                        "row_count": 2,
+                        "ratio_percent": 1.639344262295082
+                    },
+                    {
+                        "field_value": "44000",
+                        "row_count": 2,
+                        "ratio_percent": 1.639344262295082
+                    },
+                    {
+                        "field_value": "94019",
+                        "row_count": 2,
+                        "ratio_percent": 1.639344262295082
+                    },
+                    {
+                        "field_value": "97562",
+                        "row_count": 2,
+                        "ratio_percent": 1.639344262295082
+                    },
+                    {
+                        "field_value": "97823",
+                        "row_count": 2,
+                        "ratio_percent": 1.639344262295082
+                    }
+                ]
+            },
+            {
+                "field": "state",
+                "distribution": [
+                    {
+                        "field_value": "**NULL**",
+                        "row_count": 73,
+                        "ratio_percent": 59.83606557377049
+                    },
+                    {
+                        "field_value": "CA",
+                        "row_count": 11,
+                        "ratio_percent": 9.01639344262295
+                    },
+                    {
+                        "field_value": "MA",
+                        "row_count": 9,
+                        "ratio_percent": 7.377049180327869
+                    },
+                    {
+                        "field_value": "NY",
+                        "row_count": 6,
+                        "ratio_percent": 4.918032786885246
+                    },
+                    {
+                        "field_value": "CT",
+                        "row_count": 4,
+                        "ratio_percent": 3.278688524590164
+                    },
+                    {
+                        "field_value": "PA",
+                        "row_count": 3,
+                        "ratio_percent": 2.459016393442623
+                    },
+                    {
+                        "field_value": "BC",
+                        "row_count": 2,
+                        "ratio_percent": 1.639344262295082
+                    },
+                    {
+                        "field_value": "Victoria",
+                        "row_count": 2,
+                        "ratio_percent": 1.639344262295082
+                    },
+                    {
+                        "field_value": "NSW",
+                        "row_count": 2,
+                        "ratio_percent": 1.639344262295082
+                    },
+                    {
+                        "field_value": "Qu\u00e9bec",
+                        "row_count": 1,
+                        "ratio_percent": 0.819672131147541
+                    }
+                ]
+            },
+            {
+                "field": "salesRepEmployeeNumber",
+                "distribution": [
+                    {
+                        "field_value": "**NULL**",
+                        "row_count": 22,
+                        "ratio_percent": 18.0327868852459
+                    },
+                    {
+                        "field_value": "1401",
+                        "row_count": 10,
+                        "ratio_percent": 8.19672131147541
+                    },
+                    {
+                        "field_value": "1504",
+                        "row_count": 9,
+                        "ratio_percent": 7.377049180327869
+                    },
+                    {
+                        "field_value": "1501",
+                        "row_count": 8,
+                        "ratio_percent": 6.557377049180328
+                    },
+                    {
+                        "field_value": "1323",
+                        "row_count": 8,
+                        "ratio_percent": 6.557377049180328
+                    },
+                    {
+                        "field_value": "1370",
+                        "row_count": 7,
+                        "ratio_percent": 5.737704918032787
+                    },
+                    {
+                        "field_value": "1286",
+                        "row_count": 7,
+                        "ratio_percent": 5.737704918032787
+                    },
+                    {
+                        "field_value": "1188",
+                        "row_count": 6,
+                        "ratio_percent": 4.918032786885246
+                    },
+                    {
+                        "field_value": "1216",
+                        "row_count": 6,
+                        "ratio_percent": 4.918032786885246
+                    },
+                    {
+                        "field_value": "1165",
+                        "row_count": 6,
+                        "ratio_percent": 4.918032786885246
+                    }
+                ]
+            },
+            {
+                "field": "addressLine2",
+                "distribution": [
+                    {
+                        "field_value": "**NULL**",
+                        "row_count": 100,
+                        "ratio_percent": 81.9672131147541
+                    },
+                    {
+                        "field_value": "Suite 101",
+                        "row_count": 2,
+                        "ratio_percent": 1.639344262295082
+                    },
+                    {
+                        "field_value": "SEC Oy",
+                        "row_count": 1,
+                        "ratio_percent": 0.819672131147541
+                    },
+                    {
+                        "field_value": "Bronz Apt. 3/6 Tesvikiye",
+                        "row_count": 1,
+                        "ratio_percent": 0.819672131147541
+                    },
+                    {
+                        "field_value": "Alessandro Volta 16",
+                        "row_count": 1,
+                        "ratio_percent": 0.819672131147541
+                    },
+                    {
+                        "field_value": "8 Temasek",
+                        "row_count": 1,
+                        "ratio_percent": 0.819672131147541
+                    },
+                    {
+                        "field_value": "Level 2",
+                        "row_count": 1,
+                        "ratio_percent": 0.819672131147541
+                    },
+                    {
+                        "field_value": "Level 3",
+                        "row_count": 1,
+                        "ratio_percent": 0.819672131147541
+                    },
+                    {
+                        "field_value": "Suite 200",
+                        "row_count": 1,
+                        "ratio_percent": 0.819672131147541
+                    },
+                    {
+                        "field_value": "Floor No. 4",
+                        "row_count": 1,
+                        "ratio_percent": 0.819672131147541
+                    }
+                ]
+            },
+            {
+                "field": "customerNumber",
+                "distribution": [
+                    {
+                        "field_value": "146",
+                        "row_count": 1,
+                        "ratio_percent": 0.819672131147541
+                    },
+                    {
+                        "field_value": "187",
+                        "row_count": 1,
+                        "ratio_percent": 0.819672131147541
+                    },
+                    {
+                        "field_value": "239",
+                        "row_count": 1,
+                        "ratio_percent": 0.819672131147541
+                    },
+                    {
+                        "field_value": "299",
+                        "row_count": 1,
+                        "ratio_percent": 0.819672131147541
+                    },
+                    {
+                        "field_value": "347",
+                        "row_count": 1,
+                        "ratio_percent": 0.819672131147541
+                    },
+                    {
+                        "field_value": "398",
+                        "row_count": 1,
+                        "ratio_percent": 0.819672131147541
+                    },
+                    {
+                        "field_value": "465",
+                        "row_count": 1,
+                        "ratio_percent": 0.819672131147541
+                    },
+                    {
+                        "field_value": "129",
+                        "row_count": 1,
+                        "ratio_percent": 0.819672131147541
+                    },
+                    {
+                        "field_value": "173",
+                        "row_count": 1,
+                        "ratio_percent": 0.819672131147541
+                    },
+                    {
+                        "field_value": "219",
+                        "row_count": 1,
+                        "ratio_percent": 0.819672131147541
+                    }
+                ]
+            },
+            {
+                "field": "customerName",
+                "distribution": [
+                    {
+                        "field_value": "Euro+ Shopping Channel",
+                        "row_count": 1,
+                        "ratio_percent": 0.819672131147541
+                    },
+                    {
+                        "field_value": "Heintze Collectables",
+                        "row_count": 1,
+                        "ratio_percent": 0.819672131147541
+                    },
+                    {
+                        "field_value": "Cramer Spezialit\u00e4ten, Ltd",
+                        "row_count": 1,
+                        "ratio_percent": 0.819672131147541
+                    },
+                    {
+                        "field_value": "Corrida Auto Replicas, Ltd",
+                        "row_count": 1,
+                        "ratio_percent": 0.819672131147541
+                    },
+                    {
+                        "field_value": "AV Stores, Co.",
+                        "row_count": 1,
+                        "ratio_percent": 0.819672131147541
+                    },
+                    {
+                        "field_value": "Norway Gifts By Mail, Co.",
+                        "row_count": 1,
+                        "ratio_percent": 0.819672131147541
+                    },
+                    {
+                        "field_value": "Tokyo Collectables, Ltd",
+                        "row_count": 1,
+                        "ratio_percent": 0.819672131147541
+                    },
+                    {
+                        "field_value": "Diecast Classics Inc.",
+                        "row_count": 1,
+                        "ratio_percent": 0.819672131147541
+                    },
+                    {
+                        "field_value": "Messner Shopping Network",
+                        "row_count": 1,
+                        "ratio_percent": 0.819672131147541
+                    },
+                    {
+                        "field_value": "Reims Collectables",
+                        "row_count": 1,
+                        "ratio_percent": 0.819672131147541
+                    }
+                ]
+            },
+            {
+                "field": "contactLastName",
+                "distribution": [
+                    {
+                        "field_value": "Young",
+                        "row_count": 4,
+                        "ratio_percent": 3.278688524590164
+                    },
+                    {
+                        "field_value": "Frick",
+                        "row_count": 3,
+                        "ratio_percent": 2.459016393442623
+                    },
+                    {
+                        "field_value": "Brown",
+                        "row_count": 3,
+                        "ratio_percent": 2.459016393442623
+                    },
+                    {
+                        "field_value": "Murphy",
+                        "row_count": 2,
+                        "ratio_percent": 1.639344262295082
+                    },
+                    {
+                        "field_value": "King",
+                        "row_count": 2,
+                        "ratio_percent": 1.639344262295082
+                    },
+                    {
+                        "field_value": "Franco",
+                        "row_count": 2,
+                        "ratio_percent": 1.639344262295082
+                    },
+                    {
+                        "field_value": "Nelson",
+                        "row_count": 2,
+                        "ratio_percent": 1.639344262295082
+                    },
+                    {
+                        "field_value": "Taylor",
+                        "row_count": 2,
+                        "ratio_percent": 1.639344262295082
+                    },
+                    {
+                        "field_value": "Hernandez",
+                        "row_count": 2,
+                        "ratio_percent": 1.639344262295082
+                    },
+                    {
+                        "field_value": "Thompson",
+                        "row_count": 2,
+                        "ratio_percent": 1.639344262295082
+                    }
+                ]
+            },
+            {
+                "field": "contactFirstName",
+                "distribution": [
+                    {
+                        "field_value": "Julie",
+                        "row_count": 4,
+                        "ratio_percent": 3.278688524590164
+                    },
+                    {
+                        "field_value": "Valarie",
+                        "row_count": 2,
+                        "ratio_percent": 1.639344262295082
+                    },
+                    {
+                        "field_value": "Peter",
+                        "row_count": 2,
+                        "ratio_percent": 1.639344262295082
+                    },
+                    {
+                        "field_value": "Steve",
+                        "row_count": 2,
+                        "ratio_percent": 1.639344262295082
+                    },
+                    {
+                        "field_value": "Sue",
+                        "row_count": 2,
+                        "ratio_percent": 1.639344262295082
+                    },
+                    {
+                        "field_value": "Daniel",
+                        "row_count": 2,
+                        "ratio_percent": 1.639344262295082
+                    },
+                    {
+                        "field_value": "Jean",
+                        "row_count": 2,
+                        "ratio_percent": 1.639344262295082
+                    },
+                    {
+                        "field_value": "Roland",
+                        "row_count": 2,
+                        "ratio_percent": 1.639344262295082
+                    },
+                    {
+                        "field_value": "Michael",
+                        "row_count": 2,
+                        "ratio_percent": 1.639344262295082
+                    },
+                    {
+                        "field_value": "Mary",
+                        "row_count": 2,
+                        "ratio_percent": 1.639344262295082
+                    }
+                ]
+            },
+            {
+                "field": "city",
+                "distribution": [
+                    {
+                        "field_value": "NYC",
+                        "row_count": 5,
+                        "ratio_percent": 4.098360655737705
+                    },
+                    {
+                        "field_value": "Madrid",
+                        "row_count": 5,
+                        "ratio_percent": 4.098360655737705
+                    },
+                    {
+                        "field_value": "Brickhaven",
+                        "row_count": 3,
+                        "ratio_percent": 2.459016393442623
+                    },
+                    {
+                        "field_value": "Paris",
+                        "row_count": 3,
+                        "ratio_percent": 2.459016393442623
+                    },
+                    {
+                        "field_value": "Auckland",
+                        "row_count": 3,
+                        "ratio_percent": 2.459016393442623
+                    },
+                    {
+                        "field_value": "Singapore",
+                        "row_count": 3,
+                        "ratio_percent": 2.459016393442623
+                    },
+                    {
+                        "field_value": "Glendale",
+                        "row_count": 2,
+                        "ratio_percent": 1.639344262295082
+                    },
+                    {
+                        "field_value": "Cambridge",
+                        "row_count": 2,
+                        "ratio_percent": 1.639344262295082
+                    },
+                    {
+                        "field_value": "London",
+                        "row_count": 2,
+                        "ratio_percent": 1.639344262295082
+                    },
+                    {
+                        "field_value": "San Francisco",
+                        "row_count": 2,
+                        "ratio_percent": 1.639344262295082
+                    }
+                ]
+            },
+            {
+                "field": "country",
+                "distribution": [
+                    {
+                        "field_value": "USA",
+                        "row_count": 36,
+                        "ratio_percent": 29.508196721311474
+                    },
+                    {
+                        "field_value": "Germany",
+                        "row_count": 13,
+                        "ratio_percent": 10.655737704918034
+                    },
+                    {
+                        "field_value": "France",
+                        "row_count": 12,
+                        "ratio_percent": 9.836065573770492
+                    },
+                    {
+                        "field_value": "Spain",
+                        "row_count": 7,
+                        "ratio_percent": 5.737704918032787
+                    },
+                    {
+                        "field_value": "Australia",
+                        "row_count": 5,
+                        "ratio_percent": 4.098360655737705
+                    },
+                    {
+                        "field_value": "UK",
+                        "row_count": 5,
+                        "ratio_percent": 4.098360655737705
+                    },
+                    {
+                        "field_value": "New Zealand",
+                        "row_count": 4,
+                        "ratio_percent": 3.278688524590164
+                    },
+                    {
+                        "field_value": "Italy",
+                        "row_count": 4,
+                        "ratio_percent": 3.278688524590164
+                    },
+                    {
+                        "field_value": "Norway",
+                        "row_count": 3,
+                        "ratio_percent": 2.459016393442623
+                    },
+                    {
+                        "field_value": "Singapore",
+                        "row_count": 3,
+                        "ratio_percent": 2.459016393442623
+                    }
+                ]
+            },
+            {
+                "field": "creditLimit",
+                "distribution": [
+                    {
+                        "field_value": "0.00",
+                        "row_count": 24,
+                        "ratio_percent": 19.672131147540984
+                    },
+                    {
+                        "field_value": "60300.00",
+                        "row_count": 3,
+                        "ratio_percent": 2.459016393442623
+                    },
+                    {
+                        "field_value": "77000.00",
+                        "row_count": 2,
+                        "ratio_percent": 1.639344262295082
+                    },
+                    {
+                        "field_value": "105000.00",
+                        "row_count": 2,
+                        "ratio_percent": 1.639344262295082
+                    },
+                    {
+                        "field_value": "81100.00",
+                        "row_count": 2,
+                        "ratio_percent": 1.639344262295082
+                    },
+                    {
+                        "field_value": "84300.00",
+                        "row_count": 2,
+                        "ratio_percent": 1.639344262295082
+                    },
+                    {
+                        "field_value": "83400.00",
+                        "row_count": 1,
+                        "ratio_percent": 0.819672131147541
+                    },
+                    {
+                        "field_value": "77900.00",
+                        "row_count": 1,
+                        "ratio_percent": 0.819672131147541
+                    },
+                    {
+                        "field_value": "86800.00",
+                        "row_count": 1,
+                        "ratio_percent": 0.819672131147541
+                    },
+                    {
+                        "field_value": "118200.00",
+                        "row_count": 1,
+                        "ratio_percent": 0.819672131147541
+                    }
+                ]
+            }
+        ]
+    }
+]

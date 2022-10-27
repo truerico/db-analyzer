@@ -1,0 +1,62 @@
+@startjson
+{
+    "field1": "AccountNumber",
+    "combination": "AccountNumber",
+    "null_distribution": {
+        "total_null_rows": 0,
+        "total_not_null_rows": 19820
+    },
+    "data_distribution": [
+        {
+            "field_value": "AW00000011",
+            "row_count": 1,
+            "ratio_percent": 0.005045408678102927
+        },
+        {
+            "field_value": "AW00000010",
+            "row_count": 1,
+            "ratio_percent": 0.005045408678102927
+        },
+        {
+            "field_value": "AW00000009",
+            "row_count": 1,
+            "ratio_percent": 0.005045408678102927
+        },
+        {
+            "field_value": "AW00000008",
+            "row_count": 1,
+            "ratio_percent": 0.005045408678102927
+        },
+        {
+            "field_value": "AW00000007",
+            "row_count": 1,
+            "ratio_percent": 0.005045408678102927
+        },
+        {
+            "field_value": "AW00000006",
+            "row_count": 1,
+            "ratio_percent": 0.005045408678102927
+        },
+        {
+            "field_value": "AW00000005",
+            "row_count": 1,
+            "ratio_percent": 0.005045408678102927
+        },
+        {
+            "field_value": "AW00000004",
+            "row_count": 1,
+            "ratio_percent": 0.005045408678102927
+        },
+        {
+            "field_value": "AW00000003",
+            "row_count": 1,
+            "ratio_percent": 0.005045408678102927
+        },
+        {
+            "field_value": "AW00000002",
+            "row_count": 1,
+            "ratio_percent": 0.005045408678102927
+        }
+    ]
+}
+@endjson

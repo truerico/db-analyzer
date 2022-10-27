@@ -1,0 +1,62 @@
+@startjson
+{
+    "field1": "PhoneNumber",
+    "combination": "PhoneNumber",
+    "null_distribution": {
+        "total_null_rows": 0,
+        "total_not_null_rows": 19972
+    },
+    "data_distribution": [
+        {
+            "field_value": "1 (11) 500 555-0118",
+            "row_count": 209,
+            "ratio_percent": 1.0464650510715001
+        },
+        {
+            "field_value": "1 (11) 500 555-0113",
+            "row_count": 192,
+            "ratio_percent": 0.9613458842379331
+        },
+        {
+            "field_value": "1 (11) 500 555-0116",
+            "row_count": 192,
+            "ratio_percent": 0.9613458842379331
+        },
+        {
+            "field_value": "1 (11) 500 555-0115",
+            "row_count": 187,
+            "ratio_percent": 0.936310835169237
+        },
+        {
+            "field_value": "1 (11) 500 555-0114",
+            "row_count": 186,
+            "ratio_percent": 0.9313038253554977
+        },
+        {
+            "field_value": "1 (11) 500 555-0112",
+            "row_count": 185,
+            "ratio_percent": 0.9262968155417585
+        },
+        {
+            "field_value": "1 (11) 500 555-0119",
+            "row_count": 182,
+            "ratio_percent": 0.9112757861005407
+        },
+        {
+            "field_value": "1 (11) 500 555-0117",
+            "row_count": 182,
+            "ratio_percent": 0.9112757861005407
+        },
+        {
+            "field_value": "1 (11) 500 555-0111",
+            "row_count": 180,
+            "ratio_percent": 0.9012617664730623
+        },
+        {
+            "field_value": "1 (11) 500 555-0110",
+            "row_count": 135,
+            "ratio_percent": 0.6759463248547967
+        }
+    ]
+}
+@endjson

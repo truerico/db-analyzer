@@ -1,0 +1,23 @@
+[
+    {
+        "table": "Sales.SalesOrderHeaderSalesReason",
+        "total_records": 27647,
+        "dataset": [
+            {
+                "field": "ModifiedDate",
+                "total_null_rows": 0,
+                "total_not_null_rows": 27647
+            },
+            {
+                "field": "SalesOrderID",
+                "total_null_rows": 0,
+                "total_not_null_rows": 27647
+            },
+            {
+                "field": "SalesReasonID",
+                "total_null_rows": 0,
+                "total_not_null_rows": 27647
+            }
+        ]
+    }
+]

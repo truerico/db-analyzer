@@ -1,0 +1,20 @@
+[
+    {
+        "job_id": "CA83E1CD-599B-4868-AD74-12F57C8EB5F4",
+        "job_name": "syspolicy_purge_history",
+        "job_owner": "dbo",
+        "job_category": "[Uncategorized (Local)]",
+        "job_description": "No description available.",
+        "job_is_enabled": "Yes",
+        "job_date_created": "2019-06-05 15:27:34.783000",
+        "job_date_modified": "2019-06-05 15:27:35.260000",
+        "job_start_step_id": 1,
+        "job_start_step_name": "Verify that automation is enabled.",
+        "last_run_date": "2022-10-27 02:00:00",
+        "last_run_status": "Succeeded",
+        "last_run_duration": "00:00:06",
+        "last_step_id": 0,
+        "last_step_name": "(Job outcome)",
+        "last_run_message": "The job succeeded.  The Job was invoked by Schedule 8 (syspolicy_purge_history_schedule).  The last step to run was step 3 (Erase Phantom System Health Records.)."
+    }
+]

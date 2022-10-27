@@ -1,0 +1,32 @@
+[
+    {
+        "CountryRegionCode": "AD",
+        "Name": "Andorra",
+        "ModifiedDate": "2008-04-30 00:00:00",
+        "SYS_EXEC_DURATION": "0.251099"
+    },
+    {
+        "CountryRegionCode": "AE",
+        "Name": "United Arab Emirates",
+        "ModifiedDate": "2008-04-30 00:00:00",
+        "SYS_EXEC_DURATION": "0.251264"
+    },
+    {
+        "CountryRegionCode": "AF",
+        "Name": "Afghanistan",
+        "ModifiedDate": "2008-04-30 00:00:00",
+        "SYS_EXEC_DURATION": "0.251312"
+    },
+    {
+        "CountryRegionCode": "AG",
+        "Name": "Antigua and Barbuda",
+        "ModifiedDate": "2008-04-30 00:00:00",
+        "SYS_EXEC_DURATION": "0.251356"
+    },
+    {
+        "CountryRegionCode": "AI",
+        "Name": "Anguilla",
+        "ModifiedDate": "2008-04-30 00:00:00",
+        "SYS_EXEC_DURATION": "0.251409"
+    }
+]

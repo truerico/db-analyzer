@@ -1,0 +1,42 @@
+@startjson
+{
+    "field1": "status",
+    "combination": "status",
+    "null_distribution": {
+        "total_null_rows": 0,
+        "total_not_null_rows": 326
+    },
+    "data_distribution": [
+        {
+            "field_value": "Shipped",
+            "row_count": 303,
+            "ratio_percent": 92.94478527607362
+        },
+        {
+            "field_value": "In Process",
+            "row_count": 6,
+            "ratio_percent": 1.8404907975460123
+        },
+        {
+            "field_value": "Cancelled",
+            "row_count": 6,
+            "ratio_percent": 1.8404907975460123
+        },
+        {
+            "field_value": "On Hold",
+            "row_count": 4,
+            "ratio_percent": 1.2269938650306749
+        },
+        {
+            "field_value": "Resolved",
+            "row_count": 4,
+            "ratio_percent": 1.2269938650306749
+        },
+        {
+            "field_value": "Disputed",
+            "row_count": 3,
+            "ratio_percent": 0.9202453987730062
+        }
+    ]
+}
+@endjson

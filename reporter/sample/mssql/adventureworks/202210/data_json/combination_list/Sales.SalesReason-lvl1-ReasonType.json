@@ -1,0 +1,27 @@
+@startjson
+{
+    "field1": "ReasonType",
+    "combination": "ReasonType",
+    "null_distribution": {
+        "total_null_rows": 0,
+        "total_not_null_rows": 10
+    },
+    "data_distribution": [
+        {
+            "field_value": "Other",
+            "row_count": 5,
+            "ratio_percent": 50.0
+        },
+        {
+            "field_value": "Marketing",
+            "row_count": 4,
+            "ratio_percent": 40.0
+        },
+        {
+            "field_value": "Promotion",
+            "row_count": 1,
+            "ratio_percent": 10.0
+        }
+    ]
+}
+@endjson

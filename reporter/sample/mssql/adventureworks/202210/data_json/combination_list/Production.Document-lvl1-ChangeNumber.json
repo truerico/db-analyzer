@@ -1,0 +1,57 @@
+@startjson
+{
+    "field1": "ChangeNumber",
+    "combination": "ChangeNumber",
+    "null_distribution": {
+        "total_null_rows": 0,
+        "total_not_null_rows": 13
+    },
+    "data_distribution": [
+        {
+            "field_value": "0",
+            "row_count": 5,
+            "ratio_percent": 38.46153846153846
+        },
+        {
+            "field_value": "8",
+            "row_count": 1,
+            "ratio_percent": 7.6923076923076925
+        },
+        {
+            "field_value": "55",
+            "row_count": 1,
+            "ratio_percent": 7.6923076923076925
+        },
+        {
+            "field_value": "32",
+            "row_count": 1,
+            "ratio_percent": 7.6923076923076925
+        },
+        {
+            "field_value": "288",
+            "row_count": 1,
+            "ratio_percent": 7.6923076923076925
+        },
+        {
+            "field_value": "28",
+            "row_count": 1,
+            "ratio_percent": 7.6923076923076925
+        },
+        {
+            "field_value": "25",
+            "row_count": 1,
+            "ratio_percent": 7.6923076923076925
+        },
+        {
+            "field_value": "15",
+            "row_count": 1,
+            "ratio_percent": 7.6923076923076925
+        },
+        {
+            "field_value": "11",
+            "row_count": 1,
+            "ratio_percent": 7.6923076923076925
+        }
+    ]
+}
+@endjson

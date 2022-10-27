@@ -1,0 +1,62 @@
+@startjson
+{
+    "field1": "LoginID",
+    "combination": "LoginID",
+    "null_distribution": {
+        "total_null_rows": 0,
+        "total_not_null_rows": 290
+    },
+    "data_distribution": [
+        {
+            "field_value": "adventure-works\\anibal0",
+            "row_count": 1,
+            "ratio_percent": 0.3448275862068966
+        },
+        {
+            "field_value": "adventure-works\\angela0",
+            "row_count": 1,
+            "ratio_percent": 0.3448275862068966
+        },
+        {
+            "field_value": "adventure-works\\andy0",
+            "row_count": 1,
+            "ratio_percent": 0.3448275862068966
+        },
+        {
+            "field_value": "adventure-works\\andrew1",
+            "row_count": 1,
+            "ratio_percent": 0.3448275862068966
+        },
+        {
+            "field_value": "adventure-works\\andrew0",
+            "row_count": 1,
+            "ratio_percent": 0.3448275862068966
+        },
+        {
+            "field_value": "adventure-works\\andreas0",
+            "row_count": 1,
+            "ratio_percent": 0.3448275862068966
+        },
+        {
+            "field_value": "adventure-works\\amy0",
+            "row_count": 1,
+            "ratio_percent": 0.3448275862068966
+        },
+        {
+            "field_value": "adventure-works\\alice0",
+            "row_count": 1,
+            "ratio_percent": 0.3448275862068966
+        },
+        {
+            "field_value": "adventure-works\\alex0",
+            "row_count": 1,
+            "ratio_percent": 0.3448275862068966
+        },
+        {
+            "field_value": "adventure-works\\alejandro0",
+            "row_count": 1,
+            "ratio_percent": 0.3448275862068966
+        }
+    ]
+}
+@endjson

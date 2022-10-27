@@ -1,0 +1,27 @@
+@startjson
+{
+    "field1": "StartDate",
+    "combination": "StartDate",
+    "null_distribution": {
+        "total_null_rows": 0,
+        "total_not_null_rows": 395
+    },
+    "data_distribution": [
+        {
+            "field_value": "May 30 2013 12:00AM",
+            "row_count": 195,
+            "ratio_percent": 49.36708860759494
+        },
+        {
+            "field_value": "May 30 2012 12:00AM",
+            "row_count": 128,
+            "ratio_percent": 32.40506329113924
+        },
+        {
+            "field_value": "May 31 2011 12:00AM",
+            "row_count": 72,
+            "ratio_percent": 18.227848101265824
+        }
+    ]
+}
+@endjson

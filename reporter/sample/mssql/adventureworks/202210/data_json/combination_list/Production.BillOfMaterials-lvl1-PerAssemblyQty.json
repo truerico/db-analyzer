@@ -1,0 +1,62 @@
+@startjson
+{
+    "field1": "PerAssemblyQty",
+    "combination": "PerAssemblyQty",
+    "null_distribution": {
+        "total_null_rows": 0,
+        "total_not_null_rows": 2679
+    },
+    "data_distribution": [
+        {
+            "field_value": "1.00",
+            "row_count": 2080,
+            "ratio_percent": 77.64091078760731
+        },
+        {
+            "field_value": "2.00",
+            "row_count": 343,
+            "ratio_percent": 12.803284807764092
+        },
+        {
+            "field_value": "4.00",
+            "row_count": 88,
+            "ratio_percent": 3.2848077640910787
+        },
+        {
+            "field_value": "8.00",
+            "row_count": 81,
+            "ratio_percent": 3.0235162374020157
+        },
+        {
+            "field_value": "36.00",
+            "row_count": 28,
+            "ratio_percent": 1.0451661067562523
+        },
+        {
+            "field_value": "3.00",
+            "row_count": 27,
+            "ratio_percent": 1.007838745800672
+        },
+        {
+            "field_value": "9.00",
+            "row_count": 14,
+            "ratio_percent": 0.5225830533781262
+        },
+        {
+            "field_value": "40.00",
+            "row_count": 8,
+            "ratio_percent": 0.2986188876446435
+        },
+        {
+            "field_value": "10.00",
+            "row_count": 4,
+            "ratio_percent": 0.14930944382232175
+        },
+        {
+            "field_value": "37.00",
+            "row_count": 3,
+            "ratio_percent": 0.11198208286674133
+        }
+    ]
+}
+@endjson

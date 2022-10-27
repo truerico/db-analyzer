@@ -1,0 +1,38 @@
+[
+    {
+        "table": "Sales.ShoppingCartItem",
+        "total_records": 3,
+        "dataset": [
+            {
+                "field": "DateCreated",
+                "total_null_rows": 0,
+                "total_not_null_rows": 3
+            },
+            {
+                "field": "ModifiedDate",
+                "total_null_rows": 0,
+                "total_not_null_rows": 3
+            },
+            {
+                "field": "ProductID",
+                "total_null_rows": 0,
+                "total_not_null_rows": 3
+            },
+            {
+                "field": "Quantity",
+                "total_null_rows": 0,
+                "total_not_null_rows": 3
+            },
+            {
+                "field": "ShoppingCartItemID",
+                "total_null_rows": 0,
+                "total_not_null_rows": 3
+            },
+            {
+                "field": "ShoppingCartID",
+                "total_null_rows": 0,
+                "total_not_null_rows": 3
+            }
+        ]
+    }
+]

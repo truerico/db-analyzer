@@ -1,0 +1,208 @@
+[
+    {
+        "table": "Production.ProductPhoto",
+        "total_records": 101,
+        "dataset": [
+            {
+                "field": "LargePhotoFileName",
+                "distribution": [
+                    {
+                        "field_value": "chain_large.gif",
+                        "row_count": 1,
+                        "ratio_percent": 0.9900990099009901
+                    },
+                    {
+                        "field_value": "bikepump_large.gif",
+                        "row_count": 1,
+                        "ratio_percent": 0.9900990099009901
+                    },
+                    {
+                        "field_value": "bike_shorts_male_large.gif",
+                        "row_count": 1,
+                        "ratio_percent": 0.9900990099009901
+                    },
+                    {
+                        "field_value": "bike_shorts_female_large.gif",
+                        "row_count": 1,
+                        "ratio_percent": 0.9900990099009901
+                    },
+                    {
+                        "field_value": "bike_shoes_large.gif",
+                        "row_count": 1,
+                        "ratio_percent": 0.9900990099009901
+                    },
+                    {
+                        "field_value": "bike_lock_large.gif",
+                        "row_count": 1,
+                        "ratio_percent": 0.9900990099009901
+                    },
+                    {
+                        "field_value": "awc_tee_male_yellow_large.gif",
+                        "row_count": 1,
+                        "ratio_percent": 0.9900990099009901
+                    },
+                    {
+                        "field_value": "awc_tee_male_large.gif",
+                        "row_count": 1,
+                        "ratio_percent": 0.9900990099009901
+                    },
+                    {
+                        "field_value": "awc_tee_female_large.gif",
+                        "row_count": 1,
+                        "ratio_percent": 0.9900990099009901
+                    },
+                    {
+                        "field_value": "awc_jersey_male_large.gif",
+                        "row_count": 1,
+                        "ratio_percent": 0.9900990099009901
+                    }
+                ]
+            },
+            {
+                "field": "ModifiedDate",
+                "distribution": [
+                    {
+                        "field_value": "Oct 19 2012  9:56AM",
+                        "row_count": 45,
+                        "ratio_percent": 44.554455445544555
+                    },
+                    {
+                        "field_value": "Apr 30 2013 12:00AM",
+                        "row_count": 21,
+                        "ratio_percent": 20.792079207920793
+                    },
+                    {
+                        "field_value": "Apr 30 2012 12:00AM",
+                        "row_count": 19,
+                        "ratio_percent": 18.81188118811881
+                    },
+                    {
+                        "field_value": "May  1 2011 12:00AM",
+                        "row_count": 12,
+                        "ratio_percent": 11.881188118811881
+                    },
+                    {
+                        "field_value": "Mar 31 2008 12:00AM",
+                        "row_count": 2,
+                        "ratio_percent": 1.9801980198019802
+                    },
+                    {
+                        "field_value": "Apr 30 2008 12:00AM",
+                        "row_count": 2,
+                        "ratio_percent": 1.9801980198019802
+                    }
+                ]
+            },
+            {
+                "field": "ProductPhotoID",
+                "distribution": [
+                    {
+                        "field_value": "111",
+                        "row_count": 1,
+                        "ratio_percent": 0.9900990099009901
+                    },
+                    {
+                        "field_value": "110",
+                        "row_count": 1,
+                        "ratio_percent": 0.9900990099009901
+                    },
+                    {
+                        "field_value": "109",
+                        "row_count": 1,
+                        "ratio_percent": 0.9900990099009901
+                    },
+                    {
+                        "field_value": "108",
+                        "row_count": 1,
+                        "ratio_percent": 0.9900990099009901
+                    },
+                    {
+                        "field_value": "107",
+                        "row_count": 1,
+                        "ratio_percent": 0.9900990099009901
+                    },
+                    {
+                        "field_value": "106",
+                        "row_count": 1,
+                        "ratio_percent": 0.9900990099009901
+                    },
+                    {
+                        "field_value": "105",
+                        "row_count": 1,
+                        "ratio_percent": 0.9900990099009901
+                    },
+                    {
+                        "field_value": "103",
+                        "row_count": 1,
+                        "ratio_percent": 0.9900990099009901
+                    },
+                    {
+                        "field_value": "102",
+                        "row_count": 1,
+                        "ratio_percent": 0.9900990099009901
+                    },
+                    {
+                        "field_value": "100",
+                        "row_count": 1,
+                        "ratio_percent": 0.9900990099009901
+                    }
+                ]
+            },
+            {
+                "field": "ThumbnailPhotoFileName",
+                "distribution": [
+                    {
+                        "field_value": "chain_lube_small.gif",
+                        "row_count": 1,
+                        "ratio_percent": 0.9900990099009901
+                    },
+                    {
+                        "field_value": "bikepump_small.gif",
+                        "row_count": 1,
+                        "ratio_percent": 0.9900990099009901
+                    },
+                    {
+                        "field_value": "bike_shorts_male_small.gif",
+                        "row_count": 1,
+                        "ratio_percent": 0.9900990099009901
+                    },
+                    {
+                        "field_value": "bike_shorts_female_small.gif",
+                        "row_count": 1,
+                        "ratio_percent": 0.9900990099009901
+                    },
+                    {
+                        "field_value": "bike_shoes_small.gif",
+                        "row_count": 1,
+                        "ratio_percent": 0.9900990099009901
+                    },
+                    {
+                        "field_value": "bike_lock_small.gif",
+                        "row_count": 1,
+                        "ratio_percent": 0.9900990099009901
+                    },
+                    {
+                        "field_value": "awc_tee_male_yellow_small.gif",
+                        "row_count": 1,
+                        "ratio_percent": 0.9900990099009901
+                    },
+                    {
+                        "field_value": "awc_tee_male_small.gif",
+                        "row_count": 1,
+                        "ratio_percent": 0.9900990099009901
+                    },
+                    {
+                        "field_value": "awc_tee_female_small.gif",
+                        "row_count": 1,
+                        "ratio_percent": 0.9900990099009901
+                    },
+                    {
+                        "field_value": "awc_jersey_male_small.gif",
+                        "row_count": 1,
+                        "ratio_percent": 0.9900990099009901
+                    }
+                ]
+            }
+        ]
+    }
+]

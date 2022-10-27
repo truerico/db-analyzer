@@ -1,0 +1,62 @@
+@startjson
+{
+    "field1": "TerritoryID",
+    "combination": "TerritoryID",
+    "null_distribution": {
+        "total_null_rows": 0,
+        "total_not_null_rows": 181
+    },
+    "data_distribution": [
+        {
+            "field_value": "7",
+            "row_count": 96,
+            "ratio_percent": 53.03867403314917
+        },
+        {
+            "field_value": "3",
+            "row_count": 14,
+            "ratio_percent": 7.734806629834254
+        },
+        {
+            "field_value": "2",
+            "row_count": 14,
+            "ratio_percent": 7.734806629834254
+        },
+        {
+            "field_value": "6",
+            "row_count": 13,
+            "ratio_percent": 7.18232044198895
+        },
+        {
+            "field_value": "5",
+            "row_count": 12,
+            "ratio_percent": 6.629834254143646
+        },
+        {
+            "field_value": "1",
+            "row_count": 10,
+            "ratio_percent": 5.524861878453039
+        },
+        {
+            "field_value": "9",
+            "row_count": 9,
+            "ratio_percent": 4.972375690607735
+        },
+        {
+            "field_value": "8",
+            "row_count": 7,
+            "ratio_percent": 3.867403314917127
+        },
+        {
+            "field_value": "4",
+            "row_count": 5,
+            "ratio_percent": 2.7624309392265194
+        },
+        {
+            "field_value": "10",
+            "row_count": 1,
+            "ratio_percent": 0.5524861878453039
+        }
+    ]
+}
+@endjson

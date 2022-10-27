@@ -1,0 +1,47 @@
+@startjson
+{
+    "field1": "jobTitle",
+    "combination": "jobTitle",
+    "null_distribution": {
+        "total_null_rows": 0,
+        "total_not_null_rows": 23
+    },
+    "data_distribution": [
+        {
+            "field_value": "Sales Rep",
+            "row_count": 17,
+            "ratio_percent": 73.91304347826087
+        },
+        {
+            "field_value": "VP Marketing",
+            "row_count": 1,
+            "ratio_percent": 4.3478260869565215
+        },
+        {
+            "field_value": "VP Sales",
+            "row_count": 1,
+            "ratio_percent": 4.3478260869565215
+        },
+        {
+            "field_value": "President",
+            "row_count": 1,
+            "ratio_percent": 4.3478260869565215
+        },
+        {
+            "field_value": "Sales Manager (NA)",
+            "row_count": 1,
+            "ratio_percent": 4.3478260869565215
+        },
+        {
+            "field_value": "Sale Manager (EMEA)",
+            "row_count": 1,
+            "ratio_percent": 4.3478260869565215
+        },
+        {
+            "field_value": "Sales Manager (APAC)",
+            "row_count": 1,
+            "ratio_percent": 4.3478260869565215
+        }
+    ]
+}
+@endjson

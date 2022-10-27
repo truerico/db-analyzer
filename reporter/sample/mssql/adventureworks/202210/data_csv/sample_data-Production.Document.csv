@@ -1,0 +1,8 @@
+DocumentLevel,Title,FolderFlag,FileName,FileExtension,Revision,ChangeNumber,Status,DocumentSummary,rowguid,ModifiedDate,Owner,SYS_EXEC_DURATION
+0,Documents,True,Documents,,0    ,0,2,,27CF33AF-C338-4842-966C-75CA11AAA6A3,2017-12-13 13:58:03.943000,217,0.218616
+1,Overview,True,Overview,,0    ,0,2,,26A266F1-1D23-40E2-AF48-6AB8D954FE37,2017-12-13 13:58:03.977000,217,0.218824
+2,Introduction 1,False,Introduction 1.doc,.doc,4    ,28,2,,48265174-8451-4967-973A-639C2276CFAF,2013-05-30 00:00:00,219,0.218908
+2,Repair and Service Guidelines,False,Repair and Service Guidelines.doc,.doc,0    ,8,2,"It is important that you maintain your bicycle and keep it in good repair. Detailed repair and service guidelines are provided along with instructions for adjusting the tightness of the suspension fork.
+
+",7ED4DEF5-D5BB-4818-8748-5BB5F8315FA2,2008-03-31 00:00:00,220,0.218993
+1,Maintenance,True,Maintenance,,0    ,0,2,,5184D96A-EE8C-499A-9316-625496784DE6,2017-12-13 13:58:04.007000,217,0.219085

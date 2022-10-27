@@ -1,0 +1,62 @@
+@startjson
+{
+    "field1": "Name",
+    "combination": "Name",
+    "null_distribution": {
+        "total_null_rows": 0,
+        "total_not_null_rows": 105
+    },
+    "data_distribution": [
+        {
+            "field_value": "Balboa",
+            "row_count": 1,
+            "ratio_percent": 0.9523809523809523
+        },
+        {
+            "field_value": "Baht",
+            "row_count": 1,
+            "ratio_percent": 0.9523809523809523
+        },
+        {
+            "field_value": "Bahraini Dinar",
+            "row_count": 1,
+            "ratio_percent": 0.9523809523809523
+        },
+        {
+            "field_value": "Bahamian Dollar",
+            "row_count": 1,
+            "ratio_percent": 0.9523809523809523
+        },
+        {
+            "field_value": "Azerbaijanian Manat",
+            "row_count": 1,
+            "ratio_percent": 0.9523809523809523
+        },
+        {
+            "field_value": "Australian Dollar",
+            "row_count": 1,
+            "ratio_percent": 0.9523809523809523
+        },
+        {
+            "field_value": "Aruban Guilder",
+            "row_count": 1,
+            "ratio_percent": 0.9523809523809523
+        },
+        {
+            "field_value": "Armenian Dram",
+            "row_count": 1,
+            "ratio_percent": 0.9523809523809523
+        },
+        {
+            "field_value": "Argentine Peso",
+            "row_count": 1,
+            "ratio_percent": 0.9523809523809523
+        },
+        {
+            "field_value": "Algerian Dinar",
+            "row_count": 1,
+            "ratio_percent": 0.9523809523809523
+        }
+    ]
+}
+@endjson

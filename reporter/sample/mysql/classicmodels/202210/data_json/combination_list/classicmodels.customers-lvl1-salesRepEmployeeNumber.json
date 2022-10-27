@@ -1,0 +1,62 @@
+@startjson
+{
+    "field1": "salesRepEmployeeNumber",
+    "combination": "salesRepEmployeeNumber",
+    "null_distribution": {
+        "total_null_rows": 22,
+        "total_not_null_rows": 100
+    },
+    "data_distribution": [
+        {
+            "field_value": "**NULL**",
+            "row_count": 22,
+            "ratio_percent": 18.0327868852459
+        },
+        {
+            "field_value": "1401",
+            "row_count": 10,
+            "ratio_percent": 8.19672131147541
+        },
+        {
+            "field_value": "1504",
+            "row_count": 9,
+            "ratio_percent": 7.377049180327869
+        },
+        {
+            "field_value": "1501",
+            "row_count": 8,
+            "ratio_percent": 6.557377049180328
+        },
+        {
+            "field_value": "1323",
+            "row_count": 8,
+            "ratio_percent": 6.557377049180328
+        },
+        {
+            "field_value": "1370",
+            "row_count": 7,
+            "ratio_percent": 5.737704918032787
+        },
+        {
+            "field_value": "1286",
+            "row_count": 7,
+            "ratio_percent": 5.737704918032787
+        },
+        {
+            "field_value": "1188",
+            "row_count": 6,
+            "ratio_percent": 4.918032786885246
+        },
+        {
+            "field_value": "1216",
+            "row_count": 6,
+            "ratio_percent": 4.918032786885246
+        },
+        {
+            "field_value": "1165",
+            "row_count": 6,
+            "ratio_percent": 4.918032786885246
+        }
+    ]
+}
+@endjson

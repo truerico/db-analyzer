@@ -1,0 +1,62 @@
+@startjson
+{
+    "field1": "comments",
+    "combination": "comments",
+    "null_distribution": {
+        "total_null_rows": 246,
+        "total_not_null_rows": 80
+    },
+    "data_distribution": [
+        {
+            "field_value": "**NULL**",
+            "row_count": 246,
+            "ratio_percent": 75.4601226993865
+        },
+        {
+            "field_value": "They want to reevaluate their terms agreement with Finance.",
+            "row_count": 7,
+            "ratio_percent": 2.147239263803681
+        },
+        {
+            "field_value": "Customer requested that DHL is used for this shipping",
+            "row_count": 6,
+            "ratio_percent": 1.8404907975460123
+        },
+        {
+            "field_value": "Customer requested that FedEx Ground is used for this shipping",
+            "row_count": 4,
+            "ratio_percent": 1.2269938650306749
+        },
+        {
+            "field_value": "Check on availability.",
+            "row_count": 3,
+            "ratio_percent": 0.9202453987730062
+        },
+        {
+            "field_value": "Difficult to negotiate with customer. We need more marketing materials",
+            "row_count": 3,
+            "ratio_percent": 0.9202453987730062
+        },
+        {
+            "field_value": "Customer requested that ad materials (such as posters, pamphlets) be included in the shippment",
+            "row_count": 3,
+            "ratio_percent": 0.9202453987730062
+        },
+        {
+            "field_value": "Customer has worked with some of our vendors in the past and is aware of their MSRP",
+            "row_count": 3,
+            "ratio_percent": 0.9202453987730062
+        },
+        {
+            "field_value": "Customer very concerned about the exact color of the models. There is high risk that he may dispute the order because there is a slight color mismatch",
+            "row_count": 3,
+            "ratio_percent": 0.9202453987730062
+        },
+        {
+            "field_value": "Customer requested special shippment. The instructions were passed along to the warehouse",
+            "row_count": 3,
+            "ratio_percent": 0.9202453987730062
+        }
+    ]
+}
+@endjson

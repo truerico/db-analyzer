@@ -1,0 +1,23 @@
+[
+    {
+        "table": "Sales.PersonCreditCard",
+        "total_records": 19118,
+        "dataset": [
+            {
+                "field": "BusinessEntityID",
+                "total_null_rows": 0,
+                "total_not_null_rows": 19118
+            },
+            {
+                "field": "CreditCardID",
+                "total_null_rows": 0,
+                "total_not_null_rows": 19118
+            },
+            {
+                "field": "ModifiedDate",
+                "total_null_rows": 0,
+                "total_not_null_rows": 19118
+            }
+        ]
+    }
+]

@@ -1,0 +1,722 @@
+[
+    {
+        "foreign_table_full_name": "HumanResources.Employee",
+        "primary_table_full_name": "Person.Person",
+        "foreign_table": "Employee",
+        "primary_table": "Person",
+        "fk_columns": "BusinessEntityID",
+        "constraint_name": "FK_Employee_Person_BusinessEntityID"
+    },
+    {
+        "foreign_table_full_name": "HumanResources.EmployeeDepartmentHistory",
+        "primary_table_full_name": "HumanResources.Department",
+        "foreign_table": "EmployeeDepartmentHistory",
+        "primary_table": "Department",
+        "fk_columns": "DepartmentID",
+        "constraint_name": "FK_EmployeeDepartmentHistory_Department_DepartmentID"
+    },
+    {
+        "foreign_table_full_name": "HumanResources.EmployeeDepartmentHistory",
+        "primary_table_full_name": "HumanResources.Employee",
+        "foreign_table": "EmployeeDepartmentHistory",
+        "primary_table": "Employee",
+        "fk_columns": "BusinessEntityID",
+        "constraint_name": "FK_EmployeeDepartmentHistory_Employee_BusinessEntityID"
+    },
+    {
+        "foreign_table_full_name": "HumanResources.EmployeeDepartmentHistory",
+        "primary_table_full_name": "HumanResources.Shift",
+        "foreign_table": "EmployeeDepartmentHistory",
+        "primary_table": "Shift",
+        "fk_columns": "ShiftID",
+        "constraint_name": "FK_EmployeeDepartmentHistory_Shift_ShiftID"
+    },
+    {
+        "foreign_table_full_name": "HumanResources.EmployeePayHistory",
+        "primary_table_full_name": "HumanResources.Employee",
+        "foreign_table": "EmployeePayHistory",
+        "primary_table": "Employee",
+        "fk_columns": "BusinessEntityID",
+        "constraint_name": "FK_EmployeePayHistory_Employee_BusinessEntityID"
+    },
+    {
+        "foreign_table_full_name": "HumanResources.JobCandidate",
+        "primary_table_full_name": "HumanResources.Employee",
+        "foreign_table": "JobCandidate",
+        "primary_table": "Employee",
+        "fk_columns": "BusinessEntityID",
+        "constraint_name": "FK_JobCandidate_Employee_BusinessEntityID"
+    },
+    {
+        "foreign_table_full_name": "Person.Address",
+        "primary_table_full_name": "Person.StateProvince",
+        "foreign_table": "Address",
+        "primary_table": "StateProvince",
+        "fk_columns": "StateProvinceID",
+        "constraint_name": "FK_Address_StateProvince_StateProvinceID"
+    },
+    {
+        "foreign_table_full_name": "Person.BusinessEntityAddress",
+        "primary_table_full_name": "Person.Address",
+        "foreign_table": "BusinessEntityAddress",
+        "primary_table": "Address",
+        "fk_columns": "AddressID",
+        "constraint_name": "FK_BusinessEntityAddress_Address_AddressID"
+    },
+    {
+        "foreign_table_full_name": "Person.BusinessEntityAddress",
+        "primary_table_full_name": "Person.AddressType",
+        "foreign_table": "BusinessEntityAddress",
+        "primary_table": "AddressType",
+        "fk_columns": "AddressTypeID",
+        "constraint_name": "FK_BusinessEntityAddress_AddressType_AddressTypeID"
+    },
+    {
+        "foreign_table_full_name": "Person.BusinessEntityAddress",
+        "primary_table_full_name": "Person.BusinessEntity",
+        "foreign_table": "BusinessEntityAddress",
+        "primary_table": "BusinessEntity",
+        "fk_columns": "BusinessEntityID",
+        "constraint_name": "FK_BusinessEntityAddress_BusinessEntity_BusinessEntityID"
+    },
+    {
+        "foreign_table_full_name": "Person.BusinessEntityContact",
+        "primary_table_full_name": "Person.BusinessEntity",
+        "foreign_table": "BusinessEntityContact",
+        "primary_table": "BusinessEntity",
+        "fk_columns": "BusinessEntityID",
+        "constraint_name": "FK_BusinessEntityContact_BusinessEntity_BusinessEntityID"
+    },
+    {
+        "foreign_table_full_name": "Person.BusinessEntityContact",
+        "primary_table_full_name": "Person.ContactType",
+        "foreign_table": "BusinessEntityContact",
+        "primary_table": "ContactType",
+        "fk_columns": "ContactTypeID",
+        "constraint_name": "FK_BusinessEntityContact_ContactType_ContactTypeID"
+    },
+    {
+        "foreign_table_full_name": "Person.BusinessEntityContact",
+        "primary_table_full_name": "Person.Person",
+        "foreign_table": "BusinessEntityContact",
+        "primary_table": "Person",
+        "fk_columns": "PersonID",
+        "constraint_name": "FK_BusinessEntityContact_Person_PersonID"
+    },
+    {
+        "foreign_table_full_name": "Person.EmailAddress",
+        "primary_table_full_name": "Person.Person",
+        "foreign_table": "EmailAddress",
+        "primary_table": "Person",
+        "fk_columns": "BusinessEntityID",
+        "constraint_name": "FK_EmailAddress_Person_BusinessEntityID"
+    },
+    {
+        "foreign_table_full_name": "Person.Password",
+        "primary_table_full_name": "Person.Person",
+        "foreign_table": "Password",
+        "primary_table": "Person",
+        "fk_columns": "BusinessEntityID",
+        "constraint_name": "FK_Password_Person_BusinessEntityID"
+    },
+    {
+        "foreign_table_full_name": "Person.Person",
+        "primary_table_full_name": "Person.BusinessEntity",
+        "foreign_table": "Person",
+        "primary_table": "BusinessEntity",
+        "fk_columns": "BusinessEntityID",
+        "constraint_name": "FK_Person_BusinessEntity_BusinessEntityID"
+    },
+    {
+        "foreign_table_full_name": "Person.PersonPhone",
+        "primary_table_full_name": "Person.Person",
+        "foreign_table": "PersonPhone",
+        "primary_table": "Person",
+        "fk_columns": "BusinessEntityID",
+        "constraint_name": "FK_PersonPhone_Person_BusinessEntityID"
+    },
+    {
+        "foreign_table_full_name": "Person.PersonPhone",
+        "primary_table_full_name": "Person.PhoneNumberType",
+        "foreign_table": "PersonPhone",
+        "primary_table": "PhoneNumberType",
+        "fk_columns": "PhoneNumberTypeID",
+        "constraint_name": "FK_PersonPhone_PhoneNumberType_PhoneNumberTypeID"
+    },
+    {
+        "foreign_table_full_name": "Person.StateProvince",
+        "primary_table_full_name": "Person.CountryRegion",
+        "foreign_table": "StateProvince",
+        "primary_table": "CountryRegion",
+        "fk_columns": "CountryRegionCode",
+        "constraint_name": "FK_StateProvince_CountryRegion_CountryRegionCode"
+    },
+    {
+        "foreign_table_full_name": "Person.StateProvince",
+        "primary_table_full_name": "Sales.SalesTerritory",
+        "foreign_table": "StateProvince",
+        "primary_table": "SalesTerritory",
+        "fk_columns": "TerritoryID",
+        "constraint_name": "FK_StateProvince_SalesTerritory_TerritoryID"
+    },
+    {
+        "foreign_table_full_name": "Production.BillOfMaterials",
+        "primary_table_full_name": "Production.Product",
+        "foreign_table": "BillOfMaterials",
+        "primary_table": "Product",
+        "fk_columns": "ProductAssemblyID",
+        "constraint_name": "FK_BillOfMaterials_Product_ProductAssemblyID"
+    },
+    {
+        "foreign_table_full_name": "Production.BillOfMaterials",
+        "primary_table_full_name": "Production.Product",
+        "foreign_table": "BillOfMaterials",
+        "primary_table": "Product",
+        "fk_columns": "ComponentID",
+        "constraint_name": "FK_BillOfMaterials_Product_ComponentID"
+    },
+    {
+        "foreign_table_full_name": "Production.BillOfMaterials",
+        "primary_table_full_name": "Production.UnitMeasure",
+        "foreign_table": "BillOfMaterials",
+        "primary_table": "UnitMeasure",
+        "fk_columns": "UnitMeasureCode",
+        "constraint_name": "FK_BillOfMaterials_UnitMeasure_UnitMeasureCode"
+    },
+    {
+        "foreign_table_full_name": "Production.Document",
+        "primary_table_full_name": "HumanResources.Employee",
+        "foreign_table": "Document",
+        "primary_table": "Employee",
+        "fk_columns": "Owner",
+        "constraint_name": "FK_Document_Employee_Owner"
+    },
+    {
+        "foreign_table_full_name": "Production.Product",
+        "primary_table_full_name": "Production.ProductModel",
+        "foreign_table": "Product",
+        "primary_table": "ProductModel",
+        "fk_columns": "ProductModelID",
+        "constraint_name": "FK_Product_ProductModel_ProductModelID"
+    },
+    {
+        "foreign_table_full_name": "Production.Product",
+        "primary_table_full_name": "Production.ProductSubcategory",
+        "foreign_table": "Product",
+        "primary_table": "ProductSubcategory",
+        "fk_columns": "ProductSubcategoryID",
+        "constraint_name": "FK_Product_ProductSubcategory_ProductSubcategoryID"
+    },
+    {
+        "foreign_table_full_name": "Production.Product",
+        "primary_table_full_name": "Production.UnitMeasure",
+        "foreign_table": "Product",
+        "primary_table": "UnitMeasure",
+        "fk_columns": "SizeUnitMeasureCode",
+        "constraint_name": "FK_Product_UnitMeasure_SizeUnitMeasureCode"
+    },
+    {
+        "foreign_table_full_name": "Production.Product",
+        "primary_table_full_name": "Production.UnitMeasure",
+        "foreign_table": "Product",
+        "primary_table": "UnitMeasure",
+        "fk_columns": "WeightUnitMeasureCode",
+        "constraint_name": "FK_Product_UnitMeasure_WeightUnitMeasureCode"
+    },
+    {
+        "foreign_table_full_name": "Production.ProductCostHistory",
+        "primary_table_full_name": "Production.Product",
+        "foreign_table": "ProductCostHistory",
+        "primary_table": "Product",
+        "fk_columns": "ProductID",
+        "constraint_name": "FK_ProductCostHistory_Product_ProductID"
+    },
+    {
+        "foreign_table_full_name": "Production.ProductDocument",
+        "primary_table_full_name": "Production.Document",
+        "foreign_table": "ProductDocument",
+        "primary_table": "Document",
+        "fk_columns": "DocumentNode",
+        "constraint_name": "FK_ProductDocument_Document_DocumentNode"
+    },
+    {
+        "foreign_table_full_name": "Production.ProductDocument",
+        "primary_table_full_name": "Production.Product",
+        "foreign_table": "ProductDocument",
+        "primary_table": "Product",
+        "fk_columns": "ProductID",
+        "constraint_name": "FK_ProductDocument_Product_ProductID"
+    },
+    {
+        "foreign_table_full_name": "Production.ProductInventory",
+        "primary_table_full_name": "Production.Location",
+        "foreign_table": "ProductInventory",
+        "primary_table": "Location",
+        "fk_columns": "LocationID",
+        "constraint_name": "FK_ProductInventory_Location_LocationID"
+    },
+    {
+        "foreign_table_full_name": "Production.ProductInventory",
+        "primary_table_full_name": "Production.Product",
+        "foreign_table": "ProductInventory",
+        "primary_table": "Product",
+        "fk_columns": "ProductID",
+        "constraint_name": "FK_ProductInventory_Product_ProductID"
+    },
+    {
+        "foreign_table_full_name": "Production.ProductListPriceHistory",
+        "primary_table_full_name": "Production.Product",
+        "foreign_table": "ProductListPriceHistory",
+        "primary_table": "Product",
+        "fk_columns": "ProductID",
+        "constraint_name": "FK_ProductListPriceHistory_Product_ProductID"
+    },
+    {
+        "foreign_table_full_name": "Production.ProductModelIllustration",
+        "primary_table_full_name": "Production.Illustration",
+        "foreign_table": "ProductModelIllustration",
+        "primary_table": "Illustration",
+        "fk_columns": "IllustrationID",
+        "constraint_name": "FK_ProductModelIllustration_Illustration_IllustrationID"
+    },
+    {
+        "foreign_table_full_name": "Production.ProductModelIllustration",
+        "primary_table_full_name": "Production.ProductModel",
+        "foreign_table": "ProductModelIllustration",
+        "primary_table": "ProductModel",
+        "fk_columns": "ProductModelID",
+        "constraint_name": "FK_ProductModelIllustration_ProductModel_ProductModelID"
+    },
+    {
+        "foreign_table_full_name": "Production.ProductModelProductDescriptionCulture",
+        "primary_table_full_name": "Production.Culture",
+        "foreign_table": "ProductModelProductDescriptionCulture",
+        "primary_table": "Culture",
+        "fk_columns": "CultureID",
+        "constraint_name": "FK_ProductModelProductDescriptionCulture_Culture_CultureID"
+    },
+    {
+        "foreign_table_full_name": "Production.ProductModelProductDescriptionCulture",
+        "primary_table_full_name": "Production.ProductDescription",
+        "foreign_table": "ProductModelProductDescriptionCulture",
+        "primary_table": "ProductDescription",
+        "fk_columns": "ProductDescriptionID",
+        "constraint_name": "FK_ProductModelProductDescriptionCulture_ProductDescription_ProductDescriptionID"
+    },
+    {
+        "foreign_table_full_name": "Production.ProductModelProductDescriptionCulture",
+        "primary_table_full_name": "Production.ProductModel",
+        "foreign_table": "ProductModelProductDescriptionCulture",
+        "primary_table": "ProductModel",
+        "fk_columns": "ProductModelID",
+        "constraint_name": "FK_ProductModelProductDescriptionCulture_ProductModel_ProductModelID"
+    },
+    {
+        "foreign_table_full_name": "Production.ProductProductPhoto",
+        "primary_table_full_name": "Production.Product",
+        "foreign_table": "ProductProductPhoto",
+        "primary_table": "Product",
+        "fk_columns": "ProductID",
+        "constraint_name": "FK_ProductProductPhoto_Product_ProductID"
+    },
+    {
+        "foreign_table_full_name": "Production.ProductProductPhoto",
+        "primary_table_full_name": "Production.ProductPhoto",
+        "foreign_table": "ProductProductPhoto",
+        "primary_table": "ProductPhoto",
+        "fk_columns": "ProductPhotoID",
+        "constraint_name": "FK_ProductProductPhoto_ProductPhoto_ProductPhotoID"
+    },
+    {
+        "foreign_table_full_name": "Production.ProductReview",
+        "primary_table_full_name": "Production.Product",
+        "foreign_table": "ProductReview",
+        "primary_table": "Product",
+        "fk_columns": "ProductID",
+        "constraint_name": "FK_ProductReview_Product_ProductID"
+    },
+    {
+        "foreign_table_full_name": "Production.ProductSubcategory",
+        "primary_table_full_name": "Production.ProductCategory",
+        "foreign_table": "ProductSubcategory",
+        "primary_table": "ProductCategory",
+        "fk_columns": "ProductCategoryID",
+        "constraint_name": "FK_ProductSubcategory_ProductCategory_ProductCategoryID"
+    },
+    {
+        "foreign_table_full_name": "Production.TransactionHistory",
+        "primary_table_full_name": "Production.Product",
+        "foreign_table": "TransactionHistory",
+        "primary_table": "Product",
+        "fk_columns": "ProductID",
+        "constraint_name": "FK_TransactionHistory_Product_ProductID"
+    },
+    {
+        "foreign_table_full_name": "Production.WorkOrder",
+        "primary_table_full_name": "Production.Product",
+        "foreign_table": "WorkOrder",
+        "primary_table": "Product",
+        "fk_columns": "ProductID",
+        "constraint_name": "FK_WorkOrder_Product_ProductID"
+    },
+    {
+        "foreign_table_full_name": "Production.WorkOrder",
+        "primary_table_full_name": "Production.ScrapReason",
+        "foreign_table": "WorkOrder",
+        "primary_table": "ScrapReason",
+        "fk_columns": "ScrapReasonID",
+        "constraint_name": "FK_WorkOrder_ScrapReason_ScrapReasonID"
+    },
+    {
+        "foreign_table_full_name": "Production.WorkOrderRouting",
+        "primary_table_full_name": "Production.Location",
+        "foreign_table": "WorkOrderRouting",
+        "primary_table": "Location",
+        "fk_columns": "LocationID",
+        "constraint_name": "FK_WorkOrderRouting_Location_LocationID"
+    },
+    {
+        "foreign_table_full_name": "Production.WorkOrderRouting",
+        "primary_table_full_name": "Production.WorkOrder",
+        "foreign_table": "WorkOrderRouting",
+        "primary_table": "WorkOrder",
+        "fk_columns": "WorkOrderID",
+        "constraint_name": "FK_WorkOrderRouting_WorkOrder_WorkOrderID"
+    },
+    {
+        "foreign_table_full_name": "Purchasing.ProductVendor",
+        "primary_table_full_name": "Production.Product",
+        "foreign_table": "ProductVendor",
+        "primary_table": "Product",
+        "fk_columns": "ProductID",
+        "constraint_name": "FK_ProductVendor_Product_ProductID"
+    },
+    {
+        "foreign_table_full_name": "Purchasing.ProductVendor",
+        "primary_table_full_name": "Production.UnitMeasure",
+        "foreign_table": "ProductVendor",
+        "primary_table": "UnitMeasure",
+        "fk_columns": "UnitMeasureCode",
+        "constraint_name": "FK_ProductVendor_UnitMeasure_UnitMeasureCode"
+    },
+    {
+        "foreign_table_full_name": "Purchasing.ProductVendor",
+        "primary_table_full_name": "Purchasing.Vendor",
+        "foreign_table": "ProductVendor",
+        "primary_table": "Vendor",
+        "fk_columns": "BusinessEntityID",
+        "constraint_name": "FK_ProductVendor_Vendor_BusinessEntityID"
+    },
+    {
+        "foreign_table_full_name": "Purchasing.PurchaseOrderDetail",
+        "primary_table_full_name": "Production.Product",
+        "foreign_table": "PurchaseOrderDetail",
+        "primary_table": "Product",
+        "fk_columns": "ProductID",
+        "constraint_name": "FK_PurchaseOrderDetail_Product_ProductID"
+    },
+    {
+        "foreign_table_full_name": "Purchasing.PurchaseOrderDetail",
+        "primary_table_full_name": "Purchasing.PurchaseOrderHeader",
+        "foreign_table": "PurchaseOrderDetail",
+        "primary_table": "PurchaseOrderHeader",
+        "fk_columns": "PurchaseOrderID",
+        "constraint_name": "FK_PurchaseOrderDetail_PurchaseOrderHeader_PurchaseOrderID"
+    },
+    {
+        "foreign_table_full_name": "Purchasing.PurchaseOrderHeader",
+        "primary_table_full_name": "HumanResources.Employee",
+        "foreign_table": "PurchaseOrderHeader",
+        "primary_table": "Employee",
+        "fk_columns": "EmployeeID",
+        "constraint_name": "FK_PurchaseOrderHeader_Employee_EmployeeID"
+    },
+    {
+        "foreign_table_full_name": "Purchasing.PurchaseOrderHeader",
+        "primary_table_full_name": "Purchasing.ShipMethod",
+        "foreign_table": "PurchaseOrderHeader",
+        "primary_table": "ShipMethod",
+        "fk_columns": "ShipMethodID",
+        "constraint_name": "FK_PurchaseOrderHeader_ShipMethod_ShipMethodID"
+    },
+    {
+        "foreign_table_full_name": "Purchasing.PurchaseOrderHeader",
+        "primary_table_full_name": "Purchasing.Vendor",
+        "foreign_table": "PurchaseOrderHeader",
+        "primary_table": "Vendor",
+        "fk_columns": "VendorID",
+        "constraint_name": "FK_PurchaseOrderHeader_Vendor_VendorID"
+    },
+    {
+        "foreign_table_full_name": "Purchasing.Vendor",
+        "primary_table_full_name": "Person.BusinessEntity",
+        "foreign_table": "Vendor",
+        "primary_table": "BusinessEntity",
+        "fk_columns": "BusinessEntityID",
+        "constraint_name": "FK_Vendor_BusinessEntity_BusinessEntityID"
+    },
+    {
+        "foreign_table_full_name": "Sales.CountryRegionCurrency",
+        "primary_table_full_name": "Person.CountryRegion",
+        "foreign_table": "CountryRegionCurrency",
+        "primary_table": "CountryRegion",
+        "fk_columns": "CountryRegionCode",
+        "constraint_name": "FK_CountryRegionCurrency_CountryRegion_CountryRegionCode"
+    },
+    {
+        "foreign_table_full_name": "Sales.CountryRegionCurrency",
+        "primary_table_full_name": "Sales.Currency",
+        "foreign_table": "CountryRegionCurrency",
+        "primary_table": "Currency",
+        "fk_columns": "CurrencyCode",
+        "constraint_name": "FK_CountryRegionCurrency_Currency_CurrencyCode"
+    },
+    {
+        "foreign_table_full_name": "Sales.CurrencyRate",
+        "primary_table_full_name": "Sales.Currency",
+        "foreign_table": "CurrencyRate",
+        "primary_table": "Currency",
+        "fk_columns": "FromCurrencyCode",
+        "constraint_name": "FK_CurrencyRate_Currency_FromCurrencyCode"
+    },
+    {
+        "foreign_table_full_name": "Sales.CurrencyRate",
+        "primary_table_full_name": "Sales.Currency",
+        "foreign_table": "CurrencyRate",
+        "primary_table": "Currency",
+        "fk_columns": "ToCurrencyCode",
+        "constraint_name": "FK_CurrencyRate_Currency_ToCurrencyCode"
+    },
+    {
+        "foreign_table_full_name": "Sales.Customer",
+        "primary_table_full_name": "Person.Person",
+        "foreign_table": "Customer",
+        "primary_table": "Person",
+        "fk_columns": "PersonID",
+        "constraint_name": "FK_Customer_Person_PersonID"
+    },
+    {
+        "foreign_table_full_name": "Sales.Customer",
+        "primary_table_full_name": "Sales.SalesTerritory",
+        "foreign_table": "Customer",
+        "primary_table": "SalesTerritory",
+        "fk_columns": "TerritoryID",
+        "constraint_name": "FK_Customer_SalesTerritory_TerritoryID"
+    },
+    {
+        "foreign_table_full_name": "Sales.Customer",
+        "primary_table_full_name": "Sales.Store",
+        "foreign_table": "Customer",
+        "primary_table": "Store",
+        "fk_columns": "StoreID",
+        "constraint_name": "FK_Customer_Store_StoreID"
+    },
+    {
+        "foreign_table_full_name": "Sales.PersonCreditCard",
+        "primary_table_full_name": "Person.Person",
+        "foreign_table": "PersonCreditCard",
+        "primary_table": "Person",
+        "fk_columns": "BusinessEntityID",
+        "constraint_name": "FK_PersonCreditCard_Person_BusinessEntityID"
+    },
+    {
+        "foreign_table_full_name": "Sales.PersonCreditCard",
+        "primary_table_full_name": "Sales.CreditCard",
+        "foreign_table": "PersonCreditCard",
+        "primary_table": "CreditCard",
+        "fk_columns": "CreditCardID",
+        "constraint_name": "FK_PersonCreditCard_CreditCard_CreditCardID"
+    },
+    {
+        "foreign_table_full_name": "Sales.SalesOrderDetail",
+        "primary_table_full_name": "Sales.SalesOrderHeader",
+        "foreign_table": "SalesOrderDetail",
+        "primary_table": "SalesOrderHeader",
+        "fk_columns": "SalesOrderID",
+        "constraint_name": "FK_SalesOrderDetail_SalesOrderHeader_SalesOrderID"
+    },
+    {
+        "foreign_table_full_name": "Sales.SalesOrderDetail",
+        "primary_table_full_name": "Sales.SpecialOfferProduct",
+        "foreign_table": "SalesOrderDetail",
+        "primary_table": "SpecialOfferProduct",
+        "fk_columns": "ProductID, SpecialOfferID",
+        "constraint_name": "FK_SalesOrderDetail_SpecialOfferProduct_SpecialOfferIDProductID"
+    },
+    {
+        "foreign_table_full_name": "Sales.SalesOrderHeader",
+        "primary_table_full_name": "Person.Address",
+        "foreign_table": "SalesOrderHeader",
+        "primary_table": "Address",
+        "fk_columns": "BillToAddressID",
+        "constraint_name": "FK_SalesOrderHeader_Address_BillToAddressID"
+    },
+    {
+        "foreign_table_full_name": "Sales.SalesOrderHeader",
+        "primary_table_full_name": "Person.Address",
+        "foreign_table": "SalesOrderHeader",
+        "primary_table": "Address",
+        "fk_columns": "ShipToAddressID",
+        "constraint_name": "FK_SalesOrderHeader_Address_ShipToAddressID"
+    },
+    {
+        "foreign_table_full_name": "Sales.SalesOrderHeader",
+        "primary_table_full_name": "Purchasing.ShipMethod",
+        "foreign_table": "SalesOrderHeader",
+        "primary_table": "ShipMethod",
+        "fk_columns": "ShipMethodID",
+        "constraint_name": "FK_SalesOrderHeader_ShipMethod_ShipMethodID"
+    },
+    {
+        "foreign_table_full_name": "Sales.SalesOrderHeader",
+        "primary_table_full_name": "Sales.CreditCard",
+        "foreign_table": "SalesOrderHeader",
+        "primary_table": "CreditCard",
+        "fk_columns": "CreditCardID",
+        "constraint_name": "FK_SalesOrderHeader_CreditCard_CreditCardID"
+    },
+    {
+        "foreign_table_full_name": "Sales.SalesOrderHeader",
+        "primary_table_full_name": "Sales.CurrencyRate",
+        "foreign_table": "SalesOrderHeader",
+        "primary_table": "CurrencyRate",
+        "fk_columns": "CurrencyRateID",
+        "constraint_name": "FK_SalesOrderHeader_CurrencyRate_CurrencyRateID"
+    },
+    {
+        "foreign_table_full_name": "Sales.SalesOrderHeader",
+        "primary_table_full_name": "Sales.Customer",
+        "foreign_table": "SalesOrderHeader",
+        "primary_table": "Customer",
+        "fk_columns": "CustomerID",
+        "constraint_name": "FK_SalesOrderHeader_Customer_CustomerID"
+    },
+    {
+        "foreign_table_full_name": "Sales.SalesOrderHeader",
+        "primary_table_full_name": "Sales.SalesPerson",
+        "foreign_table": "SalesOrderHeader",
+        "primary_table": "SalesPerson",
+        "fk_columns": "SalesPersonID",
+        "constraint_name": "FK_SalesOrderHeader_SalesPerson_SalesPersonID"
+    },
+    {
+        "foreign_table_full_name": "Sales.SalesOrderHeader",
+        "primary_table_full_name": "Sales.SalesTerritory",
+        "foreign_table": "SalesOrderHeader",
+        "primary_table": "SalesTerritory",
+        "fk_columns": "TerritoryID",
+        "constraint_name": "FK_SalesOrderHeader_SalesTerritory_TerritoryID"
+    },
+    {
+        "foreign_table_full_name": "Sales.SalesOrderHeaderSalesReason",
+        "primary_table_full_name": "Sales.SalesOrderHeader",
+        "foreign_table": "SalesOrderHeaderSalesReason",
+        "primary_table": "SalesOrderHeader",
+        "fk_columns": "SalesOrderID",
+        "constraint_name": "FK_SalesOrderHeaderSalesReason_SalesOrderHeader_SalesOrderID"
+    },
+    {
+        "foreign_table_full_name": "Sales.SalesOrderHeaderSalesReason",
+        "primary_table_full_name": "Sales.SalesReason",
+        "foreign_table": "SalesOrderHeaderSalesReason",
+        "primary_table": "SalesReason",
+        "fk_columns": "SalesReasonID",
+        "constraint_name": "FK_SalesOrderHeaderSalesReason_SalesReason_SalesReasonID"
+    },
+    {
+        "foreign_table_full_name": "Sales.SalesPerson",
+        "primary_table_full_name": "HumanResources.Employee",
+        "foreign_table": "SalesPerson",
+        "primary_table": "Employee",
+        "fk_columns": "BusinessEntityID",
+        "constraint_name": "FK_SalesPerson_Employee_BusinessEntityID"
+    },
+    {
+        "foreign_table_full_name": "Sales.SalesPerson",
+        "primary_table_full_name": "Sales.SalesTerritory",
+        "foreign_table": "SalesPerson",
+        "primary_table": "SalesTerritory",
+        "fk_columns": "TerritoryID",
+        "constraint_name": "FK_SalesPerson_SalesTerritory_TerritoryID"
+    },
+    {
+        "foreign_table_full_name": "Sales.SalesPersonQuotaHistory",
+        "primary_table_full_name": "Sales.SalesPerson",
+        "foreign_table": "SalesPersonQuotaHistory",
+        "primary_table": "SalesPerson",
+        "fk_columns": "BusinessEntityID",
+        "constraint_name": "FK_SalesPersonQuotaHistory_SalesPerson_BusinessEntityID"
+    },
+    {
+        "foreign_table_full_name": "Sales.SalesTaxRate",
+        "primary_table_full_name": "Person.StateProvince",
+        "foreign_table": "SalesTaxRate",
+        "primary_table": "StateProvince",
+        "fk_columns": "StateProvinceID",
+        "constraint_name": "FK_SalesTaxRate_StateProvince_StateProvinceID"
+    },
+    {
+        "foreign_table_full_name": "Sales.SalesTerritory",
+        "primary_table_full_name": "Person.CountryRegion",
+        "foreign_table": "SalesTerritory",
+        "primary_table": "CountryRegion",
+        "fk_columns": "CountryRegionCode",
+        "constraint_name": "FK_SalesTerritory_CountryRegion_CountryRegionCode"
+    },
+    {
+        "foreign_table_full_name": "Sales.SalesTerritoryHistory",
+        "primary_table_full_name": "Sales.SalesPerson",
+        "foreign_table": "SalesTerritoryHistory",
+        "primary_table": "SalesPerson",
+        "fk_columns": "BusinessEntityID",
+        "constraint_name": "FK_SalesTerritoryHistory_SalesPerson_BusinessEntityID"
+    },
+    {
+        "foreign_table_full_name": "Sales.SalesTerritoryHistory",
+        "primary_table_full_name": "Sales.SalesTerritory",
+        "foreign_table": "SalesTerritoryHistory",
+        "primary_table": "SalesTerritory",
+        "fk_columns": "TerritoryID",
+        "constraint_name": "FK_SalesTerritoryHistory_SalesTerritory_TerritoryID"
+    },
+    {
+        "foreign_table_full_name": "Sales.ShoppingCartItem",
+        "primary_table_full_name": "Production.Product",
+        "foreign_table": "ShoppingCartItem",
+        "primary_table": "Product",
+        "fk_columns": "ProductID",
+        "constraint_name": "FK_ShoppingCartItem_Product_ProductID"
+    },
+    {
+        "foreign_table_full_name": "Sales.SpecialOfferProduct",
+        "primary_table_full_name": "Production.Product",
+        "foreign_table": "SpecialOfferProduct",
+        "primary_table": "Product",
+        "fk_columns": "ProductID",
+        "constraint_name": "FK_SpecialOfferProduct_Product_ProductID"
+    },
+    {
+        "foreign_table_full_name": "Sales.SpecialOfferProduct",
+        "primary_table_full_name": "Sales.SpecialOffer",
+        "foreign_table": "SpecialOfferProduct",
+        "primary_table": "SpecialOffer",
+        "fk_columns": "SpecialOfferID",
+        "constraint_name": "FK_SpecialOfferProduct_SpecialOffer_SpecialOfferID"
+    },
+    {
+        "foreign_table_full_name": "Sales.Store",
+        "primary_table_full_name": "Person.BusinessEntity",
+        "foreign_table": "Store",
+        "primary_table": "BusinessEntity",
+        "fk_columns": "BusinessEntityID",
+        "constraint_name": "FK_Store_BusinessEntity_BusinessEntityID"
+    },
+    {
+        "foreign_table_full_name": "Sales.Store",
+        "primary_table_full_name": "Sales.SalesPerson",
+        "foreign_table": "Store",
+        "primary_table": "SalesPerson",
+        "fk_columns": "SalesPersonID",
+        "constraint_name": "FK_Store_SalesPerson_SalesPersonID"
+    }
+]

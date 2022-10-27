@@ -1,0 +1,2022 @@
+[
+    {
+        "variable_name": "autocommit",
+        "variable_value": "ON"
+    },
+    {
+        "variable_name": "automatic_sp_privileges",
+        "variable_value": "ON"
+    },
+    {
+        "variable_name": "auto_generate_certs",
+        "variable_value": "ON"
+    },
+    {
+        "variable_name": "auto_increment_increment",
+        "variable_value": "1"
+    },
+    {
+        "variable_name": "auto_increment_offset",
+        "variable_value": "1"
+    },
+    {
+        "variable_name": "avoid_temporal_upgrade",
+        "variable_value": "OFF"
+    },
+    {
+        "variable_name": "back_log",
+        "variable_value": "250"
+    },
+    {
+        "variable_name": "basedir",
+        "variable_value": "/usr/"
+    },
+    {
+        "variable_name": "big_tables",
+        "variable_value": "OFF"
+    },
+    {
+        "variable_name": "bind_address",
+        "variable_value": "*"
+    },
+    {
+        "variable_name": "binlog_cache_size",
+        "variable_value": "32768"
+    },
+    {
+        "variable_name": "binlog_checksum",
+        "variable_value": "CRC32"
+    },
+    {
+        "variable_name": "binlog_direct_non_transactional_updates",
+        "variable_value": "OFF"
+    },
+    {
+        "variable_name": "binlog_error_action",
+        "variable_value": "ABORT_SERVER"
+    },
+    {
+        "variable_name": "binlog_format",
+        "variable_value": "ROW"
+    },
+    {
+        "variable_name": "binlog_group_commit_sync_delay",
+        "variable_value": "0"
+    },
+    {
+        "variable_name": "binlog_group_commit_sync_no_delay_count",
+        "variable_value": "0"
+    },
+    {
+        "variable_name": "binlog_gtid_simple_recovery",
+        "variable_value": "ON"
+    },
+    {
+        "variable_name": "binlog_max_flush_queue_time",
+        "variable_value": "0"
+    },
+    {
+        "variable_name": "binlog_order_commits",
+        "variable_value": "ON"
+    },
+    {
+        "variable_name": "binlog_rows_query_log_events",
+        "variable_value": "OFF"
+    },
+    {
+        "variable_name": "binlog_row_image",
+        "variable_value": "FULL"
+    },
+    {
+        "variable_name": "binlog_stmt_cache_size",
+        "variable_value": "32768"
+    },
+    {
+        "variable_name": "binlog_transaction_dependency_history_size",
+        "variable_value": "25000"
+    },
+    {
+        "variable_name": "binlog_transaction_dependency_tracking",
+        "variable_value": "COMMIT_ORDER"
+    },
+    {
+        "variable_name": "block_encryption_mode",
+        "variable_value": "aes-128-ecb"
+    },
+    {
+        "variable_name": "bulk_insert_buffer_size",
+        "variable_value": "8388608"
+    },
+    {
+        "variable_name": "character_sets_dir",
+        "variable_value": "/usr/share/mysql/charsets/"
+    },
+    {
+        "variable_name": "character_set_client",
+        "variable_value": "utf8mb4"
+    },
+    {
+        "variable_name": "character_set_connection",
+        "variable_value": "utf8mb4"
+    },
+    {
+        "variable_name": "character_set_database",
+        "variable_value": "utf8mb4"
+    },
+    {
+        "variable_name": "character_set_filesystem",
+        "variable_value": "binary"
+    },
+    {
+        "variable_name": "character_set_results",
+        "variable_value": "utf8mb4"
+    },
+    {
+        "variable_name": "character_set_server",
+        "variable_value": "utf8mb4"
+    },
+    {
+        "variable_name": "character_set_system",
+        "variable_value": "utf8"
+    },
+    {
+        "variable_name": "check_proxy_users",
+        "variable_value": "OFF"
+    },
+    {
+        "variable_name": "collation_connection",
+        "variable_value": "utf8mb4_unicode_ci"
+    },
+    {
+        "variable_name": "collation_database",
+        "variable_value": "utf8mb4_unicode_ci"
+    },
+    {
+        "variable_name": "collation_server",
+        "variable_value": "utf8mb4_unicode_ci"
+    },
+    {
+        "variable_name": "completion_type",
+        "variable_value": "NO_CHAIN"
+    },
+    {
+        "variable_name": "concurrent_insert",
+        "variable_value": "AUTO"
+    },
+    {
+        "variable_name": "connect_timeout",
+        "variable_value": "10"
+    },
+    {
+        "variable_name": "core_file",
+        "variable_value": "OFF"
+    },
+    {
+        "variable_name": "datadir",
+        "variable_value": "/var/lib/mysql/"
+    },
+    {
+        "variable_name": "datetime_format",
+        "variable_value": "%Y-%m-%d %H:%i:%s"
+    },
+    {
+        "variable_name": "date_format",
+        "variable_value": "%Y-%m-%d"
+    },
+    {
+        "variable_name": "default_authentication_plugin",
+        "variable_value": "mysql_native_password"
+    },
+    {
+        "variable_name": "default_password_lifetime",
+        "variable_value": "0"
+    },
+    {
+        "variable_name": "default_storage_engine",
+        "variable_value": "InnoDB"
+    },
+    {
+        "variable_name": "default_tmp_storage_engine",
+        "variable_value": "InnoDB"
+    },
+    {
+        "variable_name": "default_week_format",
+        "variable_value": "0"
+    },
+    {
+        "variable_name": "delayed_insert_limit",
+        "variable_value": "100"
+    },
+    {
+        "variable_name": "delayed_insert_timeout",
+        "variable_value": "300"
+    },
+    {
+        "variable_name": "delayed_queue_size",
+        "variable_value": "1000"
+    },
+    {
+        "variable_name": "delay_key_write",
+        "variable_value": "ON"
+    },
+    {
+        "variable_name": "disabled_storage_engines",
+        "variable_value": ""
+    },
+    {
+        "variable_name": "disconnect_on_expired_password",
+        "variable_value": "ON"
+    },
+    {
+        "variable_name": "div_precision_increment",
+        "variable_value": "4"
+    },
+    {
+        "variable_name": "end_markers_in_json",
+        "variable_value": "OFF"
+    },
+    {
+        "variable_name": "enforce_gtid_consistency",
+        "variable_value": "OFF"
+    },
+    {
+        "variable_name": "eq_range_index_dive_limit",
+        "variable_value": "200"
+    },
+    {
+        "variable_name": "event_scheduler",
+        "variable_value": "OFF"
+    },
+    {
+        "variable_name": "expire_logs_days",
+        "variable_value": "10"
+    },
+    {
+        "variable_name": "explicit_defaults_for_timestamp",
+        "variable_value": "OFF"
+    },
+    {
+        "variable_name": "flush",
+        "variable_value": "OFF"
+    },
+    {
+        "variable_name": "flush_time",
+        "variable_value": "0"
+    },
+    {
+        "variable_name": "foreign_key_checks",
+        "variable_value": "ON"
+    },
+    {
+        "variable_name": "ft_boolean_syntax",
+        "variable_value": "+ -><()~*:\"\"&|"
+    },
+    {
+        "variable_name": "ft_max_word_len",
+        "variable_value": "84"
+    },
+    {
+        "variable_name": "ft_min_word_len",
+        "variable_value": "4"
+    },
+    {
+        "variable_name": "ft_query_expansion_limit",
+        "variable_value": "20"
+    },
+    {
+        "variable_name": "ft_stopword_file",
+        "variable_value": "(built-in)"
+    },
+    {
+        "variable_name": "general_log",
+        "variable_value": "OFF"
+    },
+    {
+        "variable_name": "general_log_file",
+        "variable_value": "/var/lib/mysql/server-test.log"
+    },
+    {
+        "variable_name": "group_concat_max_len",
+        "variable_value": "1024"
+    },
+    {
+        "variable_name": "gtid_executed",
+        "variable_value": ""
+    },
+    {
+        "variable_name": "gtid_executed_compression_period",
+        "variable_value": "1000"
+    },
+    {
+        "variable_name": "gtid_mode",
+        "variable_value": "OFF"
+    },
+    {
+        "variable_name": "gtid_owned",
+        "variable_value": ""
+    },
+    {
+        "variable_name": "gtid_purged",
+        "variable_value": ""
+    },
+    {
+        "variable_name": "have_compress",
+        "variable_value": "YES"
+    },
+    {
+        "variable_name": "have_crypt",
+        "variable_value": "YES"
+    },
+    {
+        "variable_name": "have_dynamic_loading",
+        "variable_value": "YES"
+    },
+    {
+        "variable_name": "have_geometry",
+        "variable_value": "YES"
+    },
+    {
+        "variable_name": "have_openssl",
+        "variable_value": "DISABLED"
+    },
+    {
+        "variable_name": "have_profiling",
+        "variable_value": "YES"
+    },
+    {
+        "variable_name": "have_query_cache",
+        "variable_value": "YES"
+    },
+    {
+        "variable_name": "have_rtree_keys",
+        "variable_value": "YES"
+    },
+    {
+        "variable_name": "have_ssl",
+        "variable_value": "DISABLED"
+    },
+    {
+        "variable_name": "have_statement_timeout",
+        "variable_value": "YES"
+    },
+    {
+        "variable_name": "have_symlink",
+        "variable_value": "YES"
+    },
+    {
+        "variable_name": "hostname",
+        "variable_value": "server-test"
+    },
+    {
+        "variable_name": "host_cache_size",
+        "variable_value": "653"
+    },
+    {
+        "variable_name": "ignore_builtin_innodb",
+        "variable_value": "OFF"
+    },
+    {
+        "variable_name": "ignore_db_dirs",
+        "variable_value": ""
+    },
+    {
+        "variable_name": "init_connect",
+        "variable_value": "SET NAMES utf8mb4"
+    },
+    {
+        "variable_name": "init_file",
+        "variable_value": ""
+    },
+    {
+        "variable_name": "init_slave",
+        "variable_value": ""
+    },
+    {
+        "variable_name": "innodb_adaptive_flushing",
+        "variable_value": "ON"
+    },
+    {
+        "variable_name": "innodb_adaptive_flushing_lwm",
+        "variable_value": "10"
+    },
+    {
+        "variable_name": "innodb_adaptive_hash_index",
+        "variable_value": "ON"
+    },
+    {
+        "variable_name": "innodb_adaptive_hash_index_parts",
+        "variable_value": "8"
+    },
+    {
+        "variable_name": "innodb_adaptive_max_sleep_delay",
+        "variable_value": "150000"
+    },
+    {
+        "variable_name": "innodb_api_bk_commit_interval",
+        "variable_value": "5"
+    },
+    {
+        "variable_name": "innodb_api_disable_rowlock",
+        "variable_value": "OFF"
+    },
+    {
+        "variable_name": "innodb_api_enable_binlog",
+        "variable_value": "OFF"
+    },
+    {
+        "variable_name": "innodb_api_enable_mdl",
+        "variable_value": "OFF"
+    },
+    {
+        "variable_name": "innodb_api_trx_level",
+        "variable_value": "0"
+    },
+    {
+        "variable_name": "innodb_autoextend_increment",
+        "variable_value": "64"
+    },
+    {
+        "variable_name": "innodb_autoinc_lock_mode",
+        "variable_value": "1"
+    },
+    {
+        "variable_name": "innodb_buffer_pool_chunk_size",
+        "variable_value": "134217728"
+    },
+    {
+        "variable_name": "innodb_buffer_pool_dump_at_shutdown",
+        "variable_value": "ON"
+    },
+    {
+        "variable_name": "innodb_buffer_pool_dump_now",
+        "variable_value": "OFF"
+    },
+    {
+        "variable_name": "innodb_buffer_pool_dump_pct",
+        "variable_value": "25"
+    },
+    {
+        "variable_name": "innodb_buffer_pool_filename",
+        "variable_value": "ib_buffer_pool"
+    },
+    {
+        "variable_name": "innodb_buffer_pool_instances",
+        "variable_value": "8"
+    },
+    {
+        "variable_name": "innodb_buffer_pool_load_abort",
+        "variable_value": "OFF"
+    },
+    {
+        "variable_name": "innodb_buffer_pool_load_at_startup",
+        "variable_value": "ON"
+    },
+    {
+        "variable_name": "innodb_buffer_pool_load_now",
+        "variable_value": "OFF"
+    },
+    {
+        "variable_name": "innodb_buffer_pool_size",
+        "variable_value": "2147483648"
+    },
+    {
+        "variable_name": "innodb_change_buffering",
+        "variable_value": "all"
+    },
+    {
+        "variable_name": "innodb_change_buffer_max_size",
+        "variable_value": "25"
+    },
+    {
+        "variable_name": "innodb_checksums",
+        "variable_value": "ON"
+    },
+    {
+        "variable_name": "innodb_checksum_algorithm",
+        "variable_value": "crc32"
+    },
+    {
+        "variable_name": "innodb_cmp_per_index_enabled",
+        "variable_value": "OFF"
+    },
+    {
+        "variable_name": "innodb_commit_concurrency",
+        "variable_value": "0"
+    },
+    {
+        "variable_name": "innodb_compression_failure_threshold_pct",
+        "variable_value": "5"
+    },
+    {
+        "variable_name": "innodb_compression_level",
+        "variable_value": "6"
+    },
+    {
+        "variable_name": "innodb_compression_pad_pct_max",
+        "variable_value": "50"
+    },
+    {
+        "variable_name": "innodb_concurrency_tickets",
+        "variable_value": "5000"
+    },
+    {
+        "variable_name": "innodb_data_file_path",
+        "variable_value": "ibdata1:12M:autoextend"
+    },
+    {
+        "variable_name": "innodb_data_home_dir",
+        "variable_value": ""
+    },
+    {
+        "variable_name": "innodb_deadlock_detect",
+        "variable_value": "ON"
+    },
+    {
+        "variable_name": "innodb_default_row_format",
+        "variable_value": "dynamic"
+    },
+    {
+        "variable_name": "innodb_disable_sort_file_cache",
+        "variable_value": "OFF"
+    },
+    {
+        "variable_name": "innodb_doublewrite",
+        "variable_value": "ON"
+    },
+    {
+        "variable_name": "innodb_fast_shutdown",
+        "variable_value": "1"
+    },
+    {
+        "variable_name": "innodb_file_format",
+        "variable_value": "Barracuda"
+    },
+    {
+        "variable_name": "innodb_file_format_check",
+        "variable_value": "ON"
+    },
+    {
+        "variable_name": "innodb_file_format_max",
+        "variable_value": "Barracuda"
+    },
+    {
+        "variable_name": "innodb_file_per_table",
+        "variable_value": "ON"
+    },
+    {
+        "variable_name": "innodb_fill_factor",
+        "variable_value": "100"
+    },
+    {
+        "variable_name": "innodb_flushing_avg_loops",
+        "variable_value": "30"
+    },
+    {
+        "variable_name": "innodb_flush_log_at_timeout",
+        "variable_value": "1"
+    },
+    {
+        "variable_name": "innodb_flush_log_at_trx_commit",
+        "variable_value": "1"
+    },
+    {
+        "variable_name": "innodb_flush_method",
+        "variable_value": ""
+    },
+    {
+        "variable_name": "innodb_flush_neighbors",
+        "variable_value": "1"
+    },
+    {
+        "variable_name": "innodb_flush_sync",
+        "variable_value": "ON"
+    },
+    {
+        "variable_name": "innodb_force_load_corrupted",
+        "variable_value": "OFF"
+    },
+    {
+        "variable_name": "innodb_force_recovery",
+        "variable_value": "0"
+    },
+    {
+        "variable_name": "innodb_ft_aux_table",
+        "variable_value": ""
+    },
+    {
+        "variable_name": "innodb_ft_cache_size",
+        "variable_value": "8000000"
+    },
+    {
+        "variable_name": "innodb_ft_enable_diag_print",
+        "variable_value": "OFF"
+    },
+    {
+        "variable_name": "innodb_ft_enable_stopword",
+        "variable_value": "ON"
+    },
+    {
+        "variable_name": "innodb_ft_max_token_size",
+        "variable_value": "84"
+    },
+    {
+        "variable_name": "innodb_ft_min_token_size",
+        "variable_value": "3"
+    },
+    {
+        "variable_name": "innodb_ft_num_word_optimize",
+        "variable_value": "2000"
+    },
+    {
+        "variable_name": "innodb_ft_result_cache_limit",
+        "variable_value": "2000000000"
+    },
+    {
+        "variable_name": "innodb_ft_server_stopword_table",
+        "variable_value": ""
+    },
+    {
+        "variable_name": "innodb_ft_sort_pll_degree",
+        "variable_value": "2"
+    },
+    {
+        "variable_name": "innodb_ft_total_cache_size",
+        "variable_value": "640000000"
+    },
+    {
+        "variable_name": "innodb_ft_user_stopword_table",
+        "variable_value": ""
+    },
+    {
+        "variable_name": "innodb_io_capacity",
+        "variable_value": "200"
+    },
+    {
+        "variable_name": "innodb_io_capacity_max",
+        "variable_value": "2000"
+    },
+    {
+        "variable_name": "innodb_large_prefix",
+        "variable_value": "ON"
+    },
+    {
+        "variable_name": "innodb_locks_unsafe_for_binlog",
+        "variable_value": "OFF"
+    },
+    {
+        "variable_name": "innodb_lock_wait_timeout",
+        "variable_value": "50"
+    },
+    {
+        "variable_name": "innodb_log_buffer_size",
+        "variable_value": "16777216"
+    },
+    {
+        "variable_name": "innodb_log_checksums",
+        "variable_value": "ON"
+    },
+    {
+        "variable_name": "innodb_log_compressed_pages",
+        "variable_value": "ON"
+    },
+    {
+        "variable_name": "innodb_log_files_in_group",
+        "variable_value": "2"
+    },
+    {
+        "variable_name": "innodb_log_file_size",
+        "variable_value": "50331648"
+    },
+    {
+        "variable_name": "innodb_log_group_home_dir",
+        "variable_value": "./"
+    },
+    {
+        "variable_name": "innodb_log_write_ahead_size",
+        "variable_value": "8192"
+    },
+    {
+        "variable_name": "innodb_lru_scan_depth",
+        "variable_value": "1024"
+    },
+    {
+        "variable_name": "innodb_max_dirty_pages_pct",
+        "variable_value": "75.000000"
+    },
+    {
+        "variable_name": "innodb_max_dirty_pages_pct_lwm",
+        "variable_value": "0.000000"
+    },
+    {
+        "variable_name": "innodb_max_purge_lag",
+        "variable_value": "0"
+    },
+    {
+        "variable_name": "innodb_max_purge_lag_delay",
+        "variable_value": "0"
+    },
+    {
+        "variable_name": "innodb_max_undo_log_size",
+        "variable_value": "1073741824"
+    },
+    {
+        "variable_name": "innodb_monitor_disable",
+        "variable_value": ""
+    },
+    {
+        "variable_name": "innodb_monitor_enable",
+        "variable_value": ""
+    },
+    {
+        "variable_name": "innodb_monitor_reset",
+        "variable_value": ""
+    },
+    {
+        "variable_name": "innodb_monitor_reset_all",
+        "variable_value": ""
+    },
+    {
+        "variable_name": "innodb_numa_interleave",
+        "variable_value": "OFF"
+    },
+    {
+        "variable_name": "innodb_old_blocks_pct",
+        "variable_value": "37"
+    },
+    {
+        "variable_name": "innodb_old_blocks_time",
+        "variable_value": "1000"
+    },
+    {
+        "variable_name": "innodb_online_alter_log_max_size",
+        "variable_value": "134217728"
+    },
+    {
+        "variable_name": "innodb_open_files",
+        "variable_value": "1995"
+    },
+    {
+        "variable_name": "innodb_optimize_fulltext_only",
+        "variable_value": "OFF"
+    },
+    {
+        "variable_name": "innodb_page_cleaners",
+        "variable_value": "4"
+    },
+    {
+        "variable_name": "innodb_page_size",
+        "variable_value": "16384"
+    },
+    {
+        "variable_name": "innodb_print_all_deadlocks",
+        "variable_value": "OFF"
+    },
+    {
+        "variable_name": "innodb_purge_batch_size",
+        "variable_value": "300"
+    },
+    {
+        "variable_name": "innodb_purge_rseg_truncate_frequency",
+        "variable_value": "128"
+    },
+    {
+        "variable_name": "innodb_purge_threads",
+        "variable_value": "4"
+    },
+    {
+        "variable_name": "innodb_random_read_ahead",
+        "variable_value": "OFF"
+    },
+    {
+        "variable_name": "innodb_read_ahead_threshold",
+        "variable_value": "56"
+    },
+    {
+        "variable_name": "innodb_read_io_threads",
+        "variable_value": "8"
+    },
+    {
+        "variable_name": "innodb_read_only",
+        "variable_value": "OFF"
+    },
+    {
+        "variable_name": "innodb_replication_delay",
+        "variable_value": "0"
+    },
+    {
+        "variable_name": "innodb_rollback_on_timeout",
+        "variable_value": "OFF"
+    },
+    {
+        "variable_name": "innodb_rollback_segments",
+        "variable_value": "128"
+    },
+    {
+        "variable_name": "innodb_sort_buffer_size",
+        "variable_value": "1048576"
+    },
+    {
+        "variable_name": "innodb_spin_wait_delay",
+        "variable_value": "6"
+    },
+    {
+        "variable_name": "innodb_stats_auto_recalc",
+        "variable_value": "ON"
+    },
+    {
+        "variable_name": "innodb_stats_include_delete_marked",
+        "variable_value": "OFF"
+    },
+    {
+        "variable_name": "innodb_stats_method",
+        "variable_value": "nulls_equal"
+    },
+    {
+        "variable_name": "innodb_stats_on_metadata",
+        "variable_value": "OFF"
+    },
+    {
+        "variable_name": "innodb_stats_persistent",
+        "variable_value": "ON"
+    },
+    {
+        "variable_name": "innodb_stats_persistent_sample_pages",
+        "variable_value": "20"
+    },
+    {
+        "variable_name": "innodb_stats_sample_pages",
+        "variable_value": "8"
+    },
+    {
+        "variable_name": "innodb_stats_transient_sample_pages",
+        "variable_value": "8"
+    },
+    {
+        "variable_name": "innodb_status_output",
+        "variable_value": "OFF"
+    },
+    {
+        "variable_name": "innodb_status_output_locks",
+        "variable_value": "OFF"
+    },
+    {
+        "variable_name": "innodb_strict_mode",
+        "variable_value": "ON"
+    },
+    {
+        "variable_name": "innodb_support_xa",
+        "variable_value": "ON"
+    },
+    {
+        "variable_name": "innodb_sync_array_size",
+        "variable_value": "1"
+    },
+    {
+        "variable_name": "innodb_sync_spin_loops",
+        "variable_value": "30"
+    },
+    {
+        "variable_name": "innodb_table_locks",
+        "variable_value": "ON"
+    },
+    {
+        "variable_name": "innodb_temp_data_file_path",
+        "variable_value": "ibtmp1:12M:autoextend"
+    },
+    {
+        "variable_name": "innodb_thread_concurrency",
+        "variable_value": "16"
+    },
+    {
+        "variable_name": "innodb_thread_sleep_delay",
+        "variable_value": "0"
+    },
+    {
+        "variable_name": "innodb_tmpdir",
+        "variable_value": ""
+    },
+    {
+        "variable_name": "innodb_undo_directory",
+        "variable_value": "./"
+    },
+    {
+        "variable_name": "innodb_undo_logs",
+        "variable_value": "128"
+    },
+    {
+        "variable_name": "innodb_undo_log_truncate",
+        "variable_value": "OFF"
+    },
+    {
+        "variable_name": "innodb_undo_tablespaces",
+        "variable_value": "0"
+    },
+    {
+        "variable_name": "innodb_use_native_aio",
+        "variable_value": "ON"
+    },
+    {
+        "variable_name": "innodb_version",
+        "variable_value": "5.7.40"
+    },
+    {
+        "variable_name": "innodb_write_io_threads",
+        "variable_value": "8"
+    },
+    {
+        "variable_name": "interactive_timeout",
+        "variable_value": "28800"
+    },
+    {
+        "variable_name": "internal_tmp_disk_storage_engine",
+        "variable_value": "InnoDB"
+    },
+    {
+        "variable_name": "join_buffer_size",
+        "variable_value": "262144"
+    },
+    {
+        "variable_name": "keep_files_on_create",
+        "variable_value": "OFF"
+    },
+    {
+        "variable_name": "keyring_operations",
+        "variable_value": "ON"
+    },
+    {
+        "variable_name": "key_buffer_size",
+        "variable_value": "16777216"
+    },
+    {
+        "variable_name": "key_cache_age_threshold",
+        "variable_value": "300"
+    },
+    {
+        "variable_name": "key_cache_block_size",
+        "variable_value": "1024"
+    },
+    {
+        "variable_name": "key_cache_division_limit",
+        "variable_value": "100"
+    },
+    {
+        "variable_name": "large_files_support",
+        "variable_value": "ON"
+    },
+    {
+        "variable_name": "large_pages",
+        "variable_value": "OFF"
+    },
+    {
+        "variable_name": "large_page_size",
+        "variable_value": "0"
+    },
+    {
+        "variable_name": "lc_messages",
+        "variable_value": "en_US"
+    },
+    {
+        "variable_name": "lc_messages_dir",
+        "variable_value": "/usr/share/mysql/"
+    },
+    {
+        "variable_name": "lc_time_names",
+        "variable_value": "en_US"
+    },
+    {
+        "variable_name": "license",
+        "variable_value": "GPL"
+    },
+    {
+        "variable_name": "local_infile",
+        "variable_value": "ON"
+    },
+    {
+        "variable_name": "locked_in_memory",
+        "variable_value": "OFF"
+    },
+    {
+        "variable_name": "lock_wait_timeout",
+        "variable_value": "31536000"
+    },
+    {
+        "variable_name": "log_bin",
+        "variable_value": "OFF"
+    },
+    {
+        "variable_name": "log_bin_basename",
+        "variable_value": ""
+    },
+    {
+        "variable_name": "log_bin_index",
+        "variable_value": ""
+    },
+    {
+        "variable_name": "log_bin_trust_function_creators",
+        "variable_value": "OFF"
+    },
+    {
+        "variable_name": "log_bin_use_v1_row_events",
+        "variable_value": "OFF"
+    },
+    {
+        "variable_name": "log_builtin_as_identified_by_password",
+        "variable_value": "OFF"
+    },
+    {
+        "variable_name": "log_error",
+        "variable_value": "/var/log/mysql/error.log"
+    },
+    {
+        "variable_name": "log_error_verbosity",
+        "variable_value": "3"
+    },
+    {
+        "variable_name": "log_output",
+        "variable_value": "FILE"
+    },
+    {
+        "variable_name": "log_queries_not_using_indexes",
+        "variable_value": "OFF"
+    },
+    {
+        "variable_name": "log_slave_updates",
+        "variable_value": "OFF"
+    },
+    {
+        "variable_name": "log_slow_admin_statements",
+        "variable_value": "OFF"
+    },
+    {
+        "variable_name": "log_slow_slave_statements",
+        "variable_value": "OFF"
+    },
+    {
+        "variable_name": "log_statements_unsafe_for_binlog",
+        "variable_value": "ON"
+    },
+    {
+        "variable_name": "log_syslog",
+        "variable_value": "OFF"
+    },
+    {
+        "variable_name": "log_syslog_facility",
+        "variable_value": "daemon"
+    },
+    {
+        "variable_name": "log_syslog_include_pid",
+        "variable_value": "ON"
+    },
+    {
+        "variable_name": "log_syslog_tag",
+        "variable_value": ""
+    },
+    {
+        "variable_name": "log_throttle_queries_not_using_indexes",
+        "variable_value": "0"
+    },
+    {
+        "variable_name": "log_timestamps",
+        "variable_value": "UTC"
+    },
+    {
+        "variable_name": "log_warnings",
+        "variable_value": "2"
+    },
+    {
+        "variable_name": "long_query_time",
+        "variable_value": "10.000000"
+    },
+    {
+        "variable_name": "lower_case_file_system",
+        "variable_value": "OFF"
+    },
+    {
+        "variable_name": "lower_case_table_names",
+        "variable_value": "1"
+    },
+    {
+        "variable_name": "low_priority_updates",
+        "variable_value": "OFF"
+    },
+    {
+        "variable_name": "master_info_repository",
+        "variable_value": "FILE"
+    },
+    {
+        "variable_name": "master_verify_checksum",
+        "variable_value": "OFF"
+    },
+    {
+        "variable_name": "max_allowed_packet",
+        "variable_value": "16777216"
+    },
+    {
+        "variable_name": "max_binlog_cache_size",
+        "variable_value": "18446744073709547520"
+    },
+    {
+        "variable_name": "max_binlog_size",
+        "variable_value": "104857600"
+    },
+    {
+        "variable_name": "max_binlog_stmt_cache_size",
+        "variable_value": "18446744073709547520"
+    },
+    {
+        "variable_name": "max_connections",
+        "variable_value": "1000"
+    },
+    {
+        "variable_name": "max_connect_errors",
+        "variable_value": "100"
+    },
+    {
+        "variable_name": "max_delayed_threads",
+        "variable_value": "20"
+    },
+    {
+        "variable_name": "max_digest_length",
+        "variable_value": "1024"
+    },
+    {
+        "variable_name": "max_error_count",
+        "variable_value": "64"
+    },
+    {
+        "variable_name": "max_execution_time",
+        "variable_value": "0"
+    },
+    {
+        "variable_name": "max_heap_table_size",
+        "variable_value": "16777216"
+    },
+    {
+        "variable_name": "max_insert_delayed_threads",
+        "variable_value": "20"
+    },
+    {
+        "variable_name": "max_join_size",
+        "variable_value": "18446744073709551615"
+    },
+    {
+        "variable_name": "max_length_for_sort_data",
+        "variable_value": "1024"
+    },
+    {
+        "variable_name": "max_points_in_geometry",
+        "variable_value": "65536"
+    },
+    {
+        "variable_name": "max_prepared_stmt_count",
+        "variable_value": "16382"
+    },
+    {
+        "variable_name": "max_relay_log_size",
+        "variable_value": "0"
+    },
+    {
+        "variable_name": "max_seeks_for_key",
+        "variable_value": "18446744073709551615"
+    },
+    {
+        "variable_name": "max_sort_length",
+        "variable_value": "1024"
+    },
+    {
+        "variable_name": "max_sp_recursion_depth",
+        "variable_value": "0"
+    },
+    {
+        "variable_name": "max_tmp_tables",
+        "variable_value": "32"
+    },
+    {
+        "variable_name": "max_user_connections",
+        "variable_value": "0"
+    },
+    {
+        "variable_name": "max_write_lock_count",
+        "variable_value": "18446744073709551615"
+    },
+    {
+        "variable_name": "metadata_locks_cache_size",
+        "variable_value": "1024"
+    },
+    {
+        "variable_name": "metadata_locks_hash_instances",
+        "variable_value": "8"
+    },
+    {
+        "variable_name": "min_examined_row_limit",
+        "variable_value": "0"
+    },
+    {
+        "variable_name": "multi_range_count",
+        "variable_value": "256"
+    },
+    {
+        "variable_name": "myisam_data_pointer_size",
+        "variable_value": "6"
+    },
+    {
+        "variable_name": "myisam_max_sort_file_size",
+        "variable_value": "9223372036853727232"
+    },
+    {
+        "variable_name": "myisam_mmap_size",
+        "variable_value": "18446744073709551615"
+    },
+    {
+        "variable_name": "myisam_recover_options",
+        "variable_value": "BACKUP"
+    },
+    {
+        "variable_name": "myisam_sort_buffer_size",
+        "variable_value": "8388608"
+    },
+    {
+        "variable_name": "myisam_stats_method",
+        "variable_value": "nulls_unequal"
+    },
+    {
+        "variable_name": "myisam_use_mmap",
+        "variable_value": "OFF"
+    },
+    {
+        "variable_name": "mysql_native_password_proxy_users",
+        "variable_value": "OFF"
+    },
+    {
+        "variable_name": "net_buffer_length",
+        "variable_value": "16384"
+    },
+    {
+        "variable_name": "net_read_timeout",
+        "variable_value": "30"
+    },
+    {
+        "variable_name": "net_retry_count",
+        "variable_value": "10"
+    },
+    {
+        "variable_name": "net_write_timeout",
+        "variable_value": "60"
+    },
+    {
+        "variable_name": "new",
+        "variable_value": "OFF"
+    },
+    {
+        "variable_name": "ngram_token_size",
+        "variable_value": "2"
+    },
+    {
+        "variable_name": "offline_mode",
+        "variable_value": "OFF"
+    },
+    {
+        "variable_name": "old",
+        "variable_value": "OFF"
+    },
+    {
+        "variable_name": "old_alter_table",
+        "variable_value": "OFF"
+    },
+    {
+        "variable_name": "old_passwords",
+        "variable_value": "0"
+    },
+    {
+        "variable_name": "open_files_limit",
+        "variable_value": "5000"
+    },
+    {
+        "variable_name": "optimizer_prune_level",
+        "variable_value": "1"
+    },
+    {
+        "variable_name": "optimizer_search_depth",
+        "variable_value": "62"
+    },
+    {
+        "variable_name": "optimizer_switch",
+        "variable_value": "index_merge=on,index_merge_union=on,index_merge_sort_union=on,index_merge_intersection=on,engine_condition_pushdown=on,index_condition_pushdown=on,mrr=on,mrr_cost_based=on,block_nested_loop=on,batched_key_access=off,materialization=on,semijoin=on,loosescan=on,firstmatch=on,duplicateweedout=on,subquery_materialization_cost_based=on,use_index_extensions=on,condition_fanout_filter=on,derived_merge=on,prefer_ordering_index=on"
+    },
+    {
+        "variable_name": "optimizer_trace",
+        "variable_value": "enabled=off,one_line=off"
+    },
+    {
+        "variable_name": "optimizer_trace_features",
+        "variable_value": "greedy_search=on,range_optimizer=on,dynamic_range=on,repeated_subselect=on"
+    },
+    {
+        "variable_name": "optimizer_trace_limit",
+        "variable_value": "1"
+    },
+    {
+        "variable_name": "optimizer_trace_max_mem_size",
+        "variable_value": "16384"
+    },
+    {
+        "variable_name": "optimizer_trace_offset",
+        "variable_value": "-1"
+    },
+    {
+        "variable_name": "parser_max_mem_size",
+        "variable_value": "18446744073709551615"
+    },
+    {
+        "variable_name": "performance_schema",
+        "variable_value": "ON"
+    },
+    {
+        "variable_name": "performance_schema_accounts_size",
+        "variable_value": "-1"
+    },
+    {
+        "variable_name": "performance_schema_digests_size",
+        "variable_value": "10000"
+    },
+    {
+        "variable_name": "performance_schema_events_stages_history_long_size",
+        "variable_value": "10000"
+    },
+    {
+        "variable_name": "performance_schema_events_stages_history_size",
+        "variable_value": "10"
+    },
+    {
+        "variable_name": "performance_schema_events_statements_history_long_size",
+        "variable_value": "10000"
+    },
+    {
+        "variable_name": "performance_schema_events_statements_history_size",
+        "variable_value": "10"
+    },
+    {
+        "variable_name": "performance_schema_events_transactions_history_long_size",
+        "variable_value": "10000"
+    },
+    {
+        "variable_name": "performance_schema_events_transactions_history_size",
+        "variable_value": "10"
+    },
+    {
+        "variable_name": "performance_schema_events_waits_history_long_size",
+        "variable_value": "10000"
+    },
+    {
+        "variable_name": "performance_schema_events_waits_history_size",
+        "variable_value": "10"
+    },
+    {
+        "variable_name": "performance_schema_hosts_size",
+        "variable_value": "-1"
+    },
+    {
+        "variable_name": "performance_schema_max_cond_classes",
+        "variable_value": "80"
+    },
+    {
+        "variable_name": "performance_schema_max_cond_instances",
+        "variable_value": "-1"
+    },
+    {
+        "variable_name": "performance_schema_max_digest_length",
+        "variable_value": "1024"
+    },
+    {
+        "variable_name": "performance_schema_max_file_classes",
+        "variable_value": "80"
+    },
+    {
+        "variable_name": "performance_schema_max_file_handles",
+        "variable_value": "32768"
+    },
+    {
+        "variable_name": "performance_schema_max_file_instances",
+        "variable_value": "-1"
+    },
+    {
+        "variable_name": "performance_schema_max_index_stat",
+        "variable_value": "-1"
+    },
+    {
+        "variable_name": "performance_schema_max_memory_classes",
+        "variable_value": "320"
+    },
+    {
+        "variable_name": "performance_schema_max_metadata_locks",
+        "variable_value": "-1"
+    },
+    {
+        "variable_name": "performance_schema_max_mutex_classes",
+        "variable_value": "210"
+    },
+    {
+        "variable_name": "performance_schema_max_mutex_instances",
+        "variable_value": "-1"
+    },
+    {
+        "variable_name": "performance_schema_max_prepared_statements_instances",
+        "variable_value": "-1"
+    },
+    {
+        "variable_name": "performance_schema_max_program_instances",
+        "variable_value": "-1"
+    },
+    {
+        "variable_name": "performance_schema_max_rwlock_classes",
+        "variable_value": "50"
+    },
+    {
+        "variable_name": "performance_schema_max_rwlock_instances",
+        "variable_value": "-1"
+    },
+    {
+        "variable_name": "performance_schema_max_socket_classes",
+        "variable_value": "10"
+    },
+    {
+        "variable_name": "performance_schema_max_socket_instances",
+        "variable_value": "-1"
+    },
+    {
+        "variable_name": "performance_schema_max_sql_text_length",
+        "variable_value": "1024"
+    },
+    {
+        "variable_name": "performance_schema_max_stage_classes",
+        "variable_value": "150"
+    },
+    {
+        "variable_name": "performance_schema_max_statement_classes",
+        "variable_value": "193"
+    },
+    {
+        "variable_name": "performance_schema_max_statement_stack",
+        "variable_value": "10"
+    },
+    {
+        "variable_name": "performance_schema_max_table_handles",
+        "variable_value": "-1"
+    },
+    {
+        "variable_name": "performance_schema_max_table_instances",
+        "variable_value": "-1"
+    },
+    {
+        "variable_name": "performance_schema_max_table_lock_stat",
+        "variable_value": "-1"
+    },
+    {
+        "variable_name": "performance_schema_max_thread_classes",
+        "variable_value": "50"
+    },
+    {
+        "variable_name": "performance_schema_max_thread_instances",
+        "variable_value": "-1"
+    },
+    {
+        "variable_name": "performance_schema_session_connect_attrs_size",
+        "variable_value": "512"
+    },
+    {
+        "variable_name": "performance_schema_setup_actors_size",
+        "variable_value": "-1"
+    },
+    {
+        "variable_name": "performance_schema_setup_objects_size",
+        "variable_value": "-1"
+    },
+    {
+        "variable_name": "performance_schema_show_processlist",
+        "variable_value": "OFF"
+    },
+    {
+        "variable_name": "performance_schema_users_size",
+        "variable_value": "-1"
+    },
+    {
+        "variable_name": "pid_file",
+        "variable_value": "/run/mysqld/mysqld.pid"
+    },
+    {
+        "variable_name": "plugin_dir",
+        "variable_value": "/usr/lib/mysql/plugin/"
+    },
+    {
+        "variable_name": "port",
+        "variable_value": "3306"
+    },
+    {
+        "variable_name": "preload_buffer_size",
+        "variable_value": "32768"
+    },
+    {
+        "variable_name": "profiling",
+        "variable_value": "OFF"
+    },
+    {
+        "variable_name": "profiling_history_size",
+        "variable_value": "15"
+    },
+    {
+        "variable_name": "protocol_version",
+        "variable_value": "10"
+    },
+    {
+        "variable_name": "query_alloc_block_size",
+        "variable_value": "8192"
+    },
+    {
+        "variable_name": "query_cache_limit",
+        "variable_value": "1048576"
+    },
+    {
+        "variable_name": "query_cache_min_res_unit",
+        "variable_value": "4096"
+    },
+    {
+        "variable_name": "query_cache_size",
+        "variable_value": "16777216"
+    },
+    {
+        "variable_name": "query_cache_type",
+        "variable_value": "OFF"
+    },
+    {
+        "variable_name": "query_cache_wlock_invalidate",
+        "variable_value": "OFF"
+    },
+    {
+        "variable_name": "query_prealloc_size",
+        "variable_value": "8192"
+    },
+    {
+        "variable_name": "range_alloc_block_size",
+        "variable_value": "4096"
+    },
+    {
+        "variable_name": "range_optimizer_max_mem_size",
+        "variable_value": "8388608"
+    },
+    {
+        "variable_name": "rbr_exec_mode",
+        "variable_value": "STRICT"
+    },
+    {
+        "variable_name": "read_buffer_size",
+        "variable_value": "131072"
+    },
+    {
+        "variable_name": "read_only",
+        "variable_value": "OFF"
+    },
+    {
+        "variable_name": "read_rnd_buffer_size",
+        "variable_value": "262144"
+    },
+    {
+        "variable_name": "relay_log",
+        "variable_value": ""
+    },
+    {
+        "variable_name": "relay_log_basename",
+        "variable_value": "/var/lib/mysql/server-test-relay-bin"
+    },
+    {
+        "variable_name": "relay_log_index",
+        "variable_value": "/var/lib/mysql/server-test-relay-bin.index"
+    },
+    {
+        "variable_name": "relay_log_info_file",
+        "variable_value": "relay-log.info"
+    },
+    {
+        "variable_name": "relay_log_info_repository",
+        "variable_value": "FILE"
+    },
+    {
+        "variable_name": "relay_log_purge",
+        "variable_value": "ON"
+    },
+    {
+        "variable_name": "relay_log_recovery",
+        "variable_value": "OFF"
+    },
+    {
+        "variable_name": "relay_log_space_limit",
+        "variable_value": "0"
+    },
+    {
+        "variable_name": "replication_optimize_for_static_plugin_config",
+        "variable_value": "OFF"
+    },
+    {
+        "variable_name": "replication_sender_observe_commit_only",
+        "variable_value": "OFF"
+    },
+    {
+        "variable_name": "report_host",
+        "variable_value": ""
+    },
+    {
+        "variable_name": "report_password",
+        "variable_value": ""
+    },
+    {
+        "variable_name": "report_port",
+        "variable_value": "3306"
+    },
+    {
+        "variable_name": "report_user",
+        "variable_value": ""
+    },
+    {
+        "variable_name": "require_secure_transport",
+        "variable_value": "OFF"
+    },
+    {
+        "variable_name": "rpl_stop_slave_timeout",
+        "variable_value": "31536000"
+    },
+    {
+        "variable_name": "secure_auth",
+        "variable_value": "ON"
+    },
+    {
+        "variable_name": "secure_file_priv",
+        "variable_value": "/var/lib/mysql-files/"
+    },
+    {
+        "variable_name": "server_id",
+        "variable_value": "0"
+    },
+    {
+        "variable_name": "server_id_bits",
+        "variable_value": "32"
+    },
+    {
+        "variable_name": "server_uuid",
+        "variable_value": "7cdeb926-eedf-11ea-a523-0050569d70dc"
+    },
+    {
+        "variable_name": "session_track_gtids",
+        "variable_value": "OFF"
+    },
+    {
+        "variable_name": "session_track_schema",
+        "variable_value": "ON"
+    },
+    {
+        "variable_name": "session_track_state_change",
+        "variable_value": "OFF"
+    },
+    {
+        "variable_name": "session_track_system_variables",
+        "variable_value": "time_zone,autocommit,character_set_client,character_set_results,character_set_connection"
+    },
+    {
+        "variable_name": "session_track_transaction_info",
+        "variable_value": "OFF"
+    },
+    {
+        "variable_name": "sha256_password_auto_generate_rsa_keys",
+        "variable_value": "ON"
+    },
+    {
+        "variable_name": "sha256_password_private_key_path",
+        "variable_value": "private_key.pem"
+    },
+    {
+        "variable_name": "sha256_password_proxy_users",
+        "variable_value": "OFF"
+    },
+    {
+        "variable_name": "sha256_password_public_key_path",
+        "variable_value": "public_key.pem"
+    },
+    {
+        "variable_name": "show_compatibility_56",
+        "variable_value": "OFF"
+    },
+    {
+        "variable_name": "show_create_table_verbosity",
+        "variable_value": "OFF"
+    },
+    {
+        "variable_name": "show_old_temporals",
+        "variable_value": "OFF"
+    },
+    {
+        "variable_name": "skip_external_locking",
+        "variable_value": "ON"
+    },
+    {
+        "variable_name": "skip_name_resolve",
+        "variable_value": "OFF"
+    },
+    {
+        "variable_name": "skip_networking",
+        "variable_value": "OFF"
+    },
+    {
+        "variable_name": "skip_show_database",
+        "variable_value": "OFF"
+    },
+    {
+        "variable_name": "slave_allow_batching",
+        "variable_value": "OFF"
+    },
+    {
+        "variable_name": "slave_checkpoint_group",
+        "variable_value": "512"
+    },
+    {
+        "variable_name": "slave_checkpoint_period",
+        "variable_value": "300"
+    },
+    {
+        "variable_name": "slave_compressed_protocol",
+        "variable_value": "OFF"
+    },
+    {
+        "variable_name": "slave_exec_mode",
+        "variable_value": "STRICT"
+    },
+    {
+        "variable_name": "slave_load_tmpdir",
+        "variable_value": "/tmp"
+    },
+    {
+        "variable_name": "slave_max_allowed_packet",
+        "variable_value": "1073741824"
+    },
+    {
+        "variable_name": "slave_net_timeout",
+        "variable_value": "60"
+    },
+    {
+        "variable_name": "slave_parallel_type",
+        "variable_value": "DATABASE"
+    },
+    {
+        "variable_name": "slave_parallel_workers",
+        "variable_value": "0"
+    },
+    {
+        "variable_name": "slave_pending_jobs_size_max",
+        "variable_value": "16777216"
+    },
+    {
+        "variable_name": "slave_preserve_commit_order",
+        "variable_value": "OFF"
+    },
+    {
+        "variable_name": "slave_rows_search_algorithms",
+        "variable_value": "TABLE_SCAN,INDEX_SCAN"
+    },
+    {
+        "variable_name": "slave_skip_errors",
+        "variable_value": "OFF"
+    },
+    {
+        "variable_name": "slave_sql_verify_checksum",
+        "variable_value": "ON"
+    },
+    {
+        "variable_name": "slave_transaction_retries",
+        "variable_value": "10"
+    },
+    {
+        "variable_name": "slave_type_conversions",
+        "variable_value": ""
+    },
+    {
+        "variable_name": "slow_launch_time",
+        "variable_value": "2"
+    },
+    {
+        "variable_name": "slow_query_log",
+        "variable_value": "OFF"
+    },
+    {
+        "variable_name": "slow_query_log_file",
+        "variable_value": "/var/lib/mysql/server-test-slow.log"
+    },
+    {
+        "variable_name": "socket",
+        "variable_value": "/var/run/mysqld/mysqld.sock"
+    },
+    {
+        "variable_name": "sort_buffer_size",
+        "variable_value": "262144"
+    },
+    {
+        "variable_name": "sql_auto_is_null",
+        "variable_value": "OFF"
+    },
+    {
+        "variable_name": "sql_big_selects",
+        "variable_value": "ON"
+    },
+    {
+        "variable_name": "sql_buffer_result",
+        "variable_value": "OFF"
+    },
+    {
+        "variable_name": "sql_log_off",
+        "variable_value": "OFF"
+    },
+    {
+        "variable_name": "sql_mode",
+        "variable_value": "ONLY_FULL_GROUP_BY,STRICT_TRANS_TABLES,NO_ZERO_IN_DATE,NO_ZERO_DATE,ERROR_FOR_DIVISION_BY_ZERO,NO_AUTO_CREATE_USER,NO_ENGINE_SUBSTITUTION"
+    },
+    {
+        "variable_name": "sql_notes",
+        "variable_value": "ON"
+    },
+    {
+        "variable_name": "sql_quote_show_create",
+        "variable_value": "ON"
+    },
+    {
+        "variable_name": "sql_safe_updates",
+        "variable_value": "OFF"
+    },
+    {
+        "variable_name": "sql_select_limit",
+        "variable_value": "18446744073709551615"
+    },
+    {
+        "variable_name": "sql_slave_skip_counter",
+        "variable_value": "0"
+    },
+    {
+        "variable_name": "sql_warnings",
+        "variable_value": "OFF"
+    },
+    {
+        "variable_name": "ssl_ca",
+        "variable_value": ""
+    },
+    {
+        "variable_name": "ssl_capath",
+        "variable_value": ""
+    },
+    {
+        "variable_name": "ssl_cert",
+        "variable_value": ""
+    },
+    {
+        "variable_name": "ssl_cipher",
+        "variable_value": ""
+    },
+    {
+        "variable_name": "ssl_crl",
+        "variable_value": ""
+    },
+    {
+        "variable_name": "ssl_crlpath",
+        "variable_value": ""
+    },
+    {
+        "variable_name": "ssl_key",
+        "variable_value": ""
+    },
+    {
+        "variable_name": "stored_program_cache",
+        "variable_value": "256"
+    },
+    {
+        "variable_name": "super_read_only",
+        "variable_value": "OFF"
+    },
+    {
+        "variable_name": "sync_binlog",
+        "variable_value": "1"
+    },
+    {
+        "variable_name": "sync_frm",
+        "variable_value": "ON"
+    },
+    {
+        "variable_name": "sync_master_info",
+        "variable_value": "10000"
+    },
+    {
+        "variable_name": "sync_relay_log",
+        "variable_value": "10000"
+    },
+    {
+        "variable_name": "sync_relay_log_info",
+        "variable_value": "10000"
+    },
+    {
+        "variable_name": "system_time_zone",
+        "variable_value": "EDT"
+    },
+    {
+        "variable_name": "table_definition_cache",
+        "variable_value": "1397"
+    },
+    {
+        "variable_name": "table_open_cache",
+        "variable_value": "1995"
+    },
+    {
+        "variable_name": "table_open_cache_instances",
+        "variable_value": "16"
+    },
+    {
+        "variable_name": "thread_cache_size",
+        "variable_value": "8"
+    },
+    {
+        "variable_name": "thread_handling",
+        "variable_value": "one-thread-per-connection"
+    },
+    {
+        "variable_name": "thread_stack",
+        "variable_value": "196608"
+    },
+    {
+        "variable_name": "time_format",
+        "variable_value": "%H:%i:%s"
+    },
+    {
+        "variable_name": "time_zone",
+        "variable_value": "SYSTEM"
+    },
+    {
+        "variable_name": "tls_version",
+        "variable_value": "TLSv1,TLSv1.1,TLSv1.2"
+    },
+    {
+        "variable_name": "tmpdir",
+        "variable_value": "/tmp"
+    },
+    {
+        "variable_name": "tmp_table_size",
+        "variable_value": "16777216"
+    },
+    {
+        "variable_name": "transaction_alloc_block_size",
+        "variable_value": "8192"
+    },
+    {
+        "variable_name": "transaction_isolation",
+        "variable_value": "REPEATABLE-READ"
+    },
+    {
+        "variable_name": "transaction_prealloc_size",
+        "variable_value": "4096"
+    },
+    {
+        "variable_name": "transaction_read_only",
+        "variable_value": "OFF"
+    },
+    {
+        "variable_name": "transaction_write_set_extraction",
+        "variable_value": "OFF"
+    },
+    {
+        "variable_name": "tx_isolation",
+        "variable_value": "REPEATABLE-READ"
+    },
+    {
+        "variable_name": "tx_read_only",
+        "variable_value": "OFF"
+    },
+    {
+        "variable_name": "unique_checks",
+        "variable_value": "ON"
+    },
+    {
+        "variable_name": "updatable_views_with_limit",
+        "variable_value": "YES"
+    },
+    {
+        "variable_name": "version",
+        "variable_value": "5.7.40-0ubuntu0.18.04.1"
+    },
+    {
+        "variable_name": "version_comment",
+        "variable_value": "(Ubuntu)"
+    },
+    {
+        "variable_name": "version_compile_machine",
+        "variable_value": "x86_64"
+    },
+    {
+        "variable_name": "version_compile_os",
+        "variable_value": "Linux"
+    },
+    {
+        "variable_name": "wait_timeout",
+        "variable_value": "28800"
+    }
+]

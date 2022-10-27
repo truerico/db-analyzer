@@ -1,0 +1,62 @@
+@startjson
+{
+    "field1": "Name",
+    "combination": "Name",
+    "null_distribution": {
+        "total_null_rows": 0,
+        "total_not_null_rows": 701
+    },
+    "data_distribution": [
+        {
+            "field_value": "Friendly Bike Shop",
+            "row_count": 2,
+            "ratio_percent": 0.28530670470756064
+        },
+        {
+            "field_value": "Sports Products Store",
+            "row_count": 2,
+            "ratio_percent": 0.28530670470756064
+        },
+        {
+            "field_value": "Active Cycling",
+            "row_count": 1,
+            "ratio_percent": 0.14265335235378032
+        },
+        {
+            "field_value": "Action Bicycle Specialists",
+            "row_count": 1,
+            "ratio_percent": 0.14265335235378032
+        },
+        {
+            "field_value": "Ace Bicycle Supply",
+            "row_count": 1,
+            "ratio_percent": 0.14265335235378032
+        },
+        {
+            "field_value": "Acclaimed Bicycle Company",
+            "row_count": 1,
+            "ratio_percent": 0.14265335235378032
+        },
+        {
+            "field_value": "Accessories Network",
+            "row_count": 1,
+            "ratio_percent": 0.14265335235378032
+        },
+        {
+            "field_value": "Acceptable Sales & Service",
+            "row_count": 1,
+            "ratio_percent": 0.14265335235378032
+        },
+        {
+            "field_value": "A Typical Bike Shop",
+            "row_count": 1,
+            "ratio_percent": 0.14265335235378032
+        },
+        {
+            "field_value": "A Great Bicycle Company",
+            "row_count": 1,
+            "ratio_percent": 0.14265335235378032
+        }
+    ]
+}
+@endjson

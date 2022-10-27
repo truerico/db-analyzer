@@ -1,0 +1,28 @@
+[
+    {
+        "table": "Production.ProductPhoto",
+        "total_records": 101,
+        "dataset": [
+            {
+                "field": "LargePhotoFileName",
+                "total_null_rows": 0,
+                "total_not_null_rows": 101
+            },
+            {
+                "field": "ModifiedDate",
+                "total_null_rows": 0,
+                "total_not_null_rows": 101
+            },
+            {
+                "field": "ProductPhotoID",
+                "total_null_rows": 0,
+                "total_not_null_rows": 101
+            },
+            {
+                "field": "ThumbnailPhotoFileName",
+                "total_null_rows": 0,
+                "total_not_null_rows": 101
+            }
+        ]
+    }
+]

@@ -1,0 +1,42 @@
+@startjson
+{
+    "field1": "Type",
+    "combination": "Type",
+    "null_distribution": {
+        "total_null_rows": 0,
+        "total_not_null_rows": 16
+    },
+    "data_distribution": [
+        {
+            "field_value": "Volume Discount",
+            "row_count": 5,
+            "ratio_percent": 31.25
+        },
+        {
+            "field_value": "Seasonal Discount",
+            "row_count": 3,
+            "ratio_percent": 18.75
+        },
+        {
+            "field_value": "Excess Inventory",
+            "row_count": 3,
+            "ratio_percent": 18.75
+        },
+        {
+            "field_value": "New Product",
+            "row_count": 2,
+            "ratio_percent": 12.5
+        },
+        {
+            "field_value": "Discontinued Product",
+            "row_count": 2,
+            "ratio_percent": 12.5
+        },
+        {
+            "field_value": "No Discount",
+            "row_count": 1,
+            "ratio_percent": 6.25
+        }
+    ]
+}
+@endjson

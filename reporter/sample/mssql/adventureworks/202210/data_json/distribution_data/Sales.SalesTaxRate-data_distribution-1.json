@@ -1,0 +1,313 @@
+[
+    {
+        "table": "Sales.SalesTaxRate",
+        "total_records": 29,
+        "dataset": [
+            {
+                "field": "ModifiedDate",
+                "distribution": [
+                    {
+                        "field_value": "Apr 30 2008 12:00AM",
+                        "row_count": 29,
+                        "ratio_percent": 100.0
+                    }
+                ]
+            },
+            {
+                "field": "Name",
+                "distribution": [
+                    {
+                        "field_value": "Canadian GST",
+                        "row_count": 12,
+                        "ratio_percent": 41.37931034482759
+                    },
+                    {
+                        "field_value": "California State Sales Tax",
+                        "row_count": 1,
+                        "ratio_percent": 3.4482758620689653
+                    },
+                    {
+                        "field_value": "Arizona State Sales Tax",
+                        "row_count": 1,
+                        "ratio_percent": 3.4482758620689653
+                    },
+                    {
+                        "field_value": "Michigan State Sales Tax",
+                        "row_count": 1,
+                        "ratio_percent": 3.4482758620689653
+                    },
+                    {
+                        "field_value": "Massachusetts State Sales Tax",
+                        "row_count": 1,
+                        "ratio_percent": 3.4482758620689653
+                    },
+                    {
+                        "field_value": "Germany Output Tax",
+                        "row_count": 1,
+                        "ratio_percent": 3.4482758620689653
+                    },
+                    {
+                        "field_value": "France Output Tax",
+                        "row_count": 1,
+                        "ratio_percent": 3.4482758620689653
+                    },
+                    {
+                        "field_value": "Florida State Sales Tax",
+                        "row_count": 1,
+                        "ratio_percent": 3.4482758620689653
+                    },
+                    {
+                        "field_value": "Canadian GST + Quebec Provincial Tax",
+                        "row_count": 1,
+                        "ratio_percent": 3.4482758620689653
+                    },
+                    {
+                        "field_value": "Canadian GST + Ontario Provincial Tax",
+                        "row_count": 1,
+                        "ratio_percent": 3.4482758620689653
+                    }
+                ]
+            },
+            {
+                "field": "SalesTaxRateID",
+                "distribution": [
+                    {
+                        "field_value": "20",
+                        "row_count": 1,
+                        "ratio_percent": 3.4482758620689653
+                    },
+                    {
+                        "field_value": "2",
+                        "row_count": 1,
+                        "ratio_percent": 3.4482758620689653
+                    },
+                    {
+                        "field_value": "19",
+                        "row_count": 1,
+                        "ratio_percent": 3.4482758620689653
+                    },
+                    {
+                        "field_value": "18",
+                        "row_count": 1,
+                        "ratio_percent": 3.4482758620689653
+                    },
+                    {
+                        "field_value": "17",
+                        "row_count": 1,
+                        "ratio_percent": 3.4482758620689653
+                    },
+                    {
+                        "field_value": "16",
+                        "row_count": 1,
+                        "ratio_percent": 3.4482758620689653
+                    },
+                    {
+                        "field_value": "13",
+                        "row_count": 1,
+                        "ratio_percent": 3.4482758620689653
+                    },
+                    {
+                        "field_value": "12",
+                        "row_count": 1,
+                        "ratio_percent": 3.4482758620689653
+                    },
+                    {
+                        "field_value": "11",
+                        "row_count": 1,
+                        "ratio_percent": 3.4482758620689653
+                    },
+                    {
+                        "field_value": "10",
+                        "row_count": 1,
+                        "ratio_percent": 3.4482758620689653
+                    }
+                ]
+            },
+            {
+                "field": "StateProvinceID",
+                "distribution": [
+                    {
+                        "field_value": "1",
+                        "row_count": 2,
+                        "ratio_percent": 6.896551724137931
+                    },
+                    {
+                        "field_value": "57",
+                        "row_count": 2,
+                        "ratio_percent": 6.896551724137931
+                    },
+                    {
+                        "field_value": "63",
+                        "row_count": 2,
+                        "ratio_percent": 6.896551724137931
+                    },
+                    {
+                        "field_value": "45",
+                        "row_count": 1,
+                        "ratio_percent": 3.4482758620689653
+                    },
+                    {
+                        "field_value": "41",
+                        "row_count": 1,
+                        "ratio_percent": 3.4482758620689653
+                    },
+                    {
+                        "field_value": "36",
+                        "row_count": 1,
+                        "ratio_percent": 3.4482758620689653
+                    },
+                    {
+                        "field_value": "35",
+                        "row_count": 1,
+                        "ratio_percent": 3.4482758620689653
+                    },
+                    {
+                        "field_value": "31",
+                        "row_count": 1,
+                        "ratio_percent": 3.4482758620689653
+                    },
+                    {
+                        "field_value": "30",
+                        "row_count": 1,
+                        "ratio_percent": 3.4482758620689653
+                    },
+                    {
+                        "field_value": "29",
+                        "row_count": 1,
+                        "ratio_percent": 3.4482758620689653
+                    }
+                ]
+            },
+            {
+                "field": "TaxType",
+                "distribution": [
+                    {
+                        "field_value": "1",
+                        "row_count": 13,
+                        "ratio_percent": 44.827586206896555
+                    },
+                    {
+                        "field_value": "3",
+                        "row_count": 13,
+                        "ratio_percent": 44.827586206896555
+                    },
+                    {
+                        "field_value": "2",
+                        "row_count": 3,
+                        "ratio_percent": 10.344827586206897
+                    }
+                ]
+            },
+            {
+                "field": "TaxRate",
+                "distribution": [
+                    {
+                        "field_value": "7.00",
+                        "row_count": 13,
+                        "ratio_percent": 44.827586206896555
+                    },
+                    {
+                        "field_value": "14.25",
+                        "row_count": 2,
+                        "ratio_percent": 6.896551724137931
+                    },
+                    {
+                        "field_value": "7.25",
+                        "row_count": 2,
+                        "ratio_percent": 6.896551724137931
+                    },
+                    {
+                        "field_value": "7.50",
+                        "row_count": 1,
+                        "ratio_percent": 3.4482758620689653
+                    },
+                    {
+                        "field_value": "14.00",
+                        "row_count": 1,
+                        "ratio_percent": 3.4482758620689653
+                    },
+                    {
+                        "field_value": "10.00",
+                        "row_count": 1,
+                        "ratio_percent": 3.4482758620689653
+                    },
+                    {
+                        "field_value": "6.75",
+                        "row_count": 1,
+                        "ratio_percent": 3.4482758620689653
+                    },
+                    {
+                        "field_value": "5.00",
+                        "row_count": 1,
+                        "ratio_percent": 3.4482758620689653
+                    },
+                    {
+                        "field_value": "19.60",
+                        "row_count": 1,
+                        "ratio_percent": 3.4482758620689653
+                    },
+                    {
+                        "field_value": "17.50",
+                        "row_count": 1,
+                        "ratio_percent": 3.4482758620689653
+                    }
+                ]
+            },
+            {
+                "field": "rowguid",
+                "distribution": [
+                    {
+                        "field_value": "630AE36F-6E76-4A1F-AB25-6342159C80D2",
+                        "row_count": 1,
+                        "ratio_percent": 3.4482758620689653
+                    },
+                    {
+                        "field_value": "5E6D8621-36AF-40CE-972B-61AAEF0556D8",
+                        "row_count": 1,
+                        "ratio_percent": 3.4482758620689653
+                    },
+                    {
+                        "field_value": "590CCB14-CB20-49BF-8FEE-E0C3ABC4C2B1",
+                        "row_count": 1,
+                        "ratio_percent": 3.4482758620689653
+                    },
+                    {
+                        "field_value": "5446EA04-FA7C-4B02-A157-A05F44BF47B6",
+                        "row_count": 1,
+                        "ratio_percent": 3.4482758620689653
+                    },
+                    {
+                        "field_value": "3847B431-F939-4E89-83FC-864912E3CFD2",
+                        "row_count": 1,
+                        "ratio_percent": 3.4482758620689653
+                    },
+                    {
+                        "field_value": "383D465B-E1D1-492A-83F3-AB3E9CBF3282",
+                        "row_count": 1,
+                        "ratio_percent": 3.4482758620689653
+                    },
+                    {
+                        "field_value": "207C7024-85FE-42CB-BF74-9FE88E2F4E1B",
+                        "row_count": 1,
+                        "ratio_percent": 3.4482758620689653
+                    },
+                    {
+                        "field_value": "1E285D2C-8AF7-47AA-B06A-762CF4D93ACD",
+                        "row_count": 1,
+                        "ratio_percent": 3.4482758620689653
+                    },
+                    {
+                        "field_value": "1753D75F-8357-4497-BC92-543F17BBF514",
+                        "row_count": 1,
+                        "ratio_percent": 3.4482758620689653
+                    },
+                    {
+                        "field_value": "06DF529D-EB11-446F-9570-9EE97B8EA1BF",
+                        "row_count": 1,
+                        "ratio_percent": 3.4482758620689653
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,62 @@
+@startjson
+{
+    "field1": "CurrencyRateID",
+    "combination": "CurrencyRateID",
+    "null_distribution": {
+        "total_null_rows": 17489,
+        "total_not_null_rows": 13976
+    },
+    "data_distribution": [
+        {
+            "field_value": "**NULL**",
+            "row_count": 17489,
+            "ratio_percent": 55.58239313522962
+        },
+        {
+            "field_value": "9755",
+            "row_count": 44,
+            "ratio_percent": 0.13983791514381058
+        },
+        {
+            "field_value": "12098",
+            "row_count": 42,
+            "ratio_percent": 0.13348164627363737
+        },
+        {
+            "field_value": "10767",
+            "row_count": 39,
+            "ratio_percent": 0.12394724296837756
+        },
+        {
+            "field_value": "11086",
+            "row_count": 39,
+            "ratio_percent": 0.12394724296837756
+        },
+        {
+            "field_value": "11757",
+            "row_count": 39,
+            "ratio_percent": 0.12394724296837756
+        },
+        {
+            "field_value": "8743",
+            "row_count": 39,
+            "ratio_percent": 0.12394724296837756
+        },
+        {
+            "field_value": "10085",
+            "row_count": 37,
+            "ratio_percent": 0.11759097409820435
+        },
+        {
+            "field_value": "9084",
+            "row_count": 37,
+            "ratio_percent": 0.11759097409820435
+        },
+        {
+            "field_value": "11084",
+            "row_count": 32,
+            "ratio_percent": 0.10170030192277134
+        }
+    ]
+}
+@endjson

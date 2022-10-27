@@ -1,0 +1,62 @@
+@startjson
+{
+    "field1": "contactLastName",
+    "combination": "contactLastName",
+    "null_distribution": {
+        "total_null_rows": 0,
+        "total_not_null_rows": 122
+    },
+    "data_distribution": [
+        {
+            "field_value": "Young",
+            "row_count": 4,
+            "ratio_percent": 3.278688524590164
+        },
+        {
+            "field_value": "Frick",
+            "row_count": 3,
+            "ratio_percent": 2.459016393442623
+        },
+        {
+            "field_value": "Brown",
+            "row_count": 3,
+            "ratio_percent": 2.459016393442623
+        },
+        {
+            "field_value": "Murphy",
+            "row_count": 2,
+            "ratio_percent": 1.639344262295082
+        },
+        {
+            "field_value": "King",
+            "row_count": 2,
+            "ratio_percent": 1.639344262295082
+        },
+        {
+            "field_value": "Franco",
+            "row_count": 2,
+            "ratio_percent": 1.639344262295082
+        },
+        {
+            "field_value": "Nelson",
+            "row_count": 2,
+            "ratio_percent": 1.639344262295082
+        },
+        {
+            "field_value": "Taylor",
+            "row_count": 2,
+            "ratio_percent": 1.639344262295082
+        },
+        {
+            "field_value": "Hernandez",
+            "row_count": 2,
+            "ratio_percent": 1.639344262295082
+        },
+        {
+            "field_value": "Thompson",
+            "row_count": 2,
+            "ratio_percent": 1.639344262295082
+        }
+    ]
+}
+@endjson

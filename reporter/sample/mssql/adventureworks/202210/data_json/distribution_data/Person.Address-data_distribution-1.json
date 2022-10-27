@@ -1,0 +1,448 @@
+[
+    {
+        "table": "Person.Address",
+        "total_records": 19614,
+        "dataset": [
+            {
+                "field": "AddressID",
+                "distribution": [
+                    {
+                        "field_value": "1007",
+                        "row_count": 1,
+                        "ratio_percent": 0.005098399102681758
+                    },
+                    {
+                        "field_value": "1006",
+                        "row_count": 1,
+                        "ratio_percent": 0.005098399102681758
+                    },
+                    {
+                        "field_value": "1005",
+                        "row_count": 1,
+                        "ratio_percent": 0.005098399102681758
+                    },
+                    {
+                        "field_value": "1004",
+                        "row_count": 1,
+                        "ratio_percent": 0.005098399102681758
+                    },
+                    {
+                        "field_value": "1003",
+                        "row_count": 1,
+                        "ratio_percent": 0.005098399102681758
+                    },
+                    {
+                        "field_value": "1002",
+                        "row_count": 1,
+                        "ratio_percent": 0.005098399102681758
+                    },
+                    {
+                        "field_value": "1001",
+                        "row_count": 1,
+                        "ratio_percent": 0.005098399102681758
+                    },
+                    {
+                        "field_value": "1000",
+                        "row_count": 1,
+                        "ratio_percent": 0.005098399102681758
+                    },
+                    {
+                        "field_value": "100",
+                        "row_count": 1,
+                        "ratio_percent": 0.005098399102681758
+                    },
+                    {
+                        "field_value": "10",
+                        "row_count": 1,
+                        "ratio_percent": 0.005098399102681758
+                    }
+                ]
+            },
+            {
+                "field": "AddressLine1",
+                "distribution": [
+                    {
+                        "field_value": "Attach\u00e9 de Presse",
+                        "row_count": 17,
+                        "ratio_percent": 0.08667278474558988
+                    },
+                    {
+                        "field_value": "Midi-Couleurs",
+                        "row_count": 15,
+                        "ratio_percent": 0.07647598654022637
+                    },
+                    {
+                        "field_value": "88, avenue de l\u00b4 Union Centrale",
+                        "row_count": 13,
+                        "ratio_percent": 0.06627918833486285
+                    },
+                    {
+                        "field_value": "6, route de Marseille",
+                        "row_count": 12,
+                        "ratio_percent": 0.06118078923218109
+                    },
+                    {
+                        "field_value": "Helsenbergbogen 6",
+                        "row_count": 10,
+                        "ratio_percent": 0.05098399102681758
+                    },
+                    {
+                        "field_value": "Im Himmelsweg 89",
+                        "row_count": 10,
+                        "ratio_percent": 0.05098399102681758
+                    },
+                    {
+                        "field_value": "11, quai de l\u00b4 Iton",
+                        "row_count": 9,
+                        "ratio_percent": 0.04588559192413582
+                    },
+                    {
+                        "field_value": "Postfach 22 99 99",
+                        "row_count": 9,
+                        "ratio_percent": 0.04588559192413582
+                    },
+                    {
+                        "field_value": "Werftstr 54",
+                        "row_count": 9,
+                        "ratio_percent": 0.04588559192413582
+                    },
+                    {
+                        "field_value": "2, route de Marseille",
+                        "row_count": 8,
+                        "ratio_percent": 0.040787192821454064
+                    }
+                ]
+            },
+            {
+                "field": "AddressLine2",
+                "distribution": [
+                    {
+                        "field_value": "**NULL**",
+                        "row_count": 19252,
+                        "ratio_percent": 98.15437952482921
+                    },
+                    {
+                        "field_value": "Verkaufsabteilung",
+                        "row_count": 35,
+                        "ratio_percent": 0.17844396859386152
+                    },
+                    {
+                        "field_value": "Einkaufsabteilung",
+                        "row_count": 16,
+                        "ratio_percent": 0.08157438564290813
+                    },
+                    {
+                        "field_value": "# 1",
+                        "row_count": 9,
+                        "ratio_percent": 0.04588559192413582
+                    },
+                    {
+                        "field_value": "Kreditorenbuchhaltung",
+                        "row_count": 8,
+                        "ratio_percent": 0.040787192821454064
+                    },
+                    {
+                        "field_value": "# 2",
+                        "row_count": 8,
+                        "ratio_percent": 0.040787192821454064
+                    },
+                    {
+                        "field_value": "Unit A",
+                        "row_count": 7,
+                        "ratio_percent": 0.03568879371877231
+                    },
+                    {
+                        "field_value": "#9",
+                        "row_count": 7,
+                        "ratio_percent": 0.03568879371877231
+                    },
+                    {
+                        "field_value": "Unit C",
+                        "row_count": 6,
+                        "ratio_percent": 0.030590394616090547
+                    },
+                    {
+                        "field_value": "#3",
+                        "row_count": 6,
+                        "ratio_percent": 0.030590394616090547
+                    }
+                ]
+            },
+            {
+                "field": "City",
+                "distribution": [
+                    {
+                        "field_value": "London",
+                        "row_count": 434,
+                        "ratio_percent": 2.212705210563883
+                    },
+                    {
+                        "field_value": "Paris",
+                        "row_count": 398,
+                        "ratio_percent": 2.02916284286734
+                    },
+                    {
+                        "field_value": "Burien",
+                        "row_count": 215,
+                        "ratio_percent": 1.096155807076578
+                    },
+                    {
+                        "field_value": "Concord",
+                        "row_count": 214,
+                        "ratio_percent": 1.0910574079738962
+                    },
+                    {
+                        "field_value": "Beaverton",
+                        "row_count": 213,
+                        "ratio_percent": 1.0859590088712145
+                    },
+                    {
+                        "field_value": "Bellingham",
+                        "row_count": 213,
+                        "ratio_percent": 1.0859590088712145
+                    },
+                    {
+                        "field_value": "Chula Vista",
+                        "row_count": 207,
+                        "ratio_percent": 1.055368614255124
+                    },
+                    {
+                        "field_value": "Berkeley",
+                        "row_count": 202,
+                        "ratio_percent": 1.0298766187417152
+                    },
+                    {
+                        "field_value": "Burlingame",
+                        "row_count": 201,
+                        "ratio_percent": 1.0247782196390334
+                    },
+                    {
+                        "field_value": "Burbank",
+                        "row_count": 196,
+                        "ratio_percent": 0.9992862241256245
+                    }
+                ]
+            },
+            {
+                "field": "ModifiedDate",
+                "distribution": [
+                    {
+                        "field_value": "Dec 21 2013 10:09AM",
+                        "row_count": 1851,
+                        "ratio_percent": 9.437136739063934
+                    },
+                    {
+                        "field_value": "Jul 31 2013 12:00AM",
+                        "row_count": 119,
+                        "ratio_percent": 0.6067094932191291
+                    },
+                    {
+                        "field_value": "Jun 30 2013 12:00AM",
+                        "row_count": 107,
+                        "ratio_percent": 0.5455287039869481
+                    },
+                    {
+                        "field_value": "Jun 30 2012 12:00AM",
+                        "row_count": 88,
+                        "ratio_percent": 0.4486591210359947
+                    },
+                    {
+                        "field_value": "Jul  1 2011 12:00AM",
+                        "row_count": 87,
+                        "ratio_percent": 0.4435607219333129
+                    },
+                    {
+                        "field_value": "Aug  1 2011 12:00AM",
+                        "row_count": 73,
+                        "ratio_percent": 0.37218313449576834
+                    },
+                    {
+                        "field_value": "Jul 31 2012 12:00AM",
+                        "row_count": 71,
+                        "ratio_percent": 0.36198633629040483
+                    },
+                    {
+                        "field_value": "May 30 2012 12:00AM",
+                        "row_count": 56,
+                        "ratio_percent": 0.28551034975017847
+                    },
+                    {
+                        "field_value": "May 14 2014 12:00AM",
+                        "row_count": 51,
+                        "ratio_percent": 0.26001835423676967
+                    },
+                    {
+                        "field_value": "May 31 2011 12:00AM",
+                        "row_count": 49,
+                        "ratio_percent": 0.24982155603140613
+                    }
+                ]
+            },
+            {
+                "field": "PostalCode",
+                "distribution": [
+                    {
+                        "field_value": "98168",
+                        "row_count": 215,
+                        "ratio_percent": 1.096155807076578
+                    },
+                    {
+                        "field_value": "94519",
+                        "row_count": 214,
+                        "ratio_percent": 1.0910574079738962
+                    },
+                    {
+                        "field_value": "97005",
+                        "row_count": 213,
+                        "ratio_percent": 1.0859590088712145
+                    },
+                    {
+                        "field_value": "98225",
+                        "row_count": 213,
+                        "ratio_percent": 1.0859590088712145
+                    },
+                    {
+                        "field_value": "91910",
+                        "row_count": 207,
+                        "ratio_percent": 1.055368614255124
+                    },
+                    {
+                        "field_value": "91950",
+                        "row_count": 203,
+                        "ratio_percent": 1.0349750178443968
+                    },
+                    {
+                        "field_value": "94704",
+                        "row_count": 202,
+                        "ratio_percent": 1.0298766187417152
+                    },
+                    {
+                        "field_value": "94010",
+                        "row_count": 201,
+                        "ratio_percent": 1.0247782196390334
+                    },
+                    {
+                        "field_value": "V9",
+                        "row_count": 201,
+                        "ratio_percent": 1.0247782196390334
+                    },
+                    {
+                        "field_value": "V7L 4J4",
+                        "row_count": 196,
+                        "ratio_percent": 0.9992862241256245
+                    }
+                ]
+            },
+            {
+                "field": "StateProvinceID",
+                "distribution": [
+                    {
+                        "field_value": "9",
+                        "row_count": 4564,
+                        "ratio_percent": 23.269093504639542
+                    },
+                    {
+                        "field_value": "79",
+                        "row_count": 2636,
+                        "ratio_percent": 13.439380034669114
+                    },
+                    {
+                        "field_value": "14",
+                        "row_count": 1954,
+                        "ratio_percent": 9.962271846640155
+                    },
+                    {
+                        "field_value": "50",
+                        "row_count": 1588,
+                        "ratio_percent": 8.096257775058632
+                    },
+                    {
+                        "field_value": "7",
+                        "row_count": 1579,
+                        "ratio_percent": 8.050372183134495
+                    },
+                    {
+                        "field_value": "58",
+                        "row_count": 1105,
+                        "ratio_percent": 5.633731008463342
+                    },
+                    {
+                        "field_value": "77",
+                        "row_count": 901,
+                        "ratio_percent": 4.593657591516264
+                    },
+                    {
+                        "field_value": "64",
+                        "row_count": 795,
+                        "ratio_percent": 4.053227286631998
+                    },
+                    {
+                        "field_value": "70",
+                        "row_count": 453,
+                        "ratio_percent": 2.3095747935148365
+                    },
+                    {
+                        "field_value": "53",
+                        "row_count": 412,
+                        "ratio_percent": 2.1005404303048842
+                    }
+                ]
+            },
+            {
+                "field": "rowguid",
+                "distribution": [
+                    {
+                        "field_value": "002616E8-9075-44AF-A4EB-61CBC0152657",
+                        "row_count": 1,
+                        "ratio_percent": 0.005098399102681758
+                    },
+                    {
+                        "field_value": "0023DF1D-A0E3-43A5-A633-AF15EB5E49DB",
+                        "row_count": 1,
+                        "ratio_percent": 0.005098399102681758
+                    },
+                    {
+                        "field_value": "001D49B4-DCE6-4DA2-BCA3-4F4FD6FD0DFF",
+                        "row_count": 1,
+                        "ratio_percent": 0.005098399102681758
+                    },
+                    {
+                        "field_value": "001D1A67-585C-44B2-AAC6-1199AFD7425F",
+                        "row_count": 1,
+                        "ratio_percent": 0.005098399102681758
+                    },
+                    {
+                        "field_value": "001379C1-4DF3-4D08-ADCF-9CFF2E587B70",
+                        "row_count": 1,
+                        "ratio_percent": 0.005098399102681758
+                    },
+                    {
+                        "field_value": "0010F44C-98E9-411C-A12B-C8EB0731F50E",
+                        "row_count": 1,
+                        "ratio_percent": 0.005098399102681758
+                    },
+                    {
+                        "field_value": "000FC29E-7ADD-4B1D-AC49-32A14FACA797",
+                        "row_count": 1,
+                        "ratio_percent": 0.005098399102681758
+                    },
+                    {
+                        "field_value": "000C1336-7B16-4B99-9F69-B1CA69B45D2E",
+                        "row_count": 1,
+                        "ratio_percent": 0.005098399102681758
+                    },
+                    {
+                        "field_value": "000A5A3E-E89A-4B5D-A3F8-3D8595D8A7F0",
+                        "row_count": 1,
+                        "ratio_percent": 0.005098399102681758
+                    },
+                    {
+                        "field_value": "000A2255-2D8E-4D99-B82F-7013B256EE31",
+                        "row_count": 1,
+                        "ratio_percent": 0.005098399102681758
+                    }
+                ]
+            }
+        ]
+    }
+]

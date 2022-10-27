@@ -1,0 +1,62 @@
+@startjson
+{
+    "field1": "ReceivedQty",
+    "combination": "ReceivedQty",
+    "null_distribution": {
+        "total_null_rows": 0,
+        "total_not_null_rows": 8845
+    },
+    "data_distribution": [
+        {
+            "field_value": "3.00",
+            "row_count": 4136,
+            "ratio_percent": 46.76088185415489
+        },
+        {
+            "field_value": "550.00",
+            "row_count": 3442,
+            "ratio_percent": 38.91464104013567
+        },
+        {
+            "field_value": "60.00",
+            "row_count": 745,
+            "ratio_percent": 8.422837761447145
+        },
+        {
+            "field_value": "468.00",
+            "row_count": 197,
+            "ratio_percent": 2.227247032221594
+        },
+        {
+            "field_value": "523.00",
+            "row_count": 120,
+            "ratio_percent": 1.3566986998304127
+        },
+        {
+            "field_value": "1250.00",
+            "row_count": 95,
+            "ratio_percent": 1.0740531373657434
+        },
+        {
+            "field_value": "51.00",
+            "row_count": 34,
+            "ratio_percent": 0.3843979649519503
+        },
+        {
+            "field_value": "57.00",
+            "row_count": 13,
+            "ratio_percent": 0.14697569248162803
+        },
+        {
+            "field_value": "1188.00",
+            "row_count": 6,
+            "ratio_percent": 0.06783493499152063
+        },
+        {
+            "field_value": "150.00",
+            "row_count": 6,
+            "ratio_percent": 0.06783493499152063
+        }
+    ]
+}
+@endjson

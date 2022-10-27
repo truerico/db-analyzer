@@ -1,0 +1,368 @@
+[
+    {
+        "table": "Person.StateProvince",
+        "total_records": 181,
+        "dataset": [
+            {
+                "field": "CountryRegionCode",
+                "distribution": [
+                    {
+                        "field_value": "FR",
+                        "row_count": 96,
+                        "ratio_percent": 53.03867403314917
+                    },
+                    {
+                        "field_value": "US",
+                        "row_count": 53,
+                        "ratio_percent": 29.281767955801104
+                    },
+                    {
+                        "field_value": "CA",
+                        "row_count": 13,
+                        "ratio_percent": 7.18232044198895
+                    },
+                    {
+                        "field_value": "DE",
+                        "row_count": 7,
+                        "ratio_percent": 3.867403314917127
+                    },
+                    {
+                        "field_value": "AU",
+                        "row_count": 5,
+                        "ratio_percent": 2.7624309392265194
+                    },
+                    {
+                        "field_value": "PW",
+                        "row_count": 1,
+                        "ratio_percent": 0.5524861878453039
+                    },
+                    {
+                        "field_value": "MP",
+                        "row_count": 1,
+                        "ratio_percent": 0.5524861878453039
+                    },
+                    {
+                        "field_value": "MH",
+                        "row_count": 1,
+                        "ratio_percent": 0.5524861878453039
+                    },
+                    {
+                        "field_value": "GB",
+                        "row_count": 1,
+                        "ratio_percent": 0.5524861878453039
+                    },
+                    {
+                        "field_value": "FM",
+                        "row_count": 1,
+                        "ratio_percent": 0.5524861878453039
+                    }
+                ]
+            },
+            {
+                "field": "IsOnlyStateProvinceFlag",
+                "distribution": [
+                    {
+                        "field_value": "0",
+                        "row_count": 173,
+                        "ratio_percent": 95.58011049723757
+                    },
+                    {
+                        "field_value": "1",
+                        "row_count": 8,
+                        "ratio_percent": 4.419889502762431
+                    }
+                ]
+            },
+            {
+                "field": "ModifiedDate",
+                "distribution": [
+                    {
+                        "field_value": "Apr 30 2008 12:00AM",
+                        "row_count": 98,
+                        "ratio_percent": 54.14364640883978
+                    },
+                    {
+                        "field_value": "Feb  8 2014 10:17AM",
+                        "row_count": 83,
+                        "ratio_percent": 45.85635359116022
+                    }
+                ]
+            },
+            {
+                "field": "Name",
+                "distribution": [
+                    {
+                        "field_value": "Ard\u00e8che",
+                        "row_count": 1,
+                        "ratio_percent": 0.5524861878453039
+                    },
+                    {
+                        "field_value": "American Samoa",
+                        "row_count": 1,
+                        "ratio_percent": 0.5524861878453039
+                    },
+                    {
+                        "field_value": "Alpes-Maritimes",
+                        "row_count": 1,
+                        "ratio_percent": 0.5524861878453039
+                    },
+                    {
+                        "field_value": "Alpes-de-Haute Provence",
+                        "row_count": 1,
+                        "ratio_percent": 0.5524861878453039
+                    },
+                    {
+                        "field_value": "Alpes (Haute)",
+                        "row_count": 1,
+                        "ratio_percent": 0.5524861878453039
+                    },
+                    {
+                        "field_value": "Allier",
+                        "row_count": 1,
+                        "ratio_percent": 0.5524861878453039
+                    },
+                    {
+                        "field_value": "Alberta",
+                        "row_count": 1,
+                        "ratio_percent": 0.5524861878453039
+                    },
+                    {
+                        "field_value": "Alaska",
+                        "row_count": 1,
+                        "ratio_percent": 0.5524861878453039
+                    },
+                    {
+                        "field_value": "Alabama",
+                        "row_count": 1,
+                        "ratio_percent": 0.5524861878453039
+                    },
+                    {
+                        "field_value": "Aisne",
+                        "row_count": 1,
+                        "ratio_percent": 0.5524861878453039
+                    }
+                ]
+            },
+            {
+                "field": "StateProvinceID",
+                "distribution": [
+                    {
+                        "field_value": "108",
+                        "row_count": 1,
+                        "ratio_percent": 0.5524861878453039
+                    },
+                    {
+                        "field_value": "107",
+                        "row_count": 1,
+                        "ratio_percent": 0.5524861878453039
+                    },
+                    {
+                        "field_value": "106",
+                        "row_count": 1,
+                        "ratio_percent": 0.5524861878453039
+                    },
+                    {
+                        "field_value": "105",
+                        "row_count": 1,
+                        "ratio_percent": 0.5524861878453039
+                    },
+                    {
+                        "field_value": "104",
+                        "row_count": 1,
+                        "ratio_percent": 0.5524861878453039
+                    },
+                    {
+                        "field_value": "103",
+                        "row_count": 1,
+                        "ratio_percent": 0.5524861878453039
+                    },
+                    {
+                        "field_value": "102",
+                        "row_count": 1,
+                        "ratio_percent": 0.5524861878453039
+                    },
+                    {
+                        "field_value": "101",
+                        "row_count": 1,
+                        "ratio_percent": 0.5524861878453039
+                    },
+                    {
+                        "field_value": "100",
+                        "row_count": 1,
+                        "ratio_percent": 0.5524861878453039
+                    },
+                    {
+                        "field_value": "10",
+                        "row_count": 1,
+                        "ratio_percent": 0.5524861878453039
+                    }
+                ]
+            },
+            {
+                "field": "StateProvinceCode",
+                "distribution": [
+                    {
+                        "field_value": "11",
+                        "row_count": 1,
+                        "ratio_percent": 0.5524861878453039
+                    },
+                    {
+                        "field_value": "10",
+                        "row_count": 1,
+                        "ratio_percent": 0.5524861878453039
+                    },
+                    {
+                        "field_value": "09",
+                        "row_count": 1,
+                        "ratio_percent": 0.5524861878453039
+                    },
+                    {
+                        "field_value": "08",
+                        "row_count": 1,
+                        "ratio_percent": 0.5524861878453039
+                    },
+                    {
+                        "field_value": "07",
+                        "row_count": 1,
+                        "ratio_percent": 0.5524861878453039
+                    },
+                    {
+                        "field_value": "06",
+                        "row_count": 1,
+                        "ratio_percent": 0.5524861878453039
+                    },
+                    {
+                        "field_value": "05",
+                        "row_count": 1,
+                        "ratio_percent": 0.5524861878453039
+                    },
+                    {
+                        "field_value": "04",
+                        "row_count": 1,
+                        "ratio_percent": 0.5524861878453039
+                    },
+                    {
+                        "field_value": "03",
+                        "row_count": 1,
+                        "ratio_percent": 0.5524861878453039
+                    },
+                    {
+                        "field_value": "02",
+                        "row_count": 1,
+                        "ratio_percent": 0.5524861878453039
+                    }
+                ]
+            },
+            {
+                "field": "TerritoryID",
+                "distribution": [
+                    {
+                        "field_value": "7",
+                        "row_count": 96,
+                        "ratio_percent": 53.03867403314917
+                    },
+                    {
+                        "field_value": "3",
+                        "row_count": 14,
+                        "ratio_percent": 7.734806629834254
+                    },
+                    {
+                        "field_value": "2",
+                        "row_count": 14,
+                        "ratio_percent": 7.734806629834254
+                    },
+                    {
+                        "field_value": "6",
+                        "row_count": 13,
+                        "ratio_percent": 7.18232044198895
+                    },
+                    {
+                        "field_value": "5",
+                        "row_count": 12,
+                        "ratio_percent": 6.629834254143646
+                    },
+                    {
+                        "field_value": "1",
+                        "row_count": 10,
+                        "ratio_percent": 5.524861878453039
+                    },
+                    {
+                        "field_value": "9",
+                        "row_count": 9,
+                        "ratio_percent": 4.972375690607735
+                    },
+                    {
+                        "field_value": "8",
+                        "row_count": 7,
+                        "ratio_percent": 3.867403314917127
+                    },
+                    {
+                        "field_value": "4",
+                        "row_count": 5,
+                        "ratio_percent": 2.7624309392265194
+                    },
+                    {
+                        "field_value": "10",
+                        "row_count": 1,
+                        "ratio_percent": 0.5524861878453039
+                    }
+                ]
+            },
+            {
+                "field": "rowguid",
+                "distribution": [
+                    {
+                        "field_value": "1192F8BF-CCA6-4CE2-BD08-2DD6E80B6CF6",
+                        "row_count": 1,
+                        "ratio_percent": 0.5524861878453039
+                    },
+                    {
+                        "field_value": "0FF23B5D-1E18-40F8-A886-9960ED699049",
+                        "row_count": 1,
+                        "ratio_percent": 0.5524861878453039
+                    },
+                    {
+                        "field_value": "0E32D0E5-E9C9-404D-B500-180BEC6637D8",
+                        "row_count": 1,
+                        "ratio_percent": 0.5524861878453039
+                    },
+                    {
+                        "field_value": "0CB0855B-783A-4701-9D45-597A919BFB23",
+                        "row_count": 1,
+                        "ratio_percent": 0.5524861878453039
+                    },
+                    {
+                        "field_value": "0AF69922-9301-4E3E-8592-E7A268A27B7A",
+                        "row_count": 1,
+                        "ratio_percent": 0.5524861878453039
+                    },
+                    {
+                        "field_value": "09CDCCDC-B4B8-44EA-B04F-6EF521E3E720",
+                        "row_count": 1,
+                        "ratio_percent": 0.5524861878453039
+                    },
+                    {
+                        "field_value": "092C7063-901E-414B-BC61-0BF7919DA883",
+                        "row_count": 1,
+                        "ratio_percent": 0.5524861878453039
+                    },
+                    {
+                        "field_value": "08A673DC-6056-45B2-903C-976E8B6BD0B9",
+                        "row_count": 1,
+                        "ratio_percent": 0.5524861878453039
+                    },
+                    {
+                        "field_value": "0374FD8E-3A19-4A9B-BB9E-DB5871503AFE",
+                        "row_count": 1,
+                        "ratio_percent": 0.5524861878453039
+                    },
+                    {
+                        "field_value": "01CEC802-20CE-4F96-B475-2AD263CEA9D0",
+                        "row_count": 1,
+                        "ratio_percent": 0.5524861878453039
+                    }
+                ]
+            }
+        ]
+    }
+]

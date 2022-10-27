@@ -1,0 +1,62 @@
+@startjson
+{
+    "field1": "RejectedQty",
+    "combination": "RejectedQty",
+    "null_distribution": {
+        "total_null_rows": 0,
+        "total_not_null_rows": 8845
+    },
+    "data_distribution": [
+        {
+            "field_value": "0.00",
+            "row_count": 8282,
+            "ratio_percent": 93.63482193329564
+        },
+        {
+            "field_value": "82.00",
+            "row_count": 203,
+            "ratio_percent": 2.2950819672131146
+        },
+        {
+            "field_value": "55.00",
+            "row_count": 127,
+            "ratio_percent": 1.43583945732052
+        },
+        {
+            "field_value": "550.00",
+            "row_count": 74,
+            "ratio_percent": 0.8366308648954212
+        },
+        {
+            "field_value": "3.00",
+            "row_count": 58,
+            "ratio_percent": 0.6557377049180327
+        },
+        {
+            "field_value": "9.00",
+            "row_count": 37,
+            "ratio_percent": 0.4183154324477106
+        },
+        {
+            "field_value": "27.00",
+            "row_count": 18,
+            "ratio_percent": 0.2035048049745619
+        },
+        {
+            "field_value": "6.00",
+            "row_count": 17,
+            "ratio_percent": 0.19219898247597514
+        },
+        {
+            "field_value": "60.00",
+            "row_count": 15,
+            "ratio_percent": 0.1695873374788016
+        },
+        {
+            "field_value": "125.00",
+            "row_count": 5,
+            "ratio_percent": 0.05652911249293386
+        }
+    ]
+}
+@endjson

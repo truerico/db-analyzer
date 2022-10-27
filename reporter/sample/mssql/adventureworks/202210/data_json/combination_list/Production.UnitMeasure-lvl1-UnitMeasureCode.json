@@ -1,0 +1,62 @@
+@startjson
+{
+    "field1": "UnitMeasureCode",
+    "combination": "UnitMeasureCode",
+    "null_distribution": {
+        "total_null_rows": 0,
+        "total_not_null_rows": 38
+    },
+    "data_distribution": [
+        {
+            "field_value": "CR",
+            "row_count": 1,
+            "ratio_percent": 2.6315789473684212
+        },
+        {
+            "field_value": "CM2",
+            "row_count": 1,
+            "ratio_percent": 2.6315789473684212
+        },
+        {
+            "field_value": "CM",
+            "row_count": 1,
+            "ratio_percent": 2.6315789473684212
+        },
+        {
+            "field_value": "CDM",
+            "row_count": 1,
+            "ratio_percent": 2.6315789473684212
+        },
+        {
+            "field_value": "CCM",
+            "row_count": 1,
+            "ratio_percent": 2.6315789473684212
+        },
+        {
+            "field_value": "CBM",
+            "row_count": 1,
+            "ratio_percent": 2.6315789473684212
+        },
+        {
+            "field_value": "CAR",
+            "row_count": 1,
+            "ratio_percent": 2.6315789473684212
+        },
+        {
+            "field_value": "CAN",
+            "row_count": 1,
+            "ratio_percent": 2.6315789473684212
+        },
+        {
+            "field_value": "C",
+            "row_count": 1,
+            "ratio_percent": 2.6315789473684212
+        },
+        {
+            "field_value": "BTL",
+            "row_count": 1,
+            "ratio_percent": 2.6315789473684212
+        }
+    ]
+}
+@endjson

@@ -1,0 +1,128 @@
+[
+    {
+        "table": "Person.CountryRegion",
+        "total_records": 238,
+        "dataset": [
+            {
+                "field": "CountryRegionCode",
+                "distribution": [
+                    {
+                        "field_value": "AR",
+                        "row_count": 1,
+                        "ratio_percent": 0.42016806722689076
+                    },
+                    {
+                        "field_value": "AQ",
+                        "row_count": 1,
+                        "ratio_percent": 0.42016806722689076
+                    },
+                    {
+                        "field_value": "AO",
+                        "row_count": 1,
+                        "ratio_percent": 0.42016806722689076
+                    },
+                    {
+                        "field_value": "AN",
+                        "row_count": 1,
+                        "ratio_percent": 0.42016806722689076
+                    },
+                    {
+                        "field_value": "AM",
+                        "row_count": 1,
+                        "ratio_percent": 0.42016806722689076
+                    },
+                    {
+                        "field_value": "AL",
+                        "row_count": 1,
+                        "ratio_percent": 0.42016806722689076
+                    },
+                    {
+                        "field_value": "AI",
+                        "row_count": 1,
+                        "ratio_percent": 0.42016806722689076
+                    },
+                    {
+                        "field_value": "AG",
+                        "row_count": 1,
+                        "ratio_percent": 0.42016806722689076
+                    },
+                    {
+                        "field_value": "AF",
+                        "row_count": 1,
+                        "ratio_percent": 0.42016806722689076
+                    },
+                    {
+                        "field_value": "AE",
+                        "row_count": 1,
+                        "ratio_percent": 0.42016806722689076
+                    }
+                ]
+            },
+            {
+                "field": "ModifiedDate",
+                "distribution": [
+                    {
+                        "field_value": "Apr 30 2008 12:00AM",
+                        "row_count": 238,
+                        "ratio_percent": 100.0
+                    }
+                ]
+            },
+            {
+                "field": "Name",
+                "distribution": [
+                    {
+                        "field_value": "Armenia",
+                        "row_count": 1,
+                        "ratio_percent": 0.42016806722689076
+                    },
+                    {
+                        "field_value": "Argentina",
+                        "row_count": 1,
+                        "ratio_percent": 0.42016806722689076
+                    },
+                    {
+                        "field_value": "Antigua and Barbuda",
+                        "row_count": 1,
+                        "ratio_percent": 0.42016806722689076
+                    },
+                    {
+                        "field_value": "Antarctica",
+                        "row_count": 1,
+                        "ratio_percent": 0.42016806722689076
+                    },
+                    {
+                        "field_value": "Anguilla",
+                        "row_count": 1,
+                        "ratio_percent": 0.42016806722689076
+                    },
+                    {
+                        "field_value": "Angola",
+                        "row_count": 1,
+                        "ratio_percent": 0.42016806722689076
+                    },
+                    {
+                        "field_value": "Andorra",
+                        "row_count": 1,
+                        "ratio_percent": 0.42016806722689076
+                    },
+                    {
+                        "field_value": "American Samoa",
+                        "row_count": 1,
+                        "ratio_percent": 0.42016806722689076
+                    },
+                    {
+                        "field_value": "Algeria",
+                        "row_count": 1,
+                        "ratio_percent": 0.42016806722689076
+                    },
+                    {
+                        "field_value": "Albania",
+                        "row_count": 1,
+                        "ratio_percent": 0.42016806722689076
+                    }
+                ]
+            }
+        ]
+    }
+]

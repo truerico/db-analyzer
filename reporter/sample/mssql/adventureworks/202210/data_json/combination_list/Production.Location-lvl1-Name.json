@@ -1,0 +1,62 @@
+@startjson
+{
+    "field1": "Name",
+    "combination": "Name",
+    "null_distribution": {
+        "total_null_rows": 0,
+        "total_not_null_rows": 14
+    },
+    "data_distribution": [
+        {
+            "field_value": "Sheet Metal Racks",
+            "row_count": 1,
+            "ratio_percent": 7.142857142857143
+        },
+        {
+            "field_value": "Paint Storage",
+            "row_count": 1,
+            "ratio_percent": 7.142857142857143
+        },
+        {
+            "field_value": "Paint Shop",
+            "row_count": 1,
+            "ratio_percent": 7.142857142857143
+        },
+        {
+            "field_value": "Paint",
+            "row_count": 1,
+            "ratio_percent": 7.142857142857143
+        },
+        {
+            "field_value": "Miscellaneous Storage",
+            "row_count": 1,
+            "ratio_percent": 7.142857142857143
+        },
+        {
+            "field_value": "Metal Storage",
+            "row_count": 1,
+            "ratio_percent": 7.142857142857143
+        },
+        {
+            "field_value": "Frame Welding",
+            "row_count": 1,
+            "ratio_percent": 7.142857142857143
+        },
+        {
+            "field_value": "Frame Forming",
+            "row_count": 1,
+            "ratio_percent": 7.142857142857143
+        },
+        {
+            "field_value": "Finished Goods Storage",
+            "row_count": 1,
+            "ratio_percent": 7.142857142857143
+        },
+        {
+            "field_value": "Final Assembly",
+            "row_count": 1,
+            "ratio_percent": 7.142857142857143
+        }
+    ]
+}
+@endjson

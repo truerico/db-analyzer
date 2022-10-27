@@ -1,0 +1,62 @@
+@startjson
+{
+    "field1": "SickLeaveHours",
+    "combination": "SickLeaveHours",
+    "null_distribution": {
+        "total_null_rows": 0,
+        "total_not_null_rows": 290
+    },
+    "data_distribution": [
+        {
+            "field_value": "64",
+            "row_count": 7,
+            "ratio_percent": 2.413793103448276
+        },
+        {
+            "field_value": "24",
+            "row_count": 6,
+            "ratio_percent": 2.0689655172413794
+        },
+        {
+            "field_value": "23",
+            "row_count": 6,
+            "ratio_percent": 2.0689655172413794
+        },
+        {
+            "field_value": "22",
+            "row_count": 6,
+            "ratio_percent": 2.0689655172413794
+        },
+        {
+            "field_value": "21",
+            "row_count": 6,
+            "ratio_percent": 2.0689655172413794
+        },
+        {
+            "field_value": "20",
+            "row_count": 6,
+            "ratio_percent": 2.0689655172413794
+        },
+        {
+            "field_value": "30",
+            "row_count": 6,
+            "ratio_percent": 2.0689655172413794
+        },
+        {
+            "field_value": "31",
+            "row_count": 6,
+            "ratio_percent": 2.0689655172413794
+        },
+        {
+            "field_value": "33",
+            "row_count": 6,
+            "ratio_percent": 2.0689655172413794
+        },
+        {
+            "field_value": "37",
+            "row_count": 6,
+            "ratio_percent": 2.0689655172413794
+        }
+    ]
+}
+@endjson

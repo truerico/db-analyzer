@@ -1,0 +1,62 @@
+@startjson
+{
+    "field1": "creditLimit",
+    "combination": "creditLimit",
+    "null_distribution": {
+        "total_null_rows": 0,
+        "total_not_null_rows": 122
+    },
+    "data_distribution": [
+        {
+            "field_value": "0.00",
+            "row_count": 24,
+            "ratio_percent": 19.672131147540984
+        },
+        {
+            "field_value": "60300.00",
+            "row_count": 3,
+            "ratio_percent": 2.459016393442623
+        },
+        {
+            "field_value": "77000.00",
+            "row_count": 2,
+            "ratio_percent": 1.639344262295082
+        },
+        {
+            "field_value": "105000.00",
+            "row_count": 2,
+            "ratio_percent": 1.639344262295082
+        },
+        {
+            "field_value": "81100.00",
+            "row_count": 2,
+            "ratio_percent": 1.639344262295082
+        },
+        {
+            "field_value": "84300.00",
+            "row_count": 2,
+            "ratio_percent": 1.639344262295082
+        },
+        {
+            "field_value": "83400.00",
+            "row_count": 1,
+            "ratio_percent": 0.819672131147541
+        },
+        {
+            "field_value": "77900.00",
+            "row_count": 1,
+            "ratio_percent": 0.819672131147541
+        },
+        {
+            "field_value": "86800.00",
+            "row_count": 1,
+            "ratio_percent": 0.819672131147541
+        },
+        {
+            "field_value": "118200.00",
+            "row_count": 1,
+            "ratio_percent": 0.819672131147541
+        }
+    ]
+}
+@endjson

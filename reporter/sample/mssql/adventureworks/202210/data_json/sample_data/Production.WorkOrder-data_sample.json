@@ -1,0 +1,67 @@
+[
+    {
+        "WorkOrderID": 1,
+        "OrderQty": 8,
+        "StockedQty": 8,
+        "ScrappedQty": 0,
+        "StartDate": "2011-06-03 00:00:00",
+        "EndDate": "2011-06-13 00:00:00",
+        "DueDate": "2011-06-14 00:00:00",
+        "ModifiedDate": "2011-06-13 00:00:00",
+        "ProductID": 722,
+        "ScrapReasonID": null,
+        "SYS_EXEC_DURATION": "0.183002"
+    },
+    {
+        "WorkOrderID": 2,
+        "OrderQty": 15,
+        "StockedQty": 15,
+        "ScrappedQty": 0,
+        "StartDate": "2011-06-03 00:00:00",
+        "EndDate": "2011-06-13 00:00:00",
+        "DueDate": "2011-06-14 00:00:00",
+        "ModifiedDate": "2011-06-13 00:00:00",
+        "ProductID": 725,
+        "ScrapReasonID": null,
+        "SYS_EXEC_DURATION": "0.18319"
+    },
+    {
+        "WorkOrderID": 3,
+        "OrderQty": 9,
+        "StockedQty": 9,
+        "ScrappedQty": 0,
+        "StartDate": "2011-06-03 00:00:00",
+        "EndDate": "2011-06-13 00:00:00",
+        "DueDate": "2011-06-14 00:00:00",
+        "ModifiedDate": "2011-06-13 00:00:00",
+        "ProductID": 726,
+        "ScrapReasonID": null,
+        "SYS_EXEC_DURATION": "0.183256"
+    },
+    {
+        "WorkOrderID": 4,
+        "OrderQty": 16,
+        "StockedQty": 16,
+        "ScrappedQty": 0,
+        "StartDate": "2011-06-03 00:00:00",
+        "EndDate": "2011-06-13 00:00:00",
+        "DueDate": "2011-06-14 00:00:00",
+        "ModifiedDate": "2011-06-13 00:00:00",
+        "ProductID": 729,
+        "ScrapReasonID": null,
+        "SYS_EXEC_DURATION": "0.183315"
+    },
+    {
+        "WorkOrderID": 5,
+        "OrderQty": 14,
+        "StockedQty": 14,
+        "ScrappedQty": 0,
+        "StartDate": "2011-06-03 00:00:00",
+        "EndDate": "2011-06-13 00:00:00",
+        "DueDate": "2011-06-14 00:00:00",
+        "ModifiedDate": "2011-06-13 00:00:00",
+        "ProductID": 730,
+        "ScrapReasonID": null,
+        "SYS_EXEC_DURATION": "0.183387"
+    }
+]

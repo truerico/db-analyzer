@@ -1,0 +1,17 @@
+@startjson
+{
+    "field1": "FromCurrencyCode",
+    "combination": "FromCurrencyCode",
+    "null_distribution": {
+        "total_null_rows": 0,
+        "total_not_null_rows": 13532
+    },
+    "data_distribution": [
+        {
+            "field_value": "USD",
+            "row_count": 13532,
+            "ratio_percent": 100.0
+        }
+    ]
+}
+@endjson

@@ -1,0 +1,102 @@
+[
+    {
+        "orderNumber": 10262,
+        "orderDate": "2004-06-24",
+        "requiredDate": "2004-07-01",
+        "shippedDate": null,
+        "status": "Cancelled",
+        "comments": "This customer found a better offer from one of our competitors. Will call back to renegotiate.",
+        "customerNumber": 141,
+        "SYS_EXEC_DURATION": "0.209479"
+    },
+    {
+        "orderNumber": 10402,
+        "orderDate": "2005-04-07",
+        "requiredDate": "2005-04-14",
+        "shippedDate": "2005-04-12",
+        "status": "Shipped",
+        "comments": null,
+        "customerNumber": 406,
+        "SYS_EXEC_DURATION": "0.209772"
+    },
+    {
+        "orderNumber": 10140,
+        "orderDate": "2003-07-24",
+        "requiredDate": "2003-08-02",
+        "shippedDate": "2003-07-30",
+        "status": "Shipped",
+        "comments": null,
+        "customerNumber": 161,
+        "SYS_EXEC_DURATION": "0.209974"
+    },
+    {
+        "orderNumber": 10161,
+        "orderDate": "2003-10-17",
+        "requiredDate": "2003-10-25",
+        "shippedDate": "2003-10-20",
+        "status": "Shipped",
+        "comments": null,
+        "customerNumber": 227,
+        "SYS_EXEC_DURATION": "0.210168"
+    },
+    {
+        "orderNumber": 10361,
+        "orderDate": "2004-12-17",
+        "requiredDate": "2004-12-24",
+        "shippedDate": "2004-12-20",
+        "status": "Shipped",
+        "comments": null,
+        "customerNumber": 282,
+        "SYS_EXEC_DURATION": "0.210357"
+    },
+    {
+        "orderNumber": 10210,
+        "orderDate": "2004-01-12",
+        "requiredDate": "2004-01-22",
+        "shippedDate": "2004-01-20",
+        "status": "Shipped",
+        "comments": null,
+        "customerNumber": 177,
+        "SYS_EXEC_DURATION": "0.210562"
+    },
+    {
+        "orderNumber": 10387,
+        "orderDate": "2005-03-02",
+        "requiredDate": "2005-03-09",
+        "shippedDate": "2005-03-06",
+        "status": "Shipped",
+        "comments": "We need to keep in close contact with their Marketing VP. He is the decision maker for all their purchases.",
+        "customerNumber": 148,
+        "SYS_EXEC_DURATION": "0.210774"
+    },
+    {
+        "orderNumber": 10135,
+        "orderDate": "2003-07-02",
+        "requiredDate": "2003-07-12",
+        "shippedDate": "2003-07-03",
+        "status": "Shipped",
+        "comments": null,
+        "customerNumber": 124,
+        "SYS_EXEC_DURATION": "0.210964"
+    },
+    {
+        "orderNumber": 10112,
+        "orderDate": "2003-03-24",
+        "requiredDate": "2003-04-03",
+        "shippedDate": "2003-03-29",
+        "status": "Shipped",
+        "comments": "Customer requested that ad materials (such as posters, pamphlets) be included in the shippment",
+        "customerNumber": 144,
+        "SYS_EXEC_DURATION": "0.21116"
+    },
+    {
+        "orderNumber": 10280,
+        "orderDate": "2004-08-17",
+        "requiredDate": "2004-08-27",
+        "shippedDate": "2004-08-19",
+        "status": "Shipped",
+        "comments": null,
+        "customerNumber": 249,
+        "SYS_EXEC_DURATION": "0.211359"
+    }
+]

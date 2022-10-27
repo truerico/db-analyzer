@@ -1,0 +1,43 @@
+[
+    {
+        "table": "Sales.CurrencyRate",
+        "total_records": 13532,
+        "dataset": [
+            {
+                "field": "AverageRate",
+                "total_null_rows": 0,
+                "total_not_null_rows": 13532
+            },
+            {
+                "field": "CurrencyRateID",
+                "total_null_rows": 0,
+                "total_not_null_rows": 13532
+            },
+            {
+                "field": "CurrencyRateDate",
+                "total_null_rows": 0,
+                "total_not_null_rows": 13532
+            },
+            {
+                "field": "EndOfDayRate",
+                "total_null_rows": 0,
+                "total_not_null_rows": 13532
+            },
+            {
+                "field": "FromCurrencyCode",
+                "total_null_rows": 0,
+                "total_not_null_rows": 13532
+            },
+            {
+                "field": "ModifiedDate",
+                "total_null_rows": 0,
+                "total_not_null_rows": 13532
+            },
+            {
+                "field": "ToCurrencyCode",
+                "total_null_rows": 0,
+                "total_not_null_rows": 13532
+            }
+        ]
+    }
+]

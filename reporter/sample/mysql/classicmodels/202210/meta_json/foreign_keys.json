@@ -1,0 +1,74 @@
+[
+    {
+        "foreign_table_full_name": "classicmodels.customers",
+        "primary_table_full_name": "classicmodels.employees",
+        "schema_name": "classicmodels",
+        "foreign_table": "customers",
+        "primary_table": "employees",
+        "constraint_name": "customers_ibfk_1",
+        "fk_columns": "salesRepEmployeeNumber"
+    },
+    {
+        "foreign_table_full_name": "classicmodels.employees",
+        "primary_table_full_name": "classicmodels.employees",
+        "schema_name": "classicmodels",
+        "foreign_table": "employees",
+        "primary_table": "employees",
+        "constraint_name": "employees_ibfk_1",
+        "fk_columns": "reportsTo"
+    },
+    {
+        "foreign_table_full_name": "classicmodels.employees",
+        "primary_table_full_name": "classicmodels.offices",
+        "schema_name": "classicmodels",
+        "foreign_table": "employees",
+        "primary_table": "offices",
+        "constraint_name": "employees_ibfk_2",
+        "fk_columns": "officeCode"
+    },
+    {
+        "foreign_table_full_name": "classicmodels.orderdetails",
+        "primary_table_full_name": "classicmodels.orders",
+        "schema_name": "classicmodels",
+        "foreign_table": "orderdetails",
+        "primary_table": "orders",
+        "constraint_name": "orderdetails_ibfk_1",
+        "fk_columns": "orderNumber"
+    },
+    {
+        "foreign_table_full_name": "classicmodels.orderdetails",
+        "primary_table_full_name": "classicmodels.products",
+        "schema_name": "classicmodels",
+        "foreign_table": "orderdetails",
+        "primary_table": "products",
+        "constraint_name": "orderdetails_ibfk_2",
+        "fk_columns": "productCode"
+    },
+    {
+        "foreign_table_full_name": "classicmodels.orders",
+        "primary_table_full_name": "classicmodels.customers",
+        "schema_name": "classicmodels",
+        "foreign_table": "orders",
+        "primary_table": "customers",
+        "constraint_name": "orders_ibfk_1",
+        "fk_columns": "customerNumber"
+    },
+    {
+        "foreign_table_full_name": "classicmodels.payments",
+        "primary_table_full_name": "classicmodels.customers",
+        "schema_name": "classicmodels",
+        "foreign_table": "payments",
+        "primary_table": "customers",
+        "constraint_name": "payments_ibfk_1",
+        "fk_columns": "customerNumber"
+    },
+    {
+        "foreign_table_full_name": "classicmodels.products",
+        "primary_table_full_name": "classicmodels.productlines",
+        "schema_name": "classicmodels",
+        "foreign_table": "products",
+        "primary_table": "productlines",
+        "constraint_name": "products_ibfk_1",
+        "fk_columns": "productLine"
+    }
+]

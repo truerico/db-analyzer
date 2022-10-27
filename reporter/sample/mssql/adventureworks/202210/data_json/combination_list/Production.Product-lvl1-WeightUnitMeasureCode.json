@@ -1,0 +1,27 @@
+@startjson
+{
+    "field1": "WeightUnitMeasureCode",
+    "combination": "WeightUnitMeasureCode",
+    "null_distribution": {
+        "total_null_rows": 299,
+        "total_not_null_rows": 205
+    },
+    "data_distribution": [
+        {
+            "field_value": "**NULL**",
+            "row_count": 299,
+            "ratio_percent": 59.32539682539682
+        },
+        {
+            "field_value": "LB",
+            "row_count": 176,
+            "ratio_percent": 34.92063492063492
+        },
+        {
+            "field_value": "G",
+            "row_count": 29,
+            "ratio_percent": 5.753968253968254
+        }
+    ]
+}
+@endjson

@@ -1,0 +1,22 @@
+@startjson
+{
+    "field1": "SizeUnitMeasureCode",
+    "combination": "SizeUnitMeasureCode",
+    "null_distribution": {
+        "total_null_rows": 328,
+        "total_not_null_rows": 176
+    },
+    "data_distribution": [
+        {
+            "field_value": "**NULL**",
+            "row_count": 328,
+            "ratio_percent": 65.07936507936508
+        },
+        {
+            "field_value": "CM",
+            "row_count": 176,
+            "ratio_percent": 34.92063492063492
+        }
+    ]
+}
+@endjson

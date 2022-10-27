@@ -1,0 +1,62 @@
+@startjson
+{
+    "field1": "CurrencyRateDate",
+    "combination": "CurrencyRateDate",
+    "null_distribution": {
+        "total_null_rows": 0,
+        "total_not_null_rows": 13532
+    },
+    "data_distribution": [
+        {
+            "field_value": "Aug  1 2011 12:00AM",
+            "row_count": 14,
+            "ratio_percent": 0.10345846881466154
+        },
+        {
+            "field_value": "Aug  2 2011 12:00AM",
+            "row_count": 14,
+            "ratio_percent": 0.10345846881466154
+        },
+        {
+            "field_value": "Aug  3 2011 12:00AM",
+            "row_count": 14,
+            "ratio_percent": 0.10345846881466154
+        },
+        {
+            "field_value": "Aug  4 2011 12:00AM",
+            "row_count": 14,
+            "ratio_percent": 0.10345846881466154
+        },
+        {
+            "field_value": "Aug  5 2011 12:00AM",
+            "row_count": 14,
+            "ratio_percent": 0.10345846881466154
+        },
+        {
+            "field_value": "Aug  6 2011 12:00AM",
+            "row_count": 14,
+            "ratio_percent": 0.10345846881466154
+        },
+        {
+            "field_value": "Aug  7 2011 12:00AM",
+            "row_count": 14,
+            "ratio_percent": 0.10345846881466154
+        },
+        {
+            "field_value": "Aug  8 2011 12:00AM",
+            "row_count": 14,
+            "ratio_percent": 0.10345846881466154
+        },
+        {
+            "field_value": "Aug  9 2011 12:00AM",
+            "row_count": 14,
+            "ratio_percent": 0.10345846881466154
+        },
+        {
+            "field_value": "Aug 10 2011 12:00AM",
+            "row_count": 14,
+            "ratio_percent": 0.10345846881466154
+        }
+    ]
+}
+@endjson

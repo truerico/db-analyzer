@@ -1,0 +1,52 @@
+@startjson
+{
+    "field1": "Schema",
+    "combination": "Schema",
+    "null_distribution": {
+        "total_null_rows": 1,
+        "total_not_null_rows": 1595
+    },
+    "data_distribution": [
+        {
+            "field_value": "Production",
+            "row_count": 495,
+            "ratio_percent": 31.015037593984964
+        },
+        {
+            "field_value": "Sales",
+            "row_count": 432,
+            "ratio_percent": 27.06766917293233
+        },
+        {
+            "field_value": "Person",
+            "row_count": 249,
+            "ratio_percent": 15.601503759398497
+        },
+        {
+            "field_value": "HumanResources",
+            "row_count": 164,
+            "ratio_percent": 10.275689223057643
+        },
+        {
+            "field_value": "Purchasing",
+            "row_count": 150,
+            "ratio_percent": 9.398496240601503
+        },
+        {
+            "field_value": "dbo",
+            "row_count": 97,
+            "ratio_percent": 6.0776942355889725
+        },
+        {
+            "field_value": "**EMPTY**",
+            "row_count": 8,
+            "ratio_percent": 0.5012531328320802
+        },
+        {
+            "field_value": "**NULL**",
+            "row_count": 1,
+            "ratio_percent": 0.06265664160401002
+        }
+    ]
+}
+@endjson

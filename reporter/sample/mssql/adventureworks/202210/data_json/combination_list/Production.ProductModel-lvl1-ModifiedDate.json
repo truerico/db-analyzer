@@ -1,0 +1,42 @@
+@startjson
+{
+    "field1": "ModifiedDate",
+    "combination": "ModifiedDate",
+    "null_distribution": {
+        "total_null_rows": 0,
+        "total_not_null_rows": 128
+    },
+    "data_distribution": [
+        {
+            "field_value": "Apr 30 2013 12:00AM",
+            "row_count": 55,
+            "ratio_percent": 42.96875
+        },
+        {
+            "field_value": "Apr 30 2012 12:00AM",
+            "row_count": 43,
+            "ratio_percent": 33.59375
+        },
+        {
+            "field_value": "May  1 2011 12:00AM",
+            "row_count": 12,
+            "ratio_percent": 9.375
+        },
+        {
+            "field_value": "Apr 15 2015  4:34PM",
+            "row_count": 9,
+            "ratio_percent": 7.03125
+        },
+        {
+            "field_value": "Oct 19 2012  9:56AM",
+            "row_count": 8,
+            "ratio_percent": 6.25
+        },
+        {
+            "field_value": "Mar 31 2008 12:00AM",
+            "row_count": 1,
+            "ratio_percent": 0.78125
+        }
+    ]
+}
+@endjson

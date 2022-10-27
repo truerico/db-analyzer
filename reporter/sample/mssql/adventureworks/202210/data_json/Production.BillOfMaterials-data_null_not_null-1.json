@@ -1,0 +1,53 @@
+[
+    {
+        "table": "Production.BillOfMaterials",
+        "total_records": 2679,
+        "dataset": [
+            {
+                "field": "BillOfMaterialsID",
+                "total_null_rows": 0,
+                "total_not_null_rows": 2679
+            },
+            {
+                "field": "BOMLevel",
+                "total_null_rows": 0,
+                "total_not_null_rows": 2679
+            },
+            {
+                "field": "ComponentID",
+                "total_null_rows": 0,
+                "total_not_null_rows": 2679
+            },
+            {
+                "field": "EndDate",
+                "total_null_rows": 2480,
+                "total_not_null_rows": 199
+            },
+            {
+                "field": "ModifiedDate",
+                "total_null_rows": 0,
+                "total_not_null_rows": 2679
+            },
+            {
+                "field": "PerAssemblyQty",
+                "total_null_rows": 0,
+                "total_not_null_rows": 2679
+            },
+            {
+                "field": "ProductAssemblyID",
+                "total_null_rows": 103,
+                "total_not_null_rows": 2576
+            },
+            {
+                "field": "StartDate",
+                "total_null_rows": 0,
+                "total_not_null_rows": 2679
+            },
+            {
+                "field": "UnitMeasureCode",
+                "total_null_rows": 0,
+                "total_not_null_rows": 2679
+            }
+        ]
+    }
+]

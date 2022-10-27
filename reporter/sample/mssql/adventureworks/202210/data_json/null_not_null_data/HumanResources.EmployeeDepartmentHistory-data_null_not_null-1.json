@@ -1,0 +1,38 @@
+[
+    {
+        "table": "HumanResources.EmployeeDepartmentHistory",
+        "total_records": 296,
+        "dataset": [
+            {
+                "field": "BusinessEntityID",
+                "total_null_rows": 0,
+                "total_not_null_rows": 296
+            },
+            {
+                "field": "DepartmentID",
+                "total_null_rows": 0,
+                "total_not_null_rows": 296
+            },
+            {
+                "field": "EndDate",
+                "total_null_rows": 290,
+                "total_not_null_rows": 6
+            },
+            {
+                "field": "ModifiedDate",
+                "total_null_rows": 0,
+                "total_not_null_rows": 296
+            },
+            {
+                "field": "ShiftID",
+                "total_null_rows": 0,
+                "total_not_null_rows": 296
+            },
+            {
+                "field": "StartDate",
+                "total_null_rows": 0,
+                "total_not_null_rows": 296
+            }
+        ]
+    }
+]

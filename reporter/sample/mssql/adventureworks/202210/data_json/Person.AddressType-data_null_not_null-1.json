@@ -1,0 +1,28 @@
+[
+    {
+        "table": "Person.AddressType",
+        "total_records": 6,
+        "dataset": [
+            {
+                "field": "AddressTypeID",
+                "total_null_rows": 0,
+                "total_not_null_rows": 6
+            },
+            {
+                "field": "ModifiedDate",
+                "total_null_rows": 0,
+                "total_not_null_rows": 6
+            },
+            {
+                "field": "Name",
+                "total_null_rows": 0,
+                "total_not_null_rows": 6
+            },
+            {
+                "field": "rowguid",
+                "total_null_rows": 0,
+                "total_not_null_rows": 6
+            }
+        ]
+    }
+]

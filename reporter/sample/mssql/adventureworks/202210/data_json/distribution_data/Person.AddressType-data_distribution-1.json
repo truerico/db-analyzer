@@ -1,0 +1,123 @@
+[
+    {
+        "table": "Person.AddressType",
+        "total_records": 6,
+        "dataset": [
+            {
+                "field": "AddressTypeID",
+                "distribution": [
+                    {
+                        "field_value": "6",
+                        "row_count": 1,
+                        "ratio_percent": 16.666666666666668
+                    },
+                    {
+                        "field_value": "5",
+                        "row_count": 1,
+                        "ratio_percent": 16.666666666666668
+                    },
+                    {
+                        "field_value": "4",
+                        "row_count": 1,
+                        "ratio_percent": 16.666666666666668
+                    },
+                    {
+                        "field_value": "3",
+                        "row_count": 1,
+                        "ratio_percent": 16.666666666666668
+                    },
+                    {
+                        "field_value": "2",
+                        "row_count": 1,
+                        "ratio_percent": 16.666666666666668
+                    },
+                    {
+                        "field_value": "1",
+                        "row_count": 1,
+                        "ratio_percent": 16.666666666666668
+                    }
+                ]
+            },
+            {
+                "field": "ModifiedDate",
+                "distribution": [
+                    {
+                        "field_value": "Apr 30 2008 12:00AM",
+                        "row_count": 6,
+                        "ratio_percent": 100.0
+                    }
+                ]
+            },
+            {
+                "field": "Name",
+                "distribution": [
+                    {
+                        "field_value": "Shipping",
+                        "row_count": 1,
+                        "ratio_percent": 16.666666666666668
+                    },
+                    {
+                        "field_value": "Primary",
+                        "row_count": 1,
+                        "ratio_percent": 16.666666666666668
+                    },
+                    {
+                        "field_value": "Main Office",
+                        "row_count": 1,
+                        "ratio_percent": 16.666666666666668
+                    },
+                    {
+                        "field_value": "Home",
+                        "row_count": 1,
+                        "ratio_percent": 16.666666666666668
+                    },
+                    {
+                        "field_value": "Billing",
+                        "row_count": 1,
+                        "ratio_percent": 16.666666666666668
+                    },
+                    {
+                        "field_value": "Archive",
+                        "row_count": 1,
+                        "ratio_percent": 16.666666666666668
+                    }
+                ]
+            },
+            {
+                "field": "rowguid",
+                "distribution": [
+                    {
+                        "field_value": "B84F78B1-4EFE-4A0E-8CB7-70E9F112F886",
+                        "row_count": 1,
+                        "ratio_percent": 16.666666666666668
+                    },
+                    {
+                        "field_value": "B29DA3F8-19A3-47DA-9DAA-15C84F4A83A5",
+                        "row_count": 1,
+                        "ratio_percent": 16.666666666666668
+                    },
+                    {
+                        "field_value": "A67F238A-5BA2-444B-966C-0467ED9C427F",
+                        "row_count": 1,
+                        "ratio_percent": 16.666666666666668
+                    },
+                    {
+                        "field_value": "8EEEC28C-07A2-4FB9-AD0A-42D4A0BBC575",
+                        "row_count": 1,
+                        "ratio_percent": 16.666666666666668
+                    },
+                    {
+                        "field_value": "41BC2FF6-F0FC-475F-8EB9-CEC0805AA0F2",
+                        "row_count": 1,
+                        "ratio_percent": 16.666666666666668
+                    },
+                    {
+                        "field_value": "24CB3088-4345-47C4-86C5-17B535133D1E",
+                        "row_count": 1,
+                        "ratio_percent": 16.666666666666668
+                    }
+                ]
+            }
+        ]
+    }
+]

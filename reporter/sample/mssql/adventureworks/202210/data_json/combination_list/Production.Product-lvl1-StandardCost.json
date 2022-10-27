@@ -1,0 +1,62 @@
+@startjson
+{
+    "field1": "StandardCost",
+    "combination": "StandardCost",
+    "null_distribution": {
+        "total_null_rows": 0,
+        "total_not_null_rows": 504
+    },
+    "data_distribution": [
+        {
+            "field_value": "0.00",
+            "row_count": 200,
+            "ratio_percent": 39.682539682539684
+        },
+        {
+            "field_value": "486.71",
+            "row_count": 12,
+            "ratio_percent": 2.380952380952381
+        },
+        {
+            "field_value": "199.85",
+            "row_count": 10,
+            "ratio_percent": 1.9841269841269842
+        },
+        {
+            "field_value": "461.44",
+            "row_count": 10,
+            "ratio_percent": 1.9841269841269842
+        },
+        {
+            "field_value": "868.63",
+            "row_count": 9,
+            "ratio_percent": 1.7857142857142858
+        },
+        {
+            "field_value": "1481.94",
+            "row_count": 8,
+            "ratio_percent": 1.5873015873015872
+        },
+        {
+            "field_value": "601.74",
+            "row_count": 8,
+            "ratio_percent": 1.5873015873015872
+        },
+        {
+            "field_value": "187.16",
+            "row_count": 6,
+            "ratio_percent": 1.1904761904761905
+        },
+        {
+            "field_value": "204.63",
+            "row_count": 6,
+            "ratio_percent": 1.1904761904761905
+        },
+        {
+            "field_value": "136.79",
+            "row_count": 5,
+            "ratio_percent": 0.9920634920634921
+        }
+    ]
+}
+@endjson

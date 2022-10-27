@@ -1,0 +1,42 @@
+@startjson
+{
+    "field1": "SafetyStockLevel",
+    "combination": "SafetyStockLevel",
+    "null_distribution": {
+        "total_null_rows": 0,
+        "total_not_null_rows": 504
+    },
+    "data_distribution": [
+        {
+            "field_value": "500",
+            "row_count": 167,
+            "ratio_percent": 33.13492063492063
+        },
+        {
+            "field_value": "1000",
+            "row_count": 156,
+            "ratio_percent": 30.952380952380953
+        },
+        {
+            "field_value": "100",
+            "row_count": 97,
+            "ratio_percent": 19.246031746031747
+        },
+        {
+            "field_value": "4",
+            "row_count": 54,
+            "ratio_percent": 10.714285714285714
+        },
+        {
+            "field_value": "800",
+            "row_count": 25,
+            "ratio_percent": 4.9603174603174605
+        },
+        {
+            "field_value": "60",
+            "row_count": 5,
+            "ratio_percent": 0.9920634920634921
+        }
+    ]
+}
+@endjson

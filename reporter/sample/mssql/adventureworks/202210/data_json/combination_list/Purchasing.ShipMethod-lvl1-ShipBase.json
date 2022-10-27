@@ -1,0 +1,37 @@
+@startjson
+{
+    "field1": "ShipBase",
+    "combination": "ShipBase",
+    "null_distribution": {
+        "total_null_rows": 0,
+        "total_not_null_rows": 5
+    },
+    "data_distribution": [
+        {
+            "field_value": "9.95",
+            "row_count": 1,
+            "ratio_percent": 20.0
+        },
+        {
+            "field_value": "8.99",
+            "row_count": 1,
+            "ratio_percent": 20.0
+        },
+        {
+            "field_value": "3.95",
+            "row_count": 1,
+            "ratio_percent": 20.0
+        },
+        {
+            "field_value": "29.95",
+            "row_count": 1,
+            "ratio_percent": 20.0
+        },
+        {
+            "field_value": "21.95",
+            "row_count": 1,
+            "ratio_percent": 20.0
+        }
+    ]
+}
+@endjson

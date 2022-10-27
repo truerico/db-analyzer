@@ -1,0 +1,27 @@
+@startjson
+{
+    "field1": "Owner",
+    "combination": "Owner",
+    "null_distribution": {
+        "total_null_rows": 0,
+        "total_not_null_rows": 13
+    },
+    "data_distribution": [
+        {
+            "field_value": "220",
+            "row_count": 5,
+            "ratio_percent": 38.46153846153846
+        },
+        {
+            "field_value": "219",
+            "row_count": 4,
+            "ratio_percent": 30.76923076923077
+        },
+        {
+            "field_value": "217",
+            "row_count": 4,
+            "ratio_percent": 30.76923076923077
+        }
+    ]
+}
+@endjson

@@ -1,0 +1,42 @@
+@startjson
+{
+    "field1": "MinQty",
+    "combination": "MinQty",
+    "null_distribution": {
+        "total_null_rows": 0,
+        "total_not_null_rows": 16
+    },
+    "data_distribution": [
+        {
+            "field_value": "0",
+            "row_count": 11,
+            "ratio_percent": 68.75
+        },
+        {
+            "field_value": "61",
+            "row_count": 1,
+            "ratio_percent": 6.25
+        },
+        {
+            "field_value": "41",
+            "row_count": 1,
+            "ratio_percent": 6.25
+        },
+        {
+            "field_value": "25",
+            "row_count": 1,
+            "ratio_percent": 6.25
+        },
+        {
+            "field_value": "15",
+            "row_count": 1,
+            "ratio_percent": 6.25
+        },
+        {
+            "field_value": "11",
+            "row_count": 1,
+            "ratio_percent": 6.25
+        }
+    ]
+}
+@endjson

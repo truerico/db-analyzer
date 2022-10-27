@@ -1,0 +1,32 @@
+@startjson
+{
+    "field1": "ExpYear",
+    "combination": "ExpYear",
+    "null_distribution": {
+        "total_null_rows": 0,
+        "total_not_null_rows": 19118
+    },
+    "data_distribution": [
+        {
+            "field_value": "2007",
+            "row_count": 4832,
+            "ratio_percent": 25.274610314886495
+        },
+        {
+            "field_value": "2006",
+            "row_count": 4807,
+            "ratio_percent": 25.143843498273878
+        },
+        {
+            "field_value": "2005",
+            "row_count": 4743,
+            "ratio_percent": 24.80908044774558
+        },
+        {
+            "field_value": "2008",
+            "row_count": 4736,
+            "ratio_percent": 24.77246573909405
+        }
+    ]
+}
+@endjson

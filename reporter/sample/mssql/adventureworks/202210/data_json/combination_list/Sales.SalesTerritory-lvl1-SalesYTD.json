@@ -1,0 +1,62 @@
+@startjson
+{
+    "field1": "SalesYTD",
+    "combination": "SalesYTD",
+    "null_distribution": {
+        "total_null_rows": 0,
+        "total_not_null_rows": 10
+    },
+    "data_distribution": [
+        {
+            "field_value": "7887186.79",
+            "row_count": 1,
+            "ratio_percent": 10.0
+        },
+        {
+            "field_value": "6771829.14",
+            "row_count": 1,
+            "ratio_percent": 10.0
+        },
+        {
+            "field_value": "5977814.92",
+            "row_count": 1,
+            "ratio_percent": 10.0
+        },
+        {
+            "field_value": "5012905.37",
+            "row_count": 1,
+            "ratio_percent": 10.0
+        },
+        {
+            "field_value": "4772398.31",
+            "row_count": 1,
+            "ratio_percent": 10.0
+        },
+        {
+            "field_value": "3805202.35",
+            "row_count": 1,
+            "ratio_percent": 10.0
+        },
+        {
+            "field_value": "3072175.12",
+            "row_count": 1,
+            "ratio_percent": 10.0
+        },
+        {
+            "field_value": "2538667.25",
+            "row_count": 1,
+            "ratio_percent": 10.0
+        },
+        {
+            "field_value": "2402176.85",
+            "row_count": 1,
+            "ratio_percent": 10.0
+        },
+        {
+            "field_value": "10510853.87",
+            "row_count": 1,
+            "ratio_percent": 10.0
+        }
+    ]
+}
+@endjson

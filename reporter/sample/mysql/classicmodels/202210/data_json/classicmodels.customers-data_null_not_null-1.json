@@ -1,0 +1,73 @@
+[
+    {
+        "table": "classicmodels.customers",
+        "total_records": 122,
+        "dataset": [
+            {
+                "field": "addressLine1",
+                "total_null_rows": 0,
+                "total_not_null_rows": 122
+            },
+            {
+                "field": "phone",
+                "total_null_rows": 0,
+                "total_not_null_rows": 122
+            },
+            {
+                "field": "postalCode",
+                "total_null_rows": 7,
+                "total_not_null_rows": 115
+            },
+            {
+                "field": "state",
+                "total_null_rows": 73,
+                "total_not_null_rows": 49
+            },
+            {
+                "field": "salesRepEmployeeNumber",
+                "total_null_rows": 22,
+                "total_not_null_rows": 100
+            },
+            {
+                "field": "addressLine2",
+                "total_null_rows": 100,
+                "total_not_null_rows": 22
+            },
+            {
+                "field": "customerNumber",
+                "total_null_rows": 0,
+                "total_not_null_rows": 122
+            },
+            {
+                "field": "customerName",
+                "total_null_rows": 0,
+                "total_not_null_rows": 122
+            },
+            {
+                "field": "contactLastName",
+                "total_null_rows": 0,
+                "total_not_null_rows": 122
+            },
+            {
+                "field": "contactFirstName",
+                "total_null_rows": 0,
+                "total_not_null_rows": 122
+            },
+            {
+                "field": "city",
+                "total_null_rows": 0,
+                "total_not_null_rows": 122
+            },
+            {
+                "field": "country",
+                "total_null_rows": 0,
+                "total_not_null_rows": 122
+            },
+            {
+                "field": "creditLimit",
+                "total_null_rows": 0,
+                "total_not_null_rows": 122
+            }
+        ]
+    }
+]

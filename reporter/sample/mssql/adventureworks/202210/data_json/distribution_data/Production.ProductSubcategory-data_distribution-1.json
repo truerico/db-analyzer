@@ -1,0 +1,208 @@
+[
+    {
+        "table": "Production.ProductSubcategory",
+        "total_records": 37,
+        "dataset": [
+            {
+                "field": "ModifiedDate",
+                "distribution": [
+                    {
+                        "field_value": "Apr 30 2008 12:00AM",
+                        "row_count": 37,
+                        "ratio_percent": 100.0
+                    }
+                ]
+            },
+            {
+                "field": "Name",
+                "distribution": [
+                    {
+                        "field_value": "Derailleurs",
+                        "row_count": 1,
+                        "ratio_percent": 2.7027027027027026
+                    },
+                    {
+                        "field_value": "Cranksets",
+                        "row_count": 1,
+                        "ratio_percent": 2.7027027027027026
+                    },
+                    {
+                        "field_value": "Cleaners",
+                        "row_count": 1,
+                        "ratio_percent": 2.7027027027027026
+                    },
+                    {
+                        "field_value": "Chains",
+                        "row_count": 1,
+                        "ratio_percent": 2.7027027027027026
+                    },
+                    {
+                        "field_value": "Caps",
+                        "row_count": 1,
+                        "ratio_percent": 2.7027027027027026
+                    },
+                    {
+                        "field_value": "Brakes",
+                        "row_count": 1,
+                        "ratio_percent": 2.7027027027027026
+                    },
+                    {
+                        "field_value": "Bottom Brackets",
+                        "row_count": 1,
+                        "ratio_percent": 2.7027027027027026
+                    },
+                    {
+                        "field_value": "Bottles and Cages",
+                        "row_count": 1,
+                        "ratio_percent": 2.7027027027027026
+                    },
+                    {
+                        "field_value": "Bike Stands",
+                        "row_count": 1,
+                        "ratio_percent": 2.7027027027027026
+                    },
+                    {
+                        "field_value": "Bike Racks",
+                        "row_count": 1,
+                        "ratio_percent": 2.7027027027027026
+                    }
+                ]
+            },
+            {
+                "field": "ProductSubcategoryID",
+                "distribution": [
+                    {
+                        "field_value": "19",
+                        "row_count": 1,
+                        "ratio_percent": 2.7027027027027026
+                    },
+                    {
+                        "field_value": "18",
+                        "row_count": 1,
+                        "ratio_percent": 2.7027027027027026
+                    },
+                    {
+                        "field_value": "17",
+                        "row_count": 1,
+                        "ratio_percent": 2.7027027027027026
+                    },
+                    {
+                        "field_value": "16",
+                        "row_count": 1,
+                        "ratio_percent": 2.7027027027027026
+                    },
+                    {
+                        "field_value": "15",
+                        "row_count": 1,
+                        "ratio_percent": 2.7027027027027026
+                    },
+                    {
+                        "field_value": "14",
+                        "row_count": 1,
+                        "ratio_percent": 2.7027027027027026
+                    },
+                    {
+                        "field_value": "13",
+                        "row_count": 1,
+                        "ratio_percent": 2.7027027027027026
+                    },
+                    {
+                        "field_value": "12",
+                        "row_count": 1,
+                        "ratio_percent": 2.7027027027027026
+                    },
+                    {
+                        "field_value": "11",
+                        "row_count": 1,
+                        "ratio_percent": 2.7027027027027026
+                    },
+                    {
+                        "field_value": "10",
+                        "row_count": 1,
+                        "ratio_percent": 2.7027027027027026
+                    }
+                ]
+            },
+            {
+                "field": "ProductCategoryID",
+                "distribution": [
+                    {
+                        "field_value": "2",
+                        "row_count": 14,
+                        "ratio_percent": 37.83783783783784
+                    },
+                    {
+                        "field_value": "4",
+                        "row_count": 12,
+                        "ratio_percent": 32.432432432432435
+                    },
+                    {
+                        "field_value": "3",
+                        "row_count": 8,
+                        "ratio_percent": 21.62162162162162
+                    },
+                    {
+                        "field_value": "1",
+                        "row_count": 3,
+                        "ratio_percent": 8.108108108108109
+                    }
+                ]
+            },
+            {
+                "field": "rowguid",
+                "distribution": [
+                    {
+                        "field_value": "3C17C9AE-E906-48B4-BDD3-60E28D47DCDF",
+                        "row_count": 1,
+                        "ratio_percent": 2.7027027027027026
+                    },
+                    {
+                        "field_value": "3002A5D5-FEC3-464B-BEF3-E0F81D35F431",
+                        "row_count": 1,
+                        "ratio_percent": 2.7027027027027026
+                    },
+                    {
+                        "field_value": "2D364ADE-264A-433C-B092-4FCBF3804E01",
+                        "row_count": 1,
+                        "ratio_percent": 2.7027027027027026
+                    },
+                    {
+                        "field_value": "1A5BA5B3-03C3-457C-B11E-4FA85EDE87DA",
+                        "row_count": 1,
+                        "ratio_percent": 2.7027027027027026
+                    },
+                    {
+                        "field_value": "19646983-3FA0-4773-9A0C-F34C49DF9BC8",
+                        "row_count": 1,
+                        "ratio_percent": 2.7027027027027026
+                    },
+                    {
+                        "field_value": "1830D70C-AA2A-40C0-A271-5BA86F38F8BF",
+                        "row_count": 1,
+                        "ratio_percent": 2.7027027027027026
+                    },
+                    {
+                        "field_value": "1697F8A2-0A08-4883-B7DD-D19117B4E9A7",
+                        "row_count": 1,
+                        "ratio_percent": 2.7027027027027026
+                    },
+                    {
+                        "field_value": "09E91437-BA4F-4B1A-8215-74184FD95DB8",
+                        "row_count": 1,
+                        "ratio_percent": 2.7027027027027026
+                    },
+                    {
+                        "field_value": "049FFFA3-9D30-46DF-82F7-F20730EC02B3",
+                        "row_count": 1,
+                        "ratio_percent": 2.7027027027027026
+                    },
+                    {
+                        "field_value": "02C5061D-ECDC-4274-B5F1-E91D76BC3F37",
+                        "row_count": 1,
+                        "ratio_percent": 2.7027027027027026
+                    }
+                ]
+            }
+        ]
+    }
+]

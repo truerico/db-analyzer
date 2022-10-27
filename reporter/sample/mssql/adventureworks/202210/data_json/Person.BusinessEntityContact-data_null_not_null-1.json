@@ -1,0 +1,33 @@
+[
+    {
+        "table": "Person.BusinessEntityContact",
+        "total_records": 909,
+        "dataset": [
+            {
+                "field": "BusinessEntityID",
+                "total_null_rows": 0,
+                "total_not_null_rows": 909
+            },
+            {
+                "field": "ContactTypeID",
+                "total_null_rows": 0,
+                "total_not_null_rows": 909
+            },
+            {
+                "field": "ModifiedDate",
+                "total_null_rows": 0,
+                "total_not_null_rows": 909
+            },
+            {
+                "field": "PersonID",
+                "total_null_rows": 0,
+                "total_not_null_rows": 909
+            },
+            {
+                "field": "rowguid",
+                "total_null_rows": 0,
+                "total_not_null_rows": 909
+            }
+        ]
+    }
+]

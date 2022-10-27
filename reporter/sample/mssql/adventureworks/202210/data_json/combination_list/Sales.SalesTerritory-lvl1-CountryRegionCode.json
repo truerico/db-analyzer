@@ -1,0 +1,42 @@
+@startjson
+{
+    "field1": "CountryRegionCode",
+    "combination": "CountryRegionCode",
+    "null_distribution": {
+        "total_null_rows": 0,
+        "total_not_null_rows": 10
+    },
+    "data_distribution": [
+        {
+            "field_value": "US",
+            "row_count": 5,
+            "ratio_percent": 50.0
+        },
+        {
+            "field_value": "GB",
+            "row_count": 1,
+            "ratio_percent": 10.0
+        },
+        {
+            "field_value": "FR",
+            "row_count": 1,
+            "ratio_percent": 10.0
+        },
+        {
+            "field_value": "DE",
+            "row_count": 1,
+            "ratio_percent": 10.0
+        },
+        {
+            "field_value": "CA",
+            "row_count": 1,
+            "ratio_percent": 10.0
+        },
+        {
+            "field_value": "AU",
+            "row_count": 1,
+            "ratio_percent": 10.0
+        }
+    ]
+}
+@endjson

@@ -1,0 +1,20 @@
+[
+    {
+        "PhoneNumberTypeID": 1,
+        "Name": "Cell",
+        "ModifiedDate": "2017-12-13 13:19:22.273000",
+        "SYS_EXEC_DURATION": "0.17892"
+    },
+    {
+        "PhoneNumberTypeID": 2,
+        "Name": "Home",
+        "ModifiedDate": "2017-12-13 13:19:22.273000",
+        "SYS_EXEC_DURATION": "0.17905"
+    },
+    {
+        "PhoneNumberTypeID": 3,
+        "Name": "Work",
+        "ModifiedDate": "2017-12-13 13:19:22.273000",
+        "SYS_EXEC_DURATION": "0.179103"
+    }
+]

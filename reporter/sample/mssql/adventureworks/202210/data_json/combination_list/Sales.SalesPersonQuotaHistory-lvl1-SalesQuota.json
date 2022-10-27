@@ -1,0 +1,62 @@
+@startjson
+{
+    "field1": "SalesQuota",
+    "combination": "SalesQuota",
+    "null_distribution": {
+        "total_null_rows": 0,
+        "total_not_null_rows": 163
+    },
+    "data_distribution": [
+        {
+            "field_value": "116000.00",
+            "row_count": 2,
+            "ratio_percent": 1.2269938650306749
+        },
+        {
+            "field_value": "1262000.00",
+            "row_count": 2,
+            "ratio_percent": 1.2269938650306749
+        },
+        {
+            "field_value": "226000.00",
+            "row_count": 2,
+            "ratio_percent": 1.2269938650306749
+        },
+        {
+            "field_value": "280000.00",
+            "row_count": 2,
+            "ratio_percent": 1.2269938650306749
+        },
+        {
+            "field_value": "341000.00",
+            "row_count": 2,
+            "ratio_percent": 1.2269938650306749
+        },
+        {
+            "field_value": "390000.00",
+            "row_count": 2,
+            "ratio_percent": 1.2269938650306749
+        },
+        {
+            "field_value": "583000.00",
+            "row_count": 2,
+            "ratio_percent": 1.2269938650306749
+        },
+        {
+            "field_value": "7000.00",
+            "row_count": 2,
+            "ratio_percent": 1.2269938650306749
+        },
+        {
+            "field_value": "707000.00",
+            "row_count": 2,
+            "ratio_percent": 1.2269938650306749
+        },
+        {
+            "field_value": "1171000.00",
+            "row_count": 1,
+            "ratio_percent": 0.6134969325153374
+        }
+    ]
+}
+@endjson

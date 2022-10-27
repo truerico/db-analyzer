@@ -1,0 +1,56 @@
+```json
+@startjson
+[
+    {
+        "DatabaseLogID": 1,
+        "PostTime": "2022-10-26 14:31:40.830000",
+        "DatabaseUser": "dbo",
+        "Event": "CREATE_TABLE",
+        "Schema": "dbo",
+        "Object": "ErrorLog",
+        "TSQL": "CREATE TABLE [dbo].[ErrorLog](\r\n    [ErrorLogID] [int] IDENTITY (1, 1) NOT NULL,\r\n    [ErrorTime] [datetime] NOT NULL CONSTRAINT [DF_ErrorLog_ErrorTime] DEFAULT (GETDATE()),\r\n    [UserName] [sysname] NOT NULL, \r\n    [ErrorNumber] [int] NOT NULL, \r\n    [ErrorSeverity] [int] NULL, \r\n    [ErrorState] [int] NULL, \r\n    [ErrorProcedure] [nvarchar](126) NULL, \r\n    [ErrorLine] [int] NULL, \r\n    [ErrorMessage] [nvarchar](4000) NOT NULL\r\n) ON [PRIMARY]",
+        "SYS_EXEC_DURATION": "0.189717"
+    },
+    {
+        "DatabaseLogID": 2,
+        "PostTime": "2022-10-26 14:31:40.840000",
+        "DatabaseUser": "dbo",
+        "Event": "ALTER_TABLE",
+        "Schema": "dbo",
+        "Object": "ErrorLog",
+        "TSQL": "ALTER TABLE [dbo].[ErrorLog] WITH CHECK ADD \r\n    CONSTRAINT [PK_ErrorLog_ErrorLogID] PRIMARY KEY CLUSTERED \r\n    (\r\n        [ErrorLogID]\r\n    )  ON [PRIMARY]",
+        "SYS_EXEC_DURATION": "0.189951"
+    },
+    {
+        "DatabaseLogID": 5,
+        "PostTime": "2022-10-26 14:31:40.863000",
+        "DatabaseUser": "dbo",
+        "Event": "CREATE_TYPE",
+        "Schema": "dbo",
+        "Object": "AccountNumber",
+        "TSQL": "CREATE TYPE [AccountNumber] FROM nvarchar(15) NULL;\r\n",
+        "SYS_EXEC_DURATION": "0.190023"
+    },
+    {
+        "DatabaseLogID": 6,
+        "PostTime": "2022-10-26 14:31:40.863000",
+        "DatabaseUser": "dbo",
+        "Event": "CREATE_TYPE",
+        "Schema": "dbo",
+        "Object": "Flag",
+        "TSQL": "CREATE TYPE [Flag] FROM bit NOT NULL;\r\n",
+        "SYS_EXEC_DURATION": "0.19008"
+    },
+    {
+        "DatabaseLogID": 21,
+        "PostTime": "2022-10-26 14:31:40.993000",
+        "DatabaseUser": "dbo",
+        "Event": "CREATE_XML_SCHEMA_COLLECTION",
+        "Schema": "HumanResources",
+        "Object": "HRResumeSchemaCollection",
+        "TSQL": "CREATE XML SCHEMA COLLECTION [HumanResources].[HRResumeSchemaCollection] AS \r\n'<?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<xsd:schema targetNamespace=\"http://schemas.microsoft.com/sqlserver/2004/07/adventure-works/Resume\" \r\n    xmlns=\"http://schemas.microsoft.com/sqlserver/2004/07/adventure-works/Resume\" \r\n    xmlns:xsd=\"http://www.w3.org/2001/XMLSchema\" \r\n    elementFormDefault=\"qualified\" >\r\n\r\n    <xsd:element name=\"Resume\" type=\"ResumeType\"/>\r\n    <xsd:element name=\"Address\" type=\"AddressType\"/>\r\n    <xsd:element name=\"Education\" type=\"EducationType\"/>\r\n    <xsd:element name=\"Employment\" type=\"EmploymentType\"/>\r\n    <xsd:element name=\"Location\" type=\"LocationType\"/>\r\n    <xsd:element name=\"Name\" type=\"NameType\"/>\r\n    <xsd:element name=\"Telephone\" type=\"TelephoneType\"/>\r\n\r\n    <xsd:complexType name=\"ResumeType\">\r\n        <xsd:sequence>\r\n            <xsd:element ref=\"Name\"/>\r\n            <xsd:element name=\"Skills\" type=\"xsd:string\" minOccurs=\"0\"/>\r\n            <xsd:element ref=\"Employment\" maxOccurs=\"unbounded\"/>\r\n            <xsd:element ref=\"Education\" maxOccurs=\"unbounded\"/>\r\n            <xsd:element ref=\"Address\" maxOccurs=\"unbounded\"/>\r\n            <xsd:element ref=\"Telephone\" minOccurs=\"0\"/>\r\n            <xsd:element name=\"EMail\" type=\"xsd:string\" minOccurs=\"0\"/>\r\n            <xsd:element name=\"WebSite\" type=\"xsd:string\" minOccurs=\"0\"/>\r\n        </xsd:sequence>\r\n    </xsd:complexType>\r\n\r\n    <xsd:complexType name=\"AddressType\">\r\n        <xsd:sequence>\r\n            <xsd:element name=\"Addr.Type\" type=\"xsd:string\">\r\n                <xsd:annotation>\r\n                    <xsd:documentation>Home|Work|Permanent</xsd:documentation>\r\n                </xsd:annotation>\r\n            </xsd:element>\r\n            <xsd:element name=\"Addr.OrgName\" type=\"xsd:string\" minOccurs=\"0\"/>\r\n            <xsd:element name=\"Addr.Street\" type=\"xsd:string\" maxOccurs=\"unbounded\"/>\r\n            <xsd:element name=\"Addr.Location\">\r\n                <xsd:complexType>\r\n                    <xsd:sequence>\r\n                        <xsd:element ref=\"Location\"/>\r\n                    </xsd:sequence>\r\n                </xsd:complexType>\r\n            </xsd:element>\r\n            <xsd:element name=\"Addr.PostalCode\" type=\"xsd:string\"/>\r\n            <xsd:element name=\"Addr.Telephone\" minOccurs=\"0\">\r\n                <xsd:complexType>\r\n                    <xsd:sequence>\r\n                        <xsd:element ref=\"Telephone\" maxOccurs=\"unbounded\"/>\r\n                    </xsd:sequence>\r\n                </xsd:complexType>\r\n            </xsd:element>\r\n        </xsd:sequence>\r\n    </xsd:complexType>\r\n\r\n    <xsd:complexType name=\"EducationType\">\r\n        <xsd:sequence>\r\n            <xsd:element name=\"Edu.Level\" type=\"xsd:string\">\r\n                <xsd:annotation>\r\n                    <xsd:documentation>High School|Associate|Bachelor|Master|Doctorate</xsd:documentation>\r\n                </xsd:annotation>\r\n            </xsd:element>\r\n            <xsd:element name=\"Edu.StartDate\" type=\"xsd:date\"/>\r\n            <xsd:element name=\"Edu.EndDate\" type=\"xsd:date\"/>\r\n            <xsd:element name=\"Edu.Degree\" type=\"xsd:string\" minOccurs=\"0\"/>\r\n            <xsd:element name=\"Edu.Major\" type=\"xsd:string\" minOccurs=\"0\"/>\r\n            <xsd:element name=\"Edu.Minor\" type=\"xsd:string\" minOccurs=\"0\"/>\r\n            <xsd:element name=\"Edu.GPA\" type=\"xsd:string\" minOccurs=\"0\"/>\r\n            <xsd:element name=\"Edu.GPAAlternate\" type=\"xsd:decimal\" minOccurs=\"0\">\r\n                <xsd:annotation>\r\n                    <xsd:documentation>In case the institution does not follow a GPA system</xsd:documentation>\r\n                </xsd:annotation>\r\n            </xsd:element>\r\n            <xsd:element name=\"Edu.GPAScale\" type=\"xsd:decimal\" minOccurs=\"0\"/>\r\n            <xsd:element name=\"Edu.School\" type=\"xsd:string\" minOccurs=\"0\"/>\r\n            <xsd:element name=\"Edu.Location\" minOccurs=\"0\">\r\n                <xsd:complexType>\r\n                    <xsd:sequence>\r\n                        <xsd:element ref=\"Location\"/>\r\n                    </xsd:sequence>\r\n                </xsd:complexType>\r\n            </xsd:element>\r\n        </xsd:sequence>\r\n    </xsd:complexType>\r\n\r\n    <xsd:complexType name=\"EmploymentType\">\r\n        <xsd:sequence>\r\n            <xsd:element name=\"Emp.StartDate\" type=\"xsd:date\" minOccurs=\"0\"/>\r\n            <xsd:element name=\"Emp.EndDate\" type=\"xsd:date\" minOccurs=\"0\"/>\r\n            <xsd:element name=\"Emp.OrgName\" type=\"xsd:string\"/>\r\n            <xsd:element name=\"Emp.JobTitle\" type=\"xsd:string\"/>\r\n            <xsd:element name=\"Emp.Responsibility\" type=\"xsd:string\"/>\r\n            <xsd:element name=\"Emp.FunctionCategory\" type=\"xsd:string\" minOccurs=\"0\"/>\r\n            <xsd:element name=\"Emp.IndustryCategory\" type=\"xsd:string\" minOccurs=\"0\"/>\r\n            <xsd:element name=\"Emp.Location\" minOccurs=\"0\">\r\n                <xsd:complexType>\r\n                    <xsd:sequence>\r\n                        <xsd:element ref=\"Location\"/>\r\n                    </xsd:sequence>\r\n                </xsd:complexType>\r\n            </xsd:element>\r\n        </xsd:sequence>\r\n    </xsd:complexType>\r\n\r\n    <xsd:complexType name=\"LocationType\">\r\n        <xsd:sequence>\r\n            <xsd:element name=\"Loc.CountryRegion\" type=\"xsd:string\">\r\n                <xsd:annotation>\r\n                    <xsd:documentation>ISO 3166 Country Code</xsd:documentation>\r\n                </xsd:annotation>\r\n            </xsd:element>\r\n            <xsd:element name=\"Loc.State\" type=\"xsd:string\" minOccurs=\"0\"/>\r\n            <xsd:element name=\"Loc.City\" type=\"xsd:string\" minOccurs=\"0\"/>\r\n        </xsd:sequence>\r\n    </xsd:complexType>\r\n\r\n    <xsd:complexType name=\"NameType\">\r\n        <xsd:sequence>\r\n            <xsd:element name=\"Name.Prefix\" type=\"xsd:string\" minOccurs=\"0\"/>\r\n            <xsd:element name=\"Name.First\" type=\"xsd:string\"/>\r\n            <xsd:element name=\"Name.Middle\" type=\"xsd:string\" minOccurs=\"0\"/>\r\n            <xsd:element name=\"Name.Last\" type=\"xsd:string\"/>\r\n            <xsd:element name=\"Name.Suffix\" type=\"xsd:string\" minOccurs=\"0\"/>\r\n        </xsd:sequence>\r\n    </xsd:complexType>\r\n\r\n    <xsd:complexType name=\"TelephoneType\">\r\n        <xsd:sequence>\r\n            <xsd:element name=\"Tel.Type\" minOccurs=\"0\">\r\n                <xsd:annotation>\r\n                    <xsd:documentation>Voice|Fax|Pager</xsd:documentation>\r\n                </xsd:annotation>\r\n            </xsd:element>\r\n            <xsd:element name=\"Tel.IntlCode\" type=\"xsd:int\" minOccurs=\"0\"/>\r\n            <xsd:element name=\"Tel.AreaCode\" type=\"xsd:int\" minOccurs=\"0\"/>\r\n            <xsd:element name=\"Tel.Number\" type=\"xsd:string\"/>\r\n            <xsd:element name=\"Tel.Extension\" type=\"xsd:int\" minOccurs=\"0\"/>\r\n        </xsd:sequence>\r\n    </xsd:complexType>\r\n</xsd:schema>';\r\n",
+        "SYS_EXEC_DURATION": "0.191812"
+    }
+]
+@endjson
+```

@@ -1,0 +1,27 @@
+@startjson
+{
+    "field1": "CommissionPct",
+    "combination": "CommissionPct",
+    "null_distribution": {
+        "total_null_rows": 0,
+        "total_not_null_rows": 17
+    },
+    "data_distribution": [
+        {
+            "field_value": "0.02",
+            "row_count": 8,
+            "ratio_percent": 47.05882352941177
+        },
+        {
+            "field_value": "0.01",
+            "row_count": 6,
+            "ratio_percent": 35.294117647058826
+        },
+        {
+            "field_value": "0.00",
+            "row_count": 3,
+            "ratio_percent": 17.647058823529413
+        }
+    ]
+}
+@endjson

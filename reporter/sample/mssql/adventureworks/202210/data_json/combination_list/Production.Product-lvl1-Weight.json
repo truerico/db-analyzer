@@ -1,0 +1,62 @@
+@startjson
+{
+    "field1": "Weight",
+    "combination": "Weight",
+    "null_distribution": {
+        "total_null_rows": 299,
+        "total_not_null_rows": 205
+    },
+    "data_distribution": [
+        {
+            "field_value": "**NULL**",
+            "row_count": 299,
+            "ratio_percent": 59.32539682539682
+        },
+        {
+            "field_value": "2.30",
+            "row_count": 4,
+            "ratio_percent": 0.7936507936507936
+        },
+        {
+            "field_value": "2.96",
+            "row_count": 4,
+            "ratio_percent": 0.7936507936507936
+        },
+        {
+            "field_value": "3.00",
+            "row_count": 4,
+            "ratio_percent": 0.7936507936507936
+        },
+        {
+            "field_value": "3.04",
+            "row_count": 4,
+            "ratio_percent": 0.7936507936507936
+        },
+        {
+            "field_value": "2.24",
+            "row_count": 3,
+            "ratio_percent": 0.5952380952380952
+        },
+        {
+            "field_value": "2.36",
+            "row_count": 3,
+            "ratio_percent": 0.5952380952380952
+        },
+        {
+            "field_value": "14.77",
+            "row_count": 2,
+            "ratio_percent": 0.3968253968253968
+        },
+        {
+            "field_value": "15.13",
+            "row_count": 2,
+            "ratio_percent": 0.3968253968253968
+        },
+        {
+            "field_value": "15.42",
+            "row_count": 2,
+            "ratio_percent": 0.3968253968253968
+        }
+    ]
+}
+@endjson

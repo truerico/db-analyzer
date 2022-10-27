@@ -1,0 +1,368 @@
+[
+    {
+        "table": "Sales.SalesTerritory",
+        "total_records": 10,
+        "dataset": [
+            {
+                "field": "CostYTD",
+                "distribution": [
+                    {
+                        "field_value": "0.00",
+                        "row_count": 10,
+                        "ratio_percent": 100.0
+                    }
+                ]
+            },
+            {
+                "field": "rowguid",
+                "distribution": [
+                    {
+                        "field_value": "DF6E7FD8-1A8D-468C-B103-ED8ADDB452C1",
+                        "row_count": 1,
+                        "ratio_percent": 10.0
+                    },
+                    {
+                        "field_value": "DC3E9EA0-7950-4431-9428-99DBCBC33865",
+                        "row_count": 1,
+                        "ratio_percent": 10.0
+                    },
+                    {
+                        "field_value": "BF806804-9B4C-4B07-9D19-706F2E689552",
+                        "row_count": 1,
+                        "ratio_percent": 10.0
+                    },
+                    {
+                        "field_value": "6DC4165A-5E4C-42D2-809D-4344E0AC75E7",
+                        "row_count": 1,
+                        "ratio_percent": 10.0
+                    },
+                    {
+                        "field_value": "6D2450DB-8159-414F-A917-E73EE91C38A9",
+                        "row_count": 1,
+                        "ratio_percent": 10.0
+                    },
+                    {
+                        "field_value": "602E612E-DFE9-41D9-B894-27E489747885",
+                        "row_count": 1,
+                        "ratio_percent": 10.0
+                    },
+                    {
+                        "field_value": "43689A10-E30B-497F-B0DE-11DE20267FF7",
+                        "row_count": 1,
+                        "ratio_percent": 10.0
+                    },
+                    {
+                        "field_value": "06B4AF8A-1639-476E-9266-110461D66B00",
+                        "row_count": 1,
+                        "ratio_percent": 10.0
+                    },
+                    {
+                        "field_value": "05FC7E1F-2DEA-414E-9ECD-09D150516FB5",
+                        "row_count": 1,
+                        "ratio_percent": 10.0
+                    },
+                    {
+                        "field_value": "00FB7309-96CC-49E2-8363-0A1BA72486F2",
+                        "row_count": 1,
+                        "ratio_percent": 10.0
+                    }
+                ]
+            },
+            {
+                "field": "CostLastYear",
+                "distribution": [
+                    {
+                        "field_value": "0.00",
+                        "row_count": 10,
+                        "ratio_percent": 100.0
+                    }
+                ]
+            },
+            {
+                "field": "CountryRegionCode",
+                "distribution": [
+                    {
+                        "field_value": "US",
+                        "row_count": 5,
+                        "ratio_percent": 50.0
+                    },
+                    {
+                        "field_value": "GB",
+                        "row_count": 1,
+                        "ratio_percent": 10.0
+                    },
+                    {
+                        "field_value": "FR",
+                        "row_count": 1,
+                        "ratio_percent": 10.0
+                    },
+                    {
+                        "field_value": "DE",
+                        "row_count": 1,
+                        "ratio_percent": 10.0
+                    },
+                    {
+                        "field_value": "CA",
+                        "row_count": 1,
+                        "ratio_percent": 10.0
+                    },
+                    {
+                        "field_value": "AU",
+                        "row_count": 1,
+                        "ratio_percent": 10.0
+                    }
+                ]
+            },
+            {
+                "field": "Group",
+                "distribution": [
+                    {
+                        "field_value": "North America",
+                        "row_count": 6,
+                        "ratio_percent": 60.0
+                    },
+                    {
+                        "field_value": "Europe",
+                        "row_count": 3,
+                        "ratio_percent": 30.0
+                    },
+                    {
+                        "field_value": "Pacific",
+                        "row_count": 1,
+                        "ratio_percent": 10.0
+                    }
+                ]
+            },
+            {
+                "field": "ModifiedDate",
+                "distribution": [
+                    {
+                        "field_value": "Apr 30 2008 12:00AM",
+                        "row_count": 10,
+                        "ratio_percent": 100.0
+                    }
+                ]
+            },
+            {
+                "field": "Name",
+                "distribution": [
+                    {
+                        "field_value": "United Kingdom",
+                        "row_count": 1,
+                        "ratio_percent": 10.0
+                    },
+                    {
+                        "field_value": "Southwest",
+                        "row_count": 1,
+                        "ratio_percent": 10.0
+                    },
+                    {
+                        "field_value": "Southeast",
+                        "row_count": 1,
+                        "ratio_percent": 10.0
+                    },
+                    {
+                        "field_value": "Northwest",
+                        "row_count": 1,
+                        "ratio_percent": 10.0
+                    },
+                    {
+                        "field_value": "Northeast",
+                        "row_count": 1,
+                        "ratio_percent": 10.0
+                    },
+                    {
+                        "field_value": "Germany",
+                        "row_count": 1,
+                        "ratio_percent": 10.0
+                    },
+                    {
+                        "field_value": "France",
+                        "row_count": 1,
+                        "ratio_percent": 10.0
+                    },
+                    {
+                        "field_value": "Central",
+                        "row_count": 1,
+                        "ratio_percent": 10.0
+                    },
+                    {
+                        "field_value": "Canada",
+                        "row_count": 1,
+                        "ratio_percent": 10.0
+                    },
+                    {
+                        "field_value": "Australia",
+                        "row_count": 1,
+                        "ratio_percent": 10.0
+                    }
+                ]
+            },
+            {
+                "field": "SalesYTD",
+                "distribution": [
+                    {
+                        "field_value": "7887186.79",
+                        "row_count": 1,
+                        "ratio_percent": 10.0
+                    },
+                    {
+                        "field_value": "6771829.14",
+                        "row_count": 1,
+                        "ratio_percent": 10.0
+                    },
+                    {
+                        "field_value": "5977814.92",
+                        "row_count": 1,
+                        "ratio_percent": 10.0
+                    },
+                    {
+                        "field_value": "5012905.37",
+                        "row_count": 1,
+                        "ratio_percent": 10.0
+                    },
+                    {
+                        "field_value": "4772398.31",
+                        "row_count": 1,
+                        "ratio_percent": 10.0
+                    },
+                    {
+                        "field_value": "3805202.35",
+                        "row_count": 1,
+                        "ratio_percent": 10.0
+                    },
+                    {
+                        "field_value": "3072175.12",
+                        "row_count": 1,
+                        "ratio_percent": 10.0
+                    },
+                    {
+                        "field_value": "2538667.25",
+                        "row_count": 1,
+                        "ratio_percent": 10.0
+                    },
+                    {
+                        "field_value": "2402176.85",
+                        "row_count": 1,
+                        "ratio_percent": 10.0
+                    },
+                    {
+                        "field_value": "10510853.87",
+                        "row_count": 1,
+                        "ratio_percent": 10.0
+                    }
+                ]
+            },
+            {
+                "field": "SalesLastYear",
+                "distribution": [
+                    {
+                        "field_value": "5693988.86",
+                        "row_count": 1,
+                        "ratio_percent": 10.0
+                    },
+                    {
+                        "field_value": "5366575.71",
+                        "row_count": 1,
+                        "ratio_percent": 10.0
+                    },
+                    {
+                        "field_value": "3925071.43",
+                        "row_count": 1,
+                        "ratio_percent": 10.0
+                    },
+                    {
+                        "field_value": "3607148.94",
+                        "row_count": 1,
+                        "ratio_percent": 10.0
+                    },
+                    {
+                        "field_value": "3298694.49",
+                        "row_count": 1,
+                        "ratio_percent": 10.0
+                    },
+                    {
+                        "field_value": "3205014.08",
+                        "row_count": 1,
+                        "ratio_percent": 10.0
+                    },
+                    {
+                        "field_value": "2396539.76",
+                        "row_count": 1,
+                        "ratio_percent": 10.0
+                    },
+                    {
+                        "field_value": "2278548.98",
+                        "row_count": 1,
+                        "ratio_percent": 10.0
+                    },
+                    {
+                        "field_value": "1635823.40",
+                        "row_count": 1,
+                        "ratio_percent": 10.0
+                    },
+                    {
+                        "field_value": "1307949.79",
+                        "row_count": 1,
+                        "ratio_percent": 10.0
+                    }
+                ]
+            },
+            {
+                "field": "TerritoryID",
+                "distribution": [
+                    {
+                        "field_value": "9",
+                        "row_count": 1,
+                        "ratio_percent": 10.0
+                    },
+                    {
+                        "field_value": "8",
+                        "row_count": 1,
+                        "ratio_percent": 10.0
+                    },
+                    {
+                        "field_value": "7",
+                        "row_count": 1,
+                        "ratio_percent": 10.0
+                    },
+                    {
+                        "field_value": "6",
+                        "row_count": 1,
+                        "ratio_percent": 10.0
+                    },
+                    {
+                        "field_value": "5",
+                        "row_count": 1,
+                        "ratio_percent": 10.0
+                    },
+                    {
+                        "field_value": "4",
+                        "row_count": 1,
+                        "ratio_percent": 10.0
+                    },
+                    {
+                        "field_value": "3",
+                        "row_count": 1,
+                        "ratio_percent": 10.0
+                    },
+                    {
+                        "field_value": "2",
+                        "row_count": 1,
+                        "ratio_percent": 10.0
+                    },
+                    {
+                        "field_value": "10",
+                        "row_count": 1,
+                        "ratio_percent": 10.0
+                    },
+                    {
+                        "field_value": "1",
+                        "row_count": 1,
+                        "ratio_percent": 10.0
+                    }
+                ]
+            }
+        ]
+    }
+]

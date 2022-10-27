@@ -1,0 +1,47 @@
+@startjson
+{
+    "field1": "SalesReasonID",
+    "combination": "SalesReasonID",
+    "null_distribution": {
+        "total_null_rows": 0,
+        "total_not_null_rows": 27647
+    },
+    "data_distribution": [
+        {
+            "field_value": "1",
+            "row_count": 17473,
+            "ratio_percent": 63.20034723478135
+        },
+        {
+            "field_value": "2",
+            "row_count": 3515,
+            "ratio_percent": 12.713856837993273
+        },
+        {
+            "field_value": "5",
+            "row_count": 1746,
+            "ratio_percent": 6.315332585814012
+        },
+        {
+            "field_value": "9",
+            "row_count": 1551,
+            "ratio_percent": 5.610011936195609
+        },
+        {
+            "field_value": "10",
+            "row_count": 1395,
+            "ratio_percent": 5.045755416500886
+        },
+        {
+            "field_value": "6",
+            "row_count": 1245,
+            "ratio_percent": 4.503201070640576
+        },
+        {
+            "field_value": "4",
+            "row_count": 722,
+            "ratio_percent": 2.611494918074294
+        }
+    ]
+}
+@endjson

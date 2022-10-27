@@ -1,0 +1,42 @@
+@startjson
+{
+    "field1": "GroupName",
+    "combination": "GroupName",
+    "null_distribution": {
+        "total_null_rows": 0,
+        "total_not_null_rows": 16
+    },
+    "data_distribution": [
+        {
+            "field_value": "Executive General and Administration",
+            "row_count": 5,
+            "ratio_percent": 31.25
+        },
+        {
+            "field_value": "Research and Development",
+            "row_count": 3,
+            "ratio_percent": 18.75
+        },
+        {
+            "field_value": "Sales and Marketing",
+            "row_count": 2,
+            "ratio_percent": 12.5
+        },
+        {
+            "field_value": "Quality Assurance",
+            "row_count": 2,
+            "ratio_percent": 12.5
+        },
+        {
+            "field_value": "Manufacturing",
+            "row_count": 2,
+            "ratio_percent": 12.5
+        },
+        {
+            "field_value": "Inventory Management",
+            "row_count": 2,
+            "ratio_percent": 12.5
+        }
+    ]
+}
+@endjson

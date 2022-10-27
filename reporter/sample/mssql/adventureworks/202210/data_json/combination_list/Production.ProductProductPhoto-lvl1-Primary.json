@@ -1,0 +1,17 @@
+@startjson
+{
+    "field1": "Primary",
+    "combination": "Primary",
+    "null_distribution": {
+        "total_null_rows": 0,
+        "total_not_null_rows": 504
+    },
+    "data_distribution": [
+        {
+            "field_value": "1",
+            "row_count": 504,
+            "ratio_percent": 100.0
+        }
+    ]
+}
+@endjson

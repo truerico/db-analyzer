@@ -1,0 +1,23 @@
+[
+    {
+        "table": "Production.Culture",
+        "total_records": 8,
+        "dataset": [
+            {
+                "field": "CultureID",
+                "total_null_rows": 0,
+                "total_not_null_rows": 8
+            },
+            {
+                "field": "ModifiedDate",
+                "total_null_rows": 0,
+                "total_not_null_rows": 8
+            },
+            {
+                "field": "Name",
+                "total_null_rows": 0,
+                "total_not_null_rows": 8
+            }
+        ]
+    }
+]

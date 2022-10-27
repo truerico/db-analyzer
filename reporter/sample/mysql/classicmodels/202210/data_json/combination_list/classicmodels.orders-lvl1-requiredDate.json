@@ -1,0 +1,62 @@
+@startjson
+{
+    "field1": "requiredDate",
+    "combination": "requiredDate",
+    "null_distribution": {
+        "total_null_rows": 0,
+        "total_not_null_rows": 326
+    },
+    "data_distribution": [
+        {
+            "field_value": "2004-12-01",
+            "row_count": 5,
+            "ratio_percent": 1.5337423312883436
+        },
+        {
+            "field_value": "2004-11-12",
+            "row_count": 4,
+            "ratio_percent": 1.2269938650306749
+        },
+        {
+            "field_value": "2005-03-09",
+            "row_count": 4,
+            "ratio_percent": 1.2269938650306749
+        },
+        {
+            "field_value": "2003-12-09",
+            "row_count": 3,
+            "ratio_percent": 0.9202453987730062
+        },
+        {
+            "field_value": "2003-11-14",
+            "row_count": 3,
+            "ratio_percent": 0.9202453987730062
+        },
+        {
+            "field_value": "2004-09-17",
+            "row_count": 3,
+            "ratio_percent": 0.9202453987730062
+        },
+        {
+            "field_value": "2004-10-24",
+            "row_count": 3,
+            "ratio_percent": 0.9202453987730062
+        },
+        {
+            "field_value": "2005-02-18",
+            "row_count": 3,
+            "ratio_percent": 0.9202453987730062
+        },
+        {
+            "field_value": "2003-10-30",
+            "row_count": 3,
+            "ratio_percent": 0.9202453987730062
+        },
+        {
+            "field_value": "2003-11-15",
+            "row_count": 3,
+            "ratio_percent": 0.9202453987730062
+        }
+    ]
+}
+@endjson

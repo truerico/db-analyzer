@@ -1,0 +1,62 @@
+@startjson
+{
+    "field1": "StockedQty",
+    "combination": "StockedQty",
+    "null_distribution": {
+        "total_null_rows": 0,
+        "total_not_null_rows": 72591
+    },
+    "data_distribution": [
+        {
+            "field_value": "1",
+            "row_count": 20830,
+            "ratio_percent": 28.695017288644596
+        },
+        {
+            "field_value": "2",
+            "row_count": 9001,
+            "ratio_percent": 12.39960876692703
+        },
+        {
+            "field_value": "3",
+            "row_count": 5047,
+            "ratio_percent": 6.952652532683115
+        },
+        {
+            "field_value": "4",
+            "row_count": 4333,
+            "ratio_percent": 5.969059525285504
+        },
+        {
+            "field_value": "5",
+            "row_count": 3214,
+            "ratio_percent": 4.427546114532104
+        },
+        {
+            "field_value": "6",
+            "row_count": 3198,
+            "ratio_percent": 4.405504814646444
+        },
+        {
+            "field_value": "7",
+            "row_count": 2261,
+            "ratio_percent": 3.114711190092436
+        },
+        {
+            "field_value": "8",
+            "row_count": 2253,
+            "ratio_percent": 3.1036905401496053
+        },
+        {
+            "field_value": "10",
+            "row_count": 1842,
+            "ratio_percent": 2.537504649336695
+        },
+        {
+            "field_value": "9",
+            "row_count": 1491,
+            "ratio_percent": 2.0539736330950116
+        }
+    ]
+}
+@endjson

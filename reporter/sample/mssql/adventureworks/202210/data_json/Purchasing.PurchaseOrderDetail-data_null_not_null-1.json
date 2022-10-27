@@ -1,0 +1,63 @@
+[
+    {
+        "table": "Purchasing.PurchaseOrderDetail",
+        "total_records": 8845,
+        "dataset": [
+            {
+                "field": "DueDate",
+                "total_null_rows": 0,
+                "total_not_null_rows": 8845
+            },
+            {
+                "field": "StockedQty",
+                "total_null_rows": 0,
+                "total_not_null_rows": 8845
+            },
+            {
+                "field": "UnitPrice",
+                "total_null_rows": 0,
+                "total_not_null_rows": 8845
+            },
+            {
+                "field": "LineTotal",
+                "total_null_rows": 0,
+                "total_not_null_rows": 8845
+            },
+            {
+                "field": "ModifiedDate",
+                "total_null_rows": 0,
+                "total_not_null_rows": 8845
+            },
+            {
+                "field": "OrderQty",
+                "total_null_rows": 0,
+                "total_not_null_rows": 8845
+            },
+            {
+                "field": "PurchaseOrderID",
+                "total_null_rows": 0,
+                "total_not_null_rows": 8845
+            },
+            {
+                "field": "PurchaseOrderDetailID",
+                "total_null_rows": 0,
+                "total_not_null_rows": 8845
+            },
+            {
+                "field": "ProductID",
+                "total_null_rows": 0,
+                "total_not_null_rows": 8845
+            },
+            {
+                "field": "ReceivedQty",
+                "total_null_rows": 0,
+                "total_not_null_rows": 8845
+            },
+            {
+                "field": "RejectedQty",
+                "total_null_rows": 0,
+                "total_not_null_rows": 8845
+            }
+        ]
+    }
+]

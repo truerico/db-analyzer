@@ -1,0 +1,62 @@
+@startjson
+{
+    "field1": "TransactionID",
+    "combination": "TransactionID",
+    "null_distribution": {
+        "total_null_rows": 0,
+        "total_not_null_rows": 113443
+    },
+    "data_distribution": [
+        {
+            "field_value": "107522",
+            "row_count": 1,
+            "ratio_percent": 0.0008814999603325018
+        },
+        {
+            "field_value": "147438",
+            "row_count": 1,
+            "ratio_percent": 0.0008814999603325018
+        },
+        {
+            "field_value": "172069",
+            "row_count": 1,
+            "ratio_percent": 0.0008814999603325018
+        },
+        {
+            "field_value": "197154",
+            "row_count": 1,
+            "ratio_percent": 0.0008814999603325018
+        },
+        {
+            "field_value": "164819",
+            "row_count": 1,
+            "ratio_percent": 0.0008814999603325018
+        },
+        {
+            "field_value": "163936",
+            "row_count": 1,
+            "ratio_percent": 0.0008814999603325018
+        },
+        {
+            "field_value": "153439",
+            "row_count": 1,
+            "ratio_percent": 0.0008814999603325018
+        },
+        {
+            "field_value": "161647",
+            "row_count": 1,
+            "ratio_percent": 0.0008814999603325018
+        },
+        {
+            "field_value": "188070",
+            "row_count": 1,
+            "ratio_percent": 0.0008814999603325018
+        },
+        {
+            "field_value": "194618",
+            "row_count": 1,
+            "ratio_percent": 0.0008814999603325018
+        }
+    ]
+}
+@endjson

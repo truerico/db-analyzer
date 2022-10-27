@@ -1,0 +1,37 @@
+@startjson
+{
+    "field1": "Name",
+    "combination": "Name",
+    "null_distribution": {
+        "total_null_rows": 0,
+        "total_not_null_rows": 5
+    },
+    "data_distribution": [
+        {
+            "field_value": "ZY - EXPRESS",
+            "row_count": 1,
+            "ratio_percent": 20.0
+        },
+        {
+            "field_value": "XRQ - TRUCK GROUND",
+            "row_count": 1,
+            "ratio_percent": 20.0
+        },
+        {
+            "field_value": "OVERSEAS - DELUXE",
+            "row_count": 1,
+            "ratio_percent": 20.0
+        },
+        {
+            "field_value": "OVERNIGHT J-FAST",
+            "row_count": 1,
+            "ratio_percent": 20.0
+        },
+        {
+            "field_value": "CARGO TRANSPORT 5",
+            "row_count": 1,
+            "ratio_percent": 20.0
+        }
+    ]
+}
+@endjson

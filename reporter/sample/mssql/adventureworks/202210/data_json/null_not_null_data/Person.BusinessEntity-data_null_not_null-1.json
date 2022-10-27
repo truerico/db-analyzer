@@ -1,0 +1,23 @@
+[
+    {
+        "table": "Person.BusinessEntity",
+        "total_records": 20777,
+        "dataset": [
+            {
+                "field": "BusinessEntityID",
+                "total_null_rows": 0,
+                "total_not_null_rows": 20777
+            },
+            {
+                "field": "ModifiedDate",
+                "total_null_rows": 0,
+                "total_not_null_rows": 20777
+            },
+            {
+                "field": "rowguid",
+                "total_null_rows": 0,
+                "total_not_null_rows": 20777
+            }
+        ]
+    }
+]

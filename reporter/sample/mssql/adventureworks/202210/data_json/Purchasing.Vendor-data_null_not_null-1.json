@@ -1,0 +1,48 @@
+[
+    {
+        "table": "Purchasing.Vendor",
+        "total_records": 104,
+        "dataset": [
+            {
+                "field": "AccountNumber",
+                "total_null_rows": 0,
+                "total_not_null_rows": 104
+            },
+            {
+                "field": "ActiveFlag",
+                "total_null_rows": 0,
+                "total_not_null_rows": 104
+            },
+            {
+                "field": "BusinessEntityID",
+                "total_null_rows": 0,
+                "total_not_null_rows": 104
+            },
+            {
+                "field": "CreditRating",
+                "total_null_rows": 0,
+                "total_not_null_rows": 104
+            },
+            {
+                "field": "ModifiedDate",
+                "total_null_rows": 0,
+                "total_not_null_rows": 104
+            },
+            {
+                "field": "Name",
+                "total_null_rows": 0,
+                "total_not_null_rows": 104
+            },
+            {
+                "field": "PreferredVendorStatus",
+                "total_null_rows": 0,
+                "total_not_null_rows": 104
+            },
+            {
+                "field": "PurchasingWebServiceURL",
+                "total_null_rows": 98,
+                "total_not_null_rows": 6
+            }
+        ]
+    }
+]

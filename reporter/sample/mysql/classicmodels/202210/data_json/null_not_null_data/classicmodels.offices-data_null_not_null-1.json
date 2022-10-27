@@ -1,0 +1,53 @@
+[
+    {
+        "table": "classicmodels.offices",
+        "total_records": 7,
+        "dataset": [
+            {
+                "field": "addressLine1",
+                "total_null_rows": 0,
+                "total_not_null_rows": 7
+            },
+            {
+                "field": "addressLine2",
+                "total_null_rows": 2,
+                "total_not_null_rows": 5
+            },
+            {
+                "field": "city",
+                "total_null_rows": 0,
+                "total_not_null_rows": 7
+            },
+            {
+                "field": "country",
+                "total_null_rows": 0,
+                "total_not_null_rows": 7
+            },
+            {
+                "field": "officeCode",
+                "total_null_rows": 0,
+                "total_not_null_rows": 7
+            },
+            {
+                "field": "phone",
+                "total_null_rows": 0,
+                "total_not_null_rows": 7
+            },
+            {
+                "field": "postalCode",
+                "total_null_rows": 0,
+                "total_not_null_rows": 7
+            },
+            {
+                "field": "state",
+                "total_null_rows": 3,
+                "total_not_null_rows": 4
+            },
+            {
+                "field": "territory",
+                "total_null_rows": 0,
+                "total_not_null_rows": 7
+            }
+        ]
+    }
+]

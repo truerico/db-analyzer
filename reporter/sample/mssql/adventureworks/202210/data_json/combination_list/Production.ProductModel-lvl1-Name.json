@@ -1,0 +1,62 @@
+@startjson
+{
+    "field1": "Name",
+    "combination": "Name",
+    "null_distribution": {
+        "total_null_rows": 0,
+        "total_not_null_rows": 128
+    },
+    "data_distribution": [
+        {
+            "field_value": "Half-Finger Gloves",
+            "row_count": 1,
+            "ratio_percent": 0.78125
+        },
+        {
+            "field_value": "Full-Finger Gloves",
+            "row_count": 1,
+            "ratio_percent": 0.78125
+        },
+        {
+            "field_value": "Front Derailleur",
+            "row_count": 1,
+            "ratio_percent": 0.78125
+        },
+        {
+            "field_value": "Front Brakes",
+            "row_count": 1,
+            "ratio_percent": 0.78125
+        },
+        {
+            "field_value": "Fender Set - Mountain",
+            "row_count": 1,
+            "ratio_percent": 0.78125
+        },
+        {
+            "field_value": "Cycling Cap",
+            "row_count": 1,
+            "ratio_percent": 0.78125
+        },
+        {
+            "field_value": "Classic Vest",
+            "row_count": 1,
+            "ratio_percent": 0.78125
+        },
+        {
+            "field_value": "Chain",
+            "row_count": 1,
+            "ratio_percent": 0.78125
+        },
+        {
+            "field_value": "Cable Lock",
+            "row_count": 1,
+            "ratio_percent": 0.78125
+        },
+        {
+            "field_value": "Bike Wash",
+            "row_count": 1,
+            "ratio_percent": 0.78125
+        }
+    ]
+}
+@endjson

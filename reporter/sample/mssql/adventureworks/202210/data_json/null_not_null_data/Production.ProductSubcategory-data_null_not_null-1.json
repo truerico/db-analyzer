@@ -1,0 +1,33 @@
+[
+    {
+        "table": "Production.ProductSubcategory",
+        "total_records": 37,
+        "dataset": [
+            {
+                "field": "ModifiedDate",
+                "total_null_rows": 0,
+                "total_not_null_rows": 37
+            },
+            {
+                "field": "Name",
+                "total_null_rows": 0,
+                "total_not_null_rows": 37
+            },
+            {
+                "field": "ProductSubcategoryID",
+                "total_null_rows": 0,
+                "total_not_null_rows": 37
+            },
+            {
+                "field": "ProductCategoryID",
+                "total_null_rows": 0,
+                "total_not_null_rows": 37
+            },
+            {
+                "field": "rowguid",
+                "total_null_rows": 0,
+                "total_not_null_rows": 37
+            }
+        ]
+    }
+]

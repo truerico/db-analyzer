@@ -1,0 +1,62 @@
+@startjson
+{
+    "field1": "productVendor",
+    "combination": "productVendor",
+    "null_distribution": {
+        "total_null_rows": 0,
+        "total_not_null_rows": 110
+    },
+    "data_distribution": [
+        {
+            "field_value": "Classic Metal Creations",
+            "row_count": 10,
+            "ratio_percent": 9.090909090909092
+        },
+        {
+            "field_value": "Carousel DieCast Legends",
+            "row_count": 9,
+            "ratio_percent": 8.181818181818182
+        },
+        {
+            "field_value": "Gearbox Collectibles",
+            "row_count": 9,
+            "ratio_percent": 8.181818181818182
+        },
+        {
+            "field_value": "Motor City Art Classics",
+            "row_count": 9,
+            "ratio_percent": 8.181818181818182
+        },
+        {
+            "field_value": "Exoto Designs",
+            "row_count": 9,
+            "ratio_percent": 8.181818181818182
+        },
+        {
+            "field_value": "Highway 66 Mini Classics",
+            "row_count": 9,
+            "ratio_percent": 8.181818181818182
+        },
+        {
+            "field_value": "Unimax Art Galleries",
+            "row_count": 8,
+            "ratio_percent": 7.2727272727272725
+        },
+        {
+            "field_value": "Welly Diecast Productions",
+            "row_count": 8,
+            "ratio_percent": 7.2727272727272725
+        },
+        {
+            "field_value": "Min Lin Diecast",
+            "row_count": 8,
+            "ratio_percent": 7.2727272727272725
+        },
+        {
+            "field_value": "Autoart Studio Design",
+            "row_count": 8,
+            "ratio_percent": 7.2727272727272725
+        }
+    ]
+}
+@endjson

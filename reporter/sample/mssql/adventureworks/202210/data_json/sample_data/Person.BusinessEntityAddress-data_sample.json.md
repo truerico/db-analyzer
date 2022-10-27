@@ -1,0 +1,46 @@
+```json
+@startjson
+[
+    {
+        "BusinessEntityID": 1,
+        "AddressID": 249,
+        "AddressTypeID": 2,
+        "rowguid": "3A5D0A00-6739-4DFE-A8F7-844CD9DEE3DF",
+        "ModifiedDate": "2014-09-12 11:15:06.967000",
+        "SYS_EXEC_DURATION": "0.18437"
+    },
+    {
+        "BusinessEntityID": 2,
+        "AddressID": 293,
+        "AddressTypeID": 2,
+        "rowguid": "84AE7057-EDF4-4C51-8B8D-3AEAEFBFB4A1",
+        "ModifiedDate": "2014-09-12 11:15:06.967000",
+        "SYS_EXEC_DURATION": "0.184545"
+    },
+    {
+        "BusinessEntityID": 3,
+        "AddressID": 224,
+        "AddressTypeID": 2,
+        "rowguid": "3C915B31-7C05-4A05-9859-0DF663677240",
+        "ModifiedDate": "2014-09-12 11:15:06.967000",
+        "SYS_EXEC_DURATION": "0.184608"
+    },
+    {
+        "BusinessEntityID": 4,
+        "AddressID": 11387,
+        "AddressTypeID": 2,
+        "rowguid": "3DC70CC4-3AE8-424F-8B1F-481C5478E941",
+        "ModifiedDate": "2014-09-12 11:15:06.967000",
+        "SYS_EXEC_DURATION": "0.184667"
+    },
+    {
+        "BusinessEntityID": 5,
+        "AddressID": 190,
+        "AddressTypeID": 2,
+        "rowguid": "C0ED2F68-937B-4594-9459-581AC53C98E3",
+        "ModifiedDate": "2014-09-12 11:15:06.967000",
+        "SYS_EXEC_DURATION": "0.184741"
+    }
+]
+@endjson
+```

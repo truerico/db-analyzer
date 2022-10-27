@@ -1,0 +1,33 @@
+[
+    {
+        "table": "HumanResources.EmployeePayHistory",
+        "total_records": 316,
+        "dataset": [
+            {
+                "field": "BusinessEntityID",
+                "total_null_rows": 0,
+                "total_not_null_rows": 316
+            },
+            {
+                "field": "ModifiedDate",
+                "total_null_rows": 0,
+                "total_not_null_rows": 316
+            },
+            {
+                "field": "PayFrequency",
+                "total_null_rows": 0,
+                "total_not_null_rows": 316
+            },
+            {
+                "field": "RateChangeDate",
+                "total_null_rows": 0,
+                "total_not_null_rows": 316
+            },
+            {
+                "field": "Rate",
+                "total_null_rows": 0,
+                "total_not_null_rows": 316
+            }
+        ]
+    }
+]

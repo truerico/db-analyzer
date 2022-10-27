@@ -1,0 +1,62 @@
+@startjson
+{
+    "field1": "CarrierTrackingNumber",
+    "combination": "CarrierTrackingNumber",
+    "null_distribution": {
+        "total_null_rows": 60398,
+        "total_not_null_rows": 60919
+    },
+    "data_distribution": [
+        {
+            "field_value": "**NULL**",
+            "row_count": 60398,
+            "ratio_percent": 49.785273292283854
+        },
+        {
+            "field_value": "9429-430D-89",
+            "row_count": 72,
+            "ratio_percent": 0.059348648581814586
+        },
+        {
+            "field_value": "AF60-4F2F-9B",
+            "row_count": 72,
+            "ratio_percent": 0.059348648581814586
+        },
+        {
+            "field_value": "D859-4DF3-84",
+            "row_count": 71,
+            "ratio_percent": 0.05852436179595605
+        },
+        {
+            "field_value": "3F3F-4135-B0",
+            "row_count": 71,
+            "ratio_percent": 0.05852436179595605
+        },
+        {
+            "field_value": "6B7D-4E47-B5",
+            "row_count": 68,
+            "ratio_percent": 0.05605150143838044
+        },
+        {
+            "field_value": "6C2D-4670-B0",
+            "row_count": 67,
+            "ratio_percent": 0.05522721465252191
+        },
+        {
+            "field_value": "52CC-460F-B3",
+            "row_count": 67,
+            "ratio_percent": 0.05522721465252191
+        },
+        {
+            "field_value": "2455-4B60-A5",
+            "row_count": 66,
+            "ratio_percent": 0.05440292786666337
+        },
+        {
+            "field_value": "EBDE-4A71-8E",
+            "row_count": 66,
+            "ratio_percent": 0.05440292786666337
+        }
+    ]
+}
+@endjson

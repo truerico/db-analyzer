@@ -1,0 +1,22 @@
+@startjson
+{
+    "field1": "MaritalStatus",
+    "combination": "MaritalStatus",
+    "null_distribution": {
+        "total_null_rows": 0,
+        "total_not_null_rows": 290
+    },
+    "data_distribution": [
+        {
+            "field_value": "M",
+            "row_count": 146,
+            "ratio_percent": 50.3448275862069
+        },
+        {
+            "field_value": "S",
+            "row_count": 144,
+            "ratio_percent": 49.6551724137931
+        }
+    ]
+}
+@endjson

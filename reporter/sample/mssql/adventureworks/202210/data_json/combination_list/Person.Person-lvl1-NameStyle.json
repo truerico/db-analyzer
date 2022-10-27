@@ -1,0 +1,17 @@
+@startjson
+{
+    "field1": "NameStyle",
+    "combination": "NameStyle",
+    "null_distribution": {
+        "total_null_rows": 0,
+        "total_not_null_rows": 19972
+    },
+    "data_distribution": [
+        {
+            "field_value": "0",
+            "row_count": 19972,
+            "ratio_percent": 100.0
+        }
+    ]
+}
+@endjson

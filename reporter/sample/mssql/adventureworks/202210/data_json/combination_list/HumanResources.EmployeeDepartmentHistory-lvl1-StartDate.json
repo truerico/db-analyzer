@@ -1,0 +1,62 @@
+@startjson
+{
+    "field1": "StartDate",
+    "combination": "StartDate",
+    "null_distribution": {
+        "total_null_rows": 0,
+        "total_not_null_rows": 296
+    },
+    "data_distribution": [
+        {
+            "field_value": "2011-05-31",
+            "row_count": 9,
+            "ratio_percent": 3.0405405405405403
+        },
+        {
+            "field_value": "2008-12-07",
+            "row_count": 5,
+            "ratio_percent": 1.6891891891891893
+        },
+        {
+            "field_value": "2009-02-08",
+            "row_count": 5,
+            "ratio_percent": 1.6891891891891893
+        },
+        {
+            "field_value": "2009-02-26",
+            "row_count": 5,
+            "ratio_percent": 1.6891891891891893
+        },
+        {
+            "field_value": "2008-12-12",
+            "row_count": 4,
+            "ratio_percent": 1.3513513513513513
+        },
+        {
+            "field_value": "2009-01-04",
+            "row_count": 4,
+            "ratio_percent": 1.3513513513513513
+        },
+        {
+            "field_value": "2009-01-12",
+            "row_count": 4,
+            "ratio_percent": 1.3513513513513513
+        },
+        {
+            "field_value": "2009-01-22",
+            "row_count": 4,
+            "ratio_percent": 1.3513513513513513
+        },
+        {
+            "field_value": "2008-12-02",
+            "row_count": 3,
+            "ratio_percent": 1.0135135135135136
+        },
+        {
+            "field_value": "2008-12-04",
+            "row_count": 3,
+            "ratio_percent": 1.0135135135135136
+        }
+    ]
+}
+@endjson

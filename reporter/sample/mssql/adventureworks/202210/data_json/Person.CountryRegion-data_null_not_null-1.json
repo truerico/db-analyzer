@@ -1,0 +1,23 @@
+[
+    {
+        "table": "Person.CountryRegion",
+        "total_records": 238,
+        "dataset": [
+            {
+                "field": "CountryRegionCode",
+                "total_null_rows": 0,
+                "total_not_null_rows": 238
+            },
+            {
+                "field": "ModifiedDate",
+                "total_null_rows": 0,
+                "total_not_null_rows": 238
+            },
+            {
+                "field": "Name",
+                "total_null_rows": 0,
+                "total_not_null_rows": 238
+            }
+        ]
+    }
+]

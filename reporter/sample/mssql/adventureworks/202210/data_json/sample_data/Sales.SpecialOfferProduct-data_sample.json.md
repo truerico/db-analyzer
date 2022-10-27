@@ -1,0 +1,41 @@
+```json
+@startjson
+[
+    {
+        "SpecialOfferID": 1,
+        "ProductID": 680,
+        "rowguid": "BB30B868-D86C-4557-8DB2-4B2D0A83A0FB",
+        "ModifiedDate": "2011-04-01 00:00:00",
+        "SYS_EXEC_DURATION": "0.18014"
+    },
+    {
+        "SpecialOfferID": 1,
+        "ProductID": 706,
+        "rowguid": "B3C9A4B1-2AE6-4CBA-B552-1F206C9F4C1F",
+        "ModifiedDate": "2011-04-01 00:00:00",
+        "SYS_EXEC_DURATION": "0.180298"
+    },
+    {
+        "SpecialOfferID": 1,
+        "ProductID": 707,
+        "rowguid": "27B711FE-0B77-4EA4-AD1A-7C239956BEF4",
+        "ModifiedDate": "2011-04-01 00:00:00",
+        "SYS_EXEC_DURATION": "0.18036"
+    },
+    {
+        "SpecialOfferID": 1,
+        "ProductID": 708,
+        "rowguid": "46CBB78B-246E-4D69-9BD6-E521277C1078",
+        "ModifiedDate": "2011-04-01 00:00:00",
+        "SYS_EXEC_DURATION": "0.180414"
+    },
+    {
+        "SpecialOfferID": 1,
+        "ProductID": 709,
+        "rowguid": "CF102AA0-055F-4D2B-8B98-04B161758EA8",
+        "ModifiedDate": "2011-04-01 00:00:00",
+        "SYS_EXEC_DURATION": "0.180479"
+    }
+]
+@endjson
+```

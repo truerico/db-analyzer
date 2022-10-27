@@ -1,0 +1,62 @@
+@startjson
+{
+    "field1": "Title",
+    "combination": "Title",
+    "null_distribution": {
+        "total_null_rows": 0,
+        "total_not_null_rows": 13
+    },
+    "data_distribution": [
+        {
+            "field_value": "Repair and Service Guidelines",
+            "row_count": 1,
+            "ratio_percent": 7.6923076923076925
+        },
+        {
+            "field_value": "Overview",
+            "row_count": 1,
+            "ratio_percent": 7.6923076923076925
+        },
+        {
+            "field_value": "Maintenance",
+            "row_count": 1,
+            "ratio_percent": 7.6923076923076925
+        },
+        {
+            "field_value": "Lubrication Maintenance",
+            "row_count": 1,
+            "ratio_percent": 7.6923076923076925
+        },
+        {
+            "field_value": "Introduction 1",
+            "row_count": 1,
+            "ratio_percent": 7.6923076923076925
+        },
+        {
+            "field_value": "Installing Replacement Pedals",
+            "row_count": 1,
+            "ratio_percent": 7.6923076923076925
+        },
+        {
+            "field_value": "Front Reflector Bracket Installation",
+            "row_count": 1,
+            "ratio_percent": 7.6923076923076925
+        },
+        {
+            "field_value": "Front Reflector Bracket and Reflector Assembly 3",
+            "row_count": 1,
+            "ratio_percent": 7.6923076923076925
+        },
+        {
+            "field_value": "Documents",
+            "row_count": 1,
+            "ratio_percent": 7.6923076923076925
+        },
+        {
+            "field_value": "Crank Arm and Tire Maintenance",
+            "row_count": 1,
+            "ratio_percent": 7.6923076923076925
+        }
+    ]
+}
+@endjson

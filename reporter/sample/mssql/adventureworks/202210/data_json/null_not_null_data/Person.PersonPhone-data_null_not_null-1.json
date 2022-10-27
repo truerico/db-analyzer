@@ -1,0 +1,28 @@
+[
+    {
+        "table": "Person.PersonPhone",
+        "total_records": 19972,
+        "dataset": [
+            {
+                "field": "BusinessEntityID",
+                "total_null_rows": 0,
+                "total_not_null_rows": 19972
+            },
+            {
+                "field": "ModifiedDate",
+                "total_null_rows": 0,
+                "total_not_null_rows": 19972
+            },
+            {
+                "field": "PhoneNumber",
+                "total_null_rows": 0,
+                "total_not_null_rows": 19972
+            },
+            {
+                "field": "PhoneNumberTypeID",
+                "total_null_rows": 0,
+                "total_not_null_rows": 19972
+            }
+        ]
+    }
+]

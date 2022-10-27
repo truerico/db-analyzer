@@ -1,0 +1,103 @@
+[
+    {
+        "table": "Sales.ShoppingCartItem",
+        "total_records": 3,
+        "dataset": [
+            {
+                "field": "DateCreated",
+                "distribution": [
+                    {
+                        "field_value": "Nov  9 2013  5:54PM",
+                        "row_count": 3,
+                        "ratio_percent": 100.0
+                    }
+                ]
+            },
+            {
+                "field": "ModifiedDate",
+                "distribution": [
+                    {
+                        "field_value": "Nov  9 2013  5:54PM",
+                        "row_count": 3,
+                        "ratio_percent": 100.0
+                    }
+                ]
+            },
+            {
+                "field": "ProductID",
+                "distribution": [
+                    {
+                        "field_value": "881",
+                        "row_count": 1,
+                        "ratio_percent": 33.333333333333336
+                    },
+                    {
+                        "field_value": "874",
+                        "row_count": 1,
+                        "ratio_percent": 33.333333333333336
+                    },
+                    {
+                        "field_value": "862",
+                        "row_count": 1,
+                        "ratio_percent": 33.333333333333336
+                    }
+                ]
+            },
+            {
+                "field": "Quantity",
+                "distribution": [
+                    {
+                        "field_value": "7",
+                        "row_count": 1,
+                        "ratio_percent": 33.333333333333336
+                    },
+                    {
+                        "field_value": "4",
+                        "row_count": 1,
+                        "ratio_percent": 33.333333333333336
+                    },
+                    {
+                        "field_value": "3",
+                        "row_count": 1,
+                        "ratio_percent": 33.333333333333336
+                    }
+                ]
+            },
+            {
+                "field": "ShoppingCartItemID",
+                "distribution": [
+                    {
+                        "field_value": "5",
+                        "row_count": 1,
+                        "ratio_percent": 33.333333333333336
+                    },
+                    {
+                        "field_value": "4",
+                        "row_count": 1,
+                        "ratio_percent": 33.333333333333336
+                    },
+                    {
+                        "field_value": "2",
+                        "row_count": 1,
+                        "ratio_percent": 33.333333333333336
+                    }
+                ]
+            },
+            {
+                "field": "ShoppingCartID",
+                "distribution": [
+                    {
+                        "field_value": "20621",
+                        "row_count": 2,
+                        "ratio_percent": 66.66666666666667
+                    },
+                    {
+                        "field_value": "14951",
+                        "row_count": 1,
+                        "ratio_percent": 33.333333333333336
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,28 @@
+[
+    {
+        "table": "Sales.SalesReason",
+        "total_records": 10,
+        "dataset": [
+            {
+                "field": "ModifiedDate",
+                "total_null_rows": 0,
+                "total_not_null_rows": 10
+            },
+            {
+                "field": "Name",
+                "total_null_rows": 0,
+                "total_not_null_rows": 10
+            },
+            {
+                "field": "ReasonType",
+                "total_null_rows": 0,
+                "total_not_null_rows": 10
+            },
+            {
+                "field": "SalesReasonID",
+                "total_null_rows": 0,
+                "total_not_null_rows": 10
+            }
+        ]
+    }
+]

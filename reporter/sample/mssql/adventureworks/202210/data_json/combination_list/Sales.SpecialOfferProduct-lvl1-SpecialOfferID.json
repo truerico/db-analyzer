@@ -1,0 +1,62 @@
+@startjson
+{
+    "field1": "SpecialOfferID",
+    "combination": "SpecialOfferID",
+    "null_distribution": {
+        "total_null_rows": 0,
+        "total_not_null_rows": 538
+    },
+    "data_distribution": [
+        {
+            "field_value": "1",
+            "row_count": 295,
+            "ratio_percent": 54.83271375464684
+        },
+        {
+            "field_value": "2",
+            "row_count": 111,
+            "ratio_percent": 20.63197026022305
+        },
+        {
+            "field_value": "3",
+            "row_count": 55,
+            "ratio_percent": 10.223048327137546
+        },
+        {
+            "field_value": "4",
+            "row_count": 17,
+            "ratio_percent": 3.159851301115242
+        },
+        {
+            "field_value": "12",
+            "row_count": 12,
+            "ratio_percent": 2.2304832713754648
+        },
+        {
+            "field_value": "13",
+            "row_count": 10,
+            "ratio_percent": 1.858736059479554
+        },
+        {
+            "field_value": "7",
+            "row_count": 8,
+            "ratio_percent": 1.486988847583643
+        },
+        {
+            "field_value": "16",
+            "row_count": 7,
+            "ratio_percent": 1.3011152416356877
+        },
+        {
+            "field_value": "15",
+            "row_count": 7,
+            "ratio_percent": 1.3011152416356877
+        },
+        {
+            "field_value": "14",
+            "row_count": 4,
+            "ratio_percent": 0.7434944237918215
+        }
+    ]
+}
+@endjson

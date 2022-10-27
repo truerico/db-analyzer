@@ -1,0 +1,53 @@
+[
+    {
+        "table": "Sales.SalesPerson",
+        "total_records": 17,
+        "dataset": [
+            {
+                "field": "BusinessEntityID",
+                "total_null_rows": 0,
+                "total_not_null_rows": 17
+            },
+            {
+                "field": "Bonus",
+                "total_null_rows": 0,
+                "total_not_null_rows": 17
+            },
+            {
+                "field": "CommissionPct",
+                "total_null_rows": 0,
+                "total_not_null_rows": 17
+            },
+            {
+                "field": "ModifiedDate",
+                "total_null_rows": 0,
+                "total_not_null_rows": 17
+            },
+            {
+                "field": "SalesQuota",
+                "total_null_rows": 3,
+                "total_not_null_rows": 14
+            },
+            {
+                "field": "SalesYTD",
+                "total_null_rows": 0,
+                "total_not_null_rows": 17
+            },
+            {
+                "field": "SalesLastYear",
+                "total_null_rows": 0,
+                "total_not_null_rows": 17
+            },
+            {
+                "field": "TerritoryID",
+                "total_null_rows": 3,
+                "total_not_null_rows": 14
+            },
+            {
+                "field": "rowguid",
+                "total_null_rows": 0,
+                "total_not_null_rows": 17
+            }
+        ]
+    }
+]

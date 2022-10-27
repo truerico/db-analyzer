@@ -1,0 +1,158 @@
+[
+    {
+        "table": "Sales.SalesOrderHeaderSalesReason",
+        "total_records": 27647,
+        "dataset": [
+            {
+                "field": "ModifiedDate",
+                "distribution": [
+                    {
+                        "field_value": "May 14 2014 12:00AM",
+                        "row_count": 102,
+                        "ratio_percent": 0.368936955185011
+                    },
+                    {
+                        "field_value": "Mar  3 2014 12:00AM",
+                        "row_count": 100,
+                        "ratio_percent": 0.3617028972402069
+                    },
+                    {
+                        "field_value": "Jan 19 2014 12:00AM",
+                        "row_count": 99,
+                        "ratio_percent": 0.3580858682678048
+                    },
+                    {
+                        "field_value": "May 11 2014 12:00AM",
+                        "row_count": 97,
+                        "ratio_percent": 0.35085181032300067
+                    },
+                    {
+                        "field_value": "May 21 2014 12:00AM",
+                        "row_count": 96,
+                        "ratio_percent": 0.3472347813505986
+                    },
+                    {
+                        "field_value": "May 17 2014 12:00AM",
+                        "row_count": 93,
+                        "ratio_percent": 0.3363836944333924
+                    },
+                    {
+                        "field_value": "Nov  5 2013 12:00AM",
+                        "row_count": 93,
+                        "ratio_percent": 0.3363836944333924
+                    },
+                    {
+                        "field_value": "Mar 31 2014 12:00AM",
+                        "row_count": 92,
+                        "ratio_percent": 0.3327666654609903
+                    },
+                    {
+                        "field_value": "May  5 2014 12:00AM",
+                        "row_count": 91,
+                        "ratio_percent": 0.32914963648858825
+                    },
+                    {
+                        "field_value": "May  7 2014 12:00AM",
+                        "row_count": 90,
+                        "ratio_percent": 0.3255326075161862
+                    }
+                ]
+            },
+            {
+                "field": "SalesOrderID",
+                "distribution": [
+                    {
+                        "field_value": "51214",
+                        "row_count": 3,
+                        "ratio_percent": 0.010851086917206206
+                    },
+                    {
+                        "field_value": "51298",
+                        "row_count": 3,
+                        "ratio_percent": 0.010851086917206206
+                    },
+                    {
+                        "field_value": "51303",
+                        "row_count": 3,
+                        "ratio_percent": 0.010851086917206206
+                    },
+                    {
+                        "field_value": "51314",
+                        "row_count": 3,
+                        "ratio_percent": 0.010851086917206206
+                    },
+                    {
+                        "field_value": "51319",
+                        "row_count": 3,
+                        "ratio_percent": 0.010851086917206206
+                    },
+                    {
+                        "field_value": "51452",
+                        "row_count": 3,
+                        "ratio_percent": 0.010851086917206206
+                    },
+                    {
+                        "field_value": "51580",
+                        "row_count": 3,
+                        "ratio_percent": 0.010851086917206206
+                    },
+                    {
+                        "field_value": "51666",
+                        "row_count": 3,
+                        "ratio_percent": 0.010851086917206206
+                    },
+                    {
+                        "field_value": "52275",
+                        "row_count": 3,
+                        "ratio_percent": 0.010851086917206206
+                    },
+                    {
+                        "field_value": "52465",
+                        "row_count": 3,
+                        "ratio_percent": 0.010851086917206206
+                    }
+                ]
+            },
+            {
+                "field": "SalesReasonID",
+                "distribution": [
+                    {
+                        "field_value": "1",
+                        "row_count": 17473,
+                        "ratio_percent": 63.20034723478135
+                    },
+                    {
+                        "field_value": "2",
+                        "row_count": 3515,
+                        "ratio_percent": 12.713856837993273
+                    },
+                    {
+                        "field_value": "5",
+                        "row_count": 1746,
+                        "ratio_percent": 6.315332585814012
+                    },
+                    {
+                        "field_value": "9",
+                        "row_count": 1551,
+                        "ratio_percent": 5.610011936195609
+                    },
+                    {
+                        "field_value": "10",
+                        "row_count": 1395,
+                        "ratio_percent": 5.045755416500886
+                    },
+                    {
+                        "field_value": "6",
+                        "row_count": 1245,
+                        "ratio_percent": 4.503201070640576
+                    },
+                    {
+                        "field_value": "4",
+                        "row_count": 722,
+                        "ratio_percent": 2.611494918074294
+                    }
+                ]
+            }
+        ]
+    }
+]

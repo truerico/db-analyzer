@@ -1,0 +1,198 @@
+[
+    {
+        "table": "Production.Location",
+        "total_records": 14,
+        "dataset": [
+            {
+                "field": "Availability",
+                "distribution": [
+                    {
+                        "field_value": "0.00",
+                        "row_count": 7,
+                        "ratio_percent": 50.0
+                    },
+                    {
+                        "field_value": "120.00",
+                        "row_count": 4,
+                        "ratio_percent": 28.571428571428573
+                    },
+                    {
+                        "field_value": "96.00",
+                        "row_count": 1,
+                        "ratio_percent": 7.142857142857143
+                    },
+                    {
+                        "field_value": "80.00",
+                        "row_count": 1,
+                        "ratio_percent": 7.142857142857143
+                    },
+                    {
+                        "field_value": "108.00",
+                        "row_count": 1,
+                        "ratio_percent": 7.142857142857143
+                    }
+                ]
+            },
+            {
+                "field": "CostRate",
+                "distribution": [
+                    {
+                        "field_value": "0.00",
+                        "row_count": 7,
+                        "ratio_percent": 50.0
+                    },
+                    {
+                        "field_value": "12.25",
+                        "row_count": 2,
+                        "ratio_percent": 14.285714285714286
+                    },
+                    {
+                        "field_value": "25.00",
+                        "row_count": 1,
+                        "ratio_percent": 7.142857142857143
+                    },
+                    {
+                        "field_value": "22.50",
+                        "row_count": 1,
+                        "ratio_percent": 7.142857142857143
+                    },
+                    {
+                        "field_value": "18.00",
+                        "row_count": 1,
+                        "ratio_percent": 7.142857142857143
+                    },
+                    {
+                        "field_value": "15.75",
+                        "row_count": 1,
+                        "ratio_percent": 7.142857142857143
+                    },
+                    {
+                        "field_value": "14.50",
+                        "row_count": 1,
+                        "ratio_percent": 7.142857142857143
+                    }
+                ]
+            },
+            {
+                "field": "LocationID",
+                "distribution": [
+                    {
+                        "field_value": "50",
+                        "row_count": 1,
+                        "ratio_percent": 7.142857142857143
+                    },
+                    {
+                        "field_value": "5",
+                        "row_count": 1,
+                        "ratio_percent": 7.142857142857143
+                    },
+                    {
+                        "field_value": "45",
+                        "row_count": 1,
+                        "ratio_percent": 7.142857142857143
+                    },
+                    {
+                        "field_value": "40",
+                        "row_count": 1,
+                        "ratio_percent": 7.142857142857143
+                    },
+                    {
+                        "field_value": "4",
+                        "row_count": 1,
+                        "ratio_percent": 7.142857142857143
+                    },
+                    {
+                        "field_value": "30",
+                        "row_count": 1,
+                        "ratio_percent": 7.142857142857143
+                    },
+                    {
+                        "field_value": "3",
+                        "row_count": 1,
+                        "ratio_percent": 7.142857142857143
+                    },
+                    {
+                        "field_value": "20",
+                        "row_count": 1,
+                        "ratio_percent": 7.142857142857143
+                    },
+                    {
+                        "field_value": "2",
+                        "row_count": 1,
+                        "ratio_percent": 7.142857142857143
+                    },
+                    {
+                        "field_value": "10",
+                        "row_count": 1,
+                        "ratio_percent": 7.142857142857143
+                    }
+                ]
+            },
+            {
+                "field": "ModifiedDate",
+                "distribution": [
+                    {
+                        "field_value": "Apr 30 2008 12:00AM",
+                        "row_count": 14,
+                        "ratio_percent": 100.0
+                    }
+                ]
+            },
+            {
+                "field": "Name",
+                "distribution": [
+                    {
+                        "field_value": "Sheet Metal Racks",
+                        "row_count": 1,
+                        "ratio_percent": 7.142857142857143
+                    },
+                    {
+                        "field_value": "Paint Storage",
+                        "row_count": 1,
+                        "ratio_percent": 7.142857142857143
+                    },
+                    {
+                        "field_value": "Paint Shop",
+                        "row_count": 1,
+                        "ratio_percent": 7.142857142857143
+                    },
+                    {
+                        "field_value": "Paint",
+                        "row_count": 1,
+                        "ratio_percent": 7.142857142857143
+                    },
+                    {
+                        "field_value": "Miscellaneous Storage",
+                        "row_count": 1,
+                        "ratio_percent": 7.142857142857143
+                    },
+                    {
+                        "field_value": "Metal Storage",
+                        "row_count": 1,
+                        "ratio_percent": 7.142857142857143
+                    },
+                    {
+                        "field_value": "Frame Welding",
+                        "row_count": 1,
+                        "ratio_percent": 7.142857142857143
+                    },
+                    {
+                        "field_value": "Frame Forming",
+                        "row_count": 1,
+                        "ratio_percent": 7.142857142857143
+                    },
+                    {
+                        "field_value": "Finished Goods Storage",
+                        "row_count": 1,
+                        "ratio_percent": 7.142857142857143
+                    },
+                    {
+                        "field_value": "Final Assembly",
+                        "row_count": 1,
+                        "ratio_percent": 7.142857142857143
+                    }
+                ]
+            }
+        ]
+    }
+]

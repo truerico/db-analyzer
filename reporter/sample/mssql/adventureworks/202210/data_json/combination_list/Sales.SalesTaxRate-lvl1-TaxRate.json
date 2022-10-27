@@ -1,0 +1,62 @@
+@startjson
+{
+    "field1": "TaxRate",
+    "combination": "TaxRate",
+    "null_distribution": {
+        "total_null_rows": 0,
+        "total_not_null_rows": 29
+    },
+    "data_distribution": [
+        {
+            "field_value": "7.00",
+            "row_count": 13,
+            "ratio_percent": 44.827586206896555
+        },
+        {
+            "field_value": "14.25",
+            "row_count": 2,
+            "ratio_percent": 6.896551724137931
+        },
+        {
+            "field_value": "7.25",
+            "row_count": 2,
+            "ratio_percent": 6.896551724137931
+        },
+        {
+            "field_value": "7.50",
+            "row_count": 1,
+            "ratio_percent": 3.4482758620689653
+        },
+        {
+            "field_value": "14.00",
+            "row_count": 1,
+            "ratio_percent": 3.4482758620689653
+        },
+        {
+            "field_value": "10.00",
+            "row_count": 1,
+            "ratio_percent": 3.4482758620689653
+        },
+        {
+            "field_value": "6.75",
+            "row_count": 1,
+            "ratio_percent": 3.4482758620689653
+        },
+        {
+            "field_value": "5.00",
+            "row_count": 1,
+            "ratio_percent": 3.4482758620689653
+        },
+        {
+            "field_value": "19.60",
+            "row_count": 1,
+            "ratio_percent": 3.4482758620689653
+        },
+        {
+            "field_value": "17.50",
+            "row_count": 1,
+            "ratio_percent": 3.4482758620689653
+        }
+    ]
+}
+@endjson
