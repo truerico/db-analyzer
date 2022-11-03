@@ -1,0 +1,17 @@
+@startjson
+{
+    "field1": "spaces",
+    "combination": "spaces",
+    "null_distribution": {
+        "total_null_rows": 0,
+        "total_not_null_rows": 14005
+    },
+    "data_distribution": [
+        {
+            "field_value_1": "this   is   a   thing    with lots of     spaces       wwwwoooooo",
+            "row_count": 14005,
+            "ratio_percent": 100.0
+        }
+    ]
+}
+@endjson

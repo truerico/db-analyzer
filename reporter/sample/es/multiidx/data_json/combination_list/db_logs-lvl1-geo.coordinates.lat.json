@@ -1,0 +1,62 @@
+@startjson
+{
+    "field1": "geo.coordinates.lat",
+    "combination": "geo.coordinates.lat",
+    "null_distribution": {
+        "total_null_rows": 1,
+        "total_not_null_rows": 14004
+    },
+    "data_distribution": [
+        {
+            "field_value_1": "31.46902847290039",
+            "row_count": 13,
+            "ratio_percent": 0.09
+        },
+        {
+            "field_value_1": "46.97494125366211",
+            "row_count": 13,
+            "ratio_percent": 0.09
+        },
+        {
+            "field_value_1": "41.298885345458984",
+            "row_count": 12,
+            "ratio_percent": 0.09
+        },
+        {
+            "field_value_1": "41.61033248901367",
+            "row_count": 12,
+            "ratio_percent": 0.09
+        },
+        {
+            "field_value_1": "41.78598403930664",
+            "row_count": 12,
+            "ratio_percent": 0.09
+        },
+        {
+            "field_value_1": "33.99287796020508",
+            "row_count": 11,
+            "ratio_percent": 0.08
+        },
+        {
+            "field_value_1": "34.73002243041992",
+            "row_count": 11,
+            "ratio_percent": 0.08
+        },
+        {
+            "field_value_1": "35.698707580566406",
+            "row_count": 11,
+            "ratio_percent": 0.08
+        },
+        {
+            "field_value_1": "38.378631591796875",
+            "row_count": 11,
+            "ratio_percent": 0.08
+        },
+        {
+            "field_value_1": "42.908355712890625",
+            "row_count": 11,
+            "ratio_percent": 0.08
+        }
+    ]
+}
+@endjson

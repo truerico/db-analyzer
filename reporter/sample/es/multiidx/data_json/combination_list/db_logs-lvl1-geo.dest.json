@@ -1,0 +1,62 @@
+@startjson
+{
+    "field1": "geo.dest",
+    "combination": "geo.dest",
+    "null_distribution": {
+        "total_null_rows": 0,
+        "total_not_null_rows": 14005
+    },
+    "data_distribution": [
+        {
+            "field_value_1": "CN",
+            "row_count": 2620,
+            "ratio_percent": 18.71
+        },
+        {
+            "field_value_1": "IN",
+            "row_count": 2394,
+            "ratio_percent": 17.09
+        },
+        {
+            "field_value_1": "US",
+            "row_count": 1185,
+            "ratio_percent": 8.46
+        },
+        {
+            "field_value_1": "ID",
+            "row_count": 443,
+            "ratio_percent": 3.16
+        },
+        {
+            "field_value_1": "BR",
+            "row_count": 381,
+            "ratio_percent": 2.72
+        },
+        {
+            "field_value_1": "PK",
+            "row_count": 354,
+            "ratio_percent": 2.53
+        },
+        {
+            "field_value_1": "BD",
+            "row_count": 309,
+            "ratio_percent": 2.21
+        },
+        {
+            "field_value_1": "NG",
+            "row_count": 300,
+            "ratio_percent": 2.14
+        },
+        {
+            "field_value_1": "JP",
+            "row_count": 265,
+            "ratio_percent": 1.89
+        },
+        {
+            "field_value_1": "RU",
+            "row_count": 255,
+            "ratio_percent": 1.82
+        }
+    ]
+}
+@endjson

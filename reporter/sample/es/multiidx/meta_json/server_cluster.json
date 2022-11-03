@@ -1,0 +1,14 @@
+[
+    {
+        "ip": "172.16.0.99",
+        "heap.percent": "67",
+        "ram.percent": "99",
+        "cpu": "6",
+        "load_1m": "0.06",
+        "load_5m": "0.08",
+        "load_15m": "0.09",
+        "node.role": "dilmrt",
+        "master": "*",
+        "name": "node-es7"
+    }
+]

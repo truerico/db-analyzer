@@ -1,0 +1,62 @@
+@startjson
+{
+    "field1": "relatedContent.article:tag",
+    "combination": "relatedContent.article:tag",
+    "null_distribution": {
+        "total_null_rows": 8008,
+        "total_not_null_rows": 5997
+    },
+    "data_distribution": [
+        {
+            "field_value_1": "None",
+            "row_count": 8008,
+            "ratio_percent": 57.18
+        },
+        {
+            "field_value_1": "Entertainment",
+            "row_count": 815,
+            "ratio_percent": 5.82
+        },
+        {
+            "field_value_1": "Mark Mauer",
+            "row_count": 466,
+            "ratio_percent": 3.33
+        },
+        {
+            "field_value_1": "Celebrity News",
+            "row_count": 370,
+            "ratio_percent": 2.64
+        },
+        {
+            "field_value_1": "Culture and Lifestyle",
+            "row_count": 177,
+            "ratio_percent": 1.26
+        },
+        {
+            "field_value_1": "Timothy Norris",
+            "row_count": 162,
+            "ratio_percent": 1.16
+        },
+        {
+            "field_value_1": "Arts, Entertainment, and Media",
+            "row_count": 150,
+            "ratio_percent": 1.07
+        },
+        {
+            "field_value_1": "Concerts and Tours",
+            "row_count": 148,
+            "ratio_percent": 1.06
+        },
+        {
+            "field_value_1": "Painting",
+            "row_count": 137,
+            "ratio_percent": 0.98
+        },
+        {
+            "field_value_1": "Fashion and Style",
+            "row_count": 106,
+            "ratio_percent": 0.76
+        }
+    ]
+}
+@endjson

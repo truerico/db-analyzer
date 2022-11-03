@@ -1,0 +1,62 @@
+@startjson
+{
+    "field1": "play_name",
+    "combination": "play_name",
+    "null_distribution": {
+        "total_null_rows": 0,
+        "total_not_null_rows": 111396
+    },
+    "data_distribution": [
+        {
+            "field_value_1": "Hamlet",
+            "row_count": 4244,
+            "ratio_percent": 3.81
+        },
+        {
+            "field_value_1": "Coriolanus",
+            "row_count": 3992,
+            "ratio_percent": 3.58
+        },
+        {
+            "field_value_1": "Cymbeline",
+            "row_count": 3958,
+            "ratio_percent": 3.55
+        },
+        {
+            "field_value_1": "Richard III",
+            "row_count": 3941,
+            "ratio_percent": 3.54
+        },
+        {
+            "field_value_1": "Antony and Cleopatra",
+            "row_count": 3862,
+            "ratio_percent": 3.47
+        },
+        {
+            "field_value_1": "King Lear",
+            "row_count": 3766,
+            "ratio_percent": 3.38
+        },
+        {
+            "field_value_1": "Othello",
+            "row_count": 3762,
+            "ratio_percent": 3.38
+        },
+        {
+            "field_value_1": "Troilus and Cressida",
+            "row_count": 3711,
+            "ratio_percent": 3.33
+        },
+        {
+            "field_value_1": "A Winters Tale",
+            "row_count": 3489,
+            "ratio_percent": 3.13
+        },
+        {
+            "field_value_1": "Henry VIII",
+            "row_count": 3419,
+            "ratio_percent": 3.07
+        }
+    ]
+}
+@endjson

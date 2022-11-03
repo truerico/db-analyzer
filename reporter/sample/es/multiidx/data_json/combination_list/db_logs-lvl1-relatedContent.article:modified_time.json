@@ -1,0 +1,62 @@
+@startjson
+{
+    "field1": "relatedContent.article:modified_time",
+    "combination": "relatedContent.article:modified_time",
+    "null_distribution": {
+        "total_null_rows": 2282,
+        "total_not_null_rows": 11723
+    },
+    "data_distribution": [
+        {
+            "field_value_1": "None",
+            "row_count": 2282,
+            "ratio_percent": 16.29
+        },
+        {
+            "field_value_1": "2014-10-28T22:00:10.000Z",
+            "row_count": 129,
+            "ratio_percent": 0.92
+        },
+        {
+            "field_value_1": "2014-10-28T22:00:15.000Z",
+            "row_count": 129,
+            "ratio_percent": 0.92
+        },
+        {
+            "field_value_1": "2014-10-28T21:59:53.000Z",
+            "row_count": 125,
+            "ratio_percent": 0.89
+        },
+        {
+            "field_value_1": "2014-10-28T21:59:50.000Z",
+            "row_count": 119,
+            "ratio_percent": 0.85
+        },
+        {
+            "field_value_1": "2014-10-28T21:59:54.000Z",
+            "row_count": 118,
+            "ratio_percent": 0.84
+        },
+        {
+            "field_value_1": "2014-10-28T22:00:00.000Z",
+            "row_count": 117,
+            "ratio_percent": 0.84
+        },
+        {
+            "field_value_1": "2014-10-28T21:59:57.000Z",
+            "row_count": 113,
+            "ratio_percent": 0.81
+        },
+        {
+            "field_value_1": "2014-10-28T22:00:08.000Z",
+            "row_count": 113,
+            "ratio_percent": 0.81
+        },
+        {
+            "field_value_1": "2014-10-28T21:59:58.000Z",
+            "row_count": 110,
+            "ratio_percent": 0.79
+        }
+    ]
+}
+@endjson

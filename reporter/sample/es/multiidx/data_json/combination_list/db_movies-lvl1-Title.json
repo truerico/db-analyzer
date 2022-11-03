@@ -1,0 +1,62 @@
+@startjson
+{
+    "field1": "Title",
+    "combination": "Title",
+    "null_distribution": {
+        "total_null_rows": 2,
+        "total_not_null_rows": 111
+    },
+    "data_distribution": [
+        {
+            "field_value_1": "Battlestar Galactica",
+            "row_count": 4,
+            "ratio_percent": 3.54
+        },
+        {
+            "field_value_1": "None",
+            "row_count": 2,
+            "ratio_percent": 1.77
+        },
+        {
+            "field_value_1": "Battlestar Galactica: Blood & Chrome",
+            "row_count": 2,
+            "ratio_percent": 1.77
+        },
+        {
+            "field_value_1": "Big Game",
+            "row_count": 2,
+            "ratio_percent": 1.77
+        },
+        {
+            "field_value_1": "Fair Game",
+            "row_count": 2,
+            "ratio_percent": 1.77
+        },
+        {
+            "field_value_1": "Flying Swords of Dragon Gate",
+            "row_count": 2,
+            "ratio_percent": 1.77
+        },
+        {
+            "field_value_1": "Funny Games",
+            "row_count": 2,
+            "ratio_percent": 1.77
+        },
+        {
+            "field_value_1": "Game of Death",
+            "row_count": 2,
+            "ratio_percent": 1.77
+        },
+        {
+            "field_value_1": "Grey Gardens",
+            "row_count": 2,
+            "ratio_percent": 1.77
+        },
+        {
+            "field_value_1": "Inspector Gadget",
+            "row_count": 2,
+            "ratio_percent": 1.77
+        }
+    ]
+}
+@endjson

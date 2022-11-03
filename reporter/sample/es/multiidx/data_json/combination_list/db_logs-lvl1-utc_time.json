@@ -1,0 +1,62 @@
+@startjson
+{
+    "field1": "utc_time",
+    "combination": "utc_time",
+    "null_distribution": {
+        "total_null_rows": 0,
+        "total_not_null_rows": 14005
+    },
+    "data_distribution": [
+        {
+            "field_value_1": "2015-05-20T00:00:00.000Z",
+            "row_count": 3,
+            "ratio_percent": 0.02
+        },
+        {
+            "field_value_1": "2015-05-19T00:00:00.000Z",
+            "row_count": 2,
+            "ratio_percent": 0.01
+        },
+        {
+            "field_value_1": "2015-05-18T00:09:43.370Z",
+            "row_count": 1,
+            "ratio_percent": 0.01
+        },
+        {
+            "field_value_1": "2015-05-18T00:09:47.065Z",
+            "row_count": 1,
+            "ratio_percent": 0.01
+        },
+        {
+            "field_value_1": "2015-05-18T00:14:02.259Z",
+            "row_count": 1,
+            "ratio_percent": 0.01
+        },
+        {
+            "field_value_1": "2015-05-18T00:49:08.445Z",
+            "row_count": 1,
+            "ratio_percent": 0.01
+        },
+        {
+            "field_value_1": "2015-05-18T00:55:22.257Z",
+            "row_count": 1,
+            "ratio_percent": 0.01
+        },
+        {
+            "field_value_1": "2015-05-18T01:50:44.236Z",
+            "row_count": 1,
+            "ratio_percent": 0.01
+        },
+        {
+            "field_value_1": "2015-05-18T01:55:14.216Z",
+            "row_count": 1,
+            "ratio_percent": 0.01
+        },
+        {
+            "field_value_1": "2015-05-18T01:55:56.793Z",
+            "row_count": 1,
+            "ratio_percent": 0.01
+        }
+    ]
+}
+@endjson

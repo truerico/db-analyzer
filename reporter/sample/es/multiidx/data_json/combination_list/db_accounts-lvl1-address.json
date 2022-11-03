@@ -1,0 +1,62 @@
+@startjson
+{
+    "field1": "address",
+    "combination": "address",
+    "null_distribution": {
+        "total_null_rows": 0,
+        "total_not_null_rows": 1000
+    },
+    "data_distribution": [
+        {
+            "field_value_1": "100 Gatling Place",
+            "row_count": 1,
+            "ratio_percent": 0.1
+        },
+        {
+            "field_value_1": "101 Bush Street",
+            "row_count": 1,
+            "ratio_percent": 0.1
+        },
+        {
+            "field_value_1": "102 Barwell Terrace",
+            "row_count": 1,
+            "ratio_percent": 0.1
+        },
+        {
+            "field_value_1": "104 Harbor Court",
+            "row_count": 1,
+            "ratio_percent": 0.1
+        },
+        {
+            "field_value_1": "104 Lewis Avenue",
+            "row_count": 1,
+            "ratio_percent": 0.1
+        },
+        {
+            "field_value_1": "105 Fair Street",
+            "row_count": 1,
+            "ratio_percent": 0.1
+        },
+        {
+            "field_value_1": "105 Onderdonk Avenue",
+            "row_count": 1,
+            "ratio_percent": 0.1
+        },
+        {
+            "field_value_1": "110 Lamont Court",
+            "row_count": 1,
+            "ratio_percent": 0.1
+        },
+        {
+            "field_value_1": "112 Hunterfly Place",
+            "row_count": 1,
+            "ratio_percent": 0.1
+        },
+        {
+            "field_value_1": "113 Will Place",
+            "row_count": 1,
+            "ratio_percent": 0.1
+        }
+    ]
+}
+@endjson

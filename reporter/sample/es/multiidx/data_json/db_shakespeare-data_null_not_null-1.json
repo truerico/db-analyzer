@@ -1,0 +1,43 @@
+[
+    {
+        "table": "db_shakespeare",
+        "total_records": 111396,
+        "dataset": [
+            {
+                "field": "line_id",
+                "total_null_rows": 0,
+                "total_not_null_rows": 111396
+            },
+            {
+                "field": "line_number",
+                "total_null_rows": 0,
+                "total_not_null_rows": 111396
+            },
+            {
+                "field": "play_name",
+                "total_null_rows": 0,
+                "total_not_null_rows": 111396
+            },
+            {
+                "field": "speaker",
+                "total_null_rows": 0,
+                "total_not_null_rows": 111396
+            },
+            {
+                "field": "speech_number",
+                "total_null_rows": 0,
+                "total_not_null_rows": 111396
+            },
+            {
+                "field": "text_entry",
+                "total_null_rows": 2,
+                "total_not_null_rows": 111394
+            },
+            {
+                "field": "type",
+                "total_null_rows": 0,
+                "total_not_null_rows": 111396
+            }
+        ]
+    }
+]

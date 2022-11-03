@@ -1,0 +1,62 @@
+@startjson
+{
+    "field1": "firstname",
+    "combination": "firstname",
+    "null_distribution": {
+        "total_null_rows": 0,
+        "total_not_null_rows": 1000
+    },
+    "data_distribution": [
+        {
+            "field_value_1": "Gay",
+            "row_count": 2,
+            "ratio_percent": 0.2
+        },
+        {
+            "field_value_1": "Kelley",
+            "row_count": 2,
+            "ratio_percent": 0.2
+        },
+        {
+            "field_value_1": "Lara",
+            "row_count": 2,
+            "ratio_percent": 0.2
+        },
+        {
+            "field_value_1": "Lynn",
+            "row_count": 2,
+            "ratio_percent": 0.2
+        },
+        {
+            "field_value_1": "Michael",
+            "row_count": 2,
+            "ratio_percent": 0.2
+        },
+        {
+            "field_value_1": "Morgan",
+            "row_count": 2,
+            "ratio_percent": 0.2
+        },
+        {
+            "field_value_1": "Rose",
+            "row_count": 2,
+            "ratio_percent": 0.2
+        },
+        {
+            "field_value_1": "Abbott",
+            "row_count": 1,
+            "ratio_percent": 0.1
+        },
+        {
+            "field_value_1": "Abigail",
+            "row_count": 1,
+            "ratio_percent": 0.1
+        },
+        {
+            "field_value_1": "Acevedo",
+            "row_count": 1,
+            "ratio_percent": 0.1
+        }
+    ]
+}
+@endjson

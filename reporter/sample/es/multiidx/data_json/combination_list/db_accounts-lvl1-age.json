@@ -1,0 +1,62 @@
+@startjson
+{
+    "field1": "age",
+    "combination": "age",
+    "null_distribution": {
+        "total_null_rows": 0,
+        "total_not_null_rows": 1000
+    },
+    "data_distribution": [
+        {
+            "field_value_1": "31",
+            "row_count": 61,
+            "ratio_percent": 6.1
+        },
+        {
+            "field_value_1": "39",
+            "row_count": 60,
+            "ratio_percent": 6.0
+        },
+        {
+            "field_value_1": "26",
+            "row_count": 59,
+            "ratio_percent": 5.9
+        },
+        {
+            "field_value_1": "32",
+            "row_count": 52,
+            "ratio_percent": 5.2
+        },
+        {
+            "field_value_1": "35",
+            "row_count": 52,
+            "ratio_percent": 5.2
+        },
+        {
+            "field_value_1": "36",
+            "row_count": 52,
+            "ratio_percent": 5.2
+        },
+        {
+            "field_value_1": "22",
+            "row_count": 51,
+            "ratio_percent": 5.1
+        },
+        {
+            "field_value_1": "28",
+            "row_count": 51,
+            "ratio_percent": 5.1
+        },
+        {
+            "field_value_1": "33",
+            "row_count": 50,
+            "ratio_percent": 5.0
+        },
+        {
+            "field_value_1": "34",
+            "row_count": 49,
+            "ratio_percent": 4.9
+        }
+    ]
+}
+@endjson

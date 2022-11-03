@@ -1,0 +1,338 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentStyleType="text/css" height="1416px" preserveAspectRatio="none" style="width:682px;height:1416px;background:#FFFFFF;" version="1.1" viewBox="0 0 682 1416" width="682px" zoomAndPan="magnify"><defs/><g><rect fill="#DDDDDD" height="26.4883" id="_title" rx="7.5" ry="7.5" style="stroke:#000000;stroke-width:2.0;" width="131" x="268.5" y="5"/><text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="121" x="273.5" y="23.5352">:: table erd1- © ::</text><!--MD5=[31956673ef04ae4019e076b0dd48cb2b]
+class db_logs--><g id="elem_db_logs"><rect codeLine="16" fill="#F1F1F1" height="940.8555" id="db_logs" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="326" x="7" y="44.4883"/><path d="M134.8333,53.1432 L134.8333,55.4766 L137.1667,55.4766 L137.1667,53.1432 L134.8333,53.1432 M138.3333,53.1432 L138.3333,55.4766 L140.6667,55.4766 L140.6667,53.1432 L138.3333,53.1432 M141.8333,53.1432 L141.8333,55.4766 L144.1667,55.4766 L144.1667,53.1432 L141.8333,53.1432 M134.8333,56.6432 L134.8333,58.9766 L137.1667,58.9766 L137.1667,56.6432 L134.8333,56.6432 M138.3333,56.6432 L138.3333,58.9766 L140.6667,58.9766 L140.6667,56.6432 L138.3333,56.6432 M141.8333,56.6432 L141.8333,58.9766 L144.1667,58.9766 L144.1667,56.6432 L141.8333,56.6432 M134.8333,60.1432 L134.8333,62.4766 L137.1667,62.4766 L137.1667,60.1432 L134.8333,60.1432 M138.3333,60.1432 L138.3333,62.4766 L140.6667,62.4766 L140.6667,60.1432 L138.3333,60.1432 M141.8333,60.1432 L141.8333,62.4766 L144.1667,62.4766 L144.1667,60.1432 L141.8333,60.1432 " fill="#000000" style="stroke:;stroke-width:0.0;stroke-dasharray:;"/><text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="56" x="150.1667" y="63.0234">db_logs</text><line style="stroke:#181818;stroke-width:0.5;" x1="8" x2="332" y1="70.9766" y2="70.9766"/><ellipse cx="18" cy="84.7207" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="110" x="27" y="88.5117">(pk) _id : string</text><rect fill="none" height="6" style="stroke:#C82930;stroke-width:1.0;" width="6" x="15" y="98.209"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="111" x="27" y="105">@message : text</text><rect fill="none" height="6" style="stroke:#C82930;stroke-width:1.0;" width="6" x="15" y="114.6973"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="80" x="27" y="121.4883">@tags : text</text><rect fill="none" height="6" style="stroke:#C82930;stroke-width:1.0;" width="6" x="15" y="131.1855"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="126" x="27" y="137.9766">@timestamp : date</text><rect fill="none" height="6" style="stroke:#C82930;stroke-width:1.0;" width="6" x="15" y="147.6738"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="101" x="27" y="154.4648">@version : text</text><rect fill="none" height="6" style="stroke:#C82930;stroke-width:1.0;" width="6" x="15" y="164.1621"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="78" x="27" y="170.9531">agent : text</text><rect fill="none" height="6" style="stroke:#C82930;stroke-width:1.0;" width="6" x="15" y="180.6504"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="79" x="27" y="187.4414">bytes : long</text><rect fill="none" height="6" style="stroke:#C82930;stroke-width:1.0;" width="6" x="15" y="197.1387"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="89" x="27" y="203.9297">clientip : text</text><rect fill="none" height="6" style="stroke:#C82930;stroke-width:1.0;" width="6" x="15" y="213.627"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="107" x="27" y="220.418">extension : text</text><rect fill="none" height="6" style="stroke:#C82930;stroke-width:1.0;" width="6" x="15" y="230.1152"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="175" x="27" y="236.9063">geo.coordinates.lat : float</text><rect fill="none" height="6" style="stroke:#C82930;stroke-width:1.0;" width="6" x="15" y="246.6035"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="180" x="27" y="253.3945">geo.coordinates.lon : float</text><rect fill="none" height="6" style="stroke:#C82930;stroke-width:1.0;" width="6" x="15" y="263.0918"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="98" x="27" y="269.8828">geo.dest : text</text><rect fill="none" height="6" style="stroke:#C82930;stroke-width:1.0;" width="6" x="15" y="279.5801"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="89" x="27" y="286.3711">geo.src : text</text><rect fill="none" height="6" style="stroke:#C82930;stroke-width:1.0;" width="6" x="15" y="296.0684"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="118" x="27" y="302.8594">geo.srcdest : text</text><rect fill="none" height="6" style="stroke:#C82930;stroke-width:1.0;" width="6" x="15" y="312.5566"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="102" x="27" y="319.3477">headings : text</text><rect fill="none" height="6" style="stroke:#C82930;stroke-width:1.0;" width="6" x="15" y="329.0449"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="69" x="27" y="335.8359">host : text</text><rect fill="none" height="6" style="stroke:#C82930;stroke-width:1.0;" width="6" x="15" y="345.5332"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="52" x="27" y="352.3242">ip : text</text><rect fill="none" height="6" style="stroke:#C82930;stroke-width:1.0;" width="6" x="15" y="362.0215"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="71" x="27" y="368.8125">links : text</text><rect fill="none" height="6" style="stroke:#C82930;stroke-width:1.0;" width="6" x="15" y="378.5098"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="117" x="27" y="385.3008">machine.os : text</text><rect fill="none" height="6" style="stroke:#C82930;stroke-width:1.0;" width="6" x="15" y="394.998"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="132" x="27" y="401.7891">machine.ram : long</text><rect fill="none" height="6" style="stroke:#C82930;stroke-width:1.0;" width="6" x="15" y="411.4863"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="99" x="27" y="418.2773">memory : long</text><rect fill="none" height="6" style="stroke:#C82930;stroke-width:1.0;" width="6" x="15" y="427.9746"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="126" x="27" y="434.7656">phpmemory : long</text><rect fill="none" height="6" style="stroke:#C82930;stroke-width:1.0;" width="6" x="15" y="444.4629"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="86" x="27" y="451.2539">referer : text</text><rect fill="none" height="6" style="stroke:#C82930;stroke-width:1.0;" width="6" x="15" y="460.9512"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="293" x="27" y="467.7422">relatedContent.article:modified_time : date</text><rect fill="none" height="6" style="stroke:#C82930;stroke-width:1.0;" width="6" x="15" y="477.4395"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="300" x="27" y="484.2305">relatedContent.article:published_time : date</text><rect fill="none" height="6" style="stroke:#C82930;stroke-width:1.0;" width="6" x="15" y="493.9277"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="241" x="27" y="500.7188">relatedContent.article:section : text</text><rect fill="none" height="6" style="stroke:#C82930;stroke-width:1.0;" width="6" x="15" y="510.416"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="214" x="27" y="517.207">relatedContent.article:tag : text</text><rect fill="none" height="6" style="stroke:#C82930;stroke-width:1.0;" width="6" x="15" y="526.9043"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="245" x="27" y="533.6953">relatedContent.og:description : text</text><rect fill="none" height="6" style="stroke:#C82930;stroke-width:1.0;" width="6" x="15" y="543.3926"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="210" x="27" y="550.1836">relatedContent.og:image : text</text><rect fill="none" height="6" style="stroke:#C82930;stroke-width:1.0;" width="6" x="15" y="559.8809"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="258" x="27" y="566.6719">relatedContent.og:image:height : text</text><rect fill="none" height="6" style="stroke:#C82930;stroke-width:1.0;" width="6" x="15" y="576.3691"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="252" x="27" y="583.1602">relatedContent.og:image:width : text</text><rect fill="none" height="6" style="stroke:#C82930;stroke-width:1.0;" width="6" x="15" y="592.8574"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="237" x="27" y="599.6484">relatedContent.og:site_name : text</text><rect fill="none" height="6" style="stroke:#C82930;stroke-width:1.0;" width="6" x="15" y="609.3457"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="194" x="27" y="616.1367">relatedContent.og:title : text</text><rect fill="none" height="6" style="stroke:#C82930;stroke-width:1.0;" width="6" x="15" y="625.834"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="197" x="27" y="632.625">relatedContent.og:type : text</text><rect fill="none" height="6" style="stroke:#C82930;stroke-width:1.0;" width="6" x="15" y="642.3223"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="187" x="27" y="649.1133">relatedContent.og:url : text</text><rect fill="none" height="6" style="stroke:#C82930;stroke-width:1.0;" width="6" x="15" y="658.8105"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="224" x="27" y="665.6016">relatedContent.twitter:card : text</text><rect fill="none" height="6" style="stroke:#C82930;stroke-width:1.0;" width="6" x="15" y="675.2988"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="271" x="27" y="682.0898">relatedContent.twitter:description : text</text><rect fill="none" height="6" style="stroke:#C82930;stroke-width:1.0;" width="6" x="15" y="691.7871"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="236" x="27" y="698.5781">relatedContent.twitter:image : text</text><rect fill="none" height="6" style="stroke:#C82930;stroke-width:1.0;" width="6" x="15" y="708.2754"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="218" x="27" y="715.0664">relatedContent.twitter:site : text</text><rect fill="none" height="6" style="stroke:#C82930;stroke-width:1.0;" width="6" x="15" y="724.7637"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="220" x="27" y="731.5547">relatedContent.twitter:title : text</text><rect fill="none" height="6" style="stroke:#C82930;stroke-width:1.0;" width="6" x="15" y="741.252"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="165" x="27" y="748.043">relatedContent.url : text</text><rect fill="none" height="6" style="stroke:#C82930;stroke-width:1.0;" width="6" x="15" y="757.7402"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="91" x="27" y="764.5313">request : text</text><rect fill="none" height="6" style="stroke:#C82930;stroke-width:1.0;" width="6" x="15" y="774.2285"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="102" x="27" y="781.0195">response : text</text><rect fill="none" height="6" style="stroke:#C82930;stroke-width:1.0;" width="6" x="15" y="790.7168"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="85" x="27" y="797.5078">spaces : text</text><rect fill="none" height="6" style="stroke:#C82930;stroke-width:1.0;" width="6" x="15" y="807.2051"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="58" x="27" y="813.9961">url : text</text><rect fill="none" height="6" style="stroke:#C82930;stroke-width:1.0;" width="6" x="15" y="823.6934"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="100" x="27" y="830.4844">utc_time : date</text><rect fill="none" height="6" style="stroke:#C82930;stroke-width:1.0;" width="6" x="15" y="840.1816"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="62" x="27" y="846.9727">xss : text</text><line style="stroke:#181818;stroke-width:1.0;" x1="8" x2="332" y1="853.9258" y2="853.9258"/><line style="stroke:#181818;stroke-width:1.0;" x1="8" x2="332" y1="855.9258" y2="855.9258"/><path d="M18.0833,861.5807 C16.9517,861.5807 15.9367,862.0474 15.2017,862.7824 L18.6667,866.2474 L18.6667,861.6157 C18.48,861.5924 18.2817,861.5807 18.0833,861.5807 M19.8333,862.8174 L19.8333,866.7957 L16.66,869.9691 C17.3717,870.5524 18.2583,870.9141 19.25,870.9141 C21.5017,870.9141 23.3333,869.0824 23.3333,866.8307 C23.3333,864.7774 21.805,863.1091 19.8333,862.8174 M15.0617,864.3457 C14.4083,864.9757 14,865.8507 14,866.8307 C14,867.9507 14.5367,868.9191 15.3533,869.5607 L17.8383,867.0757 L15.0617,864.3457 " fill="#000000" style="stroke:;stroke-width:0.0;stroke-dasharray:;"/><text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="36" x="29.3333" y="871.4609">stats</text><text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="199" x="13" y="887.9492">total documents     : 14,005</text><text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="224" x="13" y="904.4375">primary index size  : 36,776 KB</text><text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="206" x="13" y="920.9258">all index size      : 36,776 KB</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="151" x="13" y="937.4141">total attributes      : 47</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="137" x="13" y="953.9023">total objects         : 0</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="154" x="13" y="970.3906">max depth level       : 2</text><line style="stroke:#181818;stroke-width:1.0;" x1="8" x2="332" y1="977.3438" y2="977.3438"/></g><!--MD5=[75578fc9bcde7fe9600295dc6b4e27ed]
+class db_movies--><g id="elem_db_movies"><rect codeLine="76" fill="#F1F1F1" height="545.1367" id="db_movies" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="215" x="368.5" y="242.4883"/><path d="M430.3333,251.1432 L430.3333,253.4766 L432.6667,253.4766 L432.6667,251.1432 L430.3333,251.1432 M433.8333,251.1432 L433.8333,253.4766 L436.1667,253.4766 L436.1667,251.1432 L433.8333,251.1432 M437.3333,251.1432 L437.3333,253.4766 L439.6667,253.4766 L439.6667,251.1432 L437.3333,251.1432 M430.3333,254.6432 L430.3333,256.9766 L432.6667,256.9766 L432.6667,254.6432 L430.3333,254.6432 M433.8333,254.6432 L433.8333,256.9766 L436.1667,256.9766 L436.1667,254.6432 L433.8333,254.6432 M437.3333,254.6432 L437.3333,256.9766 L439.6667,256.9766 L439.6667,254.6432 L437.3333,254.6432 M430.3333,258.1432 L430.3333,260.4766 L432.6667,260.4766 L432.6667,258.1432 L430.3333,258.1432 M433.8333,258.1432 L433.8333,260.4766 L436.1667,260.4766 L436.1667,258.1432 L433.8333,258.1432 M437.3333,258.1432 L437.3333,260.4766 L439.6667,260.4766 L439.6667,258.1432 L437.3333,258.1432 " fill="#000000" style="stroke:;stroke-width:0.0;stroke-dasharray:;"/><text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="77" x="445.6667" y="261.0234">db_movies</text><line style="stroke:#181818;stroke-width:0.5;" x1="369.5" x2="582.5" y1="268.9766" y2="268.9766"/><ellipse cx="379.5" cy="282.7207" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="110" x="388.5" y="286.5117">(pk) _id : string</text><rect fill="none" height="6" style="stroke:#C82930;stroke-width:1.0;" width="6" x="376.5" y="296.209"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="83" x="388.5" y="303">Actors : text</text><rect fill="none" height="6" style="stroke:#C82930;stroke-width:1.0;" width="6" x="376.5" y="312.6973"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="90" x="388.5" y="319.4883">Awards : text</text><rect fill="none" height="6" style="stroke:#C82930;stroke-width:1.0;" width="6" x="376.5" y="329.1855"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="94" x="388.5" y="335.9766">Country : text</text><rect fill="none" height="6" style="stroke:#C82930;stroke-width:1.0;" width="6" x="376.5" y="345.6738"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="94" x="388.5" y="352.4648">Director : text</text><rect fill="none" height="6" style="stroke:#C82930;stroke-width:1.0;" width="6" x="376.5" y="362.1621"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="74" x="388.5" y="368.9531">Error : text</text><rect fill="none" height="6" style="stroke:#C82930;stroke-width:1.0;" width="6" x="376.5" y="378.6504"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="80" x="388.5" y="385.4414">Genre : text</text><rect fill="none" height="6" style="stroke:#C82930;stroke-width:1.0;" width="6" x="376.5" y="395.1387"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="106" x="388.5" y="401.9297">Language : text</text><rect fill="none" height="6" style="stroke:#C82930;stroke-width:1.0;" width="6" x="376.5" y="411.627"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="109" x="388.5" y="418.418">Metascore : text</text><rect fill="none" height="6" style="stroke:#C82930;stroke-width:1.0;" width="6" x="376.5" y="428.1152"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="65" x="388.5" y="434.9063">Plot : text</text><rect fill="none" height="6" style="stroke:#C82930;stroke-width:1.0;" width="6" x="376.5" y="444.6035"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="82" x="388.5" y="451.3945">Poster : text</text><rect fill="none" height="6" style="stroke:#C82930;stroke-width:1.0;" width="6" x="376.5" y="461.0918"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="78" x="388.5" y="467.8828">Rated : text</text><rect fill="none" height="6" style="stroke:#C82930;stroke-width:1.0;" width="6" x="376.5" y="477.5801"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="100" x="388.5" y="484.3711">Released : text</text><rect fill="none" height="6" style="stroke:#C82930;stroke-width:1.0;" width="6" x="376.5" y="494.0684"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="105" x="388.5" y="500.8594">Response : text</text><rect fill="none" height="6" style="stroke:#C82930;stroke-width:1.0;" width="6" x="376.5" y="510.5566"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="96" x="388.5" y="517.3477">Runtime : text</text><rect fill="none" height="6" style="stroke:#C82930;stroke-width:1.0;" width="6" x="376.5" y="527.0449"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="69" x="388.5" y="533.8359">Title : text</text><rect fill="none" height="6" style="stroke:#C82930;stroke-width:1.0;" width="6" x="376.5" y="543.5332"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="72" x="388.5" y="550.3242">Type : text</text><rect fill="none" height="6" style="stroke:#C82930;stroke-width:1.0;" width="6" x="376.5" y="560.0215"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="80" x="388.5" y="566.8125">Writer : text</text><rect fill="none" height="6" style="stroke:#C82930;stroke-width:1.0;" width="6" x="376.5" y="576.5098"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="70" x="388.5" y="583.3008">Year : text</text><rect fill="none" height="6" style="stroke:#C82930;stroke-width:1.0;" width="6" x="376.5" y="592.998"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="88" x="388.5" y="599.7891">imdbID : text</text><rect fill="none" height="6" style="stroke:#C82930;stroke-width:1.0;" width="6" x="376.5" y="609.4863"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="118" x="388.5" y="616.2773">imdbRating : text</text><rect fill="none" height="6" style="stroke:#C82930;stroke-width:1.0;" width="6" x="376.5" y="625.9746"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="112" x="388.5" y="632.7656">imdbVotes : text</text><rect fill="none" height="6" style="stroke:#C82930;stroke-width:1.0;" width="6" x="376.5" y="642.4629"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="126" x="388.5" y="649.2539">totalSeasons : text</text><line style="stroke:#181818;stroke-width:1.0;" x1="369.5" x2="582.5" y1="656.207" y2="656.207"/><line style="stroke:#181818;stroke-width:1.0;" x1="369.5" x2="582.5" y1="658.207" y2="658.207"/><path d="M379.5833,663.862 C378.4517,663.862 377.4367,664.3286 376.7017,665.0636 L380.1667,668.5286 L380.1667,663.897 C379.98,663.8736 379.7817,663.862 379.5833,663.862 M381.3333,665.0986 L381.3333,669.077 L378.16,672.2503 C378.8717,672.8336 379.7583,673.1953 380.75,673.1953 C383.0017,673.1953 384.8333,671.3636 384.8333,669.112 C384.8333,667.0586 383.305,665.3903 381.3333,665.0986 M376.5617,666.627 C375.9083,667.257 375.5,668.132 375.5,669.112 C375.5,670.232 376.0367,671.2003 376.8533,671.842 L379.3383,669.357 L376.5617,666.627 " fill="#000000" style="stroke:;stroke-width:0.0;stroke-dasharray:;"/><text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="36" x="390.8333" y="673.7422">stats</text><text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="178" x="374.5" y="690.2305">total documents     : 113</text><text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="203" x="374.5" y="706.7188">primary index size  : 209 KB</text><text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="185" x="374.5" y="723.207">all index size      : 209 KB</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="151" x="374.5" y="739.6953">total attributes      : 23</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="137" x="374.5" y="756.1836">total objects         : 0</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="154" x="374.5" y="772.6719">max depth level       : 0</text><line style="stroke:#181818;stroke-width:1.0;" x1="369.5" x2="582.5" y1="779.625" y2="779.625"/></g><!--MD5=[ad18d7b2a894e3378f9cf38637e833ea]
+class db_accounts--><g id="elem_db_accounts"><rect codeLine="112" fill="#F1F1F1" height="363.7656" id="db_accounts" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="215" x="62.5" y="1045.4883"/><path d="M118.8333,1054.1432 L118.8333,1056.4766 L121.1667,1056.4766 L121.1667,1054.1432 L118.8333,1054.1432 M122.3333,1054.1432 L122.3333,1056.4766 L124.6667,1056.4766 L124.6667,1054.1432 L122.3333,1054.1432 M125.8333,1054.1432 L125.8333,1056.4766 L128.1667,1056.4766 L128.1667,1054.1432 L125.8333,1054.1432 M118.8333,1057.6432 L118.8333,1059.9766 L121.1667,1059.9766 L121.1667,1057.6432 L118.8333,1057.6432 M122.3333,1057.6432 L122.3333,1059.9766 L124.6667,1059.9766 L124.6667,1057.6432 L122.3333,1057.6432 M125.8333,1057.6432 L125.8333,1059.9766 L128.1667,1059.9766 L128.1667,1057.6432 L125.8333,1057.6432 M118.8333,1061.1432 L118.8333,1063.4766 L121.1667,1063.4766 L121.1667,1061.1432 L118.8333,1061.1432 M122.3333,1061.1432 L122.3333,1063.4766 L124.6667,1063.4766 L124.6667,1061.1432 L122.3333,1061.1432 M125.8333,1061.1432 L125.8333,1063.4766 L128.1667,1063.4766 L128.1667,1061.1432 L125.8333,1061.1432 " fill="#000000" style="stroke:;stroke-width:0.0;stroke-dasharray:;"/><text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="88" x="134.1667" y="1064.0234">db_accounts</text><line style="stroke:#181818;stroke-width:0.5;" x1="63.5" x2="276.5" y1="1071.9766" y2="1071.9766"/><ellipse cx="73.5" cy="1085.7207" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="110" x="82.5" y="1089.5117">(pk) _id : string</text><rect fill="none" height="6" style="stroke:#C82930;stroke-width:1.0;" width="6" x="70.5" y="1099.209"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="158" x="82.5" y="1106">account_number : long</text><rect fill="none" height="6" style="stroke:#C82930;stroke-width:1.0;" width="6" x="70.5" y="1115.6973"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="93" x="82.5" y="1122.4883">address : text</text><rect fill="none" height="6" style="stroke:#C82930;stroke-width:1.0;" width="6" x="70.5" y="1132.1855"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="68" x="82.5" y="1138.9766">age : long</text><rect fill="none" height="6" style="stroke:#C82930;stroke-width:1.0;" width="6" x="70.5" y="1148.6738"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="96" x="82.5" y="1155.4648">balance : long</text><rect fill="none" height="6" style="stroke:#C82930;stroke-width:1.0;" width="6" x="70.5" y="1165.1621"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="62" x="82.5" y="1171.9531">city : text</text><rect fill="none" height="6" style="stroke:#C82930;stroke-width:1.0;" width="6" x="70.5" y="1181.6504"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="76" x="82.5" y="1188.4414">email : text</text><rect fill="none" height="6" style="stroke:#C82930;stroke-width:1.0;" width="6" x="70.5" y="1198.1387"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="103" x="82.5" y="1204.9297">employer : text</text><rect fill="none" height="6" style="stroke:#C82930;stroke-width:1.0;" width="6" x="70.5" y="1214.627"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="104" x="82.5" y="1221.418">firstname : text</text><rect fill="none" height="6" style="stroke:#C82930;stroke-width:1.0;" width="6" x="70.5" y="1231.1152"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="88" x="82.5" y="1237.9063">gender : text</text><rect fill="none" height="6" style="stroke:#C82930;stroke-width:1.0;" width="6" x="70.5" y="1247.6035"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="101" x="82.5" y="1254.3945">lastname : text</text><rect fill="none" height="6" style="stroke:#C82930;stroke-width:1.0;" width="6" x="70.5" y="1264.0918"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="72" x="82.5" y="1270.8828">state : text</text><line style="stroke:#181818;stroke-width:1.0;" x1="63.5" x2="276.5" y1="1277.8359" y2="1277.8359"/><line style="stroke:#181818;stroke-width:1.0;" x1="63.5" x2="276.5" y1="1279.8359" y2="1279.8359"/><path d="M73.5833,1285.4909 C72.4517,1285.4909 71.4367,1285.9576 70.7017,1286.6926 L74.1667,1290.1576 L74.1667,1285.5259 C73.98,1285.5026 73.7817,1285.4909 73.5833,1285.4909 M75.3333,1286.7276 L75.3333,1290.7059 L72.16,1293.8792 C72.8717,1294.4626 73.7583,1294.8242 74.75,1294.8242 C77.0017,1294.8242 78.8333,1292.9926 78.8333,1290.7409 C78.8333,1288.6876 77.305,1287.0192 75.3333,1286.7276 M70.5617,1288.2559 C69.9083,1288.8859 69.5,1289.7609 69.5,1290.7409 C69.5,1291.8609 70.0367,1292.8292 70.8533,1293.4709 L73.3383,1290.9859 L70.5617,1288.2559 " fill="#000000" style="stroke:;stroke-width:0.0;stroke-dasharray:;"/><text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="36" x="84.8333" y="1295.3711">stats</text><text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="190" x="68.5" y="1311.8594">total documents     : 1,000</text><text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="203" x="68.5" y="1328.3477">primary index size  : 384 KB</text><text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="185" x="68.5" y="1344.8359">all index size      : 384 KB</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="151" x="68.5" y="1361.3242">total attributes      : 12</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="137" x="68.5" y="1377.8125">total objects         : 0</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="154" x="68.5" y="1394.3008">max depth level       : 0</text><line style="stroke:#181818;stroke-width:1.0;" x1="63.5" x2="276.5" y1="1401.2539" y2="1401.2539"/></g><!--MD5=[22ccd4aece264f3c267e808a6fdffb5e]
+class db_shakespeare--><g id="elem_db_shakespeare"><rect codeLine="137" fill="#F1F1F1" height="297.8125" id="db_shakespeare" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="236" x="313" y="1078.4883"/><path d="M366.8333,1087.1432 L366.8333,1089.4766 L369.1667,1089.4766 L369.1667,1087.1432 L366.8333,1087.1432 M370.3333,1087.1432 L370.3333,1089.4766 L372.6667,1089.4766 L372.6667,1087.1432 L370.3333,1087.1432 M373.8333,1087.1432 L373.8333,1089.4766 L376.1667,1089.4766 L376.1667,1087.1432 L373.8333,1087.1432 M366.8333,1090.6432 L366.8333,1092.9766 L369.1667,1092.9766 L369.1667,1090.6432 L366.8333,1090.6432 M370.3333,1090.6432 L370.3333,1092.9766 L372.6667,1092.9766 L372.6667,1090.6432 L370.3333,1090.6432 M373.8333,1090.6432 L373.8333,1092.9766 L376.1667,1092.9766 L376.1667,1090.6432 L373.8333,1090.6432 M366.8333,1094.1432 L366.8333,1096.4766 L369.1667,1096.4766 L369.1667,1094.1432 L366.8333,1094.1432 M370.3333,1094.1432 L370.3333,1096.4766 L372.6667,1096.4766 L372.6667,1094.1432 L370.3333,1094.1432 M373.8333,1094.1432 L373.8333,1096.4766 L376.1667,1096.4766 L376.1667,1094.1432 L373.8333,1094.1432 " fill="#000000" style="stroke:;stroke-width:0.0;stroke-dasharray:;"/><text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="114" x="382.1667" y="1097.0234">db_shakespeare</text><line style="stroke:#181818;stroke-width:0.5;" x1="314" x2="548" y1="1104.9766" y2="1104.9766"/><ellipse cx="324" cy="1118.7207" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="110" x="333" y="1122.5117">(pk) _id : string</text><rect fill="none" height="6" style="stroke:#C82930;stroke-width:1.0;" width="6" x="321" y="1132.209"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="88" x="333" y="1139">line_id : long</text><rect fill="none" height="6" style="stroke:#C82930;stroke-width:1.0;" width="6" x="321" y="1148.6973"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="125" x="333" y="1155.4883">line_number : text</text><rect fill="none" height="6" style="stroke:#C82930;stroke-width:1.0;" width="6" x="321" y="1165.1855"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="112" x="333" y="1171.9766">play_name : text</text><rect fill="none" height="6" style="stroke:#C82930;stroke-width:1.0;" width="6" x="321" y="1181.6738"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="93" x="333" y="1188.4648">speaker : text</text><rect fill="none" height="6" style="stroke:#C82930;stroke-width:1.0;" width="6" x="321" y="1198.1621"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="148" x="333" y="1204.9531">speech_number : text</text><rect fill="none" height="6" style="stroke:#C82930;stroke-width:1.0;" width="6" x="321" y="1214.6504"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="108" x="333" y="1221.4414">text_entry : text</text><rect fill="none" height="6" style="stroke:#C82930;stroke-width:1.0;" width="6" x="321" y="1231.1387"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="68" x="333" y="1237.9297">type : text</text><line style="stroke:#181818;stroke-width:1.0;" x1="314" x2="548" y1="1244.8828" y2="1244.8828"/><line style="stroke:#181818;stroke-width:1.0;" x1="314" x2="548" y1="1246.8828" y2="1246.8828"/><path d="M324.0833,1252.5378 C322.9517,1252.5378 321.9367,1253.0044 321.2017,1253.7394 L324.6667,1257.2044 L324.6667,1252.5728 C324.48,1252.5494 324.2817,1252.5378 324.0833,1252.5378 M325.8333,1253.7744 L325.8333,1257.7528 L322.66,1260.9261 C323.3717,1261.5094 324.2583,1261.8711 325.25,1261.8711 C327.5017,1261.8711 329.3333,1260.0394 329.3333,1257.7878 C329.3333,1255.7344 327.805,1254.0661 325.8333,1253.7744 M321.0617,1255.3028 C320.4083,1255.9328 320,1256.8078 320,1257.7878 C320,1258.9078 320.5367,1259.8761 321.3533,1260.5178 L323.8383,1258.0328 L321.0617,1255.3028 " fill="#000000" style="stroke:;stroke-width:0.0;stroke-dasharray:;"/><text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="36" x="335.3333" y="1262.418">stats</text><text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="208" x="319" y="1278.9063">total documents     : 111,396</text><text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="224" x="319" y="1295.3945">primary index size  : 19,458 KB</text><text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="206" x="319" y="1311.8828">all index size      : 19,458 KB</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="142" x="319" y="1328.3711">total attributes      : 8</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="137" x="319" y="1344.8594">total objects         : 0</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="154" x="319" y="1361.3477">max depth level       : 0</text><line style="stroke:#181818;stroke-width:1.0;" x1="314" x2="548" y1="1368.3008" y2="1368.3008"/></g><!--MD5=[654561491e1089e717fe89658f37ebb8]
+class tbl_aaa--><g id="elem_tbl_aaa"><rect fill="#F1F1F1" height="42.4883" id="tbl_aaa" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="55" x="618.5" y="493.9883"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="49" x="621.5" y="512.5234">tbl_aaa</text><line style="stroke:#181818;stroke-width:0.5;" x1="619.5" x2="672.5" y1="520.4766" y2="520.4766"/><line style="stroke:#181818;stroke-width:0.5;" x1="619.5" x2="672.5" y1="528.4766" y2="528.4766"/></g><!--MD5=[3adcc325066560b4d6f8b114f2853a09]
+class tbl_bbb--><g id="elem_tbl_bbb"><rect fill="#F1F1F1" height="42.4883" id="tbl_bbb" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="58" x="617" y="1206.4883"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="52" x="620" y="1225.0234">tbl_bbb</text><line style="stroke:#181818;stroke-width:0.5;" x1="618" x2="674" y1="1232.9766" y2="1232.9766"/><line style="stroke:#181818;stroke-width:0.5;" x1="618" x2="674" y1="1240.9766" y2="1240.9766"/></g><!--MD5=[e3919f77820de9b77f9b0697393b031f]
+link tbl_aaa to tbl_bbb--><g id="link_tbl_aaa_tbl_bbb"><path codeLine="159" d="M646,536.3083 C646,641.1983 646,1101.5483 646,1206.2483 " fill="none" id="tbl_aaa-tbl_bbb" style="stroke:#181818;stroke-width:1.0;stroke-dasharray:7.0,7.0;"/></g><!--MD5=[c1d950734e08f3b5a455e95e14ae5255]
+@startuml
+skinparam titleBorderRoundCorner 15
+skinparam titleBorderThickness 2
+skinparam titleBorderColor black
+skinparam titleBackgroundColor #DDDDDD
+title **:: table erd1- © ::**
+!theme _none_
+skinparam shadowing False
+top to bottom direction
+skinparam linetype ortho
+skinparam packageStyle rectangle
+hide circle
+
+
+
+entity "<&grid-three-up>** db_logs**" as db_logs { 
+  + **(pk) _id : string**
+  - @message : text
+  - @tags : text
+  - @timestamp : date
+  - @version : text
+  - agent : text
+  - bytes : long
+  - clientip : text
+  - extension : text
+  - geo.coordinates.lat : float
+  - geo.coordinates.lon : float
+  - geo.dest : text
+  - geo.src : text
+  - geo.srcdest : text
+  - headings : text
+  - host : text
+  - ip : text
+  - links : text
+  - machine.os : text
+  - machine.ram : long
+  - memory : long
+  - phpmemory : long
+  - referer : text
+  - relatedContent.article:modified_time : date
+  - relatedContent.article:published_time : date
+  - relatedContent.article:section : text
+  - relatedContent.article:tag : text
+  - relatedContent.og:description : text
+  - relatedContent.og:image : text
+  - relatedContent.og:image:height : text
+  - relatedContent.og:image:width : text
+  - relatedContent.og:site_name : text
+  - relatedContent.og:title : text
+  - relatedContent.og:type : text
+  - relatedContent.og:url : text
+  - relatedContent.twitter:card : text
+  - relatedContent.twitter:description : text
+  - relatedContent.twitter:image : text
+  - relatedContent.twitter:site : text
+  - relatedContent.twitter:title : text
+  - relatedContent.url : text
+  - request : text
+  - response : text
+  - spaces : text
+  - url : text
+  - utc_time : date
+  - xss : text
+  ==
+  <&pie-chart>** stats**
+      **total documents     : 14,005**
+      **primary index size  : 36,776 KB**
+      **all index size      : 36,776 KB**
+      total attributes      : 47
+      total objects         : 0
+      max depth level       : 2
+  - -
+}
+
+
+entity "<&grid-three-up>** db_movies**" as db_movies { 
+  + **(pk) _id : string**
+  - Actors : text
+  - Awards : text
+  - Country : text
+  - Director : text
+  - Error : text
+  - Genre : text
+  - Language : text
+  - Metascore : text
+  - Plot : text
+  - Poster : text
+  - Rated : text
+  - Released : text
+  - Response : text
+  - Runtime : text
+  - Title : text
+  - Type : text
+  - Writer : text
+  - Year : text
+  - imdbID : text
+  - imdbRating : text
+  - imdbVotes : text
+  - totalSeasons : text
+  ==
+  <&pie-chart>** stats**
+      **total documents     : 113**
+      **primary index size  : 209 KB**
+      **all index size      : 209 KB**
+      total attributes      : 23
+      total objects         : 0
+      max depth level       : 0
+  - -
+}
+
+
+entity "<&grid-three-up>** db_accounts**" as db_accounts { 
+  + **(pk) _id : string**
+  - account_number : long
+  - address : text
+  - age : long
+  - balance : long
+  - city : text
+  - email : text
+  - employer : text
+  - firstname : text
+  - gender : text
+  - lastname : text
+  - state : text
+  ==
+  <&pie-chart>** stats**
+      **total documents     : 1,000**
+      **primary index size  : 384 KB**
+      **all index size      : 384 KB**
+      total attributes      : 12
+      total objects         : 0
+      max depth level       : 0
+  - -
+}
+
+
+entity "<&grid-three-up>** db_shakespeare**" as db_shakespeare { 
+  + **(pk) _id : string**
+  - line_id : long
+  - line_number : text
+  - play_name : text
+  - speaker : text
+  - speech_number : text
+  - text_entry : text
+  - type : text
+  ==
+  <&pie-chart>** stats**
+      **total documents     : 111,396**
+      **primary index size  : 19,458 KB**
+      **all index size      : 19,458 KB**
+      total attributes      : 8
+      total objects         : 0
+      max depth level       : 0
+  - -
+}
+
+
+'# manual relation section 
+tbl_aaa .. tbl_bbb
+
+@enduml
+
+@startuml
+skinparam titleBorderRoundCorner 15
+skinparam titleBorderThickness 2
+skinparam titleBorderColor black
+skinparam titleBackgroundColor #DDDDDD
+title **:: table erd1- © ::**
+skinparam shadowing False
+top to bottom direction
+skinparam linetype ortho
+skinparam packageStyle rectangle
+hide circle
+
+
+
+entity "<&grid-three-up>** db_logs**" as db_logs { 
+  + **(pk) _id : string**
+  - @message : text
+  - @tags : text
+  - @timestamp : date
+  - @version : text
+  - agent : text
+  - bytes : long
+  - clientip : text
+  - extension : text
+  - geo.coordinates.lat : float
+  - geo.coordinates.lon : float
+  - geo.dest : text
+  - geo.src : text
+  - geo.srcdest : text
+  - headings : text
+  - host : text
+  - ip : text
+  - links : text
+  - machine.os : text
+  - machine.ram : long
+  - memory : long
+  - phpmemory : long
+  - referer : text
+  - relatedContent.article:modified_time : date
+  - relatedContent.article:published_time : date
+  - relatedContent.article:section : text
+  - relatedContent.article:tag : text
+  - relatedContent.og:description : text
+  - relatedContent.og:image : text
+  - relatedContent.og:image:height : text
+  - relatedContent.og:image:width : text
+  - relatedContent.og:site_name : text
+  - relatedContent.og:title : text
+  - relatedContent.og:type : text
+  - relatedContent.og:url : text
+  - relatedContent.twitter:card : text
+  - relatedContent.twitter:description : text
+  - relatedContent.twitter:image : text
+  - relatedContent.twitter:site : text
+  - relatedContent.twitter:title : text
+  - relatedContent.url : text
+  - request : text
+  - response : text
+  - spaces : text
+  - url : text
+  - utc_time : date
+  - xss : text
+  ==
+  <&pie-chart>** stats**
+      **total documents     : 14,005**
+      **primary index size  : 36,776 KB**
+      **all index size      : 36,776 KB**
+      total attributes      : 47
+      total objects         : 0
+      max depth level       : 2
+  - -
+}
+
+
+entity "<&grid-three-up>** db_movies**" as db_movies { 
+  + **(pk) _id : string**
+  - Actors : text
+  - Awards : text
+  - Country : text
+  - Director : text
+  - Error : text
+  - Genre : text
+  - Language : text
+  - Metascore : text
+  - Plot : text
+  - Poster : text
+  - Rated : text
+  - Released : text
+  - Response : text
+  - Runtime : text
+  - Title : text
+  - Type : text
+  - Writer : text
+  - Year : text
+  - imdbID : text
+  - imdbRating : text
+  - imdbVotes : text
+  - totalSeasons : text
+  ==
+  <&pie-chart>** stats**
+      **total documents     : 113**
+      **primary index size  : 209 KB**
+      **all index size      : 209 KB**
+      total attributes      : 23
+      total objects         : 0
+      max depth level       : 0
+  - -
+}
+
+
+entity "<&grid-three-up>** db_accounts**" as db_accounts { 
+  + **(pk) _id : string**
+  - account_number : long
+  - address : text
+  - age : long
+  - balance : long
+  - city : text
+  - email : text
+  - employer : text
+  - firstname : text
+  - gender : text
+  - lastname : text
+  - state : text
+  ==
+  <&pie-chart>** stats**
+      **total documents     : 1,000**
+      **primary index size  : 384 KB**
+      **all index size      : 384 KB**
+      total attributes      : 12
+      total objects         : 0
+      max depth level       : 0
+  - -
+}
+
+
+entity "<&grid-three-up>** db_shakespeare**" as db_shakespeare { 
+  + **(pk) _id : string**
+  - line_id : long
+  - line_number : text
+  - play_name : text
+  - speaker : text
+  - speech_number : text
+  - text_entry : text
+  - type : text
+  ==
+  <&pie-chart>** stats**
+      **total documents     : 111,396**
+      **primary index size  : 19,458 KB**
+      **all index size      : 19,458 KB**
+      total attributes      : 8
+      total objects         : 0
+      max depth level       : 0
+  - -
+}
+
+
+tbl_aaa .. tbl_bbb
+
+@enduml
+
+PlantUML version 1.2022.12(Sun Oct 23 14:12:26 EDT 2022)
+(GPL source distribution)
+Java Runtime: OpenJDK Runtime Environment
+JVM: OpenJDK 64-Bit Server VM
+Default Encoding: UTF-8
+Language: en
+Country: CA
+--></g></svg>

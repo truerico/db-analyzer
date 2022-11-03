@@ -1,0 +1,20 @@
+{
+    "name": "node-es7",
+    "cluster_name": "cluster-es7",
+    "cluster_uuid": "284N5VLiRlujXPZptxZl8A",
+    "version": {
+        "number": "7.9.3",
+        "build_flavor": "default",
+        "build_type": "tar",
+        "build_hash": "c4138e51121ef06a6404866cddc601906fe5c868",
+        "build_date": "2020-10-16T10:36:16.141335Z",
+        "build_snapshot": false,
+        "lucene_version": "8.6.2",
+        "minimum_wire_compatibility_version": "6.8.0",
+        "minimum_index_compatibility_version": "6.0.0-beta1"
+    },
+    "tagline": "You Know, for Search",
+    "sys_protocol": "https",
+    "sys_host_name": "pivot-test-es.nfb.ca",
+    "sys_host_port": 9220
+}

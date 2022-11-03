@@ -1,0 +1,62 @@
+@startjson
+{
+    "field1": "city",
+    "combination": "city",
+    "null_distribution": {
+        "total_null_rows": 0,
+        "total_not_null_rows": 1000
+    },
+    "data_distribution": [
+        {
+            "field_value_1": "Belvoir",
+            "row_count": 2,
+            "ratio_percent": 0.2
+        },
+        {
+            "field_value_1": "Aberdeen",
+            "row_count": 1,
+            "ratio_percent": 0.1
+        },
+        {
+            "field_value_1": "Abiquiu",
+            "row_count": 1,
+            "ratio_percent": 0.1
+        },
+        {
+            "field_value_1": "Abrams",
+            "row_count": 1,
+            "ratio_percent": 0.1
+        },
+        {
+            "field_value_1": "Accoville",
+            "row_count": 1,
+            "ratio_percent": 0.1
+        },
+        {
+            "field_value_1": "Ada",
+            "row_count": 1,
+            "ratio_percent": 0.1
+        },
+        {
+            "field_value_1": "Adamstown",
+            "row_count": 1,
+            "ratio_percent": 0.1
+        },
+        {
+            "field_value_1": "Adelino",
+            "row_count": 1,
+            "ratio_percent": 0.1
+        },
+        {
+            "field_value_1": "Advance",
+            "row_count": 1,
+            "ratio_percent": 0.1
+        },
+        {
+            "field_value_1": "Aguila",
+            "row_count": 1,
+            "ratio_percent": 0.1
+        }
+    ]
+}
+@endjson

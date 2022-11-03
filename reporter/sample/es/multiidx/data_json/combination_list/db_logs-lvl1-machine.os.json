@@ -1,0 +1,42 @@
+@startjson
+{
+    "field1": "machine.os",
+    "combination": "machine.os",
+    "null_distribution": {
+        "total_null_rows": 1334,
+        "total_not_null_rows": 12671
+    },
+    "data_distribution": [
+        {
+            "field_value_1": "win 7",
+            "row_count": 2859,
+            "ratio_percent": 20.41
+        },
+        {
+            "field_value_1": "win 8",
+            "row_count": 2838,
+            "ratio_percent": 20.26
+        },
+        {
+            "field_value_1": "win xp",
+            "row_count": 2798,
+            "ratio_percent": 19.98
+        },
+        {
+            "field_value_1": "ios",
+            "row_count": 2740,
+            "ratio_percent": 19.56
+        },
+        {
+            "field_value_1": "osx",
+            "row_count": 1436,
+            "ratio_percent": 10.25
+        },
+        {
+            "field_value_1": "None",
+            "row_count": 1334,
+            "ratio_percent": 9.53
+        }
+    ]
+}
+@endjson

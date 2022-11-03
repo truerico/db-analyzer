@@ -1,0 +1,62 @@
+@startjson
+{
+    "field1": "Rated",
+    "combination": "Rated",
+    "null_distribution": {
+        "total_null_rows": 2,
+        "total_not_null_rows": 111
+    },
+    "data_distribution": [
+        {
+            "field_value_1": "R",
+            "row_count": 31,
+            "ratio_percent": 27.43
+        },
+        {
+            "field_value_1": "N/A",
+            "row_count": 23,
+            "ratio_percent": 20.35
+        },
+        {
+            "field_value_1": "PG-13",
+            "row_count": 20,
+            "ratio_percent": 17.7
+        },
+        {
+            "field_value_1": "PG",
+            "row_count": 14,
+            "ratio_percent": 12.39
+        },
+        {
+            "field_value_1": "NOT RATED",
+            "row_count": 6,
+            "ratio_percent": 5.31
+        },
+        {
+            "field_value_1": "TV-14",
+            "row_count": 5,
+            "ratio_percent": 4.42
+        },
+        {
+            "field_value_1": "UNRATED",
+            "row_count": 3,
+            "ratio_percent": 2.65
+        },
+        {
+            "field_value_1": "None",
+            "row_count": 2,
+            "ratio_percent": 1.77
+        },
+        {
+            "field_value_1": "APPROVED",
+            "row_count": 2,
+            "ratio_percent": 1.77
+        },
+        {
+            "field_value_1": "TV-MA",
+            "row_count": 2,
+            "ratio_percent": 1.77
+        }
+    ]
+}
+@endjson

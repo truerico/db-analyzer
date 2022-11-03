@@ -1,0 +1,62 @@
+@startjson
+{
+    "field1": "imdbRating",
+    "combination": "imdbRating",
+    "null_distribution": {
+        "total_null_rows": 2,
+        "total_not_null_rows": 111
+    },
+    "data_distribution": [
+        {
+            "field_value_1": "7.3",
+            "row_count": 8,
+            "ratio_percent": 7.08
+        },
+        {
+            "field_value_1": "7.5",
+            "row_count": 8,
+            "ratio_percent": 7.08
+        },
+        {
+            "field_value_1": "7.9",
+            "row_count": 7,
+            "ratio_percent": 6.19
+        },
+        {
+            "field_value_1": "8.1",
+            "row_count": 7,
+            "ratio_percent": 6.19
+        },
+        {
+            "field_value_1": "7.7",
+            "row_count": 6,
+            "ratio_percent": 5.31
+        },
+        {
+            "field_value_1": "6.0",
+            "row_count": 5,
+            "ratio_percent": 4.42
+        },
+        {
+            "field_value_1": "5.7",
+            "row_count": 4,
+            "ratio_percent": 3.54
+        },
+        {
+            "field_value_1": "6.5",
+            "row_count": 4,
+            "ratio_percent": 3.54
+        },
+        {
+            "field_value_1": "6.7",
+            "row_count": 4,
+            "ratio_percent": 3.54
+        },
+        {
+            "field_value_1": "6.8",
+            "row_count": 4,
+            "ratio_percent": 3.54
+        }
+    ]
+}
+@endjson

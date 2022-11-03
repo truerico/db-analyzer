@@ -1,0 +1,62 @@
+@startjson
+{
+    "field1": "text_entry",
+    "combination": "text_entry",
+    "null_distribution": {
+        "total_null_rows": 2,
+        "total_not_null_rows": 111394
+    },
+    "data_distribution": [
+        {
+            "field_value_1": "Exit",
+            "row_count": 564,
+            "ratio_percent": 0.51
+        },
+        {
+            "field_value_1": "Exeunt",
+            "row_count": 549,
+            "ratio_percent": 0.49
+        },
+        {
+            "field_value_1": "ANTIPHOLUS",
+            "row_count": 175,
+            "ratio_percent": 0.16
+        },
+        {
+            "field_value_1": "DON",
+            "row_count": 101,
+            "ratio_percent": 0.09
+        },
+        {
+            "field_value_1": "Aside",
+            "row_count": 50,
+            "ratio_percent": 0.04
+        },
+        {
+            "field_value_1": "Enter a Messenger",
+            "row_count": 47,
+            "ratio_percent": 0.04
+        },
+        {
+            "field_value_1": "ACT I",
+            "row_count": 36,
+            "ratio_percent": 0.03
+        },
+        {
+            "field_value_1": "ACT II",
+            "row_count": 36,
+            "ratio_percent": 0.03
+        },
+        {
+            "field_value_1": "ACT III",
+            "row_count": 36,
+            "ratio_percent": 0.03
+        },
+        {
+            "field_value_1": "ACT IV",
+            "row_count": 36,
+            "ratio_percent": 0.03
+        }
+    ]
+}
+@endjson

@@ -1,0 +1,62 @@
+@startjson
+{
+    "field1": "Released",
+    "combination": "Released",
+    "null_distribution": {
+        "total_null_rows": 2,
+        "total_not_null_rows": 111
+    },
+    "data_distribution": [
+        {
+            "field_value_1": "14 Jan 2005",
+            "row_count": 4,
+            "ratio_percent": 3.54
+        },
+        {
+            "field_value_1": "N/A",
+            "row_count": 3,
+            "ratio_percent": 2.65
+        },
+        {
+            "field_value_1": "None",
+            "row_count": 2,
+            "ratio_percent": 1.77
+        },
+        {
+            "field_value_1": "03 Dec 2010",
+            "row_count": 2,
+            "ratio_percent": 1.77
+        },
+        {
+            "field_value_1": "04 Apr 2008",
+            "row_count": 2,
+            "ratio_percent": 1.77
+        },
+        {
+            "field_value_1": "08 Jun 1979",
+            "row_count": 2,
+            "ratio_percent": 1.77
+        },
+        {
+            "field_value_1": "09 Nov 2012",
+            "row_count": 2,
+            "ratio_percent": 1.77
+        },
+        {
+            "field_value_1": "10 May 2013",
+            "row_count": 2,
+            "ratio_percent": 1.77
+        },
+        {
+            "field_value_1": "15 Dec 2011",
+            "row_count": 2,
+            "ratio_percent": 1.77
+        },
+        {
+            "field_value_1": "23 Jul 1999",
+            "row_count": 2,
+            "ratio_percent": 1.77
+        }
+    ]
+}
+@endjson

@@ -1,0 +1,26 @@
+[
+    {
+        "index_name": "db_logs",
+        "alias_list": "",
+        "object_count": 4,
+        "attribute_count": 47
+    },
+    {
+        "index_name": "db_movies",
+        "alias_list": "",
+        "object_count": 0,
+        "attribute_count": 23
+    },
+    {
+        "index_name": "db_accounts",
+        "alias_list": "",
+        "object_count": 0,
+        "attribute_count": 12
+    },
+    {
+        "index_name": "db_shakespeare",
+        "alias_list": "",
+        "object_count": 0,
+        "attribute_count": 8
+    }
+]

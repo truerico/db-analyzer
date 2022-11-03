@@ -1,0 +1,62 @@
+@startjson
+{
+    "field1": "account_number",
+    "combination": "account_number",
+    "null_distribution": {
+        "total_null_rows": 0,
+        "total_not_null_rows": 1000
+    },
+    "data_distribution": [
+        {
+            "field_value_1": "0",
+            "row_count": 1,
+            "ratio_percent": 0.1
+        },
+        {
+            "field_value_1": "1",
+            "row_count": 1,
+            "ratio_percent": 0.1
+        },
+        {
+            "field_value_1": "2",
+            "row_count": 1,
+            "ratio_percent": 0.1
+        },
+        {
+            "field_value_1": "3",
+            "row_count": 1,
+            "ratio_percent": 0.1
+        },
+        {
+            "field_value_1": "4",
+            "row_count": 1,
+            "ratio_percent": 0.1
+        },
+        {
+            "field_value_1": "5",
+            "row_count": 1,
+            "ratio_percent": 0.1
+        },
+        {
+            "field_value_1": "6",
+            "row_count": 1,
+            "ratio_percent": 0.1
+        },
+        {
+            "field_value_1": "7",
+            "row_count": 1,
+            "ratio_percent": 0.1
+        },
+        {
+            "field_value_1": "8",
+            "row_count": 1,
+            "ratio_percent": 0.1
+        },
+        {
+            "field_value_1": "9",
+            "row_count": 1,
+            "ratio_percent": 0.1
+        }
+    ]
+}
+@endjson

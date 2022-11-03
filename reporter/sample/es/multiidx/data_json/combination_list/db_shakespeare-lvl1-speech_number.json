@@ -1,0 +1,62 @@
+@startjson
+{
+    "field1": "speech_number",
+    "combination": "speech_number",
+    "null_distribution": {
+        "total_null_rows": 0,
+        "total_not_null_rows": 111396
+    },
+    "data_distribution": [
+        {
+            "field_value_1": "1",
+            "row_count": 5141,
+            "ratio_percent": 4.62
+        },
+        {
+            "field_value_1": "3",
+            "row_count": 3241,
+            "ratio_percent": 2.91
+        },
+        {
+            "field_value_1": "5",
+            "row_count": 3117,
+            "ratio_percent": 2.8
+        },
+        {
+            "field_value_1": "7",
+            "row_count": 2681,
+            "ratio_percent": 2.41
+        },
+        {
+            "field_value_1": "2",
+            "row_count": 2673,
+            "ratio_percent": 2.4
+        },
+        {
+            "field_value_1": "4",
+            "row_count": 2619,
+            "ratio_percent": 2.35
+        },
+        {
+            "field_value_1": "8",
+            "row_count": 2564,
+            "ratio_percent": 2.3
+        },
+        {
+            "field_value_1": "6",
+            "row_count": 2529,
+            "ratio_percent": 2.27
+        },
+        {
+            "field_value_1": "9",
+            "row_count": 2481,
+            "ratio_percent": 2.23
+        },
+        {
+            "field_value_1": "11",
+            "row_count": 2350,
+            "ratio_percent": 2.11
+        }
+    ]
+}
+@endjson

@@ -1,0 +1,62 @@
+@startjson
+{
+    "field1": "memory",
+    "combination": "memory",
+    "null_distribution": {
+        "total_null_rows": 13608,
+        "total_not_null_rows": 397
+    },
+    "data_distribution": [
+        {
+            "field_value_1": "None",
+            "row_count": 13608,
+            "ratio_percent": 97.17
+        },
+        {
+            "field_value_1": "0",
+            "row_count": 7,
+            "ratio_percent": 0.05
+        },
+        {
+            "field_value_1": "50160",
+            "row_count": 2,
+            "ratio_percent": 0.01
+        },
+        {
+            "field_value_1": "100360",
+            "row_count": 2,
+            "ratio_percent": 0.01
+        },
+        {
+            "field_value_1": "209640",
+            "row_count": 2,
+            "ratio_percent": 0.01
+        },
+        {
+            "field_value_1": "226600",
+            "row_count": 2,
+            "ratio_percent": 0.01
+        },
+        {
+            "field_value_1": "235760",
+            "row_count": 2,
+            "ratio_percent": 0.01
+        },
+        {
+            "field_value_1": "265560",
+            "row_count": 2,
+            "ratio_percent": 0.01
+        },
+        {
+            "field_value_1": "292080",
+            "row_count": 2,
+            "ratio_percent": 0.01
+        },
+        {
+            "field_value_1": "327720",
+            "row_count": 2,
+            "ratio_percent": 0.01
+        }
+    ]
+}
+@endjson

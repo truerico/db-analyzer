@@ -1,0 +1,5 @@
+"index_name","alias_list","primary_shards_count","replica_shards_count","total_shards","shards_ok","shards_nok","total_doc","total_doc_deleted","total_size_kb"
+"db_logs","","1","1","2","1","0","14005","0","36776"
+"db_movies","","1","1","2","1","0","113","0","209"
+"db_accounts","","1","1","2","1","0","1000","0","384"
+"db_shakespeare","","1","1","2","1","0","111396","0","19458"

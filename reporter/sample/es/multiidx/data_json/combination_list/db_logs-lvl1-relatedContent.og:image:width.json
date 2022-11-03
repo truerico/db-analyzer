@@ -1,0 +1,62 @@
+@startjson
+{
+    "field1": "relatedContent.og:image:width",
+    "combination": "relatedContent.og:image:width",
+    "null_distribution": {
+        "total_null_rows": 4327,
+        "total_not_null_rows": 9678
+    },
+    "data_distribution": [
+        {
+            "field_value_1": "480",
+            "row_count": 5505,
+            "ratio_percent": 39.31
+        },
+        {
+            "field_value_1": "None",
+            "row_count": 4327,
+            "ratio_percent": 30.9
+        },
+        {
+            "field_value_1": "500",
+            "row_count": 2760,
+            "ratio_percent": 19.71
+        },
+        {
+            "field_value_1": "200",
+            "row_count": 738,
+            "ratio_percent": 5.27
+        },
+        {
+            "field_value_1": "300",
+            "row_count": 498,
+            "ratio_percent": 3.56
+        },
+        {
+            "field_value_1": "360",
+            "row_count": 326,
+            "ratio_percent": 2.33
+        },
+        {
+            "field_value_1": "400",
+            "row_count": 276,
+            "ratio_percent": 1.97
+        },
+        {
+            "field_value_1": "250",
+            "row_count": 255,
+            "ratio_percent": 1.82
+        },
+        {
+            "field_value_1": "288",
+            "row_count": 210,
+            "ratio_percent": 1.5
+        },
+        {
+            "field_value_1": "450",
+            "row_count": 204,
+            "ratio_percent": 1.46
+        }
+    ]
+}
+@endjson

@@ -1,0 +1,22 @@
+@startjson
+{
+    "field1": "relatedContent.twitter:card",
+    "combination": "relatedContent.twitter:card",
+    "null_distribution": {
+        "total_null_rows": 2282,
+        "total_not_null_rows": 11723
+    },
+    "data_distribution": [
+        {
+            "field_value_1": "summary",
+            "row_count": 11723,
+            "ratio_percent": 83.71
+        },
+        {
+            "field_value_1": "None",
+            "row_count": 2282,
+            "ratio_percent": 16.29
+        }
+    ]
+}
+@endjson

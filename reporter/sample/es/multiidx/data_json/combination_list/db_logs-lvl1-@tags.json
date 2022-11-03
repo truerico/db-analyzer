@@ -1,0 +1,42 @@
+@startjson
+{
+    "field1": "@tags",
+    "combination": "@tags",
+    "null_distribution": {
+        "total_null_rows": 0,
+        "total_not_null_rows": 14005
+    },
+    "data_distribution": [
+        {
+            "field_value_1": "success",
+            "row_count": 11765,
+            "ratio_percent": 84.01
+        },
+        {
+            "field_value_1": "info",
+            "row_count": 10492,
+            "ratio_percent": 74.92
+        },
+        {
+            "field_value_1": "security",
+            "row_count": 2796,
+            "ratio_percent": 19.96
+        },
+        {
+            "field_value_1": "warning",
+            "row_count": 1403,
+            "ratio_percent": 10.02
+        },
+        {
+            "field_value_1": "error",
+            "row_count": 837,
+            "ratio_percent": 5.98
+        },
+        {
+            "field_value_1": "login",
+            "row_count": 717,
+            "ratio_percent": 5.12
+        }
+    ]
+}
+@endjson

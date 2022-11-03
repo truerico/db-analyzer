@@ -1,0 +1,2053 @@
+[
+    {
+        "table": "db_logs",
+        "total_records": 14005,
+        "dataset": [
+            {
+                "field": "@message",
+                "distribution": [
+                    {
+                        "field_value_1": "0.100.131.159 - - [2015-05-18T03:57:19.769Z] \"GET /uploads/janet-l-kavandi.jpg HTTP/1.1\" 200 8479 \"-\" \"Mozilla/5.0 (X11; Linux i686) AppleWebKit/534.24 (KHTML, like Gecko) Chrome/11.0.696.50 Safari/534.24\"",
+                        "row_count": 1,
+                        "ratio_percent": 0.01
+                    },
+                    {
+                        "field_value_1": "0.100.131.159 - - [2015-05-18T07:19:37.797Z] \"GET /uploads/william-frederick-fisher.jpg HTTP/1.1\" 200 4535 \"-\" \"Mozilla/5.0 (X11; Linux x86_64; rv:6.0a1) Gecko/20110421 Firefox/6.0a1\"",
+                        "row_count": 1,
+                        "ratio_percent": 0.01
+                    },
+                    {
+                        "field_value_1": "0.100.131.159 - - [2015-05-18T07:28:10.028Z] \"GET /uploads/thomas-akers.jpg HTTP/1.1\" 200 9225 \"-\" \"Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; .NET CLR 1.1.4322)\"",
+                        "row_count": 1,
+                        "ratio_percent": 0.01
+                    },
+                    {
+                        "field_value_1": "0.100.131.159 - - [2015-05-18T10:10:51.408Z] \"GET /uploads/jack-lousma.jpg HTTP/1.1\" 200 7519 \"-\" \"Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; .NET CLR 1.1.4322)\"",
+                        "row_count": 1,
+                        "ratio_percent": 0.01
+                    },
+                    {
+                        "field_value_1": "0.100.131.159 - - [2015-05-18T17:35:46.307Z] \"GET /uploads/stephanie-wilson.jpg HTTP/1.1\" 200 5137 \"-\" \"Mozilla/5.0 (X11; Linux x86_64; rv:6.0a1) Gecko/20110421 Firefox/6.0a1\"",
+                        "row_count": 1,
+                        "ratio_percent": 0.01
+                    },
+                    {
+                        "field_value_1": "0.100.131.159 - - [2015-05-19T09:20:47.650Z] \"GET /people/type:astronauts/name:william-frederick-fisher/profile HTTP/1.1\" 200 9698 \"-\" \"Mozilla/5.0 (X11; Linux x86_64; rv:6.0a1) Gecko/20110421 Firefox/6.0a1\"",
+                        "row_count": 1,
+                        "ratio_percent": 0.01
+                    },
+                    {
+                        "field_value_1": "0.100.131.159 - - [2015-05-19T11:01:07.684Z] \"GET /uploads/rhea-seddon.jpg HTTP/1.1\" 200 9583 \"-\" \"Mozilla/5.0 (X11; Linux x86_64; rv:6.0a1) Gecko/20110421 Firefox/6.0a1\"",
+                        "row_count": 1,
+                        "ratio_percent": 0.01
+                    },
+                    {
+                        "field_value_1": "0.100.131.159 - - [2015-05-19T15:31:20.447Z] \"GET /uploads/yuri-onufrienko.png HTTP/1.1\" 200 14727 \"-\" \"Mozilla/5.0 (X11; Linux i686) AppleWebKit/534.24 (KHTML, like Gecko) Chrome/11.0.696.50 Safari/534.24\"",
+                        "row_count": 1,
+                        "ratio_percent": 0.01
+                    },
+                    {
+                        "field_value_1": "0.100.131.159 - - [2015-05-19T15:44:56.563Z] \"GET /uploads/reinhard-furrer.jpg HTTP/1.1\" 200 8981 \"-\" \"Mozilla/5.0 (X11; Linux x86_64; rv:6.0a1) Gecko/20110421 Firefox/6.0a1\"",
+                        "row_count": 1,
+                        "ratio_percent": 0.01
+                    },
+                    {
+                        "field_value_1": "0.100.131.159 - - [2015-05-19T17:37:49.988Z] \"GET /uploads/kevin-kregel.jpg HTTP/1.1\" 200 3047 \"-\" \"Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; .NET CLR 1.1.4322)\"",
+                        "row_count": 1,
+                        "ratio_percent": 0.01
+                    }
+                ]
+            },
+            {
+                "field": "geo.coordinates.lon",
+                "distribution": [
+                    {
+                        "field_value_1": "-112.64476013183594",
+                        "row_count": 13,
+                        "ratio_percent": 0.09
+                    },
+                    {
+                        "field_value_1": "-109.60366821289062",
+                        "row_count": 13,
+                        "ratio_percent": 0.09
+                    },
+                    {
+                        "field_value_1": "-101.74628448486328",
+                        "row_count": 12,
+                        "ratio_percent": 0.09
+                    },
+                    {
+                        "field_value_1": "-93.11381530761719",
+                        "row_count": 12,
+                        "ratio_percent": 0.09
+                    },
+                    {
+                        "field_value_1": "-87.75242614746094",
+                        "row_count": 12,
+                        "ratio_percent": 0.09
+                    },
+                    {
+                        "field_value_1": "-112.03515625",
+                        "row_count": 11,
+                        "ratio_percent": 0.08
+                    },
+                    {
+                        "field_value_1": "-111.56913757324219",
+                        "row_count": 11,
+                        "ratio_percent": 0.08
+                    },
+                    {
+                        "field_value_1": "-106.46446990966797",
+                        "row_count": 11,
+                        "ratio_percent": 0.08
+                    },
+                    {
+                        "field_value_1": "-102.46710205078125",
+                        "row_count": 11,
+                        "ratio_percent": 0.08
+                    },
+                    {
+                        "field_value_1": "-100.02427673339844",
+                        "row_count": 11,
+                        "ratio_percent": 0.08
+                    }
+                ]
+            },
+            {
+                "field": "geo.dest",
+                "distribution": [
+                    {
+                        "field_value_1": "CN",
+                        "row_count": 2620,
+                        "ratio_percent": 18.71
+                    },
+                    {
+                        "field_value_1": "IN",
+                        "row_count": 2394,
+                        "ratio_percent": 17.09
+                    },
+                    {
+                        "field_value_1": "US",
+                        "row_count": 1185,
+                        "ratio_percent": 8.46
+                    },
+                    {
+                        "field_value_1": "ID",
+                        "row_count": 443,
+                        "ratio_percent": 3.16
+                    },
+                    {
+                        "field_value_1": "BR",
+                        "row_count": 381,
+                        "ratio_percent": 2.72
+                    },
+                    {
+                        "field_value_1": "PK",
+                        "row_count": 354,
+                        "ratio_percent": 2.53
+                    },
+                    {
+                        "field_value_1": "BD",
+                        "row_count": 309,
+                        "ratio_percent": 2.21
+                    },
+                    {
+                        "field_value_1": "NG",
+                        "row_count": 300,
+                        "ratio_percent": 2.14
+                    },
+                    {
+                        "field_value_1": "JP",
+                        "row_count": 265,
+                        "ratio_percent": 1.89
+                    },
+                    {
+                        "field_value_1": "RU",
+                        "row_count": 255,
+                        "ratio_percent": 1.82
+                    }
+                ]
+            },
+            {
+                "field": "geo.src",
+                "distribution": [
+                    {
+                        "field_value_1": "CN",
+                        "row_count": 2550,
+                        "ratio_percent": 18.21
+                    },
+                    {
+                        "field_value_1": "IN",
+                        "row_count": 2325,
+                        "ratio_percent": 16.6
+                    },
+                    {
+                        "field_value_1": "US",
+                        "row_count": 1160,
+                        "ratio_percent": 8.28
+                    },
+                    {
+                        "field_value_1": "ID",
+                        "row_count": 473,
+                        "ratio_percent": 3.38
+                    },
+                    {
+                        "field_value_1": "BR",
+                        "row_count": 376,
+                        "ratio_percent": 2.68
+                    },
+                    {
+                        "field_value_1": "PK",
+                        "row_count": 374,
+                        "ratio_percent": 2.67
+                    },
+                    {
+                        "field_value_1": "NG",
+                        "row_count": 311,
+                        "ratio_percent": 2.22
+                    },
+                    {
+                        "field_value_1": "BD",
+                        "row_count": 304,
+                        "ratio_percent": 2.17
+                    },
+                    {
+                        "field_value_1": "RU",
+                        "row_count": 297,
+                        "ratio_percent": 2.12
+                    },
+                    {
+                        "field_value_1": "JP",
+                        "row_count": 222,
+                        "ratio_percent": 1.59
+                    }
+                ]
+            },
+            {
+                "field": "geo.srcdest",
+                "distribution": [
+                    {
+                        "field_value_1": "CN:CN",
+                        "row_count": 467,
+                        "ratio_percent": 3.33
+                    },
+                    {
+                        "field_value_1": "IN:CN",
+                        "row_count": 461,
+                        "ratio_percent": 3.29
+                    },
+                    {
+                        "field_value_1": "CN:IN",
+                        "row_count": 420,
+                        "ratio_percent": 3.0
+                    },
+                    {
+                        "field_value_1": "IN:IN",
+                        "row_count": 401,
+                        "ratio_percent": 2.86
+                    },
+                    {
+                        "field_value_1": "CN:US",
+                        "row_count": 219,
+                        "ratio_percent": 1.56
+                    },
+                    {
+                        "field_value_1": "IN:US",
+                        "row_count": 210,
+                        "ratio_percent": 1.5
+                    },
+                    {
+                        "field_value_1": "US:IN",
+                        "row_count": 206,
+                        "ratio_percent": 1.47
+                    },
+                    {
+                        "field_value_1": "US:CN",
+                        "row_count": 189,
+                        "ratio_percent": 1.35
+                    },
+                    {
+                        "field_value_1": "US:US",
+                        "row_count": 89,
+                        "ratio_percent": 0.64
+                    },
+                    {
+                        "field_value_1": "ID:CN",
+                        "row_count": 88,
+                        "ratio_percent": 0.63
+                    }
+                ]
+            },
+            {
+                "field": "headings",
+                "distribution": [
+                    {
+                        "field_value_1": "<h3>salizhan-sharipov</h5>",
+                        "row_count": 46,
+                        "ratio_percent": 0.33
+                    },
+                    {
+                        "field_value_1": "<h3>richard-linnehan</h5>",
+                        "row_count": 45,
+                        "ratio_percent": 0.32
+                    },
+                    {
+                        "field_value_1": "<h3>donald-deke-slayton</h5>",
+                        "row_count": 43,
+                        "ratio_percent": 0.31
+                    },
+                    {
+                        "field_value_1": "<h3>apollo-13</h5>",
+                        "row_count": 40,
+                        "ratio_percent": 0.29
+                    },
+                    {
+                        "field_value_1": "<h3>ted-freeman</h5>",
+                        "row_count": 40,
+                        "ratio_percent": 0.29
+                    },
+                    {
+                        "field_value_1": "<h3>stephen-oswald</h5>",
+                        "row_count": 39,
+                        "ratio_percent": 0.28
+                    },
+                    {
+                        "field_value_1": "<h3>anatoli-ivanishin</h5>",
+                        "row_count": 38,
+                        "ratio_percent": 0.27
+                    },
+                    {
+                        "field_value_1": "<h3>gregory-chamitoff</h5>",
+                        "row_count": 38,
+                        "ratio_percent": 0.27
+                    },
+                    {
+                        "field_value_1": "<h3>william-gregory</h5>",
+                        "row_count": 38,
+                        "ratio_percent": 0.27
+                    },
+                    {
+                        "field_value_1": "<h3>andrew-thomas</h5>",
+                        "row_count": 37,
+                        "ratio_percent": 0.26
+                    }
+                ]
+            },
+            {
+                "field": "host",
+                "distribution": [
+                    {
+                        "field_value_1": "media-for-the-masses.theacademyofperformingartsandscience.org",
+                        "row_count": 10468,
+                        "ratio_percent": 74.74
+                    },
+                    {
+                        "field_value_1": "cdn.theacademyofperformingartsandscience.org",
+                        "row_count": 2253,
+                        "ratio_percent": 16.09
+                    },
+                    {
+                        "field_value_1": "motion-media.theacademyofperformingartsandscience.org",
+                        "row_count": 887,
+                        "ratio_percent": 6.33
+                    },
+                    {
+                        "field_value_1": "theacademyofperformingartsandscience.org",
+                        "row_count": 397,
+                        "ratio_percent": 2.83
+                    }
+                ]
+            },
+            {
+                "field": "ip",
+                "distribution": [
+                    {
+                        "field_value_1": "50.119.12.160",
+                        "row_count": 27,
+                        "ratio_percent": 0.19
+                    },
+                    {
+                        "field_value_1": "115.74.50.141",
+                        "row_count": 26,
+                        "ratio_percent": 0.19
+                    },
+                    {
+                        "field_value_1": "24.221.193.188",
+                        "row_count": 25,
+                        "ratio_percent": 0.18
+                    },
+                    {
+                        "field_value_1": "178.209.1.7",
+                        "row_count": 24,
+                        "ratio_percent": 0.17
+                    },
+                    {
+                        "field_value_1": "96.118.235.181",
+                        "row_count": 24,
+                        "ratio_percent": 0.17
+                    },
+                    {
+                        "field_value_1": "178.224.224.185",
+                        "row_count": 23,
+                        "ratio_percent": 0.16
+                    },
+                    {
+                        "field_value_1": "21.1.201.77",
+                        "row_count": 23,
+                        "ratio_percent": 0.16
+                    },
+                    {
+                        "field_value_1": "243.249.65.126",
+                        "row_count": 23,
+                        "ratio_percent": 0.16
+                    },
+                    {
+                        "field_value_1": "247.45.153.155",
+                        "row_count": 23,
+                        "ratio_percent": 0.16
+                    },
+                    {
+                        "field_value_1": "35.106.192.47",
+                        "row_count": 23,
+                        "ratio_percent": 0.16
+                    }
+                ]
+            },
+            {
+                "field": "links",
+                "distribution": [
+                    {
+                        "field_value_1": "www.www.slate.com",
+                        "row_count": 6187,
+                        "ratio_percent": 44.18
+                    },
+                    {
+                        "field_value_1": "www.twitter.com",
+                        "row_count": 4230,
+                        "ratio_percent": 30.2
+                    },
+                    {
+                        "field_value_1": "www.facebook.com",
+                        "row_count": 2441,
+                        "ratio_percent": 17.43
+                    },
+                    {
+                        "field_value_1": "www.nytimes.com",
+                        "row_count": 1147,
+                        "ratio_percent": 8.19
+                    },
+                    {
+                        "field_value_1": "shannon-walker@www.slate.com",
+                        "row_count": 23,
+                        "ratio_percent": 0.16
+                    },
+                    {
+                        "field_value_1": "michael-p-anderson@www.slate.com",
+                        "row_count": 20,
+                        "ratio_percent": 0.14
+                    },
+                    {
+                        "field_value_1": "michael-r-barratt@www.slate.com",
+                        "row_count": 20,
+                        "ratio_percent": 0.14
+                    },
+                    {
+                        "field_value_1": "aleksandr-pavlovich-aleksandrov@www.slate.com",
+                        "row_count": 19,
+                        "ratio_percent": 0.14
+                    },
+                    {
+                        "field_value_1": "david-m-brown@www.slate.com",
+                        "row_count": 19,
+                        "ratio_percent": 0.14
+                    },
+                    {
+                        "field_value_1": "gemini-8@www.slate.com",
+                        "row_count": 19,
+                        "ratio_percent": 0.14
+                    }
+                ]
+            },
+            {
+                "field": "machine.os",
+                "distribution": [
+                    {
+                        "field_value_1": "win 7",
+                        "row_count": 2859,
+                        "ratio_percent": 20.41
+                    },
+                    {
+                        "field_value_1": "win 8",
+                        "row_count": 2838,
+                        "ratio_percent": 20.26
+                    },
+                    {
+                        "field_value_1": "win xp",
+                        "row_count": 2798,
+                        "ratio_percent": 19.98
+                    },
+                    {
+                        "field_value_1": "ios",
+                        "row_count": 2740,
+                        "ratio_percent": 19.56
+                    },
+                    {
+                        "field_value_1": "osx",
+                        "row_count": 1436,
+                        "ratio_percent": 10.25
+                    },
+                    {
+                        "field_value_1": "None",
+                        "row_count": 1334,
+                        "ratio_percent": 9.53
+                    }
+                ]
+            },
+            {
+                "field": "machine.ram",
+                "distribution": [
+                    {
+                        "field_value_1": "20401094656",
+                        "row_count": 733,
+                        "ratio_percent": 5.23
+                    },
+                    {
+                        "field_value_1": "13958643712",
+                        "row_count": 731,
+                        "ratio_percent": 5.22
+                    },
+                    {
+                        "field_value_1": "9663676416",
+                        "row_count": 728,
+                        "ratio_percent": 5.2
+                    },
+                    {
+                        "field_value_1": "7516192768",
+                        "row_count": 724,
+                        "ratio_percent": 5.17
+                    },
+                    {
+                        "field_value_1": "18253611008",
+                        "row_count": 723,
+                        "ratio_percent": 5.16
+                    },
+                    {
+                        "field_value_1": "19327352832",
+                        "row_count": 721,
+                        "ratio_percent": 5.15
+                    },
+                    {
+                        "field_value_1": "32212254720",
+                        "row_count": 716,
+                        "ratio_percent": 5.11
+                    },
+                    {
+                        "field_value_1": "8589934592",
+                        "row_count": 713,
+                        "ratio_percent": 5.09
+                    },
+                    {
+                        "field_value_1": "4294967296",
+                        "row_count": 707,
+                        "ratio_percent": 5.05
+                    },
+                    {
+                        "field_value_1": "17179869184",
+                        "row_count": 706,
+                        "ratio_percent": 5.04
+                    }
+                ]
+            },
+            {
+                "field": "@tags",
+                "distribution": [
+                    {
+                        "field_value_1": "success",
+                        "row_count": 11765,
+                        "ratio_percent": 84.01
+                    },
+                    {
+                        "field_value_1": "info",
+                        "row_count": 10492,
+                        "ratio_percent": 74.92
+                    },
+                    {
+                        "field_value_1": "security",
+                        "row_count": 2796,
+                        "ratio_percent": 19.96
+                    },
+                    {
+                        "field_value_1": "warning",
+                        "row_count": 1403,
+                        "ratio_percent": 10.02
+                    },
+                    {
+                        "field_value_1": "error",
+                        "row_count": 837,
+                        "ratio_percent": 5.98
+                    },
+                    {
+                        "field_value_1": "login",
+                        "row_count": 717,
+                        "ratio_percent": 5.12
+                    }
+                ]
+            },
+            {
+                "field": "memory",
+                "distribution": [
+                    {
+                        "field_value_1": "None",
+                        "row_count": 13608,
+                        "ratio_percent": 97.17
+                    },
+                    {
+                        "field_value_1": "0",
+                        "row_count": 7,
+                        "ratio_percent": 0.05
+                    },
+                    {
+                        "field_value_1": "50160",
+                        "row_count": 2,
+                        "ratio_percent": 0.01
+                    },
+                    {
+                        "field_value_1": "100360",
+                        "row_count": 2,
+                        "ratio_percent": 0.01
+                    },
+                    {
+                        "field_value_1": "209640",
+                        "row_count": 2,
+                        "ratio_percent": 0.01
+                    },
+                    {
+                        "field_value_1": "226600",
+                        "row_count": 2,
+                        "ratio_percent": 0.01
+                    },
+                    {
+                        "field_value_1": "235760",
+                        "row_count": 2,
+                        "ratio_percent": 0.01
+                    },
+                    {
+                        "field_value_1": "265560",
+                        "row_count": 2,
+                        "ratio_percent": 0.01
+                    },
+                    {
+                        "field_value_1": "292080",
+                        "row_count": 2,
+                        "ratio_percent": 0.01
+                    },
+                    {
+                        "field_value_1": "327720",
+                        "row_count": 2,
+                        "ratio_percent": 0.01
+                    }
+                ]
+            },
+            {
+                "field": "phpmemory",
+                "distribution": [
+                    {
+                        "field_value_1": "None",
+                        "row_count": 13608,
+                        "ratio_percent": 97.17
+                    },
+                    {
+                        "field_value_1": "0",
+                        "row_count": 7,
+                        "ratio_percent": 0.05
+                    },
+                    {
+                        "field_value_1": "50160",
+                        "row_count": 2,
+                        "ratio_percent": 0.01
+                    },
+                    {
+                        "field_value_1": "100360",
+                        "row_count": 2,
+                        "ratio_percent": 0.01
+                    },
+                    {
+                        "field_value_1": "209640",
+                        "row_count": 2,
+                        "ratio_percent": 0.01
+                    },
+                    {
+                        "field_value_1": "226600",
+                        "row_count": 2,
+                        "ratio_percent": 0.01
+                    },
+                    {
+                        "field_value_1": "235760",
+                        "row_count": 2,
+                        "ratio_percent": 0.01
+                    },
+                    {
+                        "field_value_1": "265560",
+                        "row_count": 2,
+                        "ratio_percent": 0.01
+                    },
+                    {
+                        "field_value_1": "292080",
+                        "row_count": 2,
+                        "ratio_percent": 0.01
+                    },
+                    {
+                        "field_value_1": "327720",
+                        "row_count": 2,
+                        "ratio_percent": 0.01
+                    }
+                ]
+            },
+            {
+                "field": "referer",
+                "distribution": [
+                    {
+                        "field_value_1": "http://www.slate.com/success/henry-hartsfield",
+                        "row_count": 20,
+                        "ratio_percent": 0.14
+                    },
+                    {
+                        "field_value_1": "http://www.slate.com/success/vladimir-titov",
+                        "row_count": 19,
+                        "ratio_percent": 0.14
+                    },
+                    {
+                        "field_value_1": "http://www.slate.com/success/martin-j-fettman",
+                        "row_count": 18,
+                        "ratio_percent": 0.13
+                    },
+                    {
+                        "field_value_1": "http://www.slate.com/success/douglas-wheelock",
+                        "row_count": 17,
+                        "ratio_percent": 0.12
+                    },
+                    {
+                        "field_value_1": "http://www.slate.com/success/lloyd-hammond",
+                        "row_count": 17,
+                        "ratio_percent": 0.12
+                    },
+                    {
+                        "field_value_1": "http://www.slate.com/success/william-c-mccool",
+                        "row_count": 17,
+                        "ratio_percent": 0.12
+                    },
+                    {
+                        "field_value_1": "http://www.slate.com/success/aleksandr-laveykin",
+                        "row_count": 16,
+                        "ratio_percent": 0.11
+                    },
+                    {
+                        "field_value_1": "http://www.slate.com/success/anatoly-solovyev",
+                        "row_count": 16,
+                        "ratio_percent": 0.11
+                    },
+                    {
+                        "field_value_1": "http://www.slate.com/success/daniel-barry",
+                        "row_count": 16,
+                        "ratio_percent": 0.11
+                    },
+                    {
+                        "field_value_1": "http://www.slate.com/success/duane-graveline",
+                        "row_count": 16,
+                        "ratio_percent": 0.11
+                    }
+                ]
+            },
+            {
+                "field": "relatedContent.article:modified_time",
+                "distribution": [
+                    {
+                        "field_value_1": "None",
+                        "row_count": 2282,
+                        "ratio_percent": 16.29
+                    },
+                    {
+                        "field_value_1": "2014-10-28T22:00:10.000Z",
+                        "row_count": 129,
+                        "ratio_percent": 0.92
+                    },
+                    {
+                        "field_value_1": "2014-10-28T22:00:15.000Z",
+                        "row_count": 129,
+                        "ratio_percent": 0.92
+                    },
+                    {
+                        "field_value_1": "2014-10-28T21:59:53.000Z",
+                        "row_count": 125,
+                        "ratio_percent": 0.89
+                    },
+                    {
+                        "field_value_1": "2014-10-28T21:59:50.000Z",
+                        "row_count": 119,
+                        "ratio_percent": 0.85
+                    },
+                    {
+                        "field_value_1": "2014-10-28T21:59:54.000Z",
+                        "row_count": 118,
+                        "ratio_percent": 0.84
+                    },
+                    {
+                        "field_value_1": "2014-10-28T22:00:00.000Z",
+                        "row_count": 117,
+                        "ratio_percent": 0.84
+                    },
+                    {
+                        "field_value_1": "2014-10-28T21:59:57.000Z",
+                        "row_count": 113,
+                        "ratio_percent": 0.81
+                    },
+                    {
+                        "field_value_1": "2014-10-28T22:00:08.000Z",
+                        "row_count": 113,
+                        "ratio_percent": 0.81
+                    },
+                    {
+                        "field_value_1": "2014-10-28T21:59:58.000Z",
+                        "row_count": 110,
+                        "ratio_percent": 0.79
+                    }
+                ]
+            },
+            {
+                "field": "relatedContent.article:published_time",
+                "distribution": [
+                    {
+                        "field_value_1": "None",
+                        "row_count": 2282,
+                        "ratio_percent": 16.29
+                    },
+                    {
+                        "field_value_1": "2005-10-15T00:10:27.000Z",
+                        "row_count": 97,
+                        "ratio_percent": 0.69
+                    },
+                    {
+                        "field_value_1": "2005-10-19T17:10:20.000Z",
+                        "row_count": 86,
+                        "ratio_percent": 0.61
+                    },
+                    {
+                        "field_value_1": "2005-10-17T07:10:18.000Z",
+                        "row_count": 82,
+                        "ratio_percent": 0.59
+                    },
+                    {
+                        "field_value_1": "2005-12-18T09:12:22.000Z",
+                        "row_count": 74,
+                        "ratio_percent": 0.53
+                    },
+                    {
+                        "field_value_1": "2008-02-28T17:00:00.000Z",
+                        "row_count": 57,
+                        "ratio_percent": 0.41
+                    },
+                    {
+                        "field_value_1": "2008-05-02T12:38:40.000Z",
+                        "row_count": 56,
+                        "ratio_percent": 0.4
+                    },
+                    {
+                        "field_value_1": "2005-10-18T15:10:44.000Z",
+                        "row_count": 49,
+                        "ratio_percent": 0.35
+                    },
+                    {
+                        "field_value_1": "2007-06-29T15:06:30.000Z",
+                        "row_count": 49,
+                        "ratio_percent": 0.35
+                    },
+                    {
+                        "field_value_1": "2006-10-17T19:10:35.000Z",
+                        "row_count": 44,
+                        "ratio_percent": 0.31
+                    }
+                ]
+            },
+            {
+                "field": "relatedContent.article:section",
+                "distribution": [
+                    {
+                        "field_value_1": "Arts",
+                        "row_count": 8458,
+                        "ratio_percent": 60.39
+                    },
+                    {
+                        "field_value_1": "Music",
+                        "row_count": 8287,
+                        "ratio_percent": 59.17
+                    },
+                    {
+                        "field_value_1": "News",
+                        "row_count": 5616,
+                        "ratio_percent": 40.1
+                    },
+                    {
+                        "field_value_1": "None",
+                        "row_count": 2282,
+                        "ratio_percent": 16.29
+                    },
+                    {
+                        "field_value_1": "Restaurants",
+                        "row_count": 132,
+                        "ratio_percent": 0.94
+                    }
+                ]
+            },
+            {
+                "field": "relatedContent.article:tag",
+                "distribution": [
+                    {
+                        "field_value_1": "None",
+                        "row_count": 8008,
+                        "ratio_percent": 57.18
+                    },
+                    {
+                        "field_value_1": "Entertainment",
+                        "row_count": 815,
+                        "ratio_percent": 5.82
+                    },
+                    {
+                        "field_value_1": "Mark Mauer",
+                        "row_count": 466,
+                        "ratio_percent": 3.33
+                    },
+                    {
+                        "field_value_1": "Celebrity News",
+                        "row_count": 370,
+                        "ratio_percent": 2.64
+                    },
+                    {
+                        "field_value_1": "Culture and Lifestyle",
+                        "row_count": 177,
+                        "ratio_percent": 1.26
+                    },
+                    {
+                        "field_value_1": "Timothy Norris",
+                        "row_count": 162,
+                        "ratio_percent": 1.16
+                    },
+                    {
+                        "field_value_1": "Arts, Entertainment, and Media",
+                        "row_count": 150,
+                        "ratio_percent": 1.07
+                    },
+                    {
+                        "field_value_1": "Concerts and Tours",
+                        "row_count": 148,
+                        "ratio_percent": 1.06
+                    },
+                    {
+                        "field_value_1": "Painting",
+                        "row_count": 137,
+                        "ratio_percent": 0.98
+                    },
+                    {
+                        "field_value_1": "Fashion and Style",
+                        "row_count": 106,
+                        "ratio_percent": 0.76
+                    }
+                ]
+            },
+            {
+                "field": "relatedContent.og:description",
+                "distribution": [
+                    {
+                        "field_value_1": "LA Weekly is the definitive source of information for news, music, movies, restaurants, reviews, and events in Los Angeles.",
+                        "row_count": 5504,
+                        "ratio_percent": 39.3
+                    },
+                    {
+                        "field_value_1": "None",
+                        "row_count": 2282,
+                        "ratio_percent": 16.29
+                    },
+                    {
+                        "field_value_1": "All photos by Mark Mauer. More after the jump...",
+                        "row_count": 144,
+                        "ratio_percent": 1.03
+                    },
+                    {
+                        "field_value_1": "I got on a bus in Los Feliz yesterday at about 1 p.m. headed for Marfa, Texas, to attend the first annual Marfa Film Festival. If you&#039;ve been to the mov...",
+                        "row_count": 56,
+                        "ratio_percent": 0.4
+                    },
+                    {
+                        "field_value_1": "I ran into Tammie Brown at the John Water&#039;s Meet &amp; Greet before the mustachioed director&#039;s Christmas show tonight at UCLA&#039;s Royce Hall. Tammie is a long...",
+                        "row_count": 52,
+                        "ratio_percent": 0.37
+                    },
+                    {
+                        "field_value_1": "&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &amp;n...",
+                        "row_count": 51,
+                        "ratio_percent": 0.36
+                    },
+                    {
+                        "field_value_1": "Two very different styles across the street from one another on Ardmore just south of Santa Monica Blvd...",
+                        "row_count": 42,
+                        "ratio_percent": 0.3
+                    },
+                    {
+                        "field_value_1": "Five hundred Los Angeles Laker fans swarmed the Hollywood Billiards Sports Bar &amp; Grill on Thursday night to watch Kobe Bryant and the boys take on Kevin...",
+                        "row_count": 40,
+                        "ratio_percent": 0.29
+                    },
+                    {
+                        "field_value_1": "Linda Immediato recently lost her blogging virginity and is making up for lost time. She&#039;s a born and bred New Yorker who was an on-air news reporter fo...",
+                        "row_count": 40,
+                        "ratio_percent": 0.29
+                    },
+                    {
+                        "field_value_1": "A little rain fell, but no damage done. Air, whose new one, Pocket Symphony, is their best in a while, played the usually dry Greek Theatre along with N...",
+                        "row_count": 39,
+                        "ratio_percent": 0.28
+                    }
+                ]
+            },
+            {
+                "field": "relatedContent.og:image",
+                "distribution": [
+                    {
+                        "field_value_1": "None",
+                        "row_count": 4320,
+                        "ratio_percent": 30.85
+                    },
+                    {
+                        "field_value_1": "http://IMAGES1.laweekly.com/imager/auto-repair-art-on-santa-monica-blvd-and/u/original/2430576/img_1182.jpg",
+                        "row_count": 42,
+                        "ratio_percent": 0.3
+                    },
+                    {
+                        "field_value_1": "http://images1.laweekly.com/imager/laker-mania-sweeps-hollywood/u/original/2423422/lakersign.jpg",
+                        "row_count": 40,
+                        "ratio_percent": 0.29
+                    },
+                    {
+                        "field_value_1": "http://images1.laweekly.com/imager/linda-immediato/u/original/2435953/dscn0901_1_2.jpg",
+                        "row_count": 40,
+                        "ratio_percent": 0.29
+                    },
+                    {
+                        "field_value_1": "http://IMAGES1.laweekly.com/imager/air-at-the-greek-theatre-9-21/u/original/2473962/airtn01.jpg",
+                        "row_count": 39,
+                        "ratio_percent": 0.28
+                    },
+                    {
+                        "field_value_1": "http://IMAGES1.laweekly.com/imager/por-el-suelo-on-virgil-retna-awr-dame/u/original/2430990/img_4883.jpg",
+                        "row_count": 39,
+                        "ratio_percent": 0.28
+                    },
+                    {
+                        "field_value_1": "http://images1.laweekly.com/imager/rime-show-at-ghettogloss/u/original/2430136/gg08_flyer_l.jpg",
+                        "row_count": 39,
+                        "ratio_percent": 0.28
+                    },
+                    {
+                        "field_value_1": "http://IMAGES1.laweekly.com/imager/raiders-of-the-lost-art/u/original/2467283/b0000013gt01_sclzzzzzzz_.jpg",
+                        "row_count": 38,
+                        "ratio_percent": 0.27
+                    },
+                    {
+                        "field_value_1": "http://IMAGES1.laweekly.com/imager/arroyo-seco-mural-saga-continues/u/original/2424002/img_2543.jpg",
+                        "row_count": 37,
+                        "ratio_percent": 0.26
+                    },
+                    {
+                        "field_value_1": "http://IMAGES1.laweekly.com/imager/deadly-syndrome-at-detour/u/original/2466681/img_2623.jpg",
+                        "row_count": 37,
+                        "ratio_percent": 0.26
+                    }
+                ]
+            },
+            {
+                "field": "relatedContent.og:image:height",
+                "distribution": [
+                    {
+                        "field_value_1": "None",
+                        "row_count": 4327,
+                        "ratio_percent": 30.9
+                    },
+                    {
+                        "field_value_1": "360",
+                        "row_count": 1822,
+                        "ratio_percent": 13.01
+                    },
+                    {
+                        "field_value_1": "375",
+                        "row_count": 1124,
+                        "ratio_percent": 8.03
+                    },
+                    {
+                        "field_value_1": "321",
+                        "row_count": 828,
+                        "ratio_percent": 5.91
+                    },
+                    {
+                        "field_value_1": "666",
+                        "row_count": 512,
+                        "ratio_percent": 3.66
+                    },
+                    {
+                        "field_value_1": "640",
+                        "row_count": 486,
+                        "ratio_percent": 3.47
+                    },
+                    {
+                        "field_value_1": "319",
+                        "row_count": 437,
+                        "ratio_percent": 3.12
+                    },
+                    {
+                        "field_value_1": "300",
+                        "row_count": 344,
+                        "ratio_percent": 2.46
+                    },
+                    {
+                        "field_value_1": "480",
+                        "row_count": 343,
+                        "ratio_percent": 2.45
+                    },
+                    {
+                        "field_value_1": "100",
+                        "row_count": 326,
+                        "ratio_percent": 2.33
+                    }
+                ]
+            },
+            {
+                "field": "@timestamp",
+                "distribution": [
+                    {
+                        "field_value_1": "2015-05-20T00:00:00.000Z",
+                        "row_count": 3,
+                        "ratio_percent": 0.02
+                    },
+                    {
+                        "field_value_1": "2015-05-19T00:00:00.000Z",
+                        "row_count": 2,
+                        "ratio_percent": 0.01
+                    },
+                    {
+                        "field_value_1": "2015-05-18T00:09:43.370Z",
+                        "row_count": 1,
+                        "ratio_percent": 0.01
+                    },
+                    {
+                        "field_value_1": "2015-05-18T00:09:47.065Z",
+                        "row_count": 1,
+                        "ratio_percent": 0.01
+                    },
+                    {
+                        "field_value_1": "2015-05-18T00:14:02.259Z",
+                        "row_count": 1,
+                        "ratio_percent": 0.01
+                    },
+                    {
+                        "field_value_1": "2015-05-18T00:49:08.445Z",
+                        "row_count": 1,
+                        "ratio_percent": 0.01
+                    },
+                    {
+                        "field_value_1": "2015-05-18T00:55:22.257Z",
+                        "row_count": 1,
+                        "ratio_percent": 0.01
+                    },
+                    {
+                        "field_value_1": "2015-05-18T01:50:44.236Z",
+                        "row_count": 1,
+                        "ratio_percent": 0.01
+                    },
+                    {
+                        "field_value_1": "2015-05-18T01:55:14.216Z",
+                        "row_count": 1,
+                        "ratio_percent": 0.01
+                    },
+                    {
+                        "field_value_1": "2015-05-18T01:55:56.793Z",
+                        "row_count": 1,
+                        "ratio_percent": 0.01
+                    }
+                ]
+            },
+            {
+                "field": "relatedContent.og:image:width",
+                "distribution": [
+                    {
+                        "field_value_1": "480",
+                        "row_count": 5505,
+                        "ratio_percent": 39.31
+                    },
+                    {
+                        "field_value_1": "None",
+                        "row_count": 4327,
+                        "ratio_percent": 30.9
+                    },
+                    {
+                        "field_value_1": "500",
+                        "row_count": 2760,
+                        "ratio_percent": 19.71
+                    },
+                    {
+                        "field_value_1": "200",
+                        "row_count": 738,
+                        "ratio_percent": 5.27
+                    },
+                    {
+                        "field_value_1": "300",
+                        "row_count": 498,
+                        "ratio_percent": 3.56
+                    },
+                    {
+                        "field_value_1": "360",
+                        "row_count": 326,
+                        "ratio_percent": 2.33
+                    },
+                    {
+                        "field_value_1": "400",
+                        "row_count": 276,
+                        "ratio_percent": 1.97
+                    },
+                    {
+                        "field_value_1": "250",
+                        "row_count": 255,
+                        "ratio_percent": 1.82
+                    },
+                    {
+                        "field_value_1": "288",
+                        "row_count": 210,
+                        "ratio_percent": 1.5
+                    },
+                    {
+                        "field_value_1": "450",
+                        "row_count": 204,
+                        "ratio_percent": 1.46
+                    }
+                ]
+            },
+            {
+                "field": "relatedContent.og:site_name",
+                "distribution": [
+                    {
+                        "field_value_1": "LA Weekly",
+                        "row_count": 11723,
+                        "ratio_percent": 83.71
+                    },
+                    {
+                        "field_value_1": "None",
+                        "row_count": 2282,
+                        "ratio_percent": 16.29
+                    }
+                ]
+            },
+            {
+                "field": "relatedContent.og:title",
+                "distribution": [
+                    {
+                        "field_value_1": "None",
+                        "row_count": 2282,
+                        "ratio_percent": 16.29
+                    },
+                    {
+                        "field_value_1": "Fashion Week",
+                        "row_count": 97,
+                        "ratio_percent": 0.69
+                    },
+                    {
+                        "field_value_1": "Buffalo Gals &amp; Bond Girls",
+                        "row_count": 86,
+                        "ratio_percent": 0.61
+                    },
+                    {
+                        "field_value_1": "Louis Verdad&#039;s flirty 1950&#039;s-themed",
+                        "row_count": 82,
+                        "ratio_percent": 0.59
+                    },
+                    {
+                        "field_value_1": "Meat &amp; Greet: The Delta of Waters",
+                        "row_count": 74,
+                        "ratio_percent": 0.53
+                    },
+                    {
+                        "field_value_1": "Greetings from the first annual Marfa Film Festival",
+                        "row_count": 56,
+                        "ratio_percent": 0.4
+                    },
+                    {
+                        "field_value_1": "Bonde Do Role - Solta O Frango - excellent summer morning music",
+                        "row_count": 49,
+                        "ratio_percent": 0.35
+                    },
+                    {
+                        "field_value_1": "Auto Repair art on Santa Monica Blvd. and Ardmore",
+                        "row_count": 42,
+                        "ratio_percent": 0.3
+                    },
+                    {
+                        "field_value_1": "Fashion Week Warrior",
+                        "row_count": 41,
+                        "ratio_percent": 0.29
+                    },
+                    {
+                        "field_value_1": "Is Don Henley Dead?",
+                        "row_count": 41,
+                        "ratio_percent": 0.29
+                    }
+                ]
+            },
+            {
+                "field": "relatedContent.og:type",
+                "distribution": [
+                    {
+                        "field_value_1": "article",
+                        "row_count": 11723,
+                        "ratio_percent": 83.71
+                    },
+                    {
+                        "field_value_1": "None",
+                        "row_count": 2282,
+                        "ratio_percent": 16.29
+                    }
+                ]
+            },
+            {
+                "field": "relatedContent.og:url",
+                "distribution": [
+                    {
+                        "field_value_1": "None",
+                        "row_count": 2282,
+                        "ratio_percent": 16.29
+                    },
+                    {
+                        "field_value_1": "http://www.laweekly.com/music/bonde-do-role-solta-o-frango-excellent-summer-morning-music-2400568",
+                        "row_count": 49,
+                        "ratio_percent": 0.35
+                    },
+                    {
+                        "field_value_1": "http://www.laweekly.com/news/auto-repair-art-on-santa-monica-blvd-and-ardmore-2368074",
+                        "row_count": 42,
+                        "ratio_percent": 0.3
+                    },
+                    {
+                        "field_value_1": "http://www.laweekly.com/arts/fashion-week-warrior-2373414",
+                        "row_count": 41,
+                        "ratio_percent": 0.29
+                    },
+                    {
+                        "field_value_1": "http://www.laweekly.com/arts/is-don-henley-dead-2370516",
+                        "row_count": 41,
+                        "ratio_percent": 0.29
+                    },
+                    {
+                        "field_value_1": "http://www.laweekly.com/arts/linda-immediato-2371473",
+                        "row_count": 40,
+                        "ratio_percent": 0.29
+                    },
+                    {
+                        "field_value_1": "http://www.laweekly.com/news/laker-mania-sweeps-hollywood-2393051",
+                        "row_count": 40,
+                        "ratio_percent": 0.29
+                    },
+                    {
+                        "field_value_1": "http://www.laweekly.com/arts/rock-anthem-part-deux-2370897",
+                        "row_count": 39,
+                        "ratio_percent": 0.28
+                    },
+                    {
+                        "field_value_1": "http://www.laweekly.com/music/air-at-the-greek-theatre-9-21-2411235",
+                        "row_count": 39,
+                        "ratio_percent": 0.28
+                    },
+                    {
+                        "field_value_1": "http://www.laweekly.com/music/pause-and-rewind-rhyme-and-reason-2399800",
+                        "row_count": 39,
+                        "ratio_percent": 0.28
+                    }
+                ]
+            },
+            {
+                "field": "relatedContent.twitter:card",
+                "distribution": [
+                    {
+                        "field_value_1": "summary",
+                        "row_count": 11723,
+                        "ratio_percent": 83.71
+                    },
+                    {
+                        "field_value_1": "None",
+                        "row_count": 2282,
+                        "ratio_percent": 16.29
+                    }
+                ]
+            },
+            {
+                "field": "relatedContent.twitter:description",
+                "distribution": [
+                    {
+                        "field_value_1": "LA Weekly is the definitive source of information for news, music, movies, restaurants, reviews, and events in Los Angeles.",
+                        "row_count": 5504,
+                        "ratio_percent": 39.3
+                    },
+                    {
+                        "field_value_1": "None",
+                        "row_count": 2282,
+                        "ratio_percent": 16.29
+                    },
+                    {
+                        "field_value_1": "All photos by Mark Mauer. More after the jump...",
+                        "row_count": 144,
+                        "ratio_percent": 1.03
+                    },
+                    {
+                        "field_value_1": "I got on a bus in Los Feliz yesterday at about 1 p.m. headed for Marfa, Texas, to attend the first annual Marfa Film Festival. If you&#039;ve been to the mov...",
+                        "row_count": 56,
+                        "ratio_percent": 0.4
+                    },
+                    {
+                        "field_value_1": "I ran into Tammie Brown at the John Water&#039;s Meet &amp; Greet before the mustachioed director&#039;s Christmas show tonight at UCLA&#039;s Royce Hall. Tammie is a long...",
+                        "row_count": 52,
+                        "ratio_percent": 0.37
+                    },
+                    {
+                        "field_value_1": "&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &amp;n...",
+                        "row_count": 51,
+                        "ratio_percent": 0.36
+                    },
+                    {
+                        "field_value_1": "Two very different styles across the street from one another on Ardmore just south of Santa Monica Blvd...",
+                        "row_count": 42,
+                        "ratio_percent": 0.3
+                    },
+                    {
+                        "field_value_1": "Five hundred Los Angeles Laker fans swarmed the Hollywood Billiards Sports Bar &amp; Grill on Thursday night to watch Kobe Bryant and the boys take on Kevin...",
+                        "row_count": 40,
+                        "ratio_percent": 0.29
+                    },
+                    {
+                        "field_value_1": "Linda Immediato recently lost her blogging virginity and is making up for lost time. She&#039;s a born and bred New Yorker who was an on-air news reporter fo...",
+                        "row_count": 40,
+                        "ratio_percent": 0.29
+                    },
+                    {
+                        "field_value_1": "A little rain fell, but no damage done. Air, whose new one, Pocket Symphony, is their best in a while, played the usually dry Greek Theatre along with N...",
+                        "row_count": 39,
+                        "ratio_percent": 0.28
+                    }
+                ]
+            },
+            {
+                "field": "relatedContent.twitter:image",
+                "distribution": [
+                    {
+                        "field_value_1": "None",
+                        "row_count": 4320,
+                        "ratio_percent": 30.85
+                    },
+                    {
+                        "field_value_1": "http://IMAGES1.laweekly.com/imager/auto-repair-art-on-santa-monica-blvd-and/u/original/2430576/img_1182.jpg",
+                        "row_count": 42,
+                        "ratio_percent": 0.3
+                    },
+                    {
+                        "field_value_1": "http://images1.laweekly.com/imager/laker-mania-sweeps-hollywood/u/original/2423422/lakersign.jpg",
+                        "row_count": 40,
+                        "ratio_percent": 0.29
+                    },
+                    {
+                        "field_value_1": "http://images1.laweekly.com/imager/linda-immediato/u/original/2435953/dscn0901_1_2.jpg",
+                        "row_count": 40,
+                        "ratio_percent": 0.29
+                    },
+                    {
+                        "field_value_1": "http://IMAGES1.laweekly.com/imager/air-at-the-greek-theatre-9-21/u/original/2473962/airtn01.jpg",
+                        "row_count": 39,
+                        "ratio_percent": 0.28
+                    },
+                    {
+                        "field_value_1": "http://IMAGES1.laweekly.com/imager/por-el-suelo-on-virgil-retna-awr-dame/u/original/2430990/img_4883.jpg",
+                        "row_count": 39,
+                        "ratio_percent": 0.28
+                    },
+                    {
+                        "field_value_1": "http://images1.laweekly.com/imager/rime-show-at-ghettogloss/u/original/2430136/gg08_flyer_l.jpg",
+                        "row_count": 39,
+                        "ratio_percent": 0.28
+                    },
+                    {
+                        "field_value_1": "http://IMAGES1.laweekly.com/imager/raiders-of-the-lost-art/u/original/2467283/b0000013gt01_sclzzzzzzz_.jpg",
+                        "row_count": 38,
+                        "ratio_percent": 0.27
+                    },
+                    {
+                        "field_value_1": "http://IMAGES1.laweekly.com/imager/arroyo-seco-mural-saga-continues/u/original/2424002/img_2543.jpg",
+                        "row_count": 37,
+                        "ratio_percent": 0.26
+                    },
+                    {
+                        "field_value_1": "http://IMAGES1.laweekly.com/imager/deadly-syndrome-at-detour/u/original/2466681/img_2623.jpg",
+                        "row_count": 37,
+                        "ratio_percent": 0.26
+                    }
+                ]
+            },
+            {
+                "field": "relatedContent.twitter:site",
+                "distribution": [
+                    {
+                        "field_value_1": "@laweekly",
+                        "row_count": 11723,
+                        "ratio_percent": 83.71
+                    },
+                    {
+                        "field_value_1": "None",
+                        "row_count": 2282,
+                        "ratio_percent": 16.29
+                    }
+                ]
+            },
+            {
+                "field": "relatedContent.twitter:title",
+                "distribution": [
+                    {
+                        "field_value_1": "None",
+                        "row_count": 2282,
+                        "ratio_percent": 16.29
+                    },
+                    {
+                        "field_value_1": "Fashion Week",
+                        "row_count": 97,
+                        "ratio_percent": 0.69
+                    },
+                    {
+                        "field_value_1": "Buffalo Gals &amp; Bond Girls",
+                        "row_count": 86,
+                        "ratio_percent": 0.61
+                    },
+                    {
+                        "field_value_1": "Louis Verdad&#039;s flirty 1950&#039;s-themed",
+                        "row_count": 82,
+                        "ratio_percent": 0.59
+                    },
+                    {
+                        "field_value_1": "Meat &amp; Greet: The Delta of Waters",
+                        "row_count": 74,
+                        "ratio_percent": 0.53
+                    },
+                    {
+                        "field_value_1": "Greetings from the first annual Marfa Film Festival",
+                        "row_count": 56,
+                        "ratio_percent": 0.4
+                    },
+                    {
+                        "field_value_1": "Bonde Do Role - Solta O Frango - excellent summer morning music",
+                        "row_count": 49,
+                        "ratio_percent": 0.35
+                    },
+                    {
+                        "field_value_1": "Auto Repair art on Santa Monica Blvd. and Ardmore",
+                        "row_count": 42,
+                        "ratio_percent": 0.3
+                    },
+                    {
+                        "field_value_1": "Fashion Week Warrior",
+                        "row_count": 41,
+                        "ratio_percent": 0.29
+                    },
+                    {
+                        "field_value_1": "Is Don Henley Dead?",
+                        "row_count": 41,
+                        "ratio_percent": 0.29
+                    }
+                ]
+            },
+            {
+                "field": "@version",
+                "distribution": [
+                    {
+                        "field_value_1": "1",
+                        "row_count": 14005,
+                        "ratio_percent": 100.0
+                    }
+                ]
+            },
+            {
+                "field": "relatedContent.url",
+                "distribution": [
+                    {
+                        "field_value_1": "None",
+                        "row_count": 2282,
+                        "ratio_percent": 16.29
+                    },
+                    {
+                        "field_value_1": "http://www.laweekly.com/music/bonde-do-role-solta-o-frango-excellent-summer-morning-music-2400568",
+                        "row_count": 49,
+                        "ratio_percent": 0.35
+                    },
+                    {
+                        "field_value_1": "http://www.laweekly.com/news/auto-repair-art-on-santa-monica-blvd-and-ardmore-2368074",
+                        "row_count": 42,
+                        "ratio_percent": 0.3
+                    },
+                    {
+                        "field_value_1": "http://www.laweekly.com/arts/fashion-week-warrior-2373414",
+                        "row_count": 41,
+                        "ratio_percent": 0.29
+                    },
+                    {
+                        "field_value_1": "http://www.laweekly.com/arts/is-don-henley-dead-2370516",
+                        "row_count": 41,
+                        "ratio_percent": 0.29
+                    },
+                    {
+                        "field_value_1": "http://www.laweekly.com/arts/linda-immediato-2371473",
+                        "row_count": 40,
+                        "ratio_percent": 0.29
+                    },
+                    {
+                        "field_value_1": "http://www.laweekly.com/news/laker-mania-sweeps-hollywood-2393051",
+                        "row_count": 40,
+                        "ratio_percent": 0.29
+                    },
+                    {
+                        "field_value_1": "http://www.laweekly.com/arts/rock-anthem-part-deux-2370897",
+                        "row_count": 39,
+                        "ratio_percent": 0.28
+                    },
+                    {
+                        "field_value_1": "http://www.laweekly.com/music/air-at-the-greek-theatre-9-21-2411235",
+                        "row_count": 39,
+                        "ratio_percent": 0.28
+                    },
+                    {
+                        "field_value_1": "http://www.laweekly.com/music/pause-and-rewind-rhyme-and-reason-2399800",
+                        "row_count": 39,
+                        "ratio_percent": 0.28
+                    }
+                ]
+            },
+            {
+                "field": "request",
+                "distribution": [
+                    {
+                        "field_value_1": "/styles/app.css",
+                        "row_count": 410,
+                        "ratio_percent": 2.93
+                    },
+                    {
+                        "field_value_1": "/styles/pretty-layout.css",
+                        "row_count": 387,
+                        "ratio_percent": 2.76
+                    },
+                    {
+                        "field_value_1": "/styles/ad-blocker.css",
+                        "row_count": 379,
+                        "ratio_percent": 2.71
+                    },
+                    {
+                        "field_value_1": "/styles/ads.css",
+                        "row_count": 373,
+                        "ratio_percent": 2.66
+                    },
+                    {
+                        "field_value_1": "/styles/semantic-ui.css",
+                        "row_count": 342,
+                        "ratio_percent": 2.44
+                    },
+                    {
+                        "field_value_1": "/styles/main.css",
+                        "row_count": 184,
+                        "ratio_percent": 1.31
+                    },
+                    {
+                        "field_value_1": "/styles/undefined",
+                        "row_count": 178,
+                        "ratio_percent": 1.27
+                    },
+                    {
+                        "field_value_1": "/uploads/donald-thomas.jpg",
+                        "row_count": 28,
+                        "ratio_percent": 0.2
+                    },
+                    {
+                        "field_value_1": "/uploads/roy-bridges.jpg",
+                        "row_count": 28,
+                        "ratio_percent": 0.2
+                    },
+                    {
+                        "field_value_1": "/uploads/michael-coats.jpg",
+                        "row_count": 27,
+                        "ratio_percent": 0.19
+                    }
+                ]
+            },
+            {
+                "field": "response",
+                "distribution": [
+                    {
+                        "field_value_1": "200",
+                        "row_count": 12871,
+                        "ratio_percent": 91.9
+                    },
+                    {
+                        "field_value_1": "404",
+                        "row_count": 693,
+                        "ratio_percent": 4.95
+                    },
+                    {
+                        "field_value_1": "503",
+                        "row_count": 441,
+                        "ratio_percent": 3.15
+                    }
+                ]
+            },
+            {
+                "field": "spaces",
+                "distribution": [
+                    {
+                        "field_value_1": "this   is   a   thing    with lots of     spaces       wwwwoooooo",
+                        "row_count": 14005,
+                        "ratio_percent": 100.0
+                    }
+                ]
+            },
+            {
+                "field": "url",
+                "distribution": [
+                    {
+                        "field_value_1": "https://cdn.theacademyofperformingartsandscience.org/styles/app.css",
+                        "row_count": 410,
+                        "ratio_percent": 2.93
+                    },
+                    {
+                        "field_value_1": "https://cdn.theacademyofperformingartsandscience.org/styles/pretty-layout.css",
+                        "row_count": 387,
+                        "ratio_percent": 2.76
+                    },
+                    {
+                        "field_value_1": "https://cdn.theacademyofperformingartsandscience.org/styles/ad-blocker.css",
+                        "row_count": 379,
+                        "ratio_percent": 2.71
+                    },
+                    {
+                        "field_value_1": "https://cdn.theacademyofperformingartsandscience.org/styles/ads.css",
+                        "row_count": 373,
+                        "ratio_percent": 2.66
+                    },
+                    {
+                        "field_value_1": "https://cdn.theacademyofperformingartsandscience.org/styles/semantic-ui.css",
+                        "row_count": 342,
+                        "ratio_percent": 2.44
+                    },
+                    {
+                        "field_value_1": "https://cdn.theacademyofperformingartsandscience.org/styles/main.css",
+                        "row_count": 184,
+                        "ratio_percent": 1.31
+                    },
+                    {
+                        "field_value_1": "https://cdn.theacademyofperformingartsandscience.org/styles/undefined",
+                        "row_count": 178,
+                        "ratio_percent": 1.27
+                    },
+                    {
+                        "field_value_1": "https://media-for-the-masses.theacademyofperformingartsandscience.org/uploads/donald-thomas.jpg",
+                        "row_count": 28,
+                        "ratio_percent": 0.2
+                    },
+                    {
+                        "field_value_1": "https://media-for-the-masses.theacademyofperformingartsandscience.org/uploads/roy-bridges.jpg",
+                        "row_count": 28,
+                        "ratio_percent": 0.2
+                    },
+                    {
+                        "field_value_1": "https://media-for-the-masses.theacademyofperformingartsandscience.org/uploads/michael-coats.jpg",
+                        "row_count": 27,
+                        "ratio_percent": 0.19
+                    }
+                ]
+            },
+            {
+                "field": "utc_time",
+                "distribution": [
+                    {
+                        "field_value_1": "2015-05-20T00:00:00.000Z",
+                        "row_count": 3,
+                        "ratio_percent": 0.02
+                    },
+                    {
+                        "field_value_1": "2015-05-19T00:00:00.000Z",
+                        "row_count": 2,
+                        "ratio_percent": 0.01
+                    },
+                    {
+                        "field_value_1": "2015-05-18T00:09:43.370Z",
+                        "row_count": 1,
+                        "ratio_percent": 0.01
+                    },
+                    {
+                        "field_value_1": "2015-05-18T00:09:47.065Z",
+                        "row_count": 1,
+                        "ratio_percent": 0.01
+                    },
+                    {
+                        "field_value_1": "2015-05-18T00:14:02.259Z",
+                        "row_count": 1,
+                        "ratio_percent": 0.01
+                    },
+                    {
+                        "field_value_1": "2015-05-18T00:49:08.445Z",
+                        "row_count": 1,
+                        "ratio_percent": 0.01
+                    },
+                    {
+                        "field_value_1": "2015-05-18T00:55:22.257Z",
+                        "row_count": 1,
+                        "ratio_percent": 0.01
+                    },
+                    {
+                        "field_value_1": "2015-05-18T01:50:44.236Z",
+                        "row_count": 1,
+                        "ratio_percent": 0.01
+                    },
+                    {
+                        "field_value_1": "2015-05-18T01:55:14.216Z",
+                        "row_count": 1,
+                        "ratio_percent": 0.01
+                    },
+                    {
+                        "field_value_1": "2015-05-18T01:55:56.793Z",
+                        "row_count": 1,
+                        "ratio_percent": 0.01
+                    }
+                ]
+            },
+            {
+                "field": "xss",
+                "distribution": [
+                    {
+                        "field_value_1": "<script>console.log(\"xss\")</script>",
+                        "row_count": 14005,
+                        "ratio_percent": 100.0
+                    }
+                ]
+            },
+            {
+                "field": "agent",
+                "distribution": [
+                    {
+                        "field_value_1": "Mozilla/5.0 (X11; Linux x86_64; rv:6.0a1) Gecko/20110421 Firefox/6.0a1",
+                        "row_count": 5350,
+                        "ratio_percent": 38.2
+                    },
+                    {
+                        "field_value_1": "Mozilla/5.0 (X11; Linux i686) AppleWebKit/534.24 (KHTML, like Gecko) Chrome/11.0.696.50 Safari/534.24",
+                        "row_count": 4665,
+                        "ratio_percent": 33.31
+                    },
+                    {
+                        "field_value_1": "Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; .NET CLR 1.1.4322)",
+                        "row_count": 3990,
+                        "ratio_percent": 28.49
+                    }
+                ]
+            },
+            {
+                "field": "bytes",
+                "distribution": [
+                    {
+                        "field_value_1": "0",
+                        "row_count": 441,
+                        "ratio_percent": 3.15
+                    },
+                    {
+                        "field_value_1": "4600",
+                        "row_count": 9,
+                        "ratio_percent": 0.06
+                    },
+                    {
+                        "field_value_1": "7878",
+                        "row_count": 8,
+                        "ratio_percent": 0.06
+                    },
+                    {
+                        "field_value_1": "1648",
+                        "row_count": 7,
+                        "ratio_percent": 0.05
+                    },
+                    {
+                        "field_value_1": "2652",
+                        "row_count": 7,
+                        "ratio_percent": 0.05
+                    },
+                    {
+                        "field_value_1": "3174",
+                        "row_count": 7,
+                        "ratio_percent": 0.05
+                    },
+                    {
+                        "field_value_1": "3715",
+                        "row_count": 7,
+                        "ratio_percent": 0.05
+                    },
+                    {
+                        "field_value_1": "5349",
+                        "row_count": 7,
+                        "ratio_percent": 0.05
+                    },
+                    {
+                        "field_value_1": "5861",
+                        "row_count": 7,
+                        "ratio_percent": 0.05
+                    },
+                    {
+                        "field_value_1": "6734",
+                        "row_count": 7,
+                        "ratio_percent": 0.05
+                    }
+                ]
+            },
+            {
+                "field": "clientip",
+                "distribution": [
+                    {
+                        "field_value_1": "50.119.12.160",
+                        "row_count": 27,
+                        "ratio_percent": 0.19
+                    },
+                    {
+                        "field_value_1": "115.74.50.141",
+                        "row_count": 26,
+                        "ratio_percent": 0.19
+                    },
+                    {
+                        "field_value_1": "24.221.193.188",
+                        "row_count": 25,
+                        "ratio_percent": 0.18
+                    },
+                    {
+                        "field_value_1": "178.209.1.7",
+                        "row_count": 24,
+                        "ratio_percent": 0.17
+                    },
+                    {
+                        "field_value_1": "96.118.235.181",
+                        "row_count": 24,
+                        "ratio_percent": 0.17
+                    },
+                    {
+                        "field_value_1": "178.224.224.185",
+                        "row_count": 23,
+                        "ratio_percent": 0.16
+                    },
+                    {
+                        "field_value_1": "21.1.201.77",
+                        "row_count": 23,
+                        "ratio_percent": 0.16
+                    },
+                    {
+                        "field_value_1": "243.249.65.126",
+                        "row_count": 23,
+                        "ratio_percent": 0.16
+                    },
+                    {
+                        "field_value_1": "247.45.153.155",
+                        "row_count": 23,
+                        "ratio_percent": 0.16
+                    },
+                    {
+                        "field_value_1": "35.106.192.47",
+                        "row_count": 23,
+                        "ratio_percent": 0.16
+                    }
+                ]
+            },
+            {
+                "field": "extension",
+                "distribution": [
+                    {
+                        "field_value_1": "jpg",
+                        "row_count": 9165,
+                        "ratio_percent": 65.44
+                    },
+                    {
+                        "field_value_1": "css",
+                        "row_count": 2253,
+                        "ratio_percent": 16.09
+                    },
+                    {
+                        "field_value_1": "png",
+                        "row_count": 1303,
+                        "ratio_percent": 9.3
+                    },
+                    {
+                        "field_value_1": "gif",
+                        "row_count": 887,
+                        "ratio_percent": 6.33
+                    },
+                    {
+                        "field_value_1": "php",
+                        "row_count": 397,
+                        "ratio_percent": 2.83
+                    }
+                ]
+            },
+            {
+                "field": "geo.coordinates.lat",
+                "distribution": [
+                    {
+                        "field_value_1": "31.46902847290039",
+                        "row_count": 13,
+                        "ratio_percent": 0.09
+                    },
+                    {
+                        "field_value_1": "46.97494125366211",
+                        "row_count": 13,
+                        "ratio_percent": 0.09
+                    },
+                    {
+                        "field_value_1": "41.298885345458984",
+                        "row_count": 12,
+                        "ratio_percent": 0.09
+                    },
+                    {
+                        "field_value_1": "41.61033248901367",
+                        "row_count": 12,
+                        "ratio_percent": 0.09
+                    },
+                    {
+                        "field_value_1": "41.78598403930664",
+                        "row_count": 12,
+                        "ratio_percent": 0.09
+                    },
+                    {
+                        "field_value_1": "33.99287796020508",
+                        "row_count": 11,
+                        "ratio_percent": 0.08
+                    },
+                    {
+                        "field_value_1": "34.73002243041992",
+                        "row_count": 11,
+                        "ratio_percent": 0.08
+                    },
+                    {
+                        "field_value_1": "35.698707580566406",
+                        "row_count": 11,
+                        "ratio_percent": 0.08
+                    },
+                    {
+                        "field_value_1": "38.378631591796875",
+                        "row_count": 11,
+                        "ratio_percent": 0.08
+                    },
+                    {
+                        "field_value_1": "42.908355712890625",
+                        "row_count": 11,
+                        "ratio_percent": 0.08
+                    }
+                ]
+            }
+        ]
+    }
+]

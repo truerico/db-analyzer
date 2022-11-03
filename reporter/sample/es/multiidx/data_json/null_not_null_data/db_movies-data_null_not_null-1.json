@@ -1,0 +1,118 @@
+[
+    {
+        "table": "db_movies",
+        "total_records": 113,
+        "dataset": [
+            {
+                "field": "Actors",
+                "total_null_rows": 2,
+                "total_not_null_rows": 111
+            },
+            {
+                "field": "Poster",
+                "total_null_rows": 2,
+                "total_not_null_rows": 111
+            },
+            {
+                "field": "Rated",
+                "total_null_rows": 2,
+                "total_not_null_rows": 111
+            },
+            {
+                "field": "Released",
+                "total_null_rows": 2,
+                "total_not_null_rows": 111
+            },
+            {
+                "field": "Response",
+                "total_null_rows": 0,
+                "total_not_null_rows": 113
+            },
+            {
+                "field": "Runtime",
+                "total_null_rows": 2,
+                "total_not_null_rows": 111
+            },
+            {
+                "field": "Title",
+                "total_null_rows": 2,
+                "total_not_null_rows": 111
+            },
+            {
+                "field": "Type",
+                "total_null_rows": 2,
+                "total_not_null_rows": 111
+            },
+            {
+                "field": "Writer",
+                "total_null_rows": 2,
+                "total_not_null_rows": 111
+            },
+            {
+                "field": "Year",
+                "total_null_rows": 2,
+                "total_not_null_rows": 111
+            },
+            {
+                "field": "imdbID",
+                "total_null_rows": 2,
+                "total_not_null_rows": 111
+            },
+            {
+                "field": "Awards",
+                "total_null_rows": 2,
+                "total_not_null_rows": 111
+            },
+            {
+                "field": "imdbRating",
+                "total_null_rows": 2,
+                "total_not_null_rows": 111
+            },
+            {
+                "field": "imdbVotes",
+                "total_null_rows": 2,
+                "total_not_null_rows": 111
+            },
+            {
+                "field": "totalSeasons",
+                "total_null_rows": 98,
+                "total_not_null_rows": 15
+            },
+            {
+                "field": "Country",
+                "total_null_rows": 2,
+                "total_not_null_rows": 111
+            },
+            {
+                "field": "Director",
+                "total_null_rows": 2,
+                "total_not_null_rows": 111
+            },
+            {
+                "field": "Error",
+                "total_null_rows": 111,
+                "total_not_null_rows": 2
+            },
+            {
+                "field": "Genre",
+                "total_null_rows": 2,
+                "total_not_null_rows": 111
+            },
+            {
+                "field": "Language",
+                "total_null_rows": 2,
+                "total_not_null_rows": 111
+            },
+            {
+                "field": "Metascore",
+                "total_null_rows": 2,
+                "total_not_null_rows": 111
+            },
+            {
+                "field": "Plot",
+                "total_null_rows": 2,
+                "total_not_null_rows": 111
+            }
+        ]
+    }
+]

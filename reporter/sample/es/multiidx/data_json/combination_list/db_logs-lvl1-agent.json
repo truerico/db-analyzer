@@ -1,0 +1,27 @@
+@startjson
+{
+    "field1": "agent",
+    "combination": "agent",
+    "null_distribution": {
+        "total_null_rows": 0,
+        "total_not_null_rows": 14005
+    },
+    "data_distribution": [
+        {
+            "field_value_1": "Mozilla/5.0 (X11; Linux x86_64; rv:6.0a1) Gecko/20110421 Firefox/6.0a1",
+            "row_count": 5350,
+            "ratio_percent": 38.2
+        },
+        {
+            "field_value_1": "Mozilla/5.0 (X11; Linux i686) AppleWebKit/534.24 (KHTML, like Gecko) Chrome/11.0.696.50 Safari/534.24",
+            "row_count": 4665,
+            "ratio_percent": 33.31
+        },
+        {
+            "field_value_1": "Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; .NET CLR 1.1.4322)",
+            "row_count": 3990,
+            "ratio_percent": 28.49
+        }
+    ]
+}
+@endjson

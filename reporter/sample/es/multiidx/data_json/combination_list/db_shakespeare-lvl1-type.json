@@ -1,0 +1,27 @@
+@startjson
+{
+    "field1": "type",
+    "combination": "type",
+    "null_distribution": {
+        "total_null_rows": 0,
+        "total_not_null_rows": 111396
+    },
+    "data_distribution": [
+        {
+            "field_value_1": "line",
+            "row_count": 110487,
+            "ratio_percent": 99.18
+        },
+        {
+            "field_value_1": "scene",
+            "row_count": 729,
+            "ratio_percent": 0.65
+        },
+        {
+            "field_value_1": "act",
+            "row_count": 180,
+            "ratio_percent": 0.16
+        }
+    ]
+}
+@endjson

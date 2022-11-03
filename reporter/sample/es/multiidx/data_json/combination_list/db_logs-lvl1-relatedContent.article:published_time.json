@@ -1,0 +1,62 @@
+@startjson
+{
+    "field1": "relatedContent.article:published_time",
+    "combination": "relatedContent.article:published_time",
+    "null_distribution": {
+        "total_null_rows": 2282,
+        "total_not_null_rows": 11723
+    },
+    "data_distribution": [
+        {
+            "field_value_1": "None",
+            "row_count": 2282,
+            "ratio_percent": 16.29
+        },
+        {
+            "field_value_1": "2005-10-15T00:10:27.000Z",
+            "row_count": 97,
+            "ratio_percent": 0.69
+        },
+        {
+            "field_value_1": "2005-10-19T17:10:20.000Z",
+            "row_count": 86,
+            "ratio_percent": 0.61
+        },
+        {
+            "field_value_1": "2005-10-17T07:10:18.000Z",
+            "row_count": 82,
+            "ratio_percent": 0.59
+        },
+        {
+            "field_value_1": "2005-12-18T09:12:22.000Z",
+            "row_count": 74,
+            "ratio_percent": 0.53
+        },
+        {
+            "field_value_1": "2008-02-28T17:00:00.000Z",
+            "row_count": 57,
+            "ratio_percent": 0.41
+        },
+        {
+            "field_value_1": "2008-05-02T12:38:40.000Z",
+            "row_count": 56,
+            "ratio_percent": 0.4
+        },
+        {
+            "field_value_1": "2005-10-18T15:10:44.000Z",
+            "row_count": 49,
+            "ratio_percent": 0.35
+        },
+        {
+            "field_value_1": "2007-06-29T15:06:30.000Z",
+            "row_count": 49,
+            "ratio_percent": 0.35
+        },
+        {
+            "field_value_1": "2006-10-17T19:10:35.000Z",
+            "row_count": 44,
+            "ratio_percent": 0.31
+        }
+    ]
+}
+@endjson

@@ -1,0 +1,22 @@
+@startjson
+{
+    "field1": "Error",
+    "combination": "Error",
+    "null_distribution": {
+        "total_null_rows": 111,
+        "total_not_null_rows": 2
+    },
+    "data_distribution": [
+        {
+            "field_value_1": "None",
+            "row_count": 111,
+            "ratio_percent": 98.23
+        },
+        {
+            "field_value_1": "Movie not found!",
+            "row_count": 2,
+            "ratio_percent": 1.77
+        }
+    ]
+}
+@endjson

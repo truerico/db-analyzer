@@ -1,0 +1,63 @@
+[
+    {
+        "table": "db_accounts",
+        "total_records": 1000,
+        "dataset": [
+            {
+                "field": "account_number",
+                "total_null_rows": 0,
+                "total_not_null_rows": 1000
+            },
+            {
+                "field": "lastname",
+                "total_null_rows": 0,
+                "total_not_null_rows": 1000
+            },
+            {
+                "field": "state",
+                "total_null_rows": 0,
+                "total_not_null_rows": 1000
+            },
+            {
+                "field": "address",
+                "total_null_rows": 0,
+                "total_not_null_rows": 1000
+            },
+            {
+                "field": "age",
+                "total_null_rows": 0,
+                "total_not_null_rows": 1000
+            },
+            {
+                "field": "balance",
+                "total_null_rows": 2,
+                "total_not_null_rows": 998
+            },
+            {
+                "field": "city",
+                "total_null_rows": 0,
+                "total_not_null_rows": 1000
+            },
+            {
+                "field": "email",
+                "total_null_rows": 0,
+                "total_not_null_rows": 1000
+            },
+            {
+                "field": "employer",
+                "total_null_rows": 0,
+                "total_not_null_rows": 1000
+            },
+            {
+                "field": "firstname",
+                "total_null_rows": 0,
+                "total_not_null_rows": 1000
+            },
+            {
+                "field": "gender",
+                "total_null_rows": 0,
+                "total_not_null_rows": 1000
+            }
+        ]
+    }
+]

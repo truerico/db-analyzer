@@ -1,0 +1,5 @@
+"index_name","alias_list","health","status","blocks_read_only","blocks_read_only_allow_delete"
+"db_logs","","yellow","open","n/a","n/a"
+"db_movies","","yellow","open","n/a","n/a"
+"db_accounts","","yellow","open","n/a","n/a"
+"db_shakespeare","","yellow","open","n/a","n/a"

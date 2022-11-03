@@ -1,0 +1,62 @@
+@startjson
+{
+    "field1": "line_id",
+    "combination": "line_id",
+    "null_distribution": {
+        "total_null_rows": 0,
+        "total_not_null_rows": 111396
+    },
+    "data_distribution": [
+        {
+            "field_value_1": "1",
+            "row_count": 1,
+            "ratio_percent": 0.0
+        },
+        {
+            "field_value_1": "2",
+            "row_count": 1,
+            "ratio_percent": 0.0
+        },
+        {
+            "field_value_1": "3",
+            "row_count": 1,
+            "ratio_percent": 0.0
+        },
+        {
+            "field_value_1": "4",
+            "row_count": 1,
+            "ratio_percent": 0.0
+        },
+        {
+            "field_value_1": "5",
+            "row_count": 1,
+            "ratio_percent": 0.0
+        },
+        {
+            "field_value_1": "6",
+            "row_count": 1,
+            "ratio_percent": 0.0
+        },
+        {
+            "field_value_1": "7",
+            "row_count": 1,
+            "ratio_percent": 0.0
+        },
+        {
+            "field_value_1": "8",
+            "row_count": 1,
+            "ratio_percent": 0.0
+        },
+        {
+            "field_value_1": "9",
+            "row_count": 1,
+            "ratio_percent": 0.0
+        },
+        {
+            "field_value_1": "10",
+            "row_count": 1,
+            "ratio_percent": 0.0
+        }
+    ]
+}
+@endjson

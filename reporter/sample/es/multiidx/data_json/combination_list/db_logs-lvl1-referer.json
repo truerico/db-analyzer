@@ -1,0 +1,62 @@
+@startjson
+{
+    "field1": "referer",
+    "combination": "referer",
+    "null_distribution": {
+        "total_null_rows": 0,
+        "total_not_null_rows": 14005
+    },
+    "data_distribution": [
+        {
+            "field_value_1": "http://www.slate.com/success/henry-hartsfield",
+            "row_count": 20,
+            "ratio_percent": 0.14
+        },
+        {
+            "field_value_1": "http://www.slate.com/success/vladimir-titov",
+            "row_count": 19,
+            "ratio_percent": 0.14
+        },
+        {
+            "field_value_1": "http://www.slate.com/success/martin-j-fettman",
+            "row_count": 18,
+            "ratio_percent": 0.13
+        },
+        {
+            "field_value_1": "http://www.slate.com/success/douglas-wheelock",
+            "row_count": 17,
+            "ratio_percent": 0.12
+        },
+        {
+            "field_value_1": "http://www.slate.com/success/lloyd-hammond",
+            "row_count": 17,
+            "ratio_percent": 0.12
+        },
+        {
+            "field_value_1": "http://www.slate.com/success/william-c-mccool",
+            "row_count": 17,
+            "ratio_percent": 0.12
+        },
+        {
+            "field_value_1": "http://www.slate.com/success/aleksandr-laveykin",
+            "row_count": 16,
+            "ratio_percent": 0.11
+        },
+        {
+            "field_value_1": "http://www.slate.com/success/anatoly-solovyev",
+            "row_count": 16,
+            "ratio_percent": 0.11
+        },
+        {
+            "field_value_1": "http://www.slate.com/success/daniel-barry",
+            "row_count": 16,
+            "ratio_percent": 0.11
+        },
+        {
+            "field_value_1": "http://www.slate.com/success/duane-graveline",
+            "row_count": 16,
+            "ratio_percent": 0.11
+        }
+    ]
+}
+@endjson

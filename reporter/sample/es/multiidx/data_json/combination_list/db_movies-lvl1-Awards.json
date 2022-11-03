@@ -1,0 +1,62 @@
+@startjson
+{
+    "field1": "Awards",
+    "combination": "Awards",
+    "null_distribution": {
+        "total_null_rows": 2,
+        "total_not_null_rows": 111
+    },
+    "data_distribution": [
+        {
+            "field_value_1": "N/A",
+            "row_count": 19,
+            "ratio_percent": 16.81
+        },
+        {
+            "field_value_1": "3 nominations.",
+            "row_count": 6,
+            "ratio_percent": 5.31
+        },
+        {
+            "field_value_1": "1 nomination.",
+            "row_count": 4,
+            "ratio_percent": 3.54
+        },
+        {
+            "field_value_1": "1 win & 2 nominations.",
+            "row_count": 4,
+            "ratio_percent": 3.54
+        },
+        {
+            "field_value_1": "1 win.",
+            "row_count": 4,
+            "ratio_percent": 3.54
+        },
+        {
+            "field_value_1": "Won 3 Primetime Emmys. Another 32 wins & 80 nominations.",
+            "row_count": 4,
+            "ratio_percent": 3.54
+        },
+        {
+            "field_value_1": "1 win & 9 nominations.",
+            "row_count": 3,
+            "ratio_percent": 2.65
+        },
+        {
+            "field_value_1": "None",
+            "row_count": 2,
+            "ratio_percent": 1.77
+        },
+        {
+            "field_value_1": "1 win & 3 nominations.",
+            "row_count": 2,
+            "ratio_percent": 1.77
+        },
+        {
+            "field_value_1": "1 win & 4 nominations.",
+            "row_count": 2,
+            "ratio_percent": 1.77
+        }
+    ]
+}
+@endjson

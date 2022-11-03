@@ -1,0 +1,62 @@
+@startjson
+{
+    "field1": "Actors",
+    "combination": "Actors",
+    "null_distribution": {
+        "total_null_rows": 2,
+        "total_not_null_rows": 111
+    },
+    "data_distribution": [
+        {
+            "field_value_1": "Edward James Olmos, Mary McDonnell, Jamie Bamber, James Callis",
+            "row_count": 4,
+            "ratio_percent": 3.54
+        },
+        {
+            "field_value_1": "None",
+            "row_count": 2,
+            "ratio_percent": 1.77
+        },
+        {
+            "field_value_1": "Bruce Lee, Colleen Camp, Dean Jagger, Gig Young",
+            "row_count": 2,
+            "ratio_percent": 1.77
+        },
+        {
+            "field_value_1": "Edith 'Little Edie' Bouvier Beale, Edith Bouvier Beale, Brooks Hyers, Norman Vincent Peale",
+            "row_count": 2,
+            "ratio_percent": 1.77
+        },
+        {
+            "field_value_1": "Jet Li, Xun Zhou, Kun Chen, Lun Mei Gwei",
+            "row_count": 2,
+            "ratio_percent": 1.77
+        },
+        {
+            "field_value_1": "Lisa Adam, Frank Aldridge, Amitabh Bachchan, Steve Bisley",
+            "row_count": 2,
+            "ratio_percent": 1.77
+        },
+        {
+            "field_value_1": "Luke Pasqualino, Ben Cotton, Lili Bord\u00e1n, Jill Teed",
+            "row_count": 2,
+            "ratio_percent": 1.77
+        },
+        {
+            "field_value_1": "Matthew Broderick, Rupert Everett, Joely Fisher, Michelle Trachtenberg",
+            "row_count": 2,
+            "ratio_percent": 1.77
+        },
+        {
+            "field_value_1": "Naomi Watts, Sonya Davison, Vanessa Chong, Anand Tiwari",
+            "row_count": 2,
+            "ratio_percent": 1.77
+        },
+        {
+            "field_value_1": "Naomi Watts, Tim Roth, Michael Pitt, Brady Corbet",
+            "row_count": 2,
+            "ratio_percent": 1.77
+        }
+    ]
+}
+@endjson

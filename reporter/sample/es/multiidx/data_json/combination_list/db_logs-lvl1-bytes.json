@@ -1,0 +1,62 @@
+@startjson
+{
+    "field1": "bytes",
+    "combination": "bytes",
+    "null_distribution": {
+        "total_null_rows": 0,
+        "total_not_null_rows": 14005
+    },
+    "data_distribution": [
+        {
+            "field_value_1": "0",
+            "row_count": 441,
+            "ratio_percent": 3.15
+        },
+        {
+            "field_value_1": "4600",
+            "row_count": 9,
+            "ratio_percent": 0.06
+        },
+        {
+            "field_value_1": "7878",
+            "row_count": 8,
+            "ratio_percent": 0.06
+        },
+        {
+            "field_value_1": "1648",
+            "row_count": 7,
+            "ratio_percent": 0.05
+        },
+        {
+            "field_value_1": "2652",
+            "row_count": 7,
+            "ratio_percent": 0.05
+        },
+        {
+            "field_value_1": "3174",
+            "row_count": 7,
+            "ratio_percent": 0.05
+        },
+        {
+            "field_value_1": "3715",
+            "row_count": 7,
+            "ratio_percent": 0.05
+        },
+        {
+            "field_value_1": "5349",
+            "row_count": 7,
+            "ratio_percent": 0.05
+        },
+        {
+            "field_value_1": "5861",
+            "row_count": 7,
+            "ratio_percent": 0.05
+        },
+        {
+            "field_value_1": "6734",
+            "row_count": 7,
+            "ratio_percent": 0.05
+        }
+    ]
+}
+@endjson

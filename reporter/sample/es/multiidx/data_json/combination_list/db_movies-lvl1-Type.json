@@ -1,0 +1,27 @@
+@startjson
+{
+    "field1": "Type",
+    "combination": "Type",
+    "null_distribution": {
+        "total_null_rows": 2,
+        "total_not_null_rows": 111
+    },
+    "data_distribution": [
+        {
+            "field_value_1": "movie",
+            "row_count": 96,
+            "ratio_percent": 84.96
+        },
+        {
+            "field_value_1": "series",
+            "row_count": 15,
+            "ratio_percent": 13.27
+        },
+        {
+            "field_value_1": "None",
+            "row_count": 2,
+            "ratio_percent": 1.77
+        }
+    ]
+}
+@endjson

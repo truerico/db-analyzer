@@ -1,0 +1,358 @@
+[
+    {
+        "table": "db_shakespeare",
+        "total_records": 111396,
+        "dataset": [
+            {
+                "field": "line_id",
+                "distribution": [
+                    {
+                        "field_value_1": "1",
+                        "row_count": 1,
+                        "ratio_percent": 0.0
+                    },
+                    {
+                        "field_value_1": "2",
+                        "row_count": 1,
+                        "ratio_percent": 0.0
+                    },
+                    {
+                        "field_value_1": "3",
+                        "row_count": 1,
+                        "ratio_percent": 0.0
+                    },
+                    {
+                        "field_value_1": "4",
+                        "row_count": 1,
+                        "ratio_percent": 0.0
+                    },
+                    {
+                        "field_value_1": "5",
+                        "row_count": 1,
+                        "ratio_percent": 0.0
+                    },
+                    {
+                        "field_value_1": "6",
+                        "row_count": 1,
+                        "ratio_percent": 0.0
+                    },
+                    {
+                        "field_value_1": "7",
+                        "row_count": 1,
+                        "ratio_percent": 0.0
+                    },
+                    {
+                        "field_value_1": "8",
+                        "row_count": 1,
+                        "ratio_percent": 0.0
+                    },
+                    {
+                        "field_value_1": "9",
+                        "row_count": 1,
+                        "ratio_percent": 0.0
+                    },
+                    {
+                        "field_value_1": "10",
+                        "row_count": 1,
+                        "ratio_percent": 0.0
+                    }
+                ]
+            },
+            {
+                "field": "line_number",
+                "distribution": [
+                    {
+                        "field_value_1": "",
+                        "row_count": 6243,
+                        "ratio_percent": 5.6
+                    },
+                    {
+                        "field_value_1": "5.1.3",
+                        "row_count": 37,
+                        "ratio_percent": 0.03
+                    },
+                    {
+                        "field_value_1": "1.1.1",
+                        "row_count": 36,
+                        "ratio_percent": 0.03
+                    },
+                    {
+                        "field_value_1": "1.1.10",
+                        "row_count": 36,
+                        "ratio_percent": 0.03
+                    },
+                    {
+                        "field_value_1": "1.1.11",
+                        "row_count": 36,
+                        "ratio_percent": 0.03
+                    },
+                    {
+                        "field_value_1": "1.1.12",
+                        "row_count": 36,
+                        "ratio_percent": 0.03
+                    },
+                    {
+                        "field_value_1": "1.1.13",
+                        "row_count": 36,
+                        "ratio_percent": 0.03
+                    },
+                    {
+                        "field_value_1": "1.1.2",
+                        "row_count": 36,
+                        "ratio_percent": 0.03
+                    },
+                    {
+                        "field_value_1": "1.1.3",
+                        "row_count": 36,
+                        "ratio_percent": 0.03
+                    },
+                    {
+                        "field_value_1": "1.1.4",
+                        "row_count": 36,
+                        "ratio_percent": 0.03
+                    }
+                ]
+            },
+            {
+                "field": "play_name",
+                "distribution": [
+                    {
+                        "field_value_1": "Hamlet",
+                        "row_count": 4244,
+                        "ratio_percent": 3.81
+                    },
+                    {
+                        "field_value_1": "Coriolanus",
+                        "row_count": 3992,
+                        "ratio_percent": 3.58
+                    },
+                    {
+                        "field_value_1": "Cymbeline",
+                        "row_count": 3958,
+                        "ratio_percent": 3.55
+                    },
+                    {
+                        "field_value_1": "Richard III",
+                        "row_count": 3941,
+                        "ratio_percent": 3.54
+                    },
+                    {
+                        "field_value_1": "Antony and Cleopatra",
+                        "row_count": 3862,
+                        "ratio_percent": 3.47
+                    },
+                    {
+                        "field_value_1": "King Lear",
+                        "row_count": 3766,
+                        "ratio_percent": 3.38
+                    },
+                    {
+                        "field_value_1": "Othello",
+                        "row_count": 3762,
+                        "ratio_percent": 3.38
+                    },
+                    {
+                        "field_value_1": "Troilus and Cressida",
+                        "row_count": 3711,
+                        "ratio_percent": 3.33
+                    },
+                    {
+                        "field_value_1": "A Winters Tale",
+                        "row_count": 3489,
+                        "ratio_percent": 3.13
+                    },
+                    {
+                        "field_value_1": "Henry VIII",
+                        "row_count": 3419,
+                        "ratio_percent": 3.07
+                    }
+                ]
+            },
+            {
+                "field": "speaker",
+                "distribution": [
+                    {
+                        "field_value_1": "GLOUCESTER",
+                        "row_count": 1920,
+                        "ratio_percent": 1.72
+                    },
+                    {
+                        "field_value_1": "HAMLET",
+                        "row_count": 1582,
+                        "ratio_percent": 1.42
+                    },
+                    {
+                        "field_value_1": "IAGO",
+                        "row_count": 1161,
+                        "ratio_percent": 1.04
+                    },
+                    {
+                        "field_value_1": "FALSTAFF",
+                        "row_count": 1117,
+                        "ratio_percent": 1.0
+                    },
+                    {
+                        "field_value_1": "KING HENRY V",
+                        "row_count": 1086,
+                        "ratio_percent": 0.97
+                    },
+                    {
+                        "field_value_1": "BRUTUS",
+                        "row_count": 1051,
+                        "ratio_percent": 0.94
+                    },
+                    {
+                        "field_value_1": "OTHELLO",
+                        "row_count": 928,
+                        "ratio_percent": 0.83
+                    },
+                    {
+                        "field_value_1": "MARK ANTONY",
+                        "row_count": 927,
+                        "ratio_percent": 0.83
+                    },
+                    {
+                        "field_value_1": "KING HENRY VI",
+                        "row_count": 917,
+                        "ratio_percent": 0.82
+                    },
+                    {
+                        "field_value_1": "DUKE VINCENTIO",
+                        "row_count": 909,
+                        "ratio_percent": 0.82
+                    }
+                ]
+            },
+            {
+                "field": "speech_number",
+                "distribution": [
+                    {
+                        "field_value_1": "1",
+                        "row_count": 5141,
+                        "ratio_percent": 4.62
+                    },
+                    {
+                        "field_value_1": "3",
+                        "row_count": 3241,
+                        "ratio_percent": 2.91
+                    },
+                    {
+                        "field_value_1": "5",
+                        "row_count": 3117,
+                        "ratio_percent": 2.8
+                    },
+                    {
+                        "field_value_1": "7",
+                        "row_count": 2681,
+                        "ratio_percent": 2.41
+                    },
+                    {
+                        "field_value_1": "2",
+                        "row_count": 2673,
+                        "ratio_percent": 2.4
+                    },
+                    {
+                        "field_value_1": "4",
+                        "row_count": 2619,
+                        "ratio_percent": 2.35
+                    },
+                    {
+                        "field_value_1": "8",
+                        "row_count": 2564,
+                        "ratio_percent": 2.3
+                    },
+                    {
+                        "field_value_1": "6",
+                        "row_count": 2529,
+                        "ratio_percent": 2.27
+                    },
+                    {
+                        "field_value_1": "9",
+                        "row_count": 2481,
+                        "ratio_percent": 2.23
+                    },
+                    {
+                        "field_value_1": "11",
+                        "row_count": 2350,
+                        "ratio_percent": 2.11
+                    }
+                ]
+            },
+            {
+                "field": "text_entry",
+                "distribution": [
+                    {
+                        "field_value_1": "Exit",
+                        "row_count": 564,
+                        "ratio_percent": 0.51
+                    },
+                    {
+                        "field_value_1": "Exeunt",
+                        "row_count": 549,
+                        "ratio_percent": 0.49
+                    },
+                    {
+                        "field_value_1": "ANTIPHOLUS",
+                        "row_count": 175,
+                        "ratio_percent": 0.16
+                    },
+                    {
+                        "field_value_1": "DON",
+                        "row_count": 101,
+                        "ratio_percent": 0.09
+                    },
+                    {
+                        "field_value_1": "Aside",
+                        "row_count": 50,
+                        "ratio_percent": 0.04
+                    },
+                    {
+                        "field_value_1": "Enter a Messenger",
+                        "row_count": 47,
+                        "ratio_percent": 0.04
+                    },
+                    {
+                        "field_value_1": "ACT I",
+                        "row_count": 36,
+                        "ratio_percent": 0.03
+                    },
+                    {
+                        "field_value_1": "ACT II",
+                        "row_count": 36,
+                        "ratio_percent": 0.03
+                    },
+                    {
+                        "field_value_1": "ACT III",
+                        "row_count": 36,
+                        "ratio_percent": 0.03
+                    },
+                    {
+                        "field_value_1": "ACT IV",
+                        "row_count": 36,
+                        "ratio_percent": 0.03
+                    }
+                ]
+            },
+            {
+                "field": "type",
+                "distribution": [
+                    {
+                        "field_value_1": "line",
+                        "row_count": 110487,
+                        "ratio_percent": 99.18
+                    },
+                    {
+                        "field_value_1": "scene",
+                        "row_count": 729,
+                        "ratio_percent": 0.65
+                    },
+                    {
+                        "field_value_1": "act",
+                        "row_count": 180,
+                        "ratio_percent": 0.16
+                    }
+                ]
+            }
+        ]
+    }
+]

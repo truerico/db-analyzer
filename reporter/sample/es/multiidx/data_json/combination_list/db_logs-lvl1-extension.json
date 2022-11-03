@@ -1,0 +1,37 @@
+@startjson
+{
+    "field1": "extension",
+    "combination": "extension",
+    "null_distribution": {
+        "total_null_rows": 0,
+        "total_not_null_rows": 14005
+    },
+    "data_distribution": [
+        {
+            "field_value_1": "jpg",
+            "row_count": 9165,
+            "ratio_percent": 65.44
+        },
+        {
+            "field_value_1": "css",
+            "row_count": 2253,
+            "ratio_percent": 16.09
+        },
+        {
+            "field_value_1": "png",
+            "row_count": 1303,
+            "ratio_percent": 9.3
+        },
+        {
+            "field_value_1": "gif",
+            "row_count": 887,
+            "ratio_percent": 6.33
+        },
+        {
+            "field_value_1": "php",
+            "row_count": 397,
+            "ratio_percent": 2.83
+        }
+    ]
+}
+@endjson

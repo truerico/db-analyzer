@@ -1,0 +1,62 @@
+@startjson
+{
+    "field1": "employer",
+    "combination": "employer",
+    "null_distribution": {
+        "total_null_rows": 0,
+        "total_not_null_rows": 1000
+    },
+    "data_distribution": [
+        {
+            "field_value_1": "Xurban",
+            "row_count": 2,
+            "ratio_percent": 0.2
+        },
+        {
+            "field_value_1": "Accel",
+            "row_count": 1,
+            "ratio_percent": 0.1
+        },
+        {
+            "field_value_1": "Accidency",
+            "row_count": 1,
+            "ratio_percent": 0.1
+        },
+        {
+            "field_value_1": "Accruex",
+            "row_count": 1,
+            "ratio_percent": 0.1
+        },
+        {
+            "field_value_1": "Accufarm",
+            "row_count": 1,
+            "ratio_percent": 0.1
+        },
+        {
+            "field_value_1": "Accupharm",
+            "row_count": 1,
+            "ratio_percent": 0.1
+        },
+        {
+            "field_value_1": "Accuprint",
+            "row_count": 1,
+            "ratio_percent": 0.1
+        },
+        {
+            "field_value_1": "Accusage",
+            "row_count": 1,
+            "ratio_percent": 0.1
+        },
+        {
+            "field_value_1": "Acium",
+            "row_count": 1,
+            "ratio_percent": 0.1
+        },
+        {
+            "field_value_1": "Aclima",
+            "row_count": 1,
+            "ratio_percent": 0.1
+        }
+    ]
+}
+@endjson

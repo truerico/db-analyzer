@@ -1,0 +1,62 @@
+@startjson
+{
+    "field1": "speaker",
+    "combination": "speaker",
+    "null_distribution": {
+        "total_null_rows": 0,
+        "total_not_null_rows": 111396
+    },
+    "data_distribution": [
+        {
+            "field_value_1": "GLOUCESTER",
+            "row_count": 1920,
+            "ratio_percent": 1.72
+        },
+        {
+            "field_value_1": "HAMLET",
+            "row_count": 1582,
+            "ratio_percent": 1.42
+        },
+        {
+            "field_value_1": "IAGO",
+            "row_count": 1161,
+            "ratio_percent": 1.04
+        },
+        {
+            "field_value_1": "FALSTAFF",
+            "row_count": 1117,
+            "ratio_percent": 1.0
+        },
+        {
+            "field_value_1": "KING HENRY V",
+            "row_count": 1086,
+            "ratio_percent": 0.97
+        },
+        {
+            "field_value_1": "BRUTUS",
+            "row_count": 1051,
+            "ratio_percent": 0.94
+        },
+        {
+            "field_value_1": "OTHELLO",
+            "row_count": 928,
+            "ratio_percent": 0.83
+        },
+        {
+            "field_value_1": "MARK ANTONY",
+            "row_count": 927,
+            "ratio_percent": 0.83
+        },
+        {
+            "field_value_1": "KING HENRY VI",
+            "row_count": 917,
+            "ratio_percent": 0.82
+        },
+        {
+            "field_value_1": "DUKE VINCENTIO",
+            "row_count": 909,
+            "ratio_percent": 0.82
+        }
+    ]
+}
+@endjson

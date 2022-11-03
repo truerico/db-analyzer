@@ -1,0 +1,62 @@
+@startjson
+{
+    "field1": "relatedContent.og:url",
+    "combination": "relatedContent.og:url",
+    "null_distribution": {
+        "total_null_rows": 2282,
+        "total_not_null_rows": 11723
+    },
+    "data_distribution": [
+        {
+            "field_value_1": "None",
+            "row_count": 2282,
+            "ratio_percent": 16.29
+        },
+        {
+            "field_value_1": "http://www.laweekly.com/music/bonde-do-role-solta-o-frango-excellent-summer-morning-music-2400568",
+            "row_count": 49,
+            "ratio_percent": 0.35
+        },
+        {
+            "field_value_1": "http://www.laweekly.com/news/auto-repair-art-on-santa-monica-blvd-and-ardmore-2368074",
+            "row_count": 42,
+            "ratio_percent": 0.3
+        },
+        {
+            "field_value_1": "http://www.laweekly.com/arts/fashion-week-warrior-2373414",
+            "row_count": 41,
+            "ratio_percent": 0.29
+        },
+        {
+            "field_value_1": "http://www.laweekly.com/arts/is-don-henley-dead-2370516",
+            "row_count": 41,
+            "ratio_percent": 0.29
+        },
+        {
+            "field_value_1": "http://www.laweekly.com/arts/linda-immediato-2371473",
+            "row_count": 40,
+            "ratio_percent": 0.29
+        },
+        {
+            "field_value_1": "http://www.laweekly.com/news/laker-mania-sweeps-hollywood-2393051",
+            "row_count": 40,
+            "ratio_percent": 0.29
+        },
+        {
+            "field_value_1": "http://www.laweekly.com/arts/rock-anthem-part-deux-2370897",
+            "row_count": 39,
+            "ratio_percent": 0.28
+        },
+        {
+            "field_value_1": "http://www.laweekly.com/music/air-at-the-greek-theatre-9-21-2411235",
+            "row_count": 39,
+            "ratio_percent": 0.28
+        },
+        {
+            "field_value_1": "http://www.laweekly.com/music/pause-and-rewind-rhyme-and-reason-2399800",
+            "row_count": 39,
+            "ratio_percent": 0.28
+        }
+    ]
+}
+@endjson

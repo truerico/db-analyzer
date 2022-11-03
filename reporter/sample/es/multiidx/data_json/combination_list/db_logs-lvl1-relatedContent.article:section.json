@@ -1,0 +1,37 @@
+@startjson
+{
+    "field1": "relatedContent.article:section",
+    "combination": "relatedContent.article:section",
+    "null_distribution": {
+        "total_null_rows": 2282,
+        "total_not_null_rows": 11723
+    },
+    "data_distribution": [
+        {
+            "field_value_1": "Arts",
+            "row_count": 8458,
+            "ratio_percent": 60.39
+        },
+        {
+            "field_value_1": "Music",
+            "row_count": 8287,
+            "ratio_percent": 59.17
+        },
+        {
+            "field_value_1": "News",
+            "row_count": 5616,
+            "ratio_percent": 40.1
+        },
+        {
+            "field_value_1": "None",
+            "row_count": 2282,
+            "ratio_percent": 16.29
+        },
+        {
+            "field_value_1": "Restaurants",
+            "row_count": 132,
+            "ratio_percent": 0.94
+        }
+    ]
+}
+@endjson

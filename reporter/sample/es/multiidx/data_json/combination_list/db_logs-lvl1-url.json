@@ -1,0 +1,62 @@
+@startjson
+{
+    "field1": "url",
+    "combination": "url",
+    "null_distribution": {
+        "total_null_rows": 0,
+        "total_not_null_rows": 14005
+    },
+    "data_distribution": [
+        {
+            "field_value_1": "https://cdn.theacademyofperformingartsandscience.org/styles/app.css",
+            "row_count": 410,
+            "ratio_percent": 2.93
+        },
+        {
+            "field_value_1": "https://cdn.theacademyofperformingartsandscience.org/styles/pretty-layout.css",
+            "row_count": 387,
+            "ratio_percent": 2.76
+        },
+        {
+            "field_value_1": "https://cdn.theacademyofperformingartsandscience.org/styles/ad-blocker.css",
+            "row_count": 379,
+            "ratio_percent": 2.71
+        },
+        {
+            "field_value_1": "https://cdn.theacademyofperformingartsandscience.org/styles/ads.css",
+            "row_count": 373,
+            "ratio_percent": 2.66
+        },
+        {
+            "field_value_1": "https://cdn.theacademyofperformingartsandscience.org/styles/semantic-ui.css",
+            "row_count": 342,
+            "ratio_percent": 2.44
+        },
+        {
+            "field_value_1": "https://cdn.theacademyofperformingartsandscience.org/styles/main.css",
+            "row_count": 184,
+            "ratio_percent": 1.31
+        },
+        {
+            "field_value_1": "https://cdn.theacademyofperformingartsandscience.org/styles/undefined",
+            "row_count": 178,
+            "ratio_percent": 1.27
+        },
+        {
+            "field_value_1": "https://media-for-the-masses.theacademyofperformingartsandscience.org/uploads/donald-thomas.jpg",
+            "row_count": 28,
+            "ratio_percent": 0.2
+        },
+        {
+            "field_value_1": "https://media-for-the-masses.theacademyofperformingartsandscience.org/uploads/roy-bridges.jpg",
+            "row_count": 28,
+            "ratio_percent": 0.2
+        },
+        {
+            "field_value_1": "https://media-for-the-masses.theacademyofperformingartsandscience.org/uploads/michael-coats.jpg",
+            "row_count": 27,
+            "ratio_percent": 0.19
+        }
+    ]
+}
+@endjson

@@ -1,0 +1,62 @@
+@startjson
+{
+    "field1": "links",
+    "combination": "links",
+    "null_distribution": {
+        "total_null_rows": 0,
+        "total_not_null_rows": 14005
+    },
+    "data_distribution": [
+        {
+            "field_value_1": "www.www.slate.com",
+            "row_count": 6187,
+            "ratio_percent": 44.18
+        },
+        {
+            "field_value_1": "www.twitter.com",
+            "row_count": 4230,
+            "ratio_percent": 30.2
+        },
+        {
+            "field_value_1": "www.facebook.com",
+            "row_count": 2441,
+            "ratio_percent": 17.43
+        },
+        {
+            "field_value_1": "www.nytimes.com",
+            "row_count": 1147,
+            "ratio_percent": 8.19
+        },
+        {
+            "field_value_1": "shannon-walker@www.slate.com",
+            "row_count": 23,
+            "ratio_percent": 0.16
+        },
+        {
+            "field_value_1": "michael-p-anderson@www.slate.com",
+            "row_count": 20,
+            "ratio_percent": 0.14
+        },
+        {
+            "field_value_1": "michael-r-barratt@www.slate.com",
+            "row_count": 20,
+            "ratio_percent": 0.14
+        },
+        {
+            "field_value_1": "aleksandr-pavlovich-aleksandrov@www.slate.com",
+            "row_count": 19,
+            "ratio_percent": 0.14
+        },
+        {
+            "field_value_1": "david-m-brown@www.slate.com",
+            "row_count": 19,
+            "ratio_percent": 0.14
+        },
+        {
+            "field_value_1": "gemini-8@www.slate.com",
+            "row_count": 19,
+            "ratio_percent": 0.14
+        }
+    ]
+}
+@endjson

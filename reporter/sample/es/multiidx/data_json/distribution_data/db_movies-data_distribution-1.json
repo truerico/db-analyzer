@@ -1,0 +1,1088 @@
+[
+    {
+        "table": "db_movies",
+        "total_records": 113,
+        "dataset": [
+            {
+                "field": "Actors",
+                "distribution": [
+                    {
+                        "field_value_1": "Edward James Olmos, Mary McDonnell, Jamie Bamber, James Callis",
+                        "row_count": 4,
+                        "ratio_percent": 3.54
+                    },
+                    {
+                        "field_value_1": "None",
+                        "row_count": 2,
+                        "ratio_percent": 1.77
+                    },
+                    {
+                        "field_value_1": "Bruce Lee, Colleen Camp, Dean Jagger, Gig Young",
+                        "row_count": 2,
+                        "ratio_percent": 1.77
+                    },
+                    {
+                        "field_value_1": "Edith 'Little Edie' Bouvier Beale, Edith Bouvier Beale, Brooks Hyers, Norman Vincent Peale",
+                        "row_count": 2,
+                        "ratio_percent": 1.77
+                    },
+                    {
+                        "field_value_1": "Jet Li, Xun Zhou, Kun Chen, Lun Mei Gwei",
+                        "row_count": 2,
+                        "ratio_percent": 1.77
+                    },
+                    {
+                        "field_value_1": "Lisa Adam, Frank Aldridge, Amitabh Bachchan, Steve Bisley",
+                        "row_count": 2,
+                        "ratio_percent": 1.77
+                    },
+                    {
+                        "field_value_1": "Luke Pasqualino, Ben Cotton, Lili Bord\u00e1n, Jill Teed",
+                        "row_count": 2,
+                        "ratio_percent": 1.77
+                    },
+                    {
+                        "field_value_1": "Matthew Broderick, Rupert Everett, Joely Fisher, Michelle Trachtenberg",
+                        "row_count": 2,
+                        "ratio_percent": 1.77
+                    },
+                    {
+                        "field_value_1": "Naomi Watts, Sonya Davison, Vanessa Chong, Anand Tiwari",
+                        "row_count": 2,
+                        "ratio_percent": 1.77
+                    },
+                    {
+                        "field_value_1": "Naomi Watts, Tim Roth, Michael Pitt, Brady Corbet",
+                        "row_count": 2,
+                        "ratio_percent": 1.77
+                    }
+                ]
+            },
+            {
+                "field": "Poster",
+                "distribution": [
+                    {
+                        "field_value_1": "http://ia.media-imdb.com/images/M/MV5BMTc1NTg1MDk3NF5BMl5BanBnXkFtZTYwNDYyMjI3._V1_SX300.jpg",
+                        "row_count": 4,
+                        "ratio_percent": 3.54
+                    },
+                    {
+                        "field_value_1": "None",
+                        "row_count": 2,
+                        "ratio_percent": 1.77
+                    },
+                    {
+                        "field_value_1": "N/A",
+                        "row_count": 2,
+                        "ratio_percent": 1.77
+                    },
+                    {
+                        "field_value_1": "http://ia.media-imdb.com/images/M/MV5BM2RiNjA4MzctMGU1MC00MThiLTk4OWUtODI4ZmM4MmU3YTllXkEyXkFqcGdeQXVyMDM0MzU2NA@@._V1_SX300.jpg",
+                        "row_count": 2,
+                        "ratio_percent": 1.77
+                    },
+                    {
+                        "field_value_1": "http://ia.media-imdb.com/images/M/MV5BMTAxMDk2ODE0NjdeQTJeQWpwZ15BbWU3MDkxMDQwMzg@._V1_SX300.jpg",
+                        "row_count": 2,
+                        "ratio_percent": 1.77
+                    },
+                    {
+                        "field_value_1": "http://ia.media-imdb.com/images/M/MV5BMTU5NDkwMTUxN15BMl5BanBnXkFtZTcwNzM2OTMyMQ@@._V1_SX300.jpg",
+                        "row_count": 2,
+                        "ratio_percent": 1.77
+                    },
+                    {
+                        "field_value_1": "http://ia.media-imdb.com/images/M/MV5BMTg4OTExNTYzMV5BMl5BanBnXkFtZTcwOTg1MDU1MQ@@._V1_SX300.jpg",
+                        "row_count": 2,
+                        "ratio_percent": 1.77
+                    },
+                    {
+                        "field_value_1": "http://ia.media-imdb.com/images/M/MV5BMTkxNTk1ODcxNl5BMl5BanBnXkFtZTcwMDI1OTMzOQ@@._V1_SX300.jpg",
+                        "row_count": 2,
+                        "ratio_percent": 1.77
+                    },
+                    {
+                        "field_value_1": "http://ia.media-imdb.com/images/M/MV5BMTkyMjc1MzAwMl5BMl5BanBnXkFtZTYwMDMxMTQ5._V1_SX300.jpg",
+                        "row_count": 2,
+                        "ratio_percent": 1.77
+                    },
+                    {
+                        "field_value_1": "http://ia.media-imdb.com/images/M/MV5BMjIyOTg1NzU0Ml5BMl5BanBnXkFtZTcwMjA2OTY5Mw@@._V1_SX300.jpg",
+                        "row_count": 2,
+                        "ratio_percent": 1.77
+                    }
+                ]
+            },
+            {
+                "field": "Rated",
+                "distribution": [
+                    {
+                        "field_value_1": "R",
+                        "row_count": 31,
+                        "ratio_percent": 27.43
+                    },
+                    {
+                        "field_value_1": "N/A",
+                        "row_count": 23,
+                        "ratio_percent": 20.35
+                    },
+                    {
+                        "field_value_1": "PG-13",
+                        "row_count": 20,
+                        "ratio_percent": 17.7
+                    },
+                    {
+                        "field_value_1": "PG",
+                        "row_count": 14,
+                        "ratio_percent": 12.39
+                    },
+                    {
+                        "field_value_1": "NOT RATED",
+                        "row_count": 6,
+                        "ratio_percent": 5.31
+                    },
+                    {
+                        "field_value_1": "TV-14",
+                        "row_count": 5,
+                        "ratio_percent": 4.42
+                    },
+                    {
+                        "field_value_1": "UNRATED",
+                        "row_count": 3,
+                        "ratio_percent": 2.65
+                    },
+                    {
+                        "field_value_1": "None",
+                        "row_count": 2,
+                        "ratio_percent": 1.77
+                    },
+                    {
+                        "field_value_1": "APPROVED",
+                        "row_count": 2,
+                        "ratio_percent": 1.77
+                    },
+                    {
+                        "field_value_1": "TV-MA",
+                        "row_count": 2,
+                        "ratio_percent": 1.77
+                    }
+                ]
+            },
+            {
+                "field": "Released",
+                "distribution": [
+                    {
+                        "field_value_1": "14 Jan 2005",
+                        "row_count": 4,
+                        "ratio_percent": 3.54
+                    },
+                    {
+                        "field_value_1": "N/A",
+                        "row_count": 3,
+                        "ratio_percent": 2.65
+                    },
+                    {
+                        "field_value_1": "None",
+                        "row_count": 2,
+                        "ratio_percent": 1.77
+                    },
+                    {
+                        "field_value_1": "03 Dec 2010",
+                        "row_count": 2,
+                        "ratio_percent": 1.77
+                    },
+                    {
+                        "field_value_1": "04 Apr 2008",
+                        "row_count": 2,
+                        "ratio_percent": 1.77
+                    },
+                    {
+                        "field_value_1": "08 Jun 1979",
+                        "row_count": 2,
+                        "ratio_percent": 1.77
+                    },
+                    {
+                        "field_value_1": "09 Nov 2012",
+                        "row_count": 2,
+                        "ratio_percent": 1.77
+                    },
+                    {
+                        "field_value_1": "10 May 2013",
+                        "row_count": 2,
+                        "ratio_percent": 1.77
+                    },
+                    {
+                        "field_value_1": "15 Dec 2011",
+                        "row_count": 2,
+                        "ratio_percent": 1.77
+                    },
+                    {
+                        "field_value_1": "23 Jul 1999",
+                        "row_count": 2,
+                        "ratio_percent": 1.77
+                    }
+                ]
+            },
+            {
+                "field": "Response",
+                "distribution": [
+                    {
+                        "field_value_1": "True",
+                        "row_count": 111,
+                        "ratio_percent": 98.23
+                    },
+                    {
+                        "field_value_1": "False",
+                        "row_count": 2,
+                        "ratio_percent": 1.77
+                    }
+                ]
+            },
+            {
+                "field": "Runtime",
+                "distribution": [
+                    {
+                        "field_value_1": "110 min",
+                        "row_count": 6,
+                        "ratio_percent": 5.31
+                    },
+                    {
+                        "field_value_1": "44 min",
+                        "row_count": 4,
+                        "ratio_percent": 3.54
+                    },
+                    {
+                        "field_value_1": "85 min",
+                        "row_count": 4,
+                        "ratio_percent": 3.54
+                    },
+                    {
+                        "field_value_1": "92 min",
+                        "row_count": 4,
+                        "ratio_percent": 3.54
+                    },
+                    {
+                        "field_value_1": "94 min",
+                        "row_count": 4,
+                        "ratio_percent": 3.54
+                    },
+                    {
+                        "field_value_1": "111 min",
+                        "row_count": 3,
+                        "ratio_percent": 2.65
+                    },
+                    {
+                        "field_value_1": "112 min",
+                        "row_count": 3,
+                        "ratio_percent": 2.65
+                    },
+                    {
+                        "field_value_1": "114 min",
+                        "row_count": 3,
+                        "ratio_percent": 2.65
+                    },
+                    {
+                        "field_value_1": "115 min",
+                        "row_count": 3,
+                        "ratio_percent": 2.65
+                    },
+                    {
+                        "field_value_1": "122 min",
+                        "row_count": 3,
+                        "ratio_percent": 2.65
+                    }
+                ]
+            },
+            {
+                "field": "Title",
+                "distribution": [
+                    {
+                        "field_value_1": "Battlestar Galactica",
+                        "row_count": 4,
+                        "ratio_percent": 3.54
+                    },
+                    {
+                        "field_value_1": "None",
+                        "row_count": 2,
+                        "ratio_percent": 1.77
+                    },
+                    {
+                        "field_value_1": "Battlestar Galactica: Blood & Chrome",
+                        "row_count": 2,
+                        "ratio_percent": 1.77
+                    },
+                    {
+                        "field_value_1": "Big Game",
+                        "row_count": 2,
+                        "ratio_percent": 1.77
+                    },
+                    {
+                        "field_value_1": "Fair Game",
+                        "row_count": 2,
+                        "ratio_percent": 1.77
+                    },
+                    {
+                        "field_value_1": "Flying Swords of Dragon Gate",
+                        "row_count": 2,
+                        "ratio_percent": 1.77
+                    },
+                    {
+                        "field_value_1": "Funny Games",
+                        "row_count": 2,
+                        "ratio_percent": 1.77
+                    },
+                    {
+                        "field_value_1": "Game of Death",
+                        "row_count": 2,
+                        "ratio_percent": 1.77
+                    },
+                    {
+                        "field_value_1": "Grey Gardens",
+                        "row_count": 2,
+                        "ratio_percent": 1.77
+                    },
+                    {
+                        "field_value_1": "Inspector Gadget",
+                        "row_count": 2,
+                        "ratio_percent": 1.77
+                    }
+                ]
+            },
+            {
+                "field": "Type",
+                "distribution": [
+                    {
+                        "field_value_1": "movie",
+                        "row_count": 96,
+                        "ratio_percent": 84.96
+                    },
+                    {
+                        "field_value_1": "series",
+                        "row_count": 15,
+                        "ratio_percent": 13.27
+                    },
+                    {
+                        "field_value_1": "None",
+                        "row_count": 2,
+                        "ratio_percent": 1.77
+                    }
+                ]
+            },
+            {
+                "field": "Writer",
+                "distribution": [
+                    {
+                        "field_value_1": "N/A",
+                        "row_count": 7,
+                        "ratio_percent": 6.19
+                    },
+                    {
+                        "field_value_1": "Glen A. Larson, Ronald D. Moore",
+                        "row_count": 4,
+                        "ratio_percent": 3.54
+                    },
+                    {
+                        "field_value_1": "None",
+                        "row_count": 3,
+                        "ratio_percent": 2.65
+                    },
+                    {
+                        "field_value_1": "Andy Heyward (characters), Jean Chalopin (characters), Bruno Bianchi (characters), Dana Olsen (story), Kerry Ehrin (story), Kerry Ehrin (screenplay), Zak Penn (screenplay)",
+                        "row_count": 2,
+                        "ratio_percent": 1.77
+                    },
+                    {
+                        "field_value_1": "Baz Luhrmann (screenplay), Craig Pearce (screenplay), F. Scott Fitzgerald (based on the novel by)",
+                        "row_count": 2,
+                        "ratio_percent": 1.77
+                    },
+                    {
+                        "field_value_1": "Hark Tsui (screenplay)",
+                        "row_count": 2,
+                        "ratio_percent": 1.77
+                    },
+                    {
+                        "field_value_1": "Jalmari Helander (screenplay), Jalmari Helander (based on the original story by), Petri Jokiranta (based on the original story by)",
+                        "row_count": 2,
+                        "ratio_percent": 1.77
+                    },
+                    {
+                        "field_value_1": "Jez Butterworth (screenplay), John-Henry Butterworth (screenplay), Joseph Wilson (book), Valerie Plame Wilson (book)",
+                        "row_count": 2,
+                        "ratio_percent": 1.77
+                    },
+                    {
+                        "field_value_1": "Michael Haneke",
+                        "row_count": 2,
+                        "ratio_percent": 1.77
+                    },
+                    {
+                        "field_value_1": "Michael Taylor (creator), David Eick (creator), Michael Taylor (teleplay), David Eick (story), Bradley Thompson (story), David Weddle (story), Glen A. Larson (creator: \"Battlestar Galactica\")",
+                        "row_count": 2,
+                        "ratio_percent": 1.77
+                    }
+                ]
+            },
+            {
+                "field": "Year",
+                "distribution": [
+                    {
+                        "field_value_1": "2014",
+                        "row_count": 9,
+                        "ratio_percent": 7.96
+                    },
+                    {
+                        "field_value_1": "2007",
+                        "row_count": 7,
+                        "ratio_percent": 6.19
+                    },
+                    {
+                        "field_value_1": "2012",
+                        "row_count": 7,
+                        "ratio_percent": 6.19
+                    },
+                    {
+                        "field_value_1": "2013",
+                        "row_count": 6,
+                        "ratio_percent": 5.31
+                    },
+                    {
+                        "field_value_1": "1999",
+                        "row_count": 5,
+                        "ratio_percent": 4.42
+                    },
+                    {
+                        "field_value_1": "2003",
+                        "row_count": 5,
+                        "ratio_percent": 4.42
+                    },
+                    {
+                        "field_value_1": "2006",
+                        "row_count": 5,
+                        "ratio_percent": 4.42
+                    },
+                    {
+                        "field_value_1": "2010",
+                        "row_count": 5,
+                        "ratio_percent": 4.42
+                    },
+                    {
+                        "field_value_1": "2004\u20132009",
+                        "row_count": 4,
+                        "ratio_percent": 3.54
+                    },
+                    {
+                        "field_value_1": "2005",
+                        "row_count": 4,
+                        "ratio_percent": 3.54
+                    }
+                ]
+            },
+            {
+                "field": "imdbID",
+                "distribution": [
+                    {
+                        "field_value_1": "tt0407362",
+                        "row_count": 4,
+                        "ratio_percent": 3.54
+                    },
+                    {
+                        "field_value_1": "None",
+                        "row_count": 2,
+                        "ratio_percent": 1.77
+                    },
+                    {
+                        "field_value_1": "tt0073076",
+                        "row_count": 2,
+                        "ratio_percent": 1.77
+                    },
+                    {
+                        "field_value_1": "tt0077594",
+                        "row_count": 2,
+                        "ratio_percent": 1.77
+                    },
+                    {
+                        "field_value_1": "tt0141369",
+                        "row_count": 2,
+                        "ratio_percent": 1.77
+                    },
+                    {
+                        "field_value_1": "tt0808279",
+                        "row_count": 2,
+                        "ratio_percent": 1.77
+                    },
+                    {
+                        "field_value_1": "tt0977855",
+                        "row_count": 2,
+                        "ratio_percent": 1.77
+                    },
+                    {
+                        "field_value_1": "tt1343092",
+                        "row_count": 2,
+                        "ratio_percent": 1.77
+                    },
+                    {
+                        "field_value_1": "tt1686784",
+                        "row_count": 2,
+                        "ratio_percent": 1.77
+                    },
+                    {
+                        "field_value_1": "tt1704292",
+                        "row_count": 2,
+                        "ratio_percent": 1.77
+                    }
+                ]
+            },
+            {
+                "field": "Awards",
+                "distribution": [
+                    {
+                        "field_value_1": "N/A",
+                        "row_count": 19,
+                        "ratio_percent": 16.81
+                    },
+                    {
+                        "field_value_1": "3 nominations.",
+                        "row_count": 6,
+                        "ratio_percent": 5.31
+                    },
+                    {
+                        "field_value_1": "1 nomination.",
+                        "row_count": 4,
+                        "ratio_percent": 3.54
+                    },
+                    {
+                        "field_value_1": "1 win & 2 nominations.",
+                        "row_count": 4,
+                        "ratio_percent": 3.54
+                    },
+                    {
+                        "field_value_1": "1 win.",
+                        "row_count": 4,
+                        "ratio_percent": 3.54
+                    },
+                    {
+                        "field_value_1": "Won 3 Primetime Emmys. Another 32 wins & 80 nominations.",
+                        "row_count": 4,
+                        "ratio_percent": 3.54
+                    },
+                    {
+                        "field_value_1": "1 win & 9 nominations.",
+                        "row_count": 3,
+                        "ratio_percent": 2.65
+                    },
+                    {
+                        "field_value_1": "None",
+                        "row_count": 2,
+                        "ratio_percent": 1.77
+                    },
+                    {
+                        "field_value_1": "1 win & 3 nominations.",
+                        "row_count": 2,
+                        "ratio_percent": 1.77
+                    },
+                    {
+                        "field_value_1": "1 win & 4 nominations.",
+                        "row_count": 2,
+                        "ratio_percent": 1.77
+                    }
+                ]
+            },
+            {
+                "field": "imdbRating",
+                "distribution": [
+                    {
+                        "field_value_1": "7.3",
+                        "row_count": 8,
+                        "ratio_percent": 7.08
+                    },
+                    {
+                        "field_value_1": "7.5",
+                        "row_count": 8,
+                        "ratio_percent": 7.08
+                    },
+                    {
+                        "field_value_1": "7.9",
+                        "row_count": 7,
+                        "ratio_percent": 6.19
+                    },
+                    {
+                        "field_value_1": "8.1",
+                        "row_count": 7,
+                        "ratio_percent": 6.19
+                    },
+                    {
+                        "field_value_1": "7.7",
+                        "row_count": 6,
+                        "ratio_percent": 5.31
+                    },
+                    {
+                        "field_value_1": "6.0",
+                        "row_count": 5,
+                        "ratio_percent": 4.42
+                    },
+                    {
+                        "field_value_1": "5.7",
+                        "row_count": 4,
+                        "ratio_percent": 3.54
+                    },
+                    {
+                        "field_value_1": "6.5",
+                        "row_count": 4,
+                        "ratio_percent": 3.54
+                    },
+                    {
+                        "field_value_1": "6.7",
+                        "row_count": 4,
+                        "ratio_percent": 3.54
+                    },
+                    {
+                        "field_value_1": "6.8",
+                        "row_count": 4,
+                        "ratio_percent": 3.54
+                    }
+                ]
+            },
+            {
+                "field": "imdbVotes",
+                "distribution": [
+                    {
+                        "field_value_1": "118,636",
+                        "row_count": 4,
+                        "ratio_percent": 3.54
+                    },
+                    {
+                        "field_value_1": "None",
+                        "row_count": 2,
+                        "ratio_percent": 1.77
+                    },
+                    {
+                        "field_value_1": "12,221",
+                        "row_count": 2,
+                        "ratio_percent": 1.77
+                    },
+                    {
+                        "field_value_1": "13,100",
+                        "row_count": 2,
+                        "ratio_percent": 1.77
+                    },
+                    {
+                        "field_value_1": "19,495",
+                        "row_count": 2,
+                        "ratio_percent": 1.77
+                    },
+                    {
+                        "field_value_1": "359,439",
+                        "row_count": 2,
+                        "ratio_percent": 1.77
+                    },
+                    {
+                        "field_value_1": "36,211",
+                        "row_count": 2,
+                        "ratio_percent": 1.77
+                    },
+                    {
+                        "field_value_1": "38,196",
+                        "row_count": 2,
+                        "ratio_percent": 1.77
+                    },
+                    {
+                        "field_value_1": "6,289",
+                        "row_count": 2,
+                        "ratio_percent": 1.77
+                    },
+                    {
+                        "field_value_1": "68,925",
+                        "row_count": 2,
+                        "ratio_percent": 1.77
+                    }
+                ]
+            },
+            {
+                "field": "totalSeasons",
+                "distribution": [
+                    {
+                        "field_value_1": "None",
+                        "row_count": 98,
+                        "ratio_percent": 86.73
+                    },
+                    {
+                        "field_value_1": "1",
+                        "row_count": 5,
+                        "ratio_percent": 4.42
+                    },
+                    {
+                        "field_value_1": "4",
+                        "row_count": 4,
+                        "ratio_percent": 3.54
+                    },
+                    {
+                        "field_value_1": "2",
+                        "row_count": 2,
+                        "ratio_percent": 1.77
+                    },
+                    {
+                        "field_value_1": "7",
+                        "row_count": 2,
+                        "ratio_percent": 1.77
+                    },
+                    {
+                        "field_value_1": "10",
+                        "row_count": 1,
+                        "ratio_percent": 0.88
+                    },
+                    {
+                        "field_value_1": "3",
+                        "row_count": 1,
+                        "ratio_percent": 0.88
+                    }
+                ]
+            },
+            {
+                "field": "Country",
+                "distribution": [
+                    {
+                        "field_value_1": "USA",
+                        "row_count": 58,
+                        "ratio_percent": 51.33
+                    },
+                    {
+                        "field_value_1": "France",
+                        "row_count": 6,
+                        "ratio_percent": 5.31
+                    },
+                    {
+                        "field_value_1": "India",
+                        "row_count": 5,
+                        "ratio_percent": 4.42
+                    },
+                    {
+                        "field_value_1": "Australia",
+                        "row_count": 3,
+                        "ratio_percent": 2.65
+                    },
+                    {
+                        "field_value_1": "UK, USA",
+                        "row_count": 3,
+                        "ratio_percent": 2.65
+                    },
+                    {
+                        "field_value_1": "USA, Canada",
+                        "row_count": 3,
+                        "ratio_percent": 2.65
+                    },
+                    {
+                        "field_value_1": "USA, UK",
+                        "row_count": 3,
+                        "ratio_percent": 2.65
+                    },
+                    {
+                        "field_value_1": "None",
+                        "row_count": 2,
+                        "ratio_percent": 1.77
+                    },
+                    {
+                        "field_value_1": "Australia, USA",
+                        "row_count": 2,
+                        "ratio_percent": 1.77
+                    },
+                    {
+                        "field_value_1": "China",
+                        "row_count": 2,
+                        "ratio_percent": 1.77
+                    }
+                ]
+            },
+            {
+                "field": "Director",
+                "distribution": [
+                    {
+                        "field_value_1": "N/A",
+                        "row_count": 15,
+                        "ratio_percent": 13.27
+                    },
+                    {
+                        "field_value_1": "Doug Liman",
+                        "row_count": 3,
+                        "ratio_percent": 2.65
+                    },
+                    {
+                        "field_value_1": "None",
+                        "row_count": 2,
+                        "ratio_percent": 1.77
+                    },
+                    {
+                        "field_value_1": "Baz Luhrmann",
+                        "row_count": 2,
+                        "ratio_percent": 1.77
+                    },
+                    {
+                        "field_value_1": "David Kellogg",
+                        "row_count": 2,
+                        "ratio_percent": 1.77
+                    },
+                    {
+                        "field_value_1": "Ellen Hovde, Albert Maysles, David Maysles, Muffie Meyer",
+                        "row_count": 2,
+                        "ratio_percent": 1.77
+                    },
+                    {
+                        "field_value_1": "Francis Lawrence",
+                        "row_count": 2,
+                        "ratio_percent": 1.77
+                    },
+                    {
+                        "field_value_1": "Hark Tsui",
+                        "row_count": 2,
+                        "ratio_percent": 1.77
+                    },
+                    {
+                        "field_value_1": "Jalmari Helander",
+                        "row_count": 2,
+                        "ratio_percent": 1.77
+                    },
+                    {
+                        "field_value_1": "Jon Favreau",
+                        "row_count": 2,
+                        "ratio_percent": 1.77
+                    }
+                ]
+            },
+            {
+                "field": "Error",
+                "distribution": [
+                    {
+                        "field_value_1": "None",
+                        "row_count": 111,
+                        "ratio_percent": 98.23
+                    },
+                    {
+                        "field_value_1": "Movie not found!",
+                        "row_count": 2,
+                        "ratio_percent": 1.77
+                    }
+                ]
+            },
+            {
+                "field": "Genre",
+                "distribution": [
+                    {
+                        "field_value_1": "Action, Crime, Drama",
+                        "row_count": 6,
+                        "ratio_percent": 5.31
+                    },
+                    {
+                        "field_value_1": "Action, Adventure, Drama",
+                        "row_count": 5,
+                        "ratio_percent": 4.42
+                    },
+                    {
+                        "field_value_1": "Comedy",
+                        "row_count": 5,
+                        "ratio_percent": 4.42
+                    },
+                    {
+                        "field_value_1": "Crime, Drama, Thriller",
+                        "row_count": 5,
+                        "ratio_percent": 4.42
+                    },
+                    {
+                        "field_value_1": "Action, Adventure",
+                        "row_count": 4,
+                        "ratio_percent": 3.54
+                    },
+                    {
+                        "field_value_1": "Action, Adventure, Sci-Fi",
+                        "row_count": 4,
+                        "ratio_percent": 3.54
+                    },
+                    {
+                        "field_value_1": "Action, Adventure, Comedy",
+                        "row_count": 3,
+                        "ratio_percent": 2.65
+                    },
+                    {
+                        "field_value_1": "Biography, Drama, Thriller",
+                        "row_count": 3,
+                        "ratio_percent": 2.65
+                    },
+                    {
+                        "field_value_1": "Drama, Romance",
+                        "row_count": 3,
+                        "ratio_percent": 2.65
+                    },
+                    {
+                        "field_value_1": "None",
+                        "row_count": 2,
+                        "ratio_percent": 1.77
+                    }
+                ]
+            },
+            {
+                "field": "Language",
+                "distribution": [
+                    {
+                        "field_value_1": "English",
+                        "row_count": 70,
+                        "ratio_percent": 61.95
+                    },
+                    {
+                        "field_value_1": "French",
+                        "row_count": 4,
+                        "ratio_percent": 3.54
+                    },
+                    {
+                        "field_value_1": "Hindi",
+                        "row_count": 4,
+                        "ratio_percent": 3.54
+                    },
+                    {
+                        "field_value_1": "English, Spanish",
+                        "row_count": 3,
+                        "ratio_percent": 2.65
+                    },
+                    {
+                        "field_value_1": "None",
+                        "row_count": 2,
+                        "ratio_percent": 1.77
+                    },
+                    {
+                        "field_value_1": "English, Arabic, French",
+                        "row_count": 2,
+                        "ratio_percent": 1.77
+                    },
+                    {
+                        "field_value_1": "English, Finnish",
+                        "row_count": 2,
+                        "ratio_percent": 1.77
+                    },
+                    {
+                        "field_value_1": "English, Mandarin, Cantonese",
+                        "row_count": 2,
+                        "ratio_percent": 1.77
+                    },
+                    {
+                        "field_value_1": "English, Norwegian, French, Spanish",
+                        "row_count": 2,
+                        "ratio_percent": 1.77
+                    },
+                    {
+                        "field_value_1": "Mandarin",
+                        "row_count": 2,
+                        "ratio_percent": 1.77
+                    }
+                ]
+            },
+            {
+                "field": "Metascore",
+                "distribution": [
+                    {
+                        "field_value_1": "N/A",
+                        "row_count": 57,
+                        "ratio_percent": 50.44
+                    },
+                    {
+                        "field_value_1": "57",
+                        "row_count": 5,
+                        "ratio_percent": 4.42
+                    },
+                    {
+                        "field_value_1": "44",
+                        "row_count": 4,
+                        "ratio_percent": 3.54
+                    },
+                    {
+                        "field_value_1": "55",
+                        "row_count": 4,
+                        "ratio_percent": 3.54
+                    },
+                    {
+                        "field_value_1": "37",
+                        "row_count": 3,
+                        "ratio_percent": 2.65
+                    },
+                    {
+                        "field_value_1": "76",
+                        "row_count": 3,
+                        "ratio_percent": 2.65
+                    },
+                    {
+                        "field_value_1": "None",
+                        "row_count": 2,
+                        "ratio_percent": 1.77
+                    },
+                    {
+                        "field_value_1": "27",
+                        "row_count": 2,
+                        "ratio_percent": 1.77
+                    },
+                    {
+                        "field_value_1": "36",
+                        "row_count": 2,
+                        "ratio_percent": 1.77
+                    },
+                    {
+                        "field_value_1": "53",
+                        "row_count": 2,
+                        "ratio_percent": 1.77
+                    }
+                ]
+            },
+            {
+                "field": "Plot",
+                "distribution": [
+                    {
+                        "field_value_1": "When an old enemy, the Cylons, resurface and obliterate the 12 colonies, the crew of the aged Galactica protect a small civilian fleet - the last of humanity - as they journey toward the fabled 13th colony, Earth.",
+                        "row_count": 4,
+                        "ratio_percent": 3.54
+                    },
+                    {
+                        "field_value_1": "None",
+                        "row_count": 2,
+                        "ratio_percent": 1.77
+                    },
+                    {
+                        "field_value_1": "A martial arts movie star must fake his death to find the people who are trying to kill him.",
+                        "row_count": 2,
+                        "ratio_percent": 1.77
+                    },
+                    {
+                        "field_value_1": "A security guard's dreams come true when he is selected to be transformed into a cybernetic police officer.",
+                        "row_count": 2,
+                        "ratio_percent": 1.77
+                    },
+                    {
+                        "field_value_1": "A writer and wall street trader, Nick, finds himself drawn to the past and lifestyle of his millionaire neighbor, Jay Gatsby.",
+                        "row_count": 2,
+                        "ratio_percent": 1.77
+                    },
+                    {
+                        "field_value_1": "A young teenager camping in the woods helps rescue the President of the United States when Air Force One is shot down near his campsite.",
+                        "row_count": 2,
+                        "ratio_percent": 1.77
+                    },
+                    {
+                        "field_value_1": "An old mother and her middle-aged daughter, the aunt and cousin of Jacqueline Kennedy Onassis, live their eccentric lives in a filthy, decaying mansion in East Hampton.",
+                        "row_count": 2,
+                        "ratio_percent": 1.77
+                    },
+                    {
+                        "field_value_1": "CIA operative Valerie Plame discovers her identity is allegedly leaked by the government as payback for an op-ed article her husband wrote criticizing the Bush administration.",
+                        "row_count": 2,
+                        "ratio_percent": 1.77
+                    },
+                    {
+                        "field_value_1": "Set three years after Dragon Inn, innkeeper Jade has disappeared and a new inn has risen from the ashes - one that's staffed by marauders masquerading as law-abiding citizens, who hope to unearth the fabled lost city buried in the desert.",
+                        "row_count": 2,
+                        "ratio_percent": 1.77
+                    },
+                    {
+                        "field_value_1": "The adventures of young William Adama in the First Cylon War.",
+                        "row_count": 2,
+                        "ratio_percent": 1.77
+                    }
+                ]
+            }
+        ]
+    }
+]

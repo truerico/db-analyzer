@@ -1,0 +1,62 @@
+@startjson
+{
+    "field1": "relatedContent.og:image:height",
+    "combination": "relatedContent.og:image:height",
+    "null_distribution": {
+        "total_null_rows": 4327,
+        "total_not_null_rows": 9678
+    },
+    "data_distribution": [
+        {
+            "field_value_1": "None",
+            "row_count": 4327,
+            "ratio_percent": 30.9
+        },
+        {
+            "field_value_1": "360",
+            "row_count": 1822,
+            "ratio_percent": 13.01
+        },
+        {
+            "field_value_1": "375",
+            "row_count": 1124,
+            "ratio_percent": 8.03
+        },
+        {
+            "field_value_1": "321",
+            "row_count": 828,
+            "ratio_percent": 5.91
+        },
+        {
+            "field_value_1": "666",
+            "row_count": 512,
+            "ratio_percent": 3.66
+        },
+        {
+            "field_value_1": "640",
+            "row_count": 486,
+            "ratio_percent": 3.47
+        },
+        {
+            "field_value_1": "319",
+            "row_count": 437,
+            "ratio_percent": 3.12
+        },
+        {
+            "field_value_1": "300",
+            "row_count": 344,
+            "ratio_percent": 2.46
+        },
+        {
+            "field_value_1": "480",
+            "row_count": 343,
+            "ratio_percent": 2.45
+        },
+        {
+            "field_value_1": "100",
+            "row_count": 326,
+            "ratio_percent": 2.33
+        }
+    ]
+}
+@endjson

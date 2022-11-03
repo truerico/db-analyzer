@@ -1,0 +1,62 @@
+@startjson
+{
+    "field1": "balance",
+    "combination": "balance",
+    "null_distribution": {
+        "total_null_rows": 2,
+        "total_not_null_rows": 998
+    },
+    "data_distribution": [
+        {
+            "field_value_1": "None",
+            "row_count": 2,
+            "ratio_percent": 0.2
+        },
+        {
+            "field_value_1": "22026",
+            "row_count": 2,
+            "ratio_percent": 0.2
+        },
+        {
+            "field_value_1": "23285",
+            "row_count": 2,
+            "ratio_percent": 0.2
+        },
+        {
+            "field_value_1": "36038",
+            "row_count": 2,
+            "ratio_percent": 0.2
+        },
+        {
+            "field_value_1": "39063",
+            "row_count": 2,
+            "ratio_percent": 0.2
+        },
+        {
+            "field_value_1": "45493",
+            "row_count": 2,
+            "ratio_percent": 0.2
+        },
+        {
+            "field_value_1": "1011",
+            "row_count": 1,
+            "ratio_percent": 0.1
+        },
+        {
+            "field_value_1": "1031",
+            "row_count": 1,
+            "ratio_percent": 0.1
+        },
+        {
+            "field_value_1": "1110",
+            "row_count": 1,
+            "ratio_percent": 0.1
+        },
+        {
+            "field_value_1": "1133",
+            "row_count": 1,
+            "ratio_percent": 0.1
+        }
+    ]
+}
+@endjson

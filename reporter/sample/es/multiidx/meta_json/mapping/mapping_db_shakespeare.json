@@ -1,0 +1,78 @@
+{
+    "db_shakespeare": {
+        "aliases": {},
+        "mappings": {
+            "properties": {
+                "line_id": {
+                    "type": "long"
+                },
+                "line_number": {
+                    "type": "text",
+                    "fields": {
+                        "keyword": {
+                            "type": "keyword",
+                            "ignore_above": 256
+                        }
+                    }
+                },
+                "play_name": {
+                    "type": "text",
+                    "fields": {
+                        "keyword": {
+                            "type": "keyword",
+                            "ignore_above": 256
+                        }
+                    }
+                },
+                "speaker": {
+                    "type": "text",
+                    "fields": {
+                        "keyword": {
+                            "type": "keyword",
+                            "ignore_above": 256
+                        }
+                    }
+                },
+                "speech_number": {
+                    "type": "text",
+                    "fields": {
+                        "keyword": {
+                            "type": "keyword",
+                            "ignore_above": 256
+                        }
+                    }
+                },
+                "text_entry": {
+                    "type": "text",
+                    "fields": {
+                        "keyword": {
+                            "type": "keyword",
+                            "ignore_above": 256
+                        }
+                    }
+                },
+                "type": {
+                    "type": "text",
+                    "fields": {
+                        "keyword": {
+                            "type": "keyword",
+                            "ignore_above": 256
+                        }
+                    }
+                }
+            }
+        },
+        "settings": {
+            "index": {
+                "creation_date": "1667401102561",
+                "number_of_shards": "1",
+                "number_of_replicas": "1",
+                "uuid": "1sSxJqU2RiSr6ZgouSYMRA",
+                "version": {
+                    "created": "7090399"
+                },
+                "provided_name": "db_shakespeare"
+            }
+        }
+    }
+}

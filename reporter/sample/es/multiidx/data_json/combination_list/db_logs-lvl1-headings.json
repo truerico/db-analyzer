@@ -1,0 +1,62 @@
+@startjson
+{
+    "field1": "headings",
+    "combination": "headings",
+    "null_distribution": {
+        "total_null_rows": 0,
+        "total_not_null_rows": 14005
+    },
+    "data_distribution": [
+        {
+            "field_value_1": "<h3>salizhan-sharipov</h5>",
+            "row_count": 46,
+            "ratio_percent": 0.33
+        },
+        {
+            "field_value_1": "<h3>richard-linnehan</h5>",
+            "row_count": 45,
+            "ratio_percent": 0.32
+        },
+        {
+            "field_value_1": "<h3>donald-deke-slayton</h5>",
+            "row_count": 43,
+            "ratio_percent": 0.31
+        },
+        {
+            "field_value_1": "<h3>apollo-13</h5>",
+            "row_count": 40,
+            "ratio_percent": 0.29
+        },
+        {
+            "field_value_1": "<h3>ted-freeman</h5>",
+            "row_count": 40,
+            "ratio_percent": 0.29
+        },
+        {
+            "field_value_1": "<h3>stephen-oswald</h5>",
+            "row_count": 39,
+            "ratio_percent": 0.28
+        },
+        {
+            "field_value_1": "<h3>anatoli-ivanishin</h5>",
+            "row_count": 38,
+            "ratio_percent": 0.27
+        },
+        {
+            "field_value_1": "<h3>gregory-chamitoff</h5>",
+            "row_count": 38,
+            "ratio_percent": 0.27
+        },
+        {
+            "field_value_1": "<h3>william-gregory</h5>",
+            "row_count": 38,
+            "ratio_percent": 0.27
+        },
+        {
+            "field_value_1": "<h3>andrew-thomas</h5>",
+            "row_count": 37,
+            "ratio_percent": 0.26
+        }
+    ]
+}
+@endjson

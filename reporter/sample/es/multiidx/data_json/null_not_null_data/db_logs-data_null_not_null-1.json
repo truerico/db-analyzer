@@ -1,0 +1,238 @@
+[
+    {
+        "table": "db_logs",
+        "total_records": 14005,
+        "dataset": [
+            {
+                "field": "@message",
+                "total_null_rows": 0,
+                "total_not_null_rows": 14005
+            },
+            {
+                "field": "geo.coordinates.lon",
+                "total_null_rows": 1,
+                "total_not_null_rows": 14004
+            },
+            {
+                "field": "geo.dest",
+                "total_null_rows": 0,
+                "total_not_null_rows": 14005
+            },
+            {
+                "field": "geo.src",
+                "total_null_rows": 0,
+                "total_not_null_rows": 14005
+            },
+            {
+                "field": "geo.srcdest",
+                "total_null_rows": 0,
+                "total_not_null_rows": 14005
+            },
+            {
+                "field": "headings",
+                "total_null_rows": 0,
+                "total_not_null_rows": 14005
+            },
+            {
+                "field": "host",
+                "total_null_rows": 0,
+                "total_not_null_rows": 14005
+            },
+            {
+                "field": "ip",
+                "total_null_rows": 0,
+                "total_not_null_rows": 14005
+            },
+            {
+                "field": "links",
+                "total_null_rows": 0,
+                "total_not_null_rows": 14005
+            },
+            {
+                "field": "machine.os",
+                "total_null_rows": 1334,
+                "total_not_null_rows": 12671
+            },
+            {
+                "field": "machine.ram",
+                "total_null_rows": 332,
+                "total_not_null_rows": 13673
+            },
+            {
+                "field": "@tags",
+                "total_null_rows": 0,
+                "total_not_null_rows": 14005
+            },
+            {
+                "field": "memory",
+                "total_null_rows": 13608,
+                "total_not_null_rows": 397
+            },
+            {
+                "field": "phpmemory",
+                "total_null_rows": 13608,
+                "total_not_null_rows": 397
+            },
+            {
+                "field": "referer",
+                "total_null_rows": 0,
+                "total_not_null_rows": 14005
+            },
+            {
+                "field": "relatedContent.article:modified_time",
+                "total_null_rows": 2282,
+                "total_not_null_rows": 11723
+            },
+            {
+                "field": "relatedContent.article:published_time",
+                "total_null_rows": 2282,
+                "total_not_null_rows": 11723
+            },
+            {
+                "field": "relatedContent.article:section",
+                "total_null_rows": 2282,
+                "total_not_null_rows": 11723
+            },
+            {
+                "field": "relatedContent.article:tag",
+                "total_null_rows": 8008,
+                "total_not_null_rows": 5997
+            },
+            {
+                "field": "relatedContent.og:description",
+                "total_null_rows": 2282,
+                "total_not_null_rows": 11723
+            },
+            {
+                "field": "relatedContent.og:image",
+                "total_null_rows": 4320,
+                "total_not_null_rows": 9685
+            },
+            {
+                "field": "relatedContent.og:image:height",
+                "total_null_rows": 4327,
+                "total_not_null_rows": 9678
+            },
+            {
+                "field": "@timestamp",
+                "total_null_rows": 0,
+                "total_not_null_rows": 14005
+            },
+            {
+                "field": "relatedContent.og:image:width",
+                "total_null_rows": 4327,
+                "total_not_null_rows": 9678
+            },
+            {
+                "field": "relatedContent.og:site_name",
+                "total_null_rows": 2282,
+                "total_not_null_rows": 11723
+            },
+            {
+                "field": "relatedContent.og:title",
+                "total_null_rows": 2282,
+                "total_not_null_rows": 11723
+            },
+            {
+                "field": "relatedContent.og:type",
+                "total_null_rows": 2282,
+                "total_not_null_rows": 11723
+            },
+            {
+                "field": "relatedContent.og:url",
+                "total_null_rows": 2282,
+                "total_not_null_rows": 11723
+            },
+            {
+                "field": "relatedContent.twitter:card",
+                "total_null_rows": 2282,
+                "total_not_null_rows": 11723
+            },
+            {
+                "field": "relatedContent.twitter:description",
+                "total_null_rows": 2282,
+                "total_not_null_rows": 11723
+            },
+            {
+                "field": "relatedContent.twitter:image",
+                "total_null_rows": 4320,
+                "total_not_null_rows": 9685
+            },
+            {
+                "field": "relatedContent.twitter:site",
+                "total_null_rows": 2282,
+                "total_not_null_rows": 11723
+            },
+            {
+                "field": "relatedContent.twitter:title",
+                "total_null_rows": 2282,
+                "total_not_null_rows": 11723
+            },
+            {
+                "field": "@version",
+                "total_null_rows": 0,
+                "total_not_null_rows": 14005
+            },
+            {
+                "field": "relatedContent.url",
+                "total_null_rows": 2282,
+                "total_not_null_rows": 11723
+            },
+            {
+                "field": "request",
+                "total_null_rows": 0,
+                "total_not_null_rows": 14005
+            },
+            {
+                "field": "response",
+                "total_null_rows": 0,
+                "total_not_null_rows": 14005
+            },
+            {
+                "field": "spaces",
+                "total_null_rows": 0,
+                "total_not_null_rows": 14005
+            },
+            {
+                "field": "url",
+                "total_null_rows": 0,
+                "total_not_null_rows": 14005
+            },
+            {
+                "field": "utc_time",
+                "total_null_rows": 0,
+                "total_not_null_rows": 14005
+            },
+            {
+                "field": "xss",
+                "total_null_rows": 0,
+                "total_not_null_rows": 14005
+            },
+            {
+                "field": "agent",
+                "total_null_rows": 0,
+                "total_not_null_rows": 14005
+            },
+            {
+                "field": "bytes",
+                "total_null_rows": 0,
+                "total_not_null_rows": 14005
+            },
+            {
+                "field": "clientip",
+                "total_null_rows": 0,
+                "total_not_null_rows": 14005
+            },
+            {
+                "field": "extension",
+                "total_null_rows": 0,
+                "total_not_null_rows": 14005
+            },
+            {
+                "field": "geo.coordinates.lat",
+                "total_null_rows": 1,
+                "total_not_null_rows": 14004
+            }
+        ]
+    }
+]

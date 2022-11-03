@@ -1,0 +1,573 @@
+[
+    {
+        "table": "db_accounts",
+        "total_records": 1000,
+        "dataset": [
+            {
+                "field": "account_number",
+                "distribution": [
+                    {
+                        "field_value_1": "0",
+                        "row_count": 1,
+                        "ratio_percent": 0.1
+                    },
+                    {
+                        "field_value_1": "1",
+                        "row_count": 1,
+                        "ratio_percent": 0.1
+                    },
+                    {
+                        "field_value_1": "2",
+                        "row_count": 1,
+                        "ratio_percent": 0.1
+                    },
+                    {
+                        "field_value_1": "3",
+                        "row_count": 1,
+                        "ratio_percent": 0.1
+                    },
+                    {
+                        "field_value_1": "4",
+                        "row_count": 1,
+                        "ratio_percent": 0.1
+                    },
+                    {
+                        "field_value_1": "5",
+                        "row_count": 1,
+                        "ratio_percent": 0.1
+                    },
+                    {
+                        "field_value_1": "6",
+                        "row_count": 1,
+                        "ratio_percent": 0.1
+                    },
+                    {
+                        "field_value_1": "7",
+                        "row_count": 1,
+                        "ratio_percent": 0.1
+                    },
+                    {
+                        "field_value_1": "8",
+                        "row_count": 1,
+                        "ratio_percent": 0.1
+                    },
+                    {
+                        "field_value_1": "9",
+                        "row_count": 1,
+                        "ratio_percent": 0.1
+                    }
+                ]
+            },
+            {
+                "field": "lastname",
+                "distribution": [
+                    {
+                        "field_value_1": "Barron",
+                        "row_count": 2,
+                        "ratio_percent": 0.2
+                    },
+                    {
+                        "field_value_1": "Abbott",
+                        "row_count": 1,
+                        "ratio_percent": 0.1
+                    },
+                    {
+                        "field_value_1": "Acevedo",
+                        "row_count": 1,
+                        "ratio_percent": 0.1
+                    },
+                    {
+                        "field_value_1": "Acosta",
+                        "row_count": 1,
+                        "ratio_percent": 0.1
+                    },
+                    {
+                        "field_value_1": "Adams",
+                        "row_count": 1,
+                        "ratio_percent": 0.1
+                    },
+                    {
+                        "field_value_1": "Adkins",
+                        "row_count": 1,
+                        "ratio_percent": 0.1
+                    },
+                    {
+                        "field_value_1": "Aguilar",
+                        "row_count": 1,
+                        "ratio_percent": 0.1
+                    },
+                    {
+                        "field_value_1": "Aguirre",
+                        "row_count": 1,
+                        "ratio_percent": 0.1
+                    },
+                    {
+                        "field_value_1": "Albert",
+                        "row_count": 1,
+                        "ratio_percent": 0.1
+                    },
+                    {
+                        "field_value_1": "Alexander",
+                        "row_count": 1,
+                        "ratio_percent": 0.1
+                    }
+                ]
+            },
+            {
+                "field": "state",
+                "distribution": [
+                    {
+                        "field_value_1": "TX",
+                        "row_count": 30,
+                        "ratio_percent": 3.0
+                    },
+                    {
+                        "field_value_1": "MD",
+                        "row_count": 28,
+                        "ratio_percent": 2.8
+                    },
+                    {
+                        "field_value_1": "ID",
+                        "row_count": 27,
+                        "ratio_percent": 2.7
+                    },
+                    {
+                        "field_value_1": "AL",
+                        "row_count": 25,
+                        "ratio_percent": 2.5
+                    },
+                    {
+                        "field_value_1": "ME",
+                        "row_count": 25,
+                        "ratio_percent": 2.5
+                    },
+                    {
+                        "field_value_1": "TN",
+                        "row_count": 25,
+                        "ratio_percent": 2.5
+                    },
+                    {
+                        "field_value_1": "WY",
+                        "row_count": 25,
+                        "ratio_percent": 2.5
+                    },
+                    {
+                        "field_value_1": "DC",
+                        "row_count": 24,
+                        "ratio_percent": 2.4
+                    },
+                    {
+                        "field_value_1": "MA",
+                        "row_count": 24,
+                        "ratio_percent": 2.4
+                    },
+                    {
+                        "field_value_1": "ND",
+                        "row_count": 24,
+                        "ratio_percent": 2.4
+                    }
+                ]
+            },
+            {
+                "field": "address",
+                "distribution": [
+                    {
+                        "field_value_1": "100 Gatling Place",
+                        "row_count": 1,
+                        "ratio_percent": 0.1
+                    },
+                    {
+                        "field_value_1": "101 Bush Street",
+                        "row_count": 1,
+                        "ratio_percent": 0.1
+                    },
+                    {
+                        "field_value_1": "102 Barwell Terrace",
+                        "row_count": 1,
+                        "ratio_percent": 0.1
+                    },
+                    {
+                        "field_value_1": "104 Harbor Court",
+                        "row_count": 1,
+                        "ratio_percent": 0.1
+                    },
+                    {
+                        "field_value_1": "104 Lewis Avenue",
+                        "row_count": 1,
+                        "ratio_percent": 0.1
+                    },
+                    {
+                        "field_value_1": "105 Fair Street",
+                        "row_count": 1,
+                        "ratio_percent": 0.1
+                    },
+                    {
+                        "field_value_1": "105 Onderdonk Avenue",
+                        "row_count": 1,
+                        "ratio_percent": 0.1
+                    },
+                    {
+                        "field_value_1": "110 Lamont Court",
+                        "row_count": 1,
+                        "ratio_percent": 0.1
+                    },
+                    {
+                        "field_value_1": "112 Hunterfly Place",
+                        "row_count": 1,
+                        "ratio_percent": 0.1
+                    },
+                    {
+                        "field_value_1": "113 Will Place",
+                        "row_count": 1,
+                        "ratio_percent": 0.1
+                    }
+                ]
+            },
+            {
+                "field": "age",
+                "distribution": [
+                    {
+                        "field_value_1": "31",
+                        "row_count": 61,
+                        "ratio_percent": 6.1
+                    },
+                    {
+                        "field_value_1": "39",
+                        "row_count": 60,
+                        "ratio_percent": 6.0
+                    },
+                    {
+                        "field_value_1": "26",
+                        "row_count": 59,
+                        "ratio_percent": 5.9
+                    },
+                    {
+                        "field_value_1": "32",
+                        "row_count": 52,
+                        "ratio_percent": 5.2
+                    },
+                    {
+                        "field_value_1": "35",
+                        "row_count": 52,
+                        "ratio_percent": 5.2
+                    },
+                    {
+                        "field_value_1": "36",
+                        "row_count": 52,
+                        "ratio_percent": 5.2
+                    },
+                    {
+                        "field_value_1": "22",
+                        "row_count": 51,
+                        "ratio_percent": 5.1
+                    },
+                    {
+                        "field_value_1": "28",
+                        "row_count": 51,
+                        "ratio_percent": 5.1
+                    },
+                    {
+                        "field_value_1": "33",
+                        "row_count": 50,
+                        "ratio_percent": 5.0
+                    },
+                    {
+                        "field_value_1": "34",
+                        "row_count": 49,
+                        "ratio_percent": 4.9
+                    }
+                ]
+            },
+            {
+                "field": "balance",
+                "distribution": [
+                    {
+                        "field_value_1": "None",
+                        "row_count": 2,
+                        "ratio_percent": 0.2
+                    },
+                    {
+                        "field_value_1": "22026",
+                        "row_count": 2,
+                        "ratio_percent": 0.2
+                    },
+                    {
+                        "field_value_1": "23285",
+                        "row_count": 2,
+                        "ratio_percent": 0.2
+                    },
+                    {
+                        "field_value_1": "36038",
+                        "row_count": 2,
+                        "ratio_percent": 0.2
+                    },
+                    {
+                        "field_value_1": "39063",
+                        "row_count": 2,
+                        "ratio_percent": 0.2
+                    },
+                    {
+                        "field_value_1": "45493",
+                        "row_count": 2,
+                        "ratio_percent": 0.2
+                    },
+                    {
+                        "field_value_1": "1011",
+                        "row_count": 1,
+                        "ratio_percent": 0.1
+                    },
+                    {
+                        "field_value_1": "1031",
+                        "row_count": 1,
+                        "ratio_percent": 0.1
+                    },
+                    {
+                        "field_value_1": "1110",
+                        "row_count": 1,
+                        "ratio_percent": 0.1
+                    },
+                    {
+                        "field_value_1": "1133",
+                        "row_count": 1,
+                        "ratio_percent": 0.1
+                    }
+                ]
+            },
+            {
+                "field": "city",
+                "distribution": [
+                    {
+                        "field_value_1": "Belvoir",
+                        "row_count": 2,
+                        "ratio_percent": 0.2
+                    },
+                    {
+                        "field_value_1": "Aberdeen",
+                        "row_count": 1,
+                        "ratio_percent": 0.1
+                    },
+                    {
+                        "field_value_1": "Abiquiu",
+                        "row_count": 1,
+                        "ratio_percent": 0.1
+                    },
+                    {
+                        "field_value_1": "Abrams",
+                        "row_count": 1,
+                        "ratio_percent": 0.1
+                    },
+                    {
+                        "field_value_1": "Accoville",
+                        "row_count": 1,
+                        "ratio_percent": 0.1
+                    },
+                    {
+                        "field_value_1": "Ada",
+                        "row_count": 1,
+                        "ratio_percent": 0.1
+                    },
+                    {
+                        "field_value_1": "Adamstown",
+                        "row_count": 1,
+                        "ratio_percent": 0.1
+                    },
+                    {
+                        "field_value_1": "Adelino",
+                        "row_count": 1,
+                        "ratio_percent": 0.1
+                    },
+                    {
+                        "field_value_1": "Advance",
+                        "row_count": 1,
+                        "ratio_percent": 0.1
+                    },
+                    {
+                        "field_value_1": "Aguila",
+                        "row_count": 1,
+                        "ratio_percent": 0.1
+                    }
+                ]
+            },
+            {
+                "field": "email",
+                "distribution": [
+                    {
+                        "field_value_1": "abbottodom@jimbies.com",
+                        "row_count": 1,
+                        "ratio_percent": 0.1
+                    },
+                    {
+                        "field_value_1": "abigailnichols@enquility.com",
+                        "row_count": 1,
+                        "ratio_percent": 0.1
+                    },
+                    {
+                        "field_value_1": "acevedodorsey@netropic.com",
+                        "row_count": 1,
+                        "ratio_percent": 0.1
+                    },
+                    {
+                        "field_value_1": "adacortez@micronaut.com",
+                        "row_count": 1,
+                        "ratio_percent": 0.1
+                    },
+                    {
+                        "field_value_1": "adelatyler@surelogic.com",
+                        "row_count": 1,
+                        "ratio_percent": 0.1
+                    },
+                    {
+                        "field_value_1": "adelecarroll@aquafire.com",
+                        "row_count": 1,
+                        "ratio_percent": 0.1
+                    },
+                    {
+                        "field_value_1": "adkinsmejia@datagen.com",
+                        "row_count": 1,
+                        "ratio_percent": 0.1
+                    },
+                    {
+                        "field_value_1": "adrianamcfadden@telequiet.com",
+                        "row_count": 1,
+                        "ratio_percent": 0.1
+                    },
+                    {
+                        "field_value_1": "adrianpitts@combogene.com",
+                        "row_count": 1,
+                        "ratio_percent": 0.1
+                    },
+                    {
+                        "field_value_1": "agneshooper@digial.com",
+                        "row_count": 1,
+                        "ratio_percent": 0.1
+                    }
+                ]
+            },
+            {
+                "field": "employer",
+                "distribution": [
+                    {
+                        "field_value_1": "Xurban",
+                        "row_count": 2,
+                        "ratio_percent": 0.2
+                    },
+                    {
+                        "field_value_1": "Accel",
+                        "row_count": 1,
+                        "ratio_percent": 0.1
+                    },
+                    {
+                        "field_value_1": "Accidency",
+                        "row_count": 1,
+                        "ratio_percent": 0.1
+                    },
+                    {
+                        "field_value_1": "Accruex",
+                        "row_count": 1,
+                        "ratio_percent": 0.1
+                    },
+                    {
+                        "field_value_1": "Accufarm",
+                        "row_count": 1,
+                        "ratio_percent": 0.1
+                    },
+                    {
+                        "field_value_1": "Accupharm",
+                        "row_count": 1,
+                        "ratio_percent": 0.1
+                    },
+                    {
+                        "field_value_1": "Accuprint",
+                        "row_count": 1,
+                        "ratio_percent": 0.1
+                    },
+                    {
+                        "field_value_1": "Accusage",
+                        "row_count": 1,
+                        "ratio_percent": 0.1
+                    },
+                    {
+                        "field_value_1": "Acium",
+                        "row_count": 1,
+                        "ratio_percent": 0.1
+                    },
+                    {
+                        "field_value_1": "Aclima",
+                        "row_count": 1,
+                        "ratio_percent": 0.1
+                    }
+                ]
+            },
+            {
+                "field": "firstname",
+                "distribution": [
+                    {
+                        "field_value_1": "Gay",
+                        "row_count": 2,
+                        "ratio_percent": 0.2
+                    },
+                    {
+                        "field_value_1": "Kelley",
+                        "row_count": 2,
+                        "ratio_percent": 0.2
+                    },
+                    {
+                        "field_value_1": "Lara",
+                        "row_count": 2,
+                        "ratio_percent": 0.2
+                    },
+                    {
+                        "field_value_1": "Lynn",
+                        "row_count": 2,
+                        "ratio_percent": 0.2
+                    },
+                    {
+                        "field_value_1": "Michael",
+                        "row_count": 2,
+                        "ratio_percent": 0.2
+                    },
+                    {
+                        "field_value_1": "Morgan",
+                        "row_count": 2,
+                        "ratio_percent": 0.2
+                    },
+                    {
+                        "field_value_1": "Rose",
+                        "row_count": 2,
+                        "ratio_percent": 0.2
+                    },
+                    {
+                        "field_value_1": "Abbott",
+                        "row_count": 1,
+                        "ratio_percent": 0.1
+                    },
+                    {
+                        "field_value_1": "Abigail",
+                        "row_count": 1,
+                        "ratio_percent": 0.1
+                    },
+                    {
+                        "field_value_1": "Acevedo",
+                        "row_count": 1,
+                        "ratio_percent": 0.1
+                    }
+                ]
+            },
+            {
+                "field": "gender",
+                "distribution": [
+                    {
+                        "field_value_1": "M",
+                        "row_count": 507,
+                        "ratio_percent": 50.7
+                    },
+                    {
+                        "field_value_1": "F",
+                        "row_count": 493,
+                        "ratio_percent": 49.3
+                    }
+                ]
+            }
+        ]
+    }
+]

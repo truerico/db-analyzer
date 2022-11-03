@@ -1,0 +1,62 @@
+@startjson
+{
+    "field1": "relatedContent.twitter:image",
+    "combination": "relatedContent.twitter:image",
+    "null_distribution": {
+        "total_null_rows": 4320,
+        "total_not_null_rows": 9685
+    },
+    "data_distribution": [
+        {
+            "field_value_1": "None",
+            "row_count": 4320,
+            "ratio_percent": 30.85
+        },
+        {
+            "field_value_1": "http://IMAGES1.laweekly.com/imager/auto-repair-art-on-santa-monica-blvd-and/u/original/2430576/img_1182.jpg",
+            "row_count": 42,
+            "ratio_percent": 0.3
+        },
+        {
+            "field_value_1": "http://images1.laweekly.com/imager/laker-mania-sweeps-hollywood/u/original/2423422/lakersign.jpg",
+            "row_count": 40,
+            "ratio_percent": 0.29
+        },
+        {
+            "field_value_1": "http://images1.laweekly.com/imager/linda-immediato/u/original/2435953/dscn0901_1_2.jpg",
+            "row_count": 40,
+            "ratio_percent": 0.29
+        },
+        {
+            "field_value_1": "http://IMAGES1.laweekly.com/imager/air-at-the-greek-theatre-9-21/u/original/2473962/airtn01.jpg",
+            "row_count": 39,
+            "ratio_percent": 0.28
+        },
+        {
+            "field_value_1": "http://IMAGES1.laweekly.com/imager/por-el-suelo-on-virgil-retna-awr-dame/u/original/2430990/img_4883.jpg",
+            "row_count": 39,
+            "ratio_percent": 0.28
+        },
+        {
+            "field_value_1": "http://images1.laweekly.com/imager/rime-show-at-ghettogloss/u/original/2430136/gg08_flyer_l.jpg",
+            "row_count": 39,
+            "ratio_percent": 0.28
+        },
+        {
+            "field_value_1": "http://IMAGES1.laweekly.com/imager/raiders-of-the-lost-art/u/original/2467283/b0000013gt01_sclzzzzzzz_.jpg",
+            "row_count": 38,
+            "ratio_percent": 0.27
+        },
+        {
+            "field_value_1": "http://IMAGES1.laweekly.com/imager/arroyo-seco-mural-saga-continues/u/original/2424002/img_2543.jpg",
+            "row_count": 37,
+            "ratio_percent": 0.26
+        },
+        {
+            "field_value_1": "http://IMAGES1.laweekly.com/imager/deadly-syndrome-at-detour/u/original/2466681/img_2623.jpg",
+            "row_count": 37,
+            "ratio_percent": 0.26
+        }
+    ]
+}
+@endjson

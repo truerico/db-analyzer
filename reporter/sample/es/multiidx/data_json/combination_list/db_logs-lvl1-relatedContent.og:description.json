@@ -1,0 +1,62 @@
+@startjson
+{
+    "field1": "relatedContent.og:description",
+    "combination": "relatedContent.og:description",
+    "null_distribution": {
+        "total_null_rows": 2282,
+        "total_not_null_rows": 11723
+    },
+    "data_distribution": [
+        {
+            "field_value_1": "LA Weekly is the definitive source of information for news, music, movies, restaurants, reviews, and events in Los Angeles.",
+            "row_count": 5504,
+            "ratio_percent": 39.3
+        },
+        {
+            "field_value_1": "None",
+            "row_count": 2282,
+            "ratio_percent": 16.29
+        },
+        {
+            "field_value_1": "All photos by Mark Mauer. More after the jump...",
+            "row_count": 144,
+            "ratio_percent": 1.03
+        },
+        {
+            "field_value_1": "I got on a bus in Los Feliz yesterday at about 1 p.m. headed for Marfa, Texas, to attend the first annual Marfa Film Festival. If you&#039;ve been to the mov...",
+            "row_count": 56,
+            "ratio_percent": 0.4
+        },
+        {
+            "field_value_1": "I ran into Tammie Brown at the John Water&#039;s Meet &amp; Greet before the mustachioed director&#039;s Christmas show tonight at UCLA&#039;s Royce Hall. Tammie is a long...",
+            "row_count": 52,
+            "ratio_percent": 0.37
+        },
+        {
+            "field_value_1": "&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &amp;n...",
+            "row_count": 51,
+            "ratio_percent": 0.36
+        },
+        {
+            "field_value_1": "Two very different styles across the street from one another on Ardmore just south of Santa Monica Blvd...",
+            "row_count": 42,
+            "ratio_percent": 0.3
+        },
+        {
+            "field_value_1": "Five hundred Los Angeles Laker fans swarmed the Hollywood Billiards Sports Bar &amp; Grill on Thursday night to watch Kobe Bryant and the boys take on Kevin...",
+            "row_count": 40,
+            "ratio_percent": 0.29
+        },
+        {
+            "field_value_1": "Linda Immediato recently lost her blogging virginity and is making up for lost time. She&#039;s a born and bred New Yorker who was an on-air news reporter fo...",
+            "row_count": 40,
+            "ratio_percent": 0.29
+        },
+        {
+            "field_value_1": "A little rain fell, but no damage done. Air, whose new one, Pocket Symphony, is their best in a while, played the usually dry Greek Theatre along with N...",
+            "row_count": 39,
+            "ratio_percent": 0.28
+        }
+    ]
+}
+@endjson

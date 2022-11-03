@@ -1,0 +1,62 @@
+@startjson
+{
+    "field1": "Writer",
+    "combination": "Writer",
+    "null_distribution": {
+        "total_null_rows": 2,
+        "total_not_null_rows": 111
+    },
+    "data_distribution": [
+        {
+            "field_value_1": "N/A",
+            "row_count": 7,
+            "ratio_percent": 6.19
+        },
+        {
+            "field_value_1": "Glen A. Larson, Ronald D. Moore",
+            "row_count": 4,
+            "ratio_percent": 3.54
+        },
+        {
+            "field_value_1": "None",
+            "row_count": 3,
+            "ratio_percent": 2.65
+        },
+        {
+            "field_value_1": "Andy Heyward (characters), Jean Chalopin (characters), Bruno Bianchi (characters), Dana Olsen (story), Kerry Ehrin (story), Kerry Ehrin (screenplay), Zak Penn (screenplay)",
+            "row_count": 2,
+            "ratio_percent": 1.77
+        },
+        {
+            "field_value_1": "Baz Luhrmann (screenplay), Craig Pearce (screenplay), F. Scott Fitzgerald (based on the novel by)",
+            "row_count": 2,
+            "ratio_percent": 1.77
+        },
+        {
+            "field_value_1": "Hark Tsui (screenplay)",
+            "row_count": 2,
+            "ratio_percent": 1.77
+        },
+        {
+            "field_value_1": "Jalmari Helander (screenplay), Jalmari Helander (based on the original story by), Petri Jokiranta (based on the original story by)",
+            "row_count": 2,
+            "ratio_percent": 1.77
+        },
+        {
+            "field_value_1": "Jez Butterworth (screenplay), John-Henry Butterworth (screenplay), Joseph Wilson (book), Valerie Plame Wilson (book)",
+            "row_count": 2,
+            "ratio_percent": 1.77
+        },
+        {
+            "field_value_1": "Michael Haneke",
+            "row_count": 2,
+            "ratio_percent": 1.77
+        },
+        {
+            "field_value_1": "Michael Taylor (creator), David Eick (creator), Michael Taylor (teleplay), David Eick (story), Bradley Thompson (story), David Weddle (story), Glen A. Larson (creator: \"Battlestar Galactica\")",
+            "row_count": 2,
+            "ratio_percent": 1.77
+        }
+    ]
+}
+@endjson

@@ -1,0 +1,47 @@
+@startjson
+{
+    "field1": "totalSeasons",
+    "combination": "totalSeasons",
+    "null_distribution": {
+        "total_null_rows": 98,
+        "total_not_null_rows": 15
+    },
+    "data_distribution": [
+        {
+            "field_value_1": "None",
+            "row_count": 98,
+            "ratio_percent": 86.73
+        },
+        {
+            "field_value_1": "1",
+            "row_count": 5,
+            "ratio_percent": 4.42
+        },
+        {
+            "field_value_1": "4",
+            "row_count": 4,
+            "ratio_percent": 3.54
+        },
+        {
+            "field_value_1": "2",
+            "row_count": 2,
+            "ratio_percent": 1.77
+        },
+        {
+            "field_value_1": "7",
+            "row_count": 2,
+            "ratio_percent": 1.77
+        },
+        {
+            "field_value_1": "10",
+            "row_count": 1,
+            "ratio_percent": 0.88
+        },
+        {
+            "field_value_1": "3",
+            "row_count": 1,
+            "ratio_percent": 0.88
+        }
+    ]
+}
+@endjson

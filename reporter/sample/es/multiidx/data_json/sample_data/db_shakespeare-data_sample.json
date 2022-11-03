@@ -1,0 +1,191 @@
+[
+    {
+        "_index": "db_shakespeare",
+        "_type": "_doc",
+        "_id": "101733",
+        "_score": null,
+        "_source": {
+            "play_name": "Troilus and Cressida",
+            "speech_number": 33,
+            "line_number": "4.4.100",
+            "text_entry": "And sometimes we are devils to ourselves,",
+            "speaker": "TROILUS",
+            "type": "line",
+            "line_id": 101734
+        },
+        "sort": [
+            1.3521305812669304e-05
+        ],
+        "SYS_EXEC_DURATION": 2.323985
+    },
+    {
+        "_index": "db_shakespeare",
+        "_type": "_doc",
+        "_id": "32723",
+        "_score": null,
+        "_source": {
+            "play_name": "Hamlet",
+            "speech_number": 16,
+            "line_number": "1.2.89",
+            "text_entry": "Tis sweet and commendable in your nature, Hamlet,",
+            "speaker": "KING CLAUDIUS",
+            "type": "line",
+            "line_id": 32724
+        },
+        "sort": [
+            8.084043290634835e-05
+        ],
+        "SYS_EXEC_DURATION": 2.323985
+    },
+    {
+        "_index": "db_shakespeare",
+        "_type": "_doc",
+        "_id": "93951",
+        "_score": null,
+        "_source": {
+            "play_name": "Timon of Athens",
+            "speech_number": 51,
+            "line_number": "1.1.141",
+            "text_entry": "Well; what further?",
+            "speaker": "TIMON",
+            "type": "line",
+            "line_id": 93952
+        },
+        "sort": [
+            0.0003818883860047251
+        ],
+        "SYS_EXEC_DURATION": 2.323985
+    },
+    {
+        "_index": "db_shakespeare",
+        "_type": "_doc",
+        "_id": "59928",
+        "_score": null,
+        "_source": {
+            "play_name": "Measure for measure",
+            "speech_number": 14,
+            "line_number": "3.2.43",
+            "text_entry": "none of Pygmalions images, newly made woman, to be",
+            "speaker": "LUCIO",
+            "type": "line",
+            "line_id": 59929
+        },
+        "sort": [
+            0.0004192851484260407
+        ],
+        "SYS_EXEC_DURATION": 2.323985
+    },
+    {
+        "_index": "db_shakespeare",
+        "_type": "_doc",
+        "_id": "22116",
+        "_score": null,
+        "_source": {
+            "play_name": "Antony and Cleopatra",
+            "speech_number": 49,
+            "line_number": "5.2.146",
+            "text_entry": "Sole sir o the world,",
+            "speaker": "CLEOPATRA",
+            "type": "line",
+            "line_id": 22117
+        },
+        "sort": [
+            0.00047181773340965183
+        ],
+        "SYS_EXEC_DURATION": 2.323985
+    },
+    {
+        "_index": "db_shakespeare",
+        "_type": "_doc",
+        "_id": "15346",
+        "_score": null,
+        "_source": {
+            "play_name": "Alls well that ends well",
+            "speech_number": 17,
+            "line_number": "",
+            "text_entry": "Exeunt",
+            "speaker": "PAROLLES",
+            "type": "line",
+            "line_id": 15347
+        },
+        "sort": [
+            0.000701889999831451
+        ],
+        "SYS_EXEC_DURATION": 2.323985
+    },
+    {
+        "_index": "db_shakespeare",
+        "_type": "_doc",
+        "_id": "77898",
+        "_score": null,
+        "_source": {
+            "play_name": "Pericles",
+            "speech_number": 78,
+            "line_number": "4.6.181",
+            "text_entry": "But amongst honest women.",
+            "speaker": "MARINA",
+            "type": "line",
+            "line_id": 77899
+        },
+        "sort": [
+            0.000905776778701517
+        ],
+        "SYS_EXEC_DURATION": 2.323985
+    },
+    {
+        "_index": "db_shakespeare",
+        "_type": "_doc",
+        "_id": "61323",
+        "_score": null,
+        "_source": {
+            "play_name": "Measure for measure",
+            "speech_number": 165,
+            "line_number": "5.1.541",
+            "text_entry": "One all of luxury, an ass, a madman;",
+            "speaker": "DUKE VINCENTIO",
+            "type": "line",
+            "line_id": 61324
+        },
+        "sort": [
+            0.000977291827048643
+        ],
+        "SYS_EXEC_DURATION": 2.323985
+    },
+    {
+        "_index": "db_shakespeare",
+        "_type": "_doc",
+        "_id": "36135",
+        "_score": null,
+        "_source": {
+            "play_name": "Hamlet",
+            "speech_number": 88,
+            "line_number": "5.1.225",
+            "text_entry": "As we have warrantise: her death was doubtful;",
+            "speaker": "First Priest",
+            "type": "line",
+            "line_id": 36136
+        },
+        "sort": [
+            0.001048648018299514
+        ],
+        "SYS_EXEC_DURATION": 2.323985
+    },
+    {
+        "_index": "db_shakespeare",
+        "_type": "_doc",
+        "_id": "111394",
+        "_score": null,
+        "_source": {
+            "play_name": "A Winters Tale",
+            "speech_number": 38,
+            "line_number": "5.3.183",
+            "speaker": "LEONTES",
+            "type": "line",
+            "line_id": 111395
+        },
+        "sort": [
+            0.1944569927838946
+        ],
+        "SYS_EXEC_DURATION": 2.323985
+    }
+]

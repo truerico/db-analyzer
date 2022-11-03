@@ -1,0 +1,62 @@
+@startjson
+{
+    "field1": "relatedContent.og:title",
+    "combination": "relatedContent.og:title",
+    "null_distribution": {
+        "total_null_rows": 2282,
+        "total_not_null_rows": 11723
+    },
+    "data_distribution": [
+        {
+            "field_value_1": "None",
+            "row_count": 2282,
+            "ratio_percent": 16.29
+        },
+        {
+            "field_value_1": "Fashion Week",
+            "row_count": 97,
+            "ratio_percent": 0.69
+        },
+        {
+            "field_value_1": "Buffalo Gals &amp; Bond Girls",
+            "row_count": 86,
+            "ratio_percent": 0.61
+        },
+        {
+            "field_value_1": "Louis Verdad&#039;s flirty 1950&#039;s-themed",
+            "row_count": 82,
+            "ratio_percent": 0.59
+        },
+        {
+            "field_value_1": "Meat &amp; Greet: The Delta of Waters",
+            "row_count": 74,
+            "ratio_percent": 0.53
+        },
+        {
+            "field_value_1": "Greetings from the first annual Marfa Film Festival",
+            "row_count": 56,
+            "ratio_percent": 0.4
+        },
+        {
+            "field_value_1": "Bonde Do Role - Solta O Frango - excellent summer morning music",
+            "row_count": 49,
+            "ratio_percent": 0.35
+        },
+        {
+            "field_value_1": "Auto Repair art on Santa Monica Blvd. and Ardmore",
+            "row_count": 42,
+            "ratio_percent": 0.3
+        },
+        {
+            "field_value_1": "Fashion Week Warrior",
+            "row_count": 41,
+            "ratio_percent": 0.29
+        },
+        {
+            "field_value_1": "Is Don Henley Dead?",
+            "row_count": 41,
+            "ratio_percent": 0.29
+        }
+    ]
+}
+@endjson

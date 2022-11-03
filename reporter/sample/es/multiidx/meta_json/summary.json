@@ -1,0 +1,34 @@
+[
+    {
+        "total_index": 4,
+        "total_doc": 126514,
+        "total_size_kb": 56827,
+        "allocaton_nodes": [
+            {
+                "shards": "88",
+                "disk.indices": null,
+                "disk.used": null,
+                "disk.avail": null,
+                "disk.total": null,
+                "disk.percent": null,
+                "host": null,
+                "ip": null,
+                "node": "UNASSIGNED"
+            },
+            {
+                "shards": "115",
+                "disk.indices": "3.3gb",
+                "disk.used": "57gb",
+                "disk.avail": "11.2gb",
+                "disk.total": "68.3gb",
+                "disk.percent": "83",
+                "host": "172.16.0.99",
+                "ip": "172.16.0.99",
+                "node": "node-es7"
+            }
+        ],
+        "total_shards": 8,
+        "shards_ok": 4,
+        "shards_nok": 0
+    }
+]

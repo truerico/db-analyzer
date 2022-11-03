@@ -1,0 +1,32 @@
+@startjson
+{
+    "field1": "host",
+    "combination": "host",
+    "null_distribution": {
+        "total_null_rows": 0,
+        "total_not_null_rows": 14005
+    },
+    "data_distribution": [
+        {
+            "field_value_1": "media-for-the-masses.theacademyofperformingartsandscience.org",
+            "row_count": 10468,
+            "ratio_percent": 74.74
+        },
+        {
+            "field_value_1": "cdn.theacademyofperformingartsandscience.org",
+            "row_count": 2253,
+            "ratio_percent": 16.09
+        },
+        {
+            "field_value_1": "motion-media.theacademyofperformingartsandscience.org",
+            "row_count": 887,
+            "ratio_percent": 6.33
+        },
+        {
+            "field_value_1": "theacademyofperformingartsandscience.org",
+            "row_count": 397,
+            "ratio_percent": 2.83
+        }
+    ]
+}
+@endjson

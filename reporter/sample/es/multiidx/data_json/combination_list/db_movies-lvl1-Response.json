@@ -1,0 +1,22 @@
+@startjson
+{
+    "field1": "Response",
+    "combination": "Response",
+    "null_distribution": {
+        "total_null_rows": 0,
+        "total_not_null_rows": 113
+    },
+    "data_distribution": [
+        {
+            "field_value_1": "True",
+            "row_count": 111,
+            "ratio_percent": 98.23
+        },
+        {
+            "field_value_1": "False",
+            "row_count": 2,
+            "ratio_percent": 1.77
+        }
+    ]
+}
+@endjson

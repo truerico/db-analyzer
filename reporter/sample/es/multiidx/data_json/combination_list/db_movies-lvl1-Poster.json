@@ -1,0 +1,62 @@
+@startjson
+{
+    "field1": "Poster",
+    "combination": "Poster",
+    "null_distribution": {
+        "total_null_rows": 2,
+        "total_not_null_rows": 111
+    },
+    "data_distribution": [
+        {
+            "field_value_1": "http://ia.media-imdb.com/images/M/MV5BMTc1NTg1MDk3NF5BMl5BanBnXkFtZTYwNDYyMjI3._V1_SX300.jpg",
+            "row_count": 4,
+            "ratio_percent": 3.54
+        },
+        {
+            "field_value_1": "None",
+            "row_count": 2,
+            "ratio_percent": 1.77
+        },
+        {
+            "field_value_1": "N/A",
+            "row_count": 2,
+            "ratio_percent": 1.77
+        },
+        {
+            "field_value_1": "http://ia.media-imdb.com/images/M/MV5BM2RiNjA4MzctMGU1MC00MThiLTk4OWUtODI4ZmM4MmU3YTllXkEyXkFqcGdeQXVyMDM0MzU2NA@@._V1_SX300.jpg",
+            "row_count": 2,
+            "ratio_percent": 1.77
+        },
+        {
+            "field_value_1": "http://ia.media-imdb.com/images/M/MV5BMTAxMDk2ODE0NjdeQTJeQWpwZ15BbWU3MDkxMDQwMzg@._V1_SX300.jpg",
+            "row_count": 2,
+            "ratio_percent": 1.77
+        },
+        {
+            "field_value_1": "http://ia.media-imdb.com/images/M/MV5BMTU5NDkwMTUxN15BMl5BanBnXkFtZTcwNzM2OTMyMQ@@._V1_SX300.jpg",
+            "row_count": 2,
+            "ratio_percent": 1.77
+        },
+        {
+            "field_value_1": "http://ia.media-imdb.com/images/M/MV5BMTg4OTExNTYzMV5BMl5BanBnXkFtZTcwOTg1MDU1MQ@@._V1_SX300.jpg",
+            "row_count": 2,
+            "ratio_percent": 1.77
+        },
+        {
+            "field_value_1": "http://ia.media-imdb.com/images/M/MV5BMTkxNTk1ODcxNl5BMl5BanBnXkFtZTcwMDI1OTMzOQ@@._V1_SX300.jpg",
+            "row_count": 2,
+            "ratio_percent": 1.77
+        },
+        {
+            "field_value_1": "http://ia.media-imdb.com/images/M/MV5BMTkyMjc1MzAwMl5BMl5BanBnXkFtZTYwMDMxMTQ5._V1_SX300.jpg",
+            "row_count": 2,
+            "ratio_percent": 1.77
+        },
+        {
+            "field_value_1": "http://ia.media-imdb.com/images/M/MV5BMjIyOTg1NzU0Ml5BMl5BanBnXkFtZTcwMjA2OTY5Mw@@._V1_SX300.jpg",
+            "row_count": 2,
+            "ratio_percent": 1.77
+        }
+    ]
+}
+@endjson

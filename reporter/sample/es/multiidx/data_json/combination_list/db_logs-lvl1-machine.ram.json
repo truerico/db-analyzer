@@ -1,0 +1,62 @@
+@startjson
+{
+    "field1": "machine.ram",
+    "combination": "machine.ram",
+    "null_distribution": {
+        "total_null_rows": 332,
+        "total_not_null_rows": 13673
+    },
+    "data_distribution": [
+        {
+            "field_value_1": "20401094656",
+            "row_count": 733,
+            "ratio_percent": 5.23
+        },
+        {
+            "field_value_1": "13958643712",
+            "row_count": 731,
+            "ratio_percent": 5.22
+        },
+        {
+            "field_value_1": "9663676416",
+            "row_count": 728,
+            "ratio_percent": 5.2
+        },
+        {
+            "field_value_1": "7516192768",
+            "row_count": 724,
+            "ratio_percent": 5.17
+        },
+        {
+            "field_value_1": "18253611008",
+            "row_count": 723,
+            "ratio_percent": 5.16
+        },
+        {
+            "field_value_1": "19327352832",
+            "row_count": 721,
+            "ratio_percent": 5.15
+        },
+        {
+            "field_value_1": "32212254720",
+            "row_count": 716,
+            "ratio_percent": 5.11
+        },
+        {
+            "field_value_1": "8589934592",
+            "row_count": 713,
+            "ratio_percent": 5.09
+        },
+        {
+            "field_value_1": "4294967296",
+            "row_count": 707,
+            "ratio_percent": 5.05
+        },
+        {
+            "field_value_1": "17179869184",
+            "row_count": 706,
+            "ratio_percent": 5.04
+        }
+    ]
+}
+@endjson
