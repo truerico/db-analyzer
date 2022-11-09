@@ -1,2 +1,2 @@
 "host_name","node_name","cluster_name","version_number","build_date","build_type","lucene_version","data_dir","log_dir","repo_dir","home_dir"
-"pivot-test-es.nfb.ca","node-es7","cluster-es7","7.9.3","2020-10-16T10:36:16.141335Z","tar","8.6.2","/var/lib/elasticsearch7","/var/log/elasticsearch","n/a","/usr/share/elasticsearch7"
+"server-test-es.mydomain.ca","node-es7","cluster-es7","7.9.3","2020-10-16T10:36:16.141335Z","tar","8.6.2","/var/lib/elasticsearch7","/var/log/elasticsearch","n/a","/usr/share/elasticsearch7"

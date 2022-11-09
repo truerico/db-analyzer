@@ -15,6 +15,6 @@
     },
     "tagline": "You Know, for Search",
     "sys_protocol": "https",
-    "sys_host_name": "pivot-test-es.nfb.ca",
+    "sys_host_name": "server-test-es.mydomain.ca",
     "sys_host_port": 9220
 }
