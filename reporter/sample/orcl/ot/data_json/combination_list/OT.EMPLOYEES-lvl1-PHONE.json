@@ -1,0 +1,62 @@
+@startjson
+{
+    "field1": "PHONE",
+    "combination": "PHONE",
+    "null_distribution": {
+        "total_null_rows": 0,
+        "total_not_null_rows": 107
+    },
+    "data_distribution": [
+        {
+            "field_value": "650.124.8234",
+            "row_count": 1,
+            "ratio_percent": 0.9345794392523364
+        },
+        {
+            "field_value": "650.121.2004",
+            "row_count": 1,
+            "ratio_percent": 0.9345794392523364
+        },
+        {
+            "field_value": "650.127.1934",
+            "row_count": 1,
+            "ratio_percent": 0.9345794392523364
+        },
+        {
+            "field_value": "650.127.1734",
+            "row_count": 1,
+            "ratio_percent": 0.9345794392523364
+        },
+        {
+            "field_value": "011.44.1345.529268",
+            "row_count": 1,
+            "ratio_percent": 0.9345794392523364
+        },
+        {
+            "field_value": "515.123.8181",
+            "row_count": 1,
+            "ratio_percent": 0.9345794392523364
+        },
+        {
+            "field_value": "515.123.4444",
+            "row_count": 1,
+            "ratio_percent": 0.9345794392523364
+        },
+        {
+            "field_value": "515.123.5555",
+            "row_count": 1,
+            "ratio_percent": 0.9345794392523364
+        },
+        {
+            "field_value": "011.44.1344.429268",
+            "row_count": 1,
+            "ratio_percent": 0.9345794392523364
+        },
+        {
+            "field_value": "650.123.1234",
+            "row_count": 1,
+            "ratio_percent": 0.9345794392523364
+        }
+    ]
+}
+@endjson

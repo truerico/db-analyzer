@@ -1,0 +1,62 @@
+@startjson
+{
+    "field1": "STATE",
+    "combination": "STATE",
+    "null_distribution": {
+        "total_null_rows": 6,
+        "total_not_null_rows": 17
+    },
+    "data_distribution": [
+        {
+            "field_value": "**NULL**",
+            "row_count": 6,
+            "ratio_percent": 26.08695652173913
+        },
+        {
+            "field_value": "Distrito Federal,",
+            "row_count": 1,
+            "ratio_percent": 4.3478260869565215
+        },
+        {
+            "field_value": "Texas",
+            "row_count": 1,
+            "ratio_percent": 4.3478260869565215
+        },
+        {
+            "field_value": "Sao Paulo",
+            "row_count": 1,
+            "ratio_percent": 4.3478260869565215
+        },
+        {
+            "field_value": "New South Wales",
+            "row_count": 1,
+            "ratio_percent": 4.3478260869565215
+        },
+        {
+            "field_value": "BE",
+            "row_count": 1,
+            "ratio_percent": 4.3478260869565215
+        },
+        {
+            "field_value": "Geneve",
+            "row_count": 1,
+            "ratio_percent": 4.3478260869565215
+        },
+        {
+            "field_value": "Tokyo Prefecture",
+            "row_count": 1,
+            "ratio_percent": 4.3478260869565215
+        },
+        {
+            "field_value": "Maharashtra",
+            "row_count": 1,
+            "ratio_percent": 4.3478260869565215
+        },
+        {
+            "field_value": "Bavaria",
+            "row_count": 1,
+            "ratio_percent": 4.3478260869565215
+        }
+    ]
+}
+@endjson

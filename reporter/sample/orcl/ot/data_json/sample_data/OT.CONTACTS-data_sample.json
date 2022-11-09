@@ -1,0 +1,47 @@
+[
+    {
+        "CONTACT_ID": 159,
+        "FIRST_NAME": "Amado",
+        "LAST_NAME": "Jefferson",
+        "EMAIL": "amado.jefferson@energytransfer.com",
+        "PHONE": "+1 612 123 4407",
+        "CUSTOMER_ID": 159,
+        "SYS_EXEC_DURATION": "0.281335"
+    },
+    {
+        "CONTACT_ID": 241,
+        "FIRST_NAME": "Johnie",
+        "LAST_NAME": "Rojas",
+        "EMAIL": "johnie.rojas@itw.com",
+        "PHONE": "+91 80 012 4887",
+        "CUSTOMER_ID": 241,
+        "SYS_EXEC_DURATION": "0.281622"
+    },
+    {
+        "CONTACT_ID": 248,
+        "FIRST_NAME": "Bill",
+        "LAST_NAME": "Stein",
+        "EMAIL": "bill.stein@devonenergy.com",
+        "PHONE": "+39 6 012 4501",
+        "CUSTOMER_ID": 248,
+        "SYS_EXEC_DURATION": "0.281663"
+    },
+    {
+        "CONTACT_ID": 288,
+        "FIRST_NAME": "Dorotha",
+        "LAST_NAME": "Wong",
+        "EMAIL": "dorotha.wong@firstdata.com",
+        "PHONE": "+41 6 012 3565",
+        "CUSTOMER_ID": 288,
+        "SYS_EXEC_DURATION": "0.281703"
+    },
+    {
+        "CONTACT_ID": 220,
+        "FIRST_NAME": "Tamisha",
+        "LAST_NAME": "Vargas",
+        "EMAIL": "tamisha.vargas@twc.com",
+        "PHONE": "+91 80 012 4793",
+        "CUSTOMER_ID": 220,
+        "SYS_EXEC_DURATION": "0.281733"
+    }
+]

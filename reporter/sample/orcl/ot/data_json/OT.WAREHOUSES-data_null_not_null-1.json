@@ -1,0 +1,23 @@
+[
+    {
+        "table": "OT.WAREHOUSES",
+        "total_records": 9,
+        "dataset": [
+            {
+                "field": "LOCATION_ID",
+                "total_null_rows": 0,
+                "total_not_null_rows": 9
+            },
+            {
+                "field": "WAREHOUSE_ID",
+                "total_null_rows": 0,
+                "total_not_null_rows": 9
+            },
+            {
+                "field": "WAREHOUSE_NAME",
+                "total_null_rows": 0,
+                "total_not_null_rows": 9
+            }
+        ]
+    }
+]

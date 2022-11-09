@@ -1,0 +1,62 @@
+@startjson
+{
+    "field1": "ORDER_DATE",
+    "combination": "ORDER_DATE",
+    "null_distribution": {
+        "total_null_rows": 0,
+        "total_not_null_rows": 105
+    },
+    "data_distribution": [
+        {
+            "field_value": "02-OCT-16",
+            "row_count": 4,
+            "ratio_percent": 3.8095238095238093
+        },
+        {
+            "field_value": "29-SEP-16",
+            "row_count": 4,
+            "ratio_percent": 3.8095238095238093
+        },
+        {
+            "field_value": "16-AUG-16",
+            "row_count": 3,
+            "ratio_percent": 2.857142857142857
+        },
+        {
+            "field_value": "29-NOV-16",
+            "row_count": 3,
+            "ratio_percent": 2.857142857142857
+        },
+        {
+            "field_value": "20-FEB-17",
+            "row_count": 3,
+            "ratio_percent": 2.857142857142857
+        },
+        {
+            "field_value": "10-FEB-17",
+            "row_count": 3,
+            "ratio_percent": 2.857142857142857
+        },
+        {
+            "field_value": "27-MAY-17",
+            "row_count": 2,
+            "ratio_percent": 1.9047619047619047
+        },
+        {
+            "field_value": "21-JUN-16",
+            "row_count": 2,
+            "ratio_percent": 1.9047619047619047
+        },
+        {
+            "field_value": "24-AUG-16",
+            "row_count": 2,
+            "ratio_percent": 1.9047619047619047
+        },
+        {
+            "field_value": "07-SEP-16",
+            "row_count": 2,
+            "ratio_percent": 1.9047619047619047
+        }
+    ]
+}
+@endjson

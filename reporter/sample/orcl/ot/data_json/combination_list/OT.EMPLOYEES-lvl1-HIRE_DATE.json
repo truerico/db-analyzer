@@ -1,0 +1,62 @@
+@startjson
+{
+    "field1": "HIRE_DATE",
+    "combination": "HIRE_DATE",
+    "null_distribution": {
+        "total_null_rows": 0,
+        "total_not_null_rows": 107
+    },
+    "data_distribution": [
+        {
+            "field_value": "07-JUN-16",
+            "row_count": 4,
+            "ratio_percent": 3.7383177570093458
+        },
+        {
+            "field_value": "24-MAR-16",
+            "row_count": 4,
+            "ratio_percent": 3.7383177570093458
+        },
+        {
+            "field_value": "24-JAN-16",
+            "row_count": 3,
+            "ratio_percent": 2.803738317757009
+        },
+        {
+            "field_value": "23-FEB-16",
+            "row_count": 3,
+            "ratio_percent": 2.803738317757009
+        },
+        {
+            "field_value": "21-APR-16",
+            "row_count": 2,
+            "ratio_percent": 1.8691588785046729
+        },
+        {
+            "field_value": "21-JUN-16",
+            "row_count": 2,
+            "ratio_percent": 1.8691588785046729
+        },
+        {
+            "field_value": "13-JAN-16",
+            "row_count": 2,
+            "ratio_percent": 1.8691588785046729
+        },
+        {
+            "field_value": "30-JAN-16",
+            "row_count": 2,
+            "ratio_percent": 1.8691588785046729
+        },
+        {
+            "field_value": "19-MAR-16",
+            "row_count": 2,
+            "ratio_percent": 1.8691588785046729
+        },
+        {
+            "field_value": "07-DEC-16",
+            "row_count": 2,
+            "ratio_percent": 1.8691588785046729
+        }
+    ]
+}
+@endjson

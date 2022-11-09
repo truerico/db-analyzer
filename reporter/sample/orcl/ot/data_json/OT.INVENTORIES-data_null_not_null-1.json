@@ -1,0 +1,23 @@
+[
+    {
+        "table": "OT.INVENTORIES",
+        "total_records": 1112,
+        "dataset": [
+            {
+                "field": "PRODUCT_ID",
+                "total_null_rows": 0,
+                "total_not_null_rows": 1112
+            },
+            {
+                "field": "QUANTITY",
+                "total_null_rows": 0,
+                "total_not_null_rows": 1112
+            },
+            {
+                "field": "WAREHOUSE_ID",
+                "total_null_rows": 0,
+                "total_not_null_rows": 1112
+            }
+        ]
+    }
+]

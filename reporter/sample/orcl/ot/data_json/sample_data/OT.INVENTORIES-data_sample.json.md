@@ -1,0 +1,36 @@
+```json
+@startjson
+[
+    {
+        "WAREHOUSE_ID": 8,
+        "PRODUCT_ID": 138,
+        "QUANTITY": 31,
+        "SYS_EXEC_DURATION": "0.25714"
+    },
+    {
+        "WAREHOUSE_ID": 8,
+        "PRODUCT_ID": 195,
+        "QUANTITY": 139,
+        "SYS_EXEC_DURATION": "0.257294"
+    },
+    {
+        "WAREHOUSE_ID": 6,
+        "PRODUCT_ID": 288,
+        "QUANTITY": 213,
+        "SYS_EXEC_DURATION": "0.257328"
+    },
+    {
+        "WAREHOUSE_ID": 6,
+        "PRODUCT_ID": 173,
+        "QUANTITY": 94,
+        "SYS_EXEC_DURATION": "0.257355"
+    },
+    {
+        "WAREHOUSE_ID": 7,
+        "PRODUCT_ID": 39,
+        "QUANTITY": 55,
+        "SYS_EXEC_DURATION": "0.257381"
+    }
+]
+@endjson
+```

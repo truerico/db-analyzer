@@ -1,0 +1,62 @@
+@startjson
+{
+    "field1": "ADDRESS",
+    "combination": "ADDRESS",
+    "null_distribution": {
+        "total_null_rows": 0,
+        "total_not_null_rows": 319
+    },
+    "data_distribution": [
+        {
+            "field_value": "1592 Silverado St, Bangalore, Kar",
+            "row_count": 2,
+            "ratio_percent": 0.6269592476489029
+        },
+        {
+            "field_value": "1617 Crackers St, Bangalore - India, Kar",
+            "row_count": 2,
+            "ratio_percent": 0.6269592476489029
+        },
+        {
+            "field_value": "Via Delle Capeletti 52, San Giminiano,",
+            "row_count": 2,
+            "ratio_percent": 0.6269592476489029
+        },
+        {
+            "field_value": "1593 Silverado St, Bangalore, Kar",
+            "row_count": 2,
+            "ratio_percent": 0.6269592476489029
+        },
+        {
+            "field_value": "9936 Dexter Ave, Detroit, MI",
+            "row_count": 1,
+            "ratio_percent": 0.31347962382445144
+        },
+        {
+            "field_value": "136 E Market St # 800, Indianapolis, IN",
+            "row_count": 1,
+            "ratio_percent": 0.31347962382445144
+        },
+        {
+            "field_value": "4019 W 3Rd St, Bloomington, IN",
+            "row_count": 1,
+            "ratio_percent": 0.31347962382445144
+        },
+        {
+            "field_value": "8768 N State Rd 37, Bloomington, IN",
+            "row_count": 1,
+            "ratio_percent": 0.31347962382445144
+        },
+        {
+            "field_value": "4200 Yosemite Ave S, Minneapolis, MN",
+            "row_count": 1,
+            "ratio_percent": 0.31347962382445144
+        },
+        {
+            "field_value": "2 2Nd St # A, Ocean City, MD",
+            "row_count": 1,
+            "ratio_percent": 0.31347962382445144
+        }
+    ]
+}
+@endjson

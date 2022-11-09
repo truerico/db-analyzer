@@ -1,0 +1,62 @@
+@startjson
+{
+    "field1": "DESCRIPTION",
+    "combination": "DESCRIPTION",
+    "null_distribution": {
+        "total_null_rows": 0,
+        "total_not_null_rows": 288
+    },
+    "data_distribution": [
+        {
+            "field_value": "CPU:LGA2066,Form Factor:ATX,RAM Slots:8,Max RAM:128GB",
+            "row_count": 13,
+            "ratio_percent": 4.513888888888889
+        },
+        {
+            "field_value": "CPU:LGA1151,Form Factor:ATX,RAM Slots:4,Max RAM:64GB",
+            "row_count": 8,
+            "ratio_percent": 2.7777777777777777
+        },
+        {
+            "field_value": "Chipset:GeForce GTX 1080 Ti,Memory:11GBCore Clock:1.57GHz",
+            "row_count": 6,
+            "ratio_percent": 2.0833333333333335
+        },
+        {
+            "field_value": "CPU:LGA2011-3,Form Factor:EATX,RAM Slots:8,Max RAM:128GB",
+            "row_count": 6,
+            "ratio_percent": 2.0833333333333335
+        },
+        {
+            "field_value": "Speed:DDR4-3200,Type:288-pin DIMM,CAS:15Module:4x16GBSize:64GB",
+            "row_count": 5,
+            "ratio_percent": 1.7361111111111112
+        },
+        {
+            "field_value": "CPU:LGA1151,Form Factor:EATX,RAM Slots:4,Max RAM:64GB",
+            "row_count": 4,
+            "ratio_percent": 1.3888888888888888
+        },
+        {
+            "field_value": "Speed:DDR4-3200,Type:288-pin DIMM,CAS:14Module:4x16GBSize:64GB",
+            "row_count": 4,
+            "ratio_percent": 1.3888888888888888
+        },
+        {
+            "field_value": "Speed:DDR4-2133,Type:288-pin DIMM,CAS:15Module:4x16GBSize:64GB",
+            "row_count": 3,
+            "ratio_percent": 1.0416666666666667
+        },
+        {
+            "field_value": "CPU:LGA2011-3,Form Factor:ATX,RAM Slots:8,Max RAM:128GB",
+            "row_count": 3,
+            "ratio_percent": 1.0416666666666667
+        },
+        {
+            "field_value": "Speed:DDR4-3200,Type:288-pin DIMM,CAS:15Module:8x8GBSize:64GB",
+            "row_count": 3,
+            "ratio_percent": 1.0416666666666667
+        }
+    ]
+}
+@endjson

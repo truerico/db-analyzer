@@ -1,0 +1,154 @@
+[
+    {
+        "TABLESPACE_NAME": "orcl_dev_DAT",
+        "FILE_NAME": "/u02/orcl_dev/orcl_devdt01.dbf",
+        "AUTOEXTENSIBLE": "NO",
+        "INCREMENT_BY": 0,
+        "STATUS": "AVAILABLE",
+        "ONLINE_STATUS": "ONLINE"
+    },
+    {
+        "TABLESPACE_NAME": "orcl_dev_DAT",
+        "FILE_NAME": "/u02/orcl_dev/orcl_devdt02.dbf",
+        "AUTOEXTENSIBLE": "NO",
+        "INCREMENT_BY": 0,
+        "STATUS": "AVAILABLE",
+        "ONLINE_STATUS": "ONLINE"
+    },
+    {
+        "TABLESPACE_NAME": "orcl_dev_IDX",
+        "FILE_NAME": "/u02/orcl_dev/orcl_devid01.dbf",
+        "AUTOEXTENSIBLE": "YES",
+        "INCREMENT_BY": 640,
+        "STATUS": "AVAILABLE",
+        "ONLINE_STATUS": "ONLINE"
+    },
+    {
+        "TABLESPACE_NAME": "orcl_dev_LC",
+        "FILE_NAME": "/u02/orcl_dev/orcl_dev_LC01.dbf",
+        "AUTOEXTENSIBLE": "NO",
+        "INCREMENT_BY": 0,
+        "STATUS": "AVAILABLE",
+        "ONLINE_STATUS": "ONLINE"
+    },
+    {
+        "TABLESPACE_NAME": "DEV12_STB",
+        "FILE_NAME": "/u02/orcl_dev/DEV12_svctbl.dbf",
+        "AUTOEXTENSIBLE": "YES",
+        "INCREMENT_BY": 256,
+        "STATUS": "AVAILABLE",
+        "ONLINE_STATUS": "ONLINE"
+    },
+    {
+        "TABLESPACE_NAME": "DEV12_WLS",
+        "FILE_NAME": "/u02/orcl_dev/DEV12_wlsservices.dbf",
+        "AUTOEXTENSIBLE": "YES",
+        "INCREMENT_BY": 1280,
+        "STATUS": "AVAILABLE",
+        "ONLINE_STATUS": "ONLINE"
+    },
+    {
+        "TABLESPACE_NAME": "OFMW_IAS_OPSS",
+        "FILE_NAME": "/u02/orcl_dev/OFMW_ias_opss.dbf",
+        "AUTOEXTENSIBLE": "YES",
+        "INCREMENT_BY": 1,
+        "STATUS": "AVAILABLE",
+        "ONLINE_STATUS": "ONLINE"
+    },
+    {
+        "TABLESPACE_NAME": "OFMW_IAU",
+        "FILE_NAME": "/u02/orcl_dev/OFMW_iau.dbf",
+        "AUTOEXTENSIBLE": "YES",
+        "INCREMENT_BY": 1,
+        "STATUS": "AVAILABLE",
+        "ONLINE_STATUS": "ONLINE"
+    },
+    {
+        "TABLESPACE_NAME": "OFMW_STB",
+        "FILE_NAME": "/u02/orcl_dev/OFMW_svctbl.dbf",
+        "AUTOEXTENSIBLE": "YES",
+        "INCREMENT_BY": 256,
+        "STATUS": "AVAILABLE",
+        "ONLINE_STATUS": "ONLINE"
+    },
+    {
+        "TABLESPACE_NAME": "OFMW_WLS",
+        "FILE_NAME": "/u02/orcl_dev/OFMW_wlsservices.dbf",
+        "AUTOEXTENSIBLE": "YES",
+        "INCREMENT_BY": 1280,
+        "STATUS": "AVAILABLE",
+        "ONLINE_STATUS": "ONLINE"
+    },
+    {
+        "TABLESPACE_NAME": "POURREADONLY",
+        "FILE_NAME": "/u02/orcl_dev/POURREADONLY1.dbf",
+        "AUTOEXTENSIBLE": "NO",
+        "INCREMENT_BY": 0,
+        "STATUS": "AVAILABLE",
+        "ONLINE_STATUS": "ONLINE"
+    },
+    {
+        "TABLESPACE_NAME": "APPDRTS_DT",
+        "FILE_NAME": "/u02/orcl_dev/APPDRTS_DT.dbf",
+        "AUTOEXTENSIBLE": "NO",
+        "INCREMENT_BY": 0,
+        "STATUS": "AVAILABLE",
+        "ONLINE_STATUS": "ONLINE"
+    },
+    {
+        "TABLESPACE_NAME": "APPDRTS_IDX",
+        "FILE_NAME": "/u02/orcl_dev/APPDRTS_IDX.dbf",
+        "AUTOEXTENSIBLE": "NO",
+        "INCREMENT_BY": 0,
+        "STATUS": "AVAILABLE",
+        "ONLINE_STATUS": "ONLINE"
+    },
+    {
+        "TABLESPACE_NAME": "SYSAUX",
+        "FILE_NAME": "/u02/orcl_dev/sysaux01.dbf",
+        "AUTOEXTENSIBLE": "YES",
+        "INCREMENT_BY": 1280,
+        "STATUS": "AVAILABLE",
+        "ONLINE_STATUS": "ONLINE"
+    },
+    {
+        "TABLESPACE_NAME": "SYSTEM",
+        "FILE_NAME": "/u02/orcl_dev/system01.dbf",
+        "AUTOEXTENSIBLE": "YES",
+        "INCREMENT_BY": 1280,
+        "STATUS": "AVAILABLE",
+        "ONLINE_STATUS": "SYSTEM"
+    },
+    {
+        "TABLESPACE_NAME": "TOOLS",
+        "FILE_NAME": "/u02/orcl_dev/tools01.dbf",
+        "AUTOEXTENSIBLE": "NO",
+        "INCREMENT_BY": 0,
+        "STATUS": "AVAILABLE",
+        "ONLINE_STATUS": "ONLINE"
+    },
+    {
+        "TABLESPACE_NAME": "UNDOTBS1",
+        "FILE_NAME": "/u02/orcl_dev/undotbs01.dbf",
+        "AUTOEXTENSIBLE": "YES",
+        "INCREMENT_BY": 640,
+        "STATUS": "AVAILABLE",
+        "ONLINE_STATUS": "ONLINE"
+    },
+    {
+        "TABLESPACE_NAME": "USERS",
+        "FILE_NAME": "/u02/orcl_dev/users01.dbf",
+        "AUTOEXTENSIBLE": "YES",
+        "INCREMENT_BY": 160,
+        "STATUS": "AVAILABLE",
+        "ONLINE_STATUS": "ONLINE"
+    },
+    {
+        "TABLESPACE_NAME": "WORK",
+        "FILE_NAME": "/u02/orcl_dev/work01.dbf",
+        "AUTOEXTENSIBLE": "NO",
+        "INCREMENT_BY": 0,
+        "STATUS": "AVAILABLE",
+        "ONLINE_STATUS": "ONLINE"
+    }
+]

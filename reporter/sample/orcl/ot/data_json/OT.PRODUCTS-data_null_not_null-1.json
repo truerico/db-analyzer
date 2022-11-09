@@ -1,0 +1,38 @@
+[
+    {
+        "table": "OT.PRODUCTS",
+        "total_records": 288,
+        "dataset": [
+            {
+                "field": "CATEGORY_ID",
+                "total_null_rows": 0,
+                "total_not_null_rows": 288
+            },
+            {
+                "field": "DESCRIPTION",
+                "total_null_rows": 0,
+                "total_not_null_rows": 288
+            },
+            {
+                "field": "LIST_PRICE",
+                "total_null_rows": 0,
+                "total_not_null_rows": 288
+            },
+            {
+                "field": "PRODUCT_ID",
+                "total_null_rows": 0,
+                "total_not_null_rows": 288
+            },
+            {
+                "field": "PRODUCT_NAME",
+                "total_null_rows": 0,
+                "total_not_null_rows": 288
+            },
+            {
+                "field": "STANDARD_COST",
+                "total_null_rows": 0,
+                "total_not_null_rows": 288
+            }
+        ]
+    }
+]

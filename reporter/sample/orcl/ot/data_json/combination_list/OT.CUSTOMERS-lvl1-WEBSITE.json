@@ -1,0 +1,62 @@
+@startjson
+{
+    "field1": "WEBSITE",
+    "combination": "WEBSITE",
+    "null_distribution": {
+        "total_null_rows": 0,
+        "total_not_null_rows": 319
+    },
+    "data_distribution": [
+        {
+            "field_value": "http://www.metlife.com",
+            "row_count": 1,
+            "ratio_percent": 0.31347962382445144
+        },
+        {
+            "field_value": "http://www.ups.com",
+            "row_count": 1,
+            "ratio_percent": 0.31347962382445144
+        },
+        {
+            "field_value": "http://www.bestbuy.com",
+            "row_count": 1,
+            "ratio_percent": 0.31347962382445144
+        },
+        {
+            "field_value": "http://www.merck.com",
+            "row_count": 1,
+            "ratio_percent": 0.31347962382445144
+        },
+        {
+            "field_value": "http://www.abbvie.com",
+            "row_count": 1,
+            "ratio_percent": 0.31347962382445144
+        },
+        {
+            "field_value": "http://www.wfscorp.com",
+            "row_count": 1,
+            "ratio_percent": 0.31347962382445144
+        },
+        {
+            "field_value": "http://www.halliburton.com",
+            "row_count": 1,
+            "ratio_percent": 0.31347962382445144
+        },
+        {
+            "field_value": "http://www.arrow.com",
+            "row_count": 1,
+            "ratio_percent": 0.31347962382445144
+        },
+        {
+            "field_value": "http://www.raytheon.com",
+            "row_count": 1,
+            "ratio_percent": 0.31347962382445144
+        },
+        {
+            "field_value": "http://www.allstate.com",
+            "row_count": 1,
+            "ratio_percent": 0.31347962382445144
+        }
+    ]
+}
+@endjson

@@ -1,0 +1,24 @@
+[
+    {
+        "INSTANCE_NAME": "orcl_dev",
+        "INSTANCE_ROLE": "PRIMARY_INSTANCE",
+        "HOST_NAME": "mydevserver-dev",
+        "FAMILY": null,
+        "EDITION": "SE",
+        "VERSION": "12.1.0.2.0",
+        "STARTUP_TIME": "2022-11-07 11:26:39",
+        "STATUS": "OPEN",
+        "ACTIVE_STATE": "NORMAL",
+        "PARALLEL": "NO",
+        "ARCHIVER": "STOPPED",
+        "LOGINS": "ALLOWED",
+        "SHUTDOWN_PENDING": "NO",
+        "DATABASE_STATUS": "ACTIVE",
+        "DATA_DIR_PATH": "/u02/orcl_dev/",
+        "REDO_LOG_PATH": "/u02/orcl_dev/redo03.log",
+        "ARCHIVE_LOG_PATH": "/u05/oraarch/orcl_dev",
+        "ALERT_LOG_PATH": "/u01/oracle/product/12.1.0/dbhome_1/rdbms/log",
+        "CONTROL_FILE_PATH": "/u08/orcl_dev/control01.ctl, /u07/orcl_dev/control02.ctl",
+        "RECOVERY_FILE_PATH": "/u07"
+    }
+]

@@ -1,0 +1,338 @@
+[
+    {
+        "table": "OT.LOCATIONS",
+        "total_records": 23,
+        "dataset": [
+            {
+                "field": "ADDRESS",
+                "distribution": [
+                    {
+                        "field_value": "1297 Via Cola di Rie",
+                        "row_count": 1,
+                        "ratio_percent": 4.3478260869565215
+                    },
+                    {
+                        "field_value": "1298 Vileparle (E)",
+                        "row_count": 1,
+                        "ratio_percent": 4.3478260869565215
+                    },
+                    {
+                        "field_value": "9450 Kamiya-cho",
+                        "row_count": 1,
+                        "ratio_percent": 4.3478260869565215
+                    },
+                    {
+                        "field_value": "2011 Interiors Blvd",
+                        "row_count": 1,
+                        "ratio_percent": 4.3478260869565215
+                    },
+                    {
+                        "field_value": "2004 Charade Rd",
+                        "row_count": 1,
+                        "ratio_percent": 4.3478260869565215
+                    },
+                    {
+                        "field_value": "Mariano Escobedo 9991",
+                        "row_count": 1,
+                        "ratio_percent": 4.3478260869565215
+                    },
+                    {
+                        "field_value": "20 Rue des Corps-Saints",
+                        "row_count": 1,
+                        "ratio_percent": 4.3478260869565215
+                    },
+                    {
+                        "field_value": "Pieter Breughelstraat 837",
+                        "row_count": 1,
+                        "ratio_percent": 4.3478260869565215
+                    },
+                    {
+                        "field_value": "2007 Zagora St",
+                        "row_count": 1,
+                        "ratio_percent": 4.3478260869565215
+                    },
+                    {
+                        "field_value": "9702 Chester Road",
+                        "row_count": 1,
+                        "ratio_percent": 4.3478260869565215
+                    }
+                ]
+            },
+            {
+                "field": "CITY",
+                "distribution": [
+                    {
+                        "field_value": "Venice",
+                        "row_count": 1,
+                        "ratio_percent": 4.3478260869565215
+                    },
+                    {
+                        "field_value": "Tokyo",
+                        "row_count": 1,
+                        "ratio_percent": 4.3478260869565215
+                    },
+                    {
+                        "field_value": "Sydney",
+                        "row_count": 1,
+                        "ratio_percent": 4.3478260869565215
+                    },
+                    {
+                        "field_value": "London",
+                        "row_count": 1,
+                        "ratio_percent": 4.3478260869565215
+                    },
+                    {
+                        "field_value": "Beijing",
+                        "row_count": 1,
+                        "ratio_percent": 4.3478260869565215
+                    },
+                    {
+                        "field_value": "Bombay",
+                        "row_count": 1,
+                        "ratio_percent": 4.3478260869565215
+                    },
+                    {
+                        "field_value": "Stretford",
+                        "row_count": 1,
+                        "ratio_percent": 4.3478260869565215
+                    },
+                    {
+                        "field_value": "Seattle",
+                        "row_count": 1,
+                        "ratio_percent": 4.3478260869565215
+                    },
+                    {
+                        "field_value": "Mexico City",
+                        "row_count": 1,
+                        "ratio_percent": 4.3478260869565215
+                    },
+                    {
+                        "field_value": "Whitehorse",
+                        "row_count": 1,
+                        "ratio_percent": 4.3478260869565215
+                    }
+                ]
+            },
+            {
+                "field": "COUNTRY_ID",
+                "distribution": [
+                    {
+                        "field_value": "US",
+                        "row_count": 4,
+                        "ratio_percent": 17.391304347826086
+                    },
+                    {
+                        "field_value": "UK",
+                        "row_count": 3,
+                        "ratio_percent": 13.043478260869565
+                    },
+                    {
+                        "field_value": "JP",
+                        "row_count": 2,
+                        "ratio_percent": 8.695652173913043
+                    },
+                    {
+                        "field_value": "CA",
+                        "row_count": 2,
+                        "ratio_percent": 8.695652173913043
+                    },
+                    {
+                        "field_value": "IT",
+                        "row_count": 2,
+                        "ratio_percent": 8.695652173913043
+                    },
+                    {
+                        "field_value": "CH",
+                        "row_count": 2,
+                        "ratio_percent": 8.695652173913043
+                    },
+                    {
+                        "field_value": "SG",
+                        "row_count": 1,
+                        "ratio_percent": 4.3478260869565215
+                    },
+                    {
+                        "field_value": "CN",
+                        "row_count": 1,
+                        "ratio_percent": 4.3478260869565215
+                    },
+                    {
+                        "field_value": "DE",
+                        "row_count": 1,
+                        "ratio_percent": 4.3478260869565215
+                    },
+                    {
+                        "field_value": "IN",
+                        "row_count": 1,
+                        "ratio_percent": 4.3478260869565215
+                    }
+                ]
+            },
+            {
+                "field": "LOCATION_ID",
+                "distribution": [
+                    {
+                        "field_value": "1",
+                        "row_count": 1,
+                        "ratio_percent": 4.3478260869565215
+                    },
+                    {
+                        "field_value": "2",
+                        "row_count": 1,
+                        "ratio_percent": 4.3478260869565215
+                    },
+                    {
+                        "field_value": "3",
+                        "row_count": 1,
+                        "ratio_percent": 4.3478260869565215
+                    },
+                    {
+                        "field_value": "4",
+                        "row_count": 1,
+                        "ratio_percent": 4.3478260869565215
+                    },
+                    {
+                        "field_value": "10",
+                        "row_count": 1,
+                        "ratio_percent": 4.3478260869565215
+                    },
+                    {
+                        "field_value": "6",
+                        "row_count": 1,
+                        "ratio_percent": 4.3478260869565215
+                    },
+                    {
+                        "field_value": "7",
+                        "row_count": 1,
+                        "ratio_percent": 4.3478260869565215
+                    },
+                    {
+                        "field_value": "8",
+                        "row_count": 1,
+                        "ratio_percent": 4.3478260869565215
+                    },
+                    {
+                        "field_value": "9",
+                        "row_count": 1,
+                        "ratio_percent": 4.3478260869565215
+                    },
+                    {
+                        "field_value": "5",
+                        "row_count": 1,
+                        "ratio_percent": 4.3478260869565215
+                    }
+                ]
+            },
+            {
+                "field": "POSTAL_CODE",
+                "distribution": [
+                    {
+                        "field_value": "10934",
+                        "row_count": 1,
+                        "ratio_percent": 4.3478260869565215
+                    },
+                    {
+                        "field_value": "YSW 9T2",
+                        "row_count": 1,
+                        "ratio_percent": 4.3478260869565215
+                    },
+                    {
+                        "field_value": "**NULL**",
+                        "row_count": 1,
+                        "ratio_percent": 4.3478260869565215
+                    },
+                    {
+                        "field_value": "2901",
+                        "row_count": 1,
+                        "ratio_percent": 4.3478260869565215
+                    },
+                    {
+                        "field_value": "98199",
+                        "row_count": 1,
+                        "ratio_percent": 4.3478260869565215
+                    },
+                    {
+                        "field_value": "M5V 2L7",
+                        "row_count": 1,
+                        "ratio_percent": 4.3478260869565215
+                    },
+                    {
+                        "field_value": "01307-002",
+                        "row_count": 1,
+                        "ratio_percent": 4.3478260869565215
+                    },
+                    {
+                        "field_value": "11932",
+                        "row_count": 1,
+                        "ratio_percent": 4.3478260869565215
+                    },
+                    {
+                        "field_value": "00989",
+                        "row_count": 1,
+                        "ratio_percent": 4.3478260869565215
+                    },
+                    {
+                        "field_value": "26192",
+                        "row_count": 1,
+                        "ratio_percent": 4.3478260869565215
+                    }
+                ]
+            },
+            {
+                "field": "STATE",
+                "distribution": [
+                    {
+                        "field_value": "**NULL**",
+                        "row_count": 6,
+                        "ratio_percent": 26.08695652173913
+                    },
+                    {
+                        "field_value": "Distrito Federal,",
+                        "row_count": 1,
+                        "ratio_percent": 4.3478260869565215
+                    },
+                    {
+                        "field_value": "Texas",
+                        "row_count": 1,
+                        "ratio_percent": 4.3478260869565215
+                    },
+                    {
+                        "field_value": "Sao Paulo",
+                        "row_count": 1,
+                        "ratio_percent": 4.3478260869565215
+                    },
+                    {
+                        "field_value": "New South Wales",
+                        "row_count": 1,
+                        "ratio_percent": 4.3478260869565215
+                    },
+                    {
+                        "field_value": "BE",
+                        "row_count": 1,
+                        "ratio_percent": 4.3478260869565215
+                    },
+                    {
+                        "field_value": "Geneve",
+                        "row_count": 1,
+                        "ratio_percent": 4.3478260869565215
+                    },
+                    {
+                        "field_value": "Tokyo Prefecture",
+                        "row_count": 1,
+                        "ratio_percent": 4.3478260869565215
+                    },
+                    {
+                        "field_value": "Maharashtra",
+                        "row_count": 1,
+                        "ratio_percent": 4.3478260869565215
+                    },
+                    {
+                        "field_value": "Bavaria",
+                        "row_count": 1,
+                        "ratio_percent": 4.3478260869565215
+                    }
+                ]
+            }
+        ]
+    }
+]

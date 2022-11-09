@@ -1,0 +1,62 @@
+@startjson
+{
+    "field1": "COUNTRY_ID",
+    "combination": "COUNTRY_ID",
+    "null_distribution": {
+        "total_null_rows": 0,
+        "total_not_null_rows": 25
+    },
+    "data_distribution": [
+        {
+            "field_value": "AR",
+            "row_count": 1,
+            "ratio_percent": 4.0
+        },
+        {
+            "field_value": "AU",
+            "row_count": 1,
+            "ratio_percent": 4.0
+        },
+        {
+            "field_value": "BE",
+            "row_count": 1,
+            "ratio_percent": 4.0
+        },
+        {
+            "field_value": "BR",
+            "row_count": 1,
+            "ratio_percent": 4.0
+        },
+        {
+            "field_value": "EG",
+            "row_count": 1,
+            "ratio_percent": 4.0
+        },
+        {
+            "field_value": "CH",
+            "row_count": 1,
+            "ratio_percent": 4.0
+        },
+        {
+            "field_value": "CN",
+            "row_count": 1,
+            "ratio_percent": 4.0
+        },
+        {
+            "field_value": "DE",
+            "row_count": 1,
+            "ratio_percent": 4.0
+        },
+        {
+            "field_value": "DK",
+            "row_count": 1,
+            "ratio_percent": 4.0
+        },
+        {
+            "field_value": "CA",
+            "row_count": 1,
+            "ratio_percent": 4.0
+        }
+    ]
+}
+@endjson

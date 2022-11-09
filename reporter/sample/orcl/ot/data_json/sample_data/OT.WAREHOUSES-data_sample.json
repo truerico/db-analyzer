@@ -1,0 +1,32 @@
+[
+    {
+        "WAREHOUSE_ID": 3,
+        "WAREHOUSE_NAME": "New Jersey",
+        "LOCATION_ID": 7,
+        "SYS_EXEC_DURATION": "0.25329"
+    },
+    {
+        "WAREHOUSE_ID": 7,
+        "WAREHOUSE_NAME": "Mexico City",
+        "LOCATION_ID": 23,
+        "SYS_EXEC_DURATION": "0.253543"
+    },
+    {
+        "WAREHOUSE_ID": 4,
+        "WAREHOUSE_NAME": "Seattle, Washington",
+        "LOCATION_ID": 8,
+        "SYS_EXEC_DURATION": "0.253578"
+    },
+    {
+        "WAREHOUSE_ID": 6,
+        "WAREHOUSE_NAME": "Sydney",
+        "LOCATION_ID": 13,
+        "SYS_EXEC_DURATION": "0.253604"
+    },
+    {
+        "WAREHOUSE_ID": 8,
+        "WAREHOUSE_NAME": "Beijing",
+        "LOCATION_ID": 11,
+        "SYS_EXEC_DURATION": "0.25363"
+    }
+]

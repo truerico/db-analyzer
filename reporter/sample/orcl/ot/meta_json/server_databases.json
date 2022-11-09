@@ -1,0 +1,12 @@
+[
+    {
+        "DB_USERNAME": "OT",
+        "USER_ID": 1274,
+        "ACCOUNT_STATUS": "OPEN",
+        "DEFAULT_TABLESPACE": "USERS",
+        "TEMPORARY_TABLESPACE": "TEMP",
+        "ORACLE_MAINTAINED": "N",
+        "CREATED": "2022-11-04 09:34:09",
+        "LAST_LOGIN": "2022-11-08 15:02:35"
+    }
+]

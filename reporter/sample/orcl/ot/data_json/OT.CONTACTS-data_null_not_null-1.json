@@ -1,0 +1,38 @@
+[
+    {
+        "table": "OT.CONTACTS",
+        "total_records": 319,
+        "dataset": [
+            {
+                "field": "CONTACT_ID",
+                "total_null_rows": 0,
+                "total_not_null_rows": 319
+            },
+            {
+                "field": "CUSTOMER_ID",
+                "total_null_rows": 0,
+                "total_not_null_rows": 319
+            },
+            {
+                "field": "EMAIL",
+                "total_null_rows": 0,
+                "total_not_null_rows": 319
+            },
+            {
+                "field": "FIRST_NAME",
+                "total_null_rows": 0,
+                "total_not_null_rows": 319
+            },
+            {
+                "field": "LAST_NAME",
+                "total_null_rows": 0,
+                "total_not_null_rows": 319
+            },
+            {
+                "field": "PHONE",
+                "total_null_rows": 0,
+                "total_not_null_rows": 319
+            }
+        ]
+    }
+]

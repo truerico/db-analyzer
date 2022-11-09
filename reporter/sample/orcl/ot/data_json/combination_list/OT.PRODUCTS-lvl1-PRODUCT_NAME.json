@@ -1,0 +1,62 @@
+@startjson
+{
+    "field1": "PRODUCT_NAME",
+    "combination": "PRODUCT_NAME",
+    "null_distribution": {
+        "total_null_rows": 0,
+        "total_not_null_rows": 288
+    },
+    "data_distribution": [
+        {
+            "field_value": "G.Skill Ripjaws V Series",
+            "row_count": 14,
+            "ratio_percent": 4.861111111111111
+        },
+        {
+            "field_value": "Corsair Dominator Platinum",
+            "row_count": 10,
+            "ratio_percent": 3.4722222222222223
+        },
+        {
+            "field_value": "G.Skill Trident Z",
+            "row_count": 10,
+            "ratio_percent": 3.4722222222222223
+        },
+        {
+            "field_value": "Corsair Vengeance LPX",
+            "row_count": 8,
+            "ratio_percent": 2.7777777777777777
+        },
+        {
+            "field_value": "Kingston",
+            "row_count": 4,
+            "ratio_percent": 1.3888888888888888
+        },
+        {
+            "field_value": "Crucial",
+            "row_count": 4,
+            "ratio_percent": 1.3888888888888888
+        },
+        {
+            "field_value": "G.Skill Trident Z RGB",
+            "row_count": 2,
+            "ratio_percent": 0.6944444444444444
+        },
+        {
+            "field_value": "G.Skill Ripjaws 4 Series",
+            "row_count": 2,
+            "ratio_percent": 0.6944444444444444
+        },
+        {
+            "field_value": "EVGA 11G-P4-6598-KR",
+            "row_count": 1,
+            "ratio_percent": 0.3472222222222222
+        },
+        {
+            "field_value": "Asus X99-DELUXE II",
+            "row_count": 1,
+            "ratio_percent": 0.3472222222222222
+        }
+    ]
+}
+@endjson

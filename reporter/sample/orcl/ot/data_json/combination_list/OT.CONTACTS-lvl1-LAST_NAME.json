@@ -1,0 +1,62 @@
+@startjson
+{
+    "field1": "LAST_NAME",
+    "combination": "LAST_NAME",
+    "null_distribution": {
+        "total_null_rows": 0,
+        "total_not_null_rows": 319
+    },
+    "data_distribution": [
+        {
+            "field_value": "Schneider",
+            "row_count": 3,
+            "ratio_percent": 0.9404388714733543
+        },
+        {
+            "field_value": "Elliott",
+            "row_count": 3,
+            "ratio_percent": 0.9404388714733543
+        },
+        {
+            "field_value": "Estrada",
+            "row_count": 3,
+            "ratio_percent": 0.9404388714733543
+        },
+        {
+            "field_value": "Cain",
+            "row_count": 3,
+            "ratio_percent": 0.9404388714733543
+        },
+        {
+            "field_value": "Rutledge",
+            "row_count": 2,
+            "ratio_percent": 0.6269592476489029
+        },
+        {
+            "field_value": "Walters",
+            "row_count": 2,
+            "ratio_percent": 0.6269592476489029
+        },
+        {
+            "field_value": "Calhoun",
+            "row_count": 2,
+            "ratio_percent": 0.6269592476489029
+        },
+        {
+            "field_value": "Stokes",
+            "row_count": 2,
+            "ratio_percent": 0.6269592476489029
+        },
+        {
+            "field_value": "Hill",
+            "row_count": 2,
+            "ratio_percent": 0.6269592476489029
+        },
+        {
+            "field_value": "Wilkinson",
+            "row_count": 2,
+            "ratio_percent": 0.6269592476489029
+        }
+    ]
+}
+@endjson

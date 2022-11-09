@@ -1,0 +1,58 @@
+[
+    {
+        "table": "OT.REGIONS",
+        "total_records": 4,
+        "dataset": [
+            {
+                "field": "REGION_ID",
+                "distribution": [
+                    {
+                        "field_value": "1",
+                        "row_count": 1,
+                        "ratio_percent": 25.0
+                    },
+                    {
+                        "field_value": "4",
+                        "row_count": 1,
+                        "ratio_percent": 25.0
+                    },
+                    {
+                        "field_value": "3",
+                        "row_count": 1,
+                        "ratio_percent": 25.0
+                    },
+                    {
+                        "field_value": "2",
+                        "row_count": 1,
+                        "ratio_percent": 25.0
+                    }
+                ]
+            },
+            {
+                "field": "REGION_NAME",
+                "distribution": [
+                    {
+                        "field_value": "Middle East and Africa",
+                        "row_count": 1,
+                        "ratio_percent": 25.0
+                    },
+                    {
+                        "field_value": "Americas",
+                        "row_count": 1,
+                        "ratio_percent": 25.0
+                    },
+                    {
+                        "field_value": "Asia",
+                        "row_count": 1,
+                        "ratio_percent": 25.0
+                    },
+                    {
+                        "field_value": "Europe",
+                        "row_count": 1,
+                        "ratio_percent": 25.0
+                    }
+                ]
+            }
+        ]
+    }
+]

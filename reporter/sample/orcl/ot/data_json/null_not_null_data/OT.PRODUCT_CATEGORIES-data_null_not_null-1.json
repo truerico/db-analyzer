@@ -1,0 +1,18 @@
+[
+    {
+        "table": "OT.PRODUCT_CATEGORIES",
+        "total_records": 5,
+        "dataset": [
+            {
+                "field": "CATEGORY_ID",
+                "total_null_rows": 0,
+                "total_not_null_rows": 5
+            },
+            {
+                "field": "CATEGORY_NAME",
+                "total_null_rows": 0,
+                "total_not_null_rows": 5
+            }
+        ]
+    }
+]

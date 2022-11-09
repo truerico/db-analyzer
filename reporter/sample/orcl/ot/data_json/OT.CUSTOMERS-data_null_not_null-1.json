@@ -1,0 +1,33 @@
+[
+    {
+        "table": "OT.CUSTOMERS",
+        "total_records": 319,
+        "dataset": [
+            {
+                "field": "ADDRESS",
+                "total_null_rows": 0,
+                "total_not_null_rows": 319
+            },
+            {
+                "field": "CUSTOMER_ID",
+                "total_null_rows": 0,
+                "total_not_null_rows": 319
+            },
+            {
+                "field": "CREDIT_LIMIT",
+                "total_null_rows": 0,
+                "total_not_null_rows": 319
+            },
+            {
+                "field": "NAME",
+                "total_null_rows": 0,
+                "total_not_null_rows": 319
+            },
+            {
+                "field": "WEBSITE",
+                "total_null_rows": 0,
+                "total_not_null_rows": 319
+            }
+        ]
+    }
+]

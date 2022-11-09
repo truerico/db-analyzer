@@ -1,0 +1,62 @@
+@startjson
+{
+    "field1": "NAME",
+    "combination": "NAME",
+    "null_distribution": {
+        "total_null_rows": 0,
+        "total_not_null_rows": 319
+    },
+    "data_distribution": [
+        {
+            "field_value": "Alphabet",
+            "row_count": 1,
+            "ratio_percent": 0.31347962382445144
+        },
+        {
+            "field_value": "Dow Chemical",
+            "row_count": 1,
+            "ratio_percent": 0.31347962382445144
+        },
+        {
+            "field_value": "Coca-Cola",
+            "row_count": 1,
+            "ratio_percent": 0.31347962382445144
+        },
+        {
+            "field_value": "Merck",
+            "row_count": 1,
+            "ratio_percent": 0.31347962382445144
+        },
+        {
+            "field_value": "U.S. Bancorp",
+            "row_count": 1,
+            "ratio_percent": 0.31347962382445144
+        },
+        {
+            "field_value": "McDonald?s",
+            "row_count": 1,
+            "ratio_percent": 0.31347962382445144
+        },
+        {
+            "field_value": "Capital One Financial",
+            "row_count": 1,
+            "ratio_percent": 0.31347962382445144
+        },
+        {
+            "field_value": "Halliburton",
+            "row_count": 1,
+            "ratio_percent": 0.31347962382445144
+        },
+        {
+            "field_value": "AbbVie",
+            "row_count": 1,
+            "ratio_percent": 0.31347962382445144
+        },
+        {
+            "field_value": "World Fuel Services",
+            "row_count": 1,
+            "ratio_percent": 0.31347962382445144
+        }
+    ]
+}
+@endjson

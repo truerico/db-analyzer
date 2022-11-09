@@ -1,0 +1,338 @@
+[
+    {
+        "table": "OT.CONTACTS",
+        "total_records": 319,
+        "dataset": [
+            {
+                "field": "CONTACT_ID",
+                "distribution": [
+                    {
+                        "field_value": "1",
+                        "row_count": 1,
+                        "ratio_percent": 0.31347962382445144
+                    },
+                    {
+                        "field_value": "2",
+                        "row_count": 1,
+                        "ratio_percent": 0.31347962382445144
+                    },
+                    {
+                        "field_value": "3",
+                        "row_count": 1,
+                        "ratio_percent": 0.31347962382445144
+                    },
+                    {
+                        "field_value": "4",
+                        "row_count": 1,
+                        "ratio_percent": 0.31347962382445144
+                    },
+                    {
+                        "field_value": "10",
+                        "row_count": 1,
+                        "ratio_percent": 0.31347962382445144
+                    },
+                    {
+                        "field_value": "6",
+                        "row_count": 1,
+                        "ratio_percent": 0.31347962382445144
+                    },
+                    {
+                        "field_value": "7",
+                        "row_count": 1,
+                        "ratio_percent": 0.31347962382445144
+                    },
+                    {
+                        "field_value": "8",
+                        "row_count": 1,
+                        "ratio_percent": 0.31347962382445144
+                    },
+                    {
+                        "field_value": "9",
+                        "row_count": 1,
+                        "ratio_percent": 0.31347962382445144
+                    },
+                    {
+                        "field_value": "5",
+                        "row_count": 1,
+                        "ratio_percent": 0.31347962382445144
+                    }
+                ]
+            },
+            {
+                "field": "CUSTOMER_ID",
+                "distribution": [
+                    {
+                        "field_value": "123",
+                        "row_count": 1,
+                        "ratio_percent": 0.31347962382445144
+                    },
+                    {
+                        "field_value": "129",
+                        "row_count": 1,
+                        "ratio_percent": 0.31347962382445144
+                    },
+                    {
+                        "field_value": "138",
+                        "row_count": 1,
+                        "ratio_percent": 0.31347962382445144
+                    },
+                    {
+                        "field_value": "151",
+                        "row_count": 1,
+                        "ratio_percent": 0.31347962382445144
+                    },
+                    {
+                        "field_value": "179",
+                        "row_count": 1,
+                        "ratio_percent": 0.31347962382445144
+                    },
+                    {
+                        "field_value": "153",
+                        "row_count": 1,
+                        "ratio_percent": 0.31347962382445144
+                    },
+                    {
+                        "field_value": "167",
+                        "row_count": 1,
+                        "ratio_percent": 0.31347962382445144
+                    },
+                    {
+                        "field_value": "168",
+                        "row_count": 1,
+                        "ratio_percent": 0.31347962382445144
+                    },
+                    {
+                        "field_value": "173",
+                        "row_count": 1,
+                        "ratio_percent": 0.31347962382445144
+                    },
+                    {
+                        "field_value": "152",
+                        "row_count": 1,
+                        "ratio_percent": 0.31347962382445144
+                    }
+                ]
+            },
+            {
+                "field": "EMAIL",
+                "distribution": [
+                    {
+                        "field_value": "kellee.molina@hp.com",
+                        "row_count": 1,
+                        "ratio_percent": 0.31347962382445144
+                    },
+                    {
+                        "field_value": "neda.mcfadden@bankofamerica.com",
+                        "row_count": 1,
+                        "ratio_percent": 0.31347962382445144
+                    },
+                    {
+                        "field_value": "leandro.west@marathonpetroleum.com",
+                        "row_count": 1,
+                        "ratio_percent": 0.31347962382445144
+                    },
+                    {
+                        "field_value": "lino.noble@caterpillar.com",
+                        "row_count": 1,
+                        "ratio_percent": 0.31347962382445144
+                    },
+                    {
+                        "field_value": "heidy.massey@massmutual.com",
+                        "row_count": 1,
+                        "ratio_percent": 0.31347962382445144
+                    },
+                    {
+                        "field_value": "amado.jefferson@energytransfer.com",
+                        "row_count": 1,
+                        "ratio_percent": 0.31347962382445144
+                    },
+                    {
+                        "field_value": "audrie.cannon@delta.com",
+                        "row_count": 1,
+                        "ratio_percent": 0.31347962382445144
+                    },
+                    {
+                        "field_value": "jame.calhoun@bestbuy.com",
+                        "row_count": 1,
+                        "ratio_percent": 0.31347962382445144
+                    },
+                    {
+                        "field_value": "jackeline.finley@mastercard.com",
+                        "row_count": 1,
+                        "ratio_percent": 0.31347962382445144
+                    },
+                    {
+                        "field_value": "heike.emerson@newyorklife.com",
+                        "row_count": 1,
+                        "ratio_percent": 0.31347962382445144
+                    }
+                ]
+            },
+            {
+                "field": "FIRST_NAME",
+                "distribution": [
+                    {
+                        "field_value": "Maurice",
+                        "row_count": 3,
+                        "ratio_percent": 0.9404388714733543
+                    },
+                    {
+                        "field_value": "Geraldine",
+                        "row_count": 2,
+                        "ratio_percent": 0.6269592476489029
+                    },
+                    {
+                        "field_value": "Sherron",
+                        "row_count": 2,
+                        "ratio_percent": 0.6269592476489029
+                    },
+                    {
+                        "field_value": "Tandy",
+                        "row_count": 2,
+                        "ratio_percent": 0.6269592476489029
+                    },
+                    {
+                        "field_value": "Keesha",
+                        "row_count": 2,
+                        "ratio_percent": 0.6269592476489029
+                    },
+                    {
+                        "field_value": "Matthias",
+                        "row_count": 2,
+                        "ratio_percent": 0.6269592476489029
+                    },
+                    {
+                        "field_value": "Maryrose",
+                        "row_count": 2,
+                        "ratio_percent": 0.6269592476489029
+                    },
+                    {
+                        "field_value": "Jame",
+                        "row_count": 2,
+                        "ratio_percent": 0.6269592476489029
+                    },
+                    {
+                        "field_value": "Princess",
+                        "row_count": 2,
+                        "ratio_percent": 0.6269592476489029
+                    },
+                    {
+                        "field_value": "Shelia",
+                        "row_count": 2,
+                        "ratio_percent": 0.6269592476489029
+                    }
+                ]
+            },
+            {
+                "field": "LAST_NAME",
+                "distribution": [
+                    {
+                        "field_value": "Schneider",
+                        "row_count": 3,
+                        "ratio_percent": 0.9404388714733543
+                    },
+                    {
+                        "field_value": "Elliott",
+                        "row_count": 3,
+                        "ratio_percent": 0.9404388714733543
+                    },
+                    {
+                        "field_value": "Estrada",
+                        "row_count": 3,
+                        "ratio_percent": 0.9404388714733543
+                    },
+                    {
+                        "field_value": "Cain",
+                        "row_count": 3,
+                        "ratio_percent": 0.9404388714733543
+                    },
+                    {
+                        "field_value": "Rutledge",
+                        "row_count": 2,
+                        "ratio_percent": 0.6269592476489029
+                    },
+                    {
+                        "field_value": "Walters",
+                        "row_count": 2,
+                        "ratio_percent": 0.6269592476489029
+                    },
+                    {
+                        "field_value": "Calhoun",
+                        "row_count": 2,
+                        "ratio_percent": 0.6269592476489029
+                    },
+                    {
+                        "field_value": "Stokes",
+                        "row_count": 2,
+                        "ratio_percent": 0.6269592476489029
+                    },
+                    {
+                        "field_value": "Hill",
+                        "row_count": 2,
+                        "ratio_percent": 0.6269592476489029
+                    },
+                    {
+                        "field_value": "Wilkinson",
+                        "row_count": 2,
+                        "ratio_percent": 0.6269592476489029
+                    }
+                ]
+            },
+            {
+                "field": "PHONE",
+                "distribution": [
+                    {
+                        "field_value": "+1 215 123 4738",
+                        "row_count": 1,
+                        "ratio_percent": 0.31347962382445144
+                    },
+                    {
+                        "field_value": "+1 410 123 4795",
+                        "row_count": 1,
+                        "ratio_percent": 0.31347962382445144
+                    },
+                    {
+                        "field_value": "+1 301 123 4818",
+                        "row_count": 1,
+                        "ratio_percent": 0.31347962382445144
+                    },
+                    {
+                        "field_value": "+1 507 123 4387",
+                        "row_count": 1,
+                        "ratio_percent": 0.31347962382445144
+                    },
+                    {
+                        "field_value": "+39 10 012 4363",
+                        "row_count": 1,
+                        "ratio_percent": 0.31347962382445144
+                    },
+                    {
+                        "field_value": "+1 320 123 4385",
+                        "row_count": 1,
+                        "ratio_percent": 0.31347962382445144
+                    },
+                    {
+                        "field_value": "+1 414 123 4340",
+                        "row_count": 1,
+                        "ratio_percent": 0.31347962382445144
+                    },
+                    {
+                        "field_value": "+1 315 123 4585",
+                        "row_count": 1,
+                        "ratio_percent": 0.31347962382445144
+                    },
+                    {
+                        "field_value": "+1 215 123 4751",
+                        "row_count": 1,
+                        "ratio_percent": 0.31347962382445144
+                    },
+                    {
+                        "field_value": "+1 219 123 4145",
+                        "row_count": 1,
+                        "ratio_percent": 0.31347962382445144
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,62 @@
+@startjson
+{
+    "field1": "ORDER_ID",
+    "combination": "ORDER_ID",
+    "null_distribution": {
+        "total_null_rows": 0,
+        "total_not_null_rows": 665
+    },
+    "data_distribution": [
+        {
+            "field_value": "1",
+            "row_count": 13,
+            "ratio_percent": 1.9548872180451127
+        },
+        {
+            "field_value": "27",
+            "row_count": 13,
+            "ratio_percent": 1.9548872180451127
+        },
+        {
+            "field_value": "22",
+            "row_count": 13,
+            "ratio_percent": 1.9548872180451127
+        },
+        {
+            "field_value": "12",
+            "row_count": 12,
+            "ratio_percent": 1.8045112781954886
+        },
+        {
+            "field_value": "58",
+            "row_count": 12,
+            "ratio_percent": 1.8045112781954886
+        },
+        {
+            "field_value": "29",
+            "row_count": 11,
+            "ratio_percent": 1.6541353383458646
+        },
+        {
+            "field_value": "87",
+            "row_count": 11,
+            "ratio_percent": 1.6541353383458646
+        },
+        {
+            "field_value": "75",
+            "row_count": 11,
+            "ratio_percent": 1.6541353383458646
+        },
+        {
+            "field_value": "46",
+            "row_count": 11,
+            "ratio_percent": 1.6541353383458646
+        },
+        {
+            "field_value": "40",
+            "row_count": 11,
+            "ratio_percent": 1.6541353383458646
+        }
+    ]
+}
+@endjson

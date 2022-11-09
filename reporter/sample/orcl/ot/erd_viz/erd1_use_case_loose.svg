@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentStyleType="text/css" height="669px" preserveAspectRatio="none" style="width:757px;height:669px;background:#FFFFFF;" version="1.1" viewBox="0 0 757 669" width="757px" zoomAndPan="magnify"><defs/><g><rect fill="#DDDDDD" height="26.4883" id="_title" rx="7.5" ry="7.5" style="stroke:#000000;stroke-width:2.0;" width="225" x="259.3868" y="5"/><text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="215" x="264.3868" y="23.5352">:: use case - rds copyright © ::</text><g id="elem_ot_contacts"><ellipse cx="88.1509" cy="308.4315" fill="#D3D3D3" rx="49.6509" ry="36.4432" style="stroke:#181818;stroke-width:0.5;"/><text fill="#000000" font-family="sans-serif" font-size="14" font-style="italic" lengthAdjust="spacing" textLength="52" x="58.0448" y="295.8729">«Table»</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="18" x="75.0448" y="312.3612">ot.</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="57" x="55.5448" y="328.8494">contacts</text></g><g id="elem_ot_countries"><ellipse cx="529.5936" cy="132.4173" fill="#D3D3D3" rx="53.5936" ry="35.929" style="stroke:#181818;stroke-width:0.5;"/><text fill="#000000" font-family="sans-serif" font-size="14" font-style="italic" lengthAdjust="spacing" textLength="52" x="499.4295" y="118.9691">«Table»</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="18" x="516.4295" y="135.4574">ot.</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="64" x="493.4295" y="151.9456">countries</text></g><g id="elem_ot_customers"><ellipse cx="88.1274" cy="415.5442" fill="#D3D3D3" rx="57.6274" ry="35.5559" style="stroke:#181818;stroke-width:0.5;"/><text fill="#000000" font-family="sans-serif" font-size="14" font-style="italic" lengthAdjust="spacing" textLength="52" x="57.9015" y="401.4142">«Table»</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="18" x="74.9015" y="417.9025">ot.</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="71" x="48.4015" y="434.3908">customers</text></g><g id="elem_ot_employees"><ellipse cx="306.2932" cy="308.4565" fill="#D3D3D3" rx="58.7932" ry="35.4682" style="stroke:#181818;stroke-width:0.5;"/><text fill="#000000" font-family="sans-serif" font-size="14" font-style="italic" lengthAdjust="spacing" textLength="52" x="276.0489" y="294.1608">«Table»</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="18" x="293.0489" y="310.6491">ot.</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="73" x="265.5489" y="327.1374">employees</text></g><g id="elem_ot_inventories"><ellipse cx="88.051" cy="522.3377" fill="#D3D3D3" rx="60.551" ry="35.3495" style="stroke:#181818;stroke-width:0.5;"/><text fill="#000000" font-family="sans-serif" font-size="14" font-style="italic" lengthAdjust="spacing" textLength="52" x="57.7791" y="507.8134">«Table»</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="18" x="74.7791" y="524.3016">ot.</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="76" x="45.7791" y="540.7899">inventories</text></g><g id="elem_ot_locations"><ellipse cx="306.4565" cy="79.5472" fill="#D3D3D3" rx="52.4565" ry="36.0589" style="stroke:#181818;stroke-width:0.5;"/><text fill="#000000" font-family="sans-serif" font-size="14" font-style="italic" lengthAdjust="spacing" textLength="52" x="276.3094" y="66.3285">«Table»</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="18" x="293.3094" y="82.8168">ot.</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="62" x="271.3094" y="99.3051">locations</text></g><g id="elem_ot_orders"><ellipse cx="306.3964" cy="415.5054" fill="#D3D3D3" rx="44.8964" ry="36.5172" style="stroke:#181818;stroke-width:0.5;"/><text fill="#000000" font-family="sans-serif" font-size="14" font-style="italic" lengthAdjust="spacing" textLength="52" x="279.1464" y="403.0347">«Table»</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="18" x="296.1464" y="419.523">ot.</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="45" x="282.6464" y="436.0113">orders</text></g><g id="elem_ot_order_items"><ellipse cx="529.5959" cy="520.6383" fill="#D3D3D3" rx="64.0959" ry="35.15" style="stroke:#181818;stroke-width:0.5;"/><text fill="#000000" font-family="sans-serif" font-size="14" font-style="italic" lengthAdjust="spacing" textLength="52" x="499.2671" y="505.7176">«Table»</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="18" x="516.2671" y="522.2059">ot.</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="82" x="484.2671" y="538.6941">order_items</text></g><g id="elem_ot_products"><ellipse cx="306.391" cy="523.6168" fill="#D3D3D3" rx="51.891" ry="36.1285" style="stroke:#181818;stroke-width:0.5;"/><text fill="#000000" font-family="sans-serif" font-size="14" font-style="italic" lengthAdjust="spacing" textLength="52" x="276.2523" y="510.5198">«Table»</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="18" x="293.2523" y="527.0081">ot.</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="61" x="271.7523" y="543.4964">products</text></g><g id="elem_ot_product_categories"><ellipse cx="306.477" cy="629.4112" fill="#D3D3D3" rx="94.477" ry="34.4229" style="stroke:#181818;stroke-width:0.5;"/><text fill="#000000" font-family="sans-serif" font-size="14" font-style="italic" lengthAdjust="spacing" textLength="52" x="275.6379" y="612.816">«Table»</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="18" x="292.6379" y="629.3043">ot.</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="132" x="235.6379" y="645.7926">product_categories</text></g><g id="elem_ot_regions"><ellipse cx="704.8868" cy="132.4078" fill="#D3D3D3" rx="46.8868" ry="36.9196" style="stroke:#181818;stroke-width:0.5;"/><text fill="#000000" font-family="sans-serif" font-size="14" font-style="italic" lengthAdjust="spacing" textLength="52" x="675.8868" y="119.9371">«Table»</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="18" x="692.8868" y="136.4254">ot.</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="52" x="675.8868" y="152.9137">regions</text></g><g id="elem_ot_warehouses"><ellipse cx="88.0959" cy="140.6383" fill="#D3D3D3" rx="64.0959" ry="35.15" style="stroke:#181818;stroke-width:0.5;"/><text fill="#000000" font-family="sans-serif" font-size="14" font-style="italic" lengthAdjust="spacing" textLength="52" x="57.7671" y="125.7176">«Table»</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="18" x="74.7671" y="142.2059">ot.</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="82" x="42.7671" y="158.6941">warehouses</text></g><g id="elem_ot_country_locations"><ellipse cx="306.2807" cy="185.3336" fill="#9ACD32" rx="87.2807" ry="34.3454" style="stroke:#181818;stroke-width:0.5;"/><text fill="#000000" font-family="sans-serif" font-size="14" font-style="italic" lengthAdjust="spacing" textLength="46" x="278.5777" y="168.7183">«View»</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="18" x="292.5777" y="185.2066">ot.</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="121" x="241.0777" y="201.6948">country_locations</text></g><g id="elem_ot_order_details"><ellipse cx="529.296" cy="415.6535" fill="#9ACD32" rx="68.296" ry="34.6653" style="stroke:#181818;stroke-width:0.5;"/><text fill="#000000" font-family="sans-serif" font-size="14" font-style="italic" lengthAdjust="spacing" textLength="46" x="501.9158" y="399.895">«View»</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="18" x="515.9158" y="416.3832">ot.</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="90" x="479.9158" y="432.8715">order_details</text></g><!--MD5=[819c4769a896981813b3e3411d4c9128]
+link ot_country_locations to ot_countries--><g id="link_ot_country_locations_ot_countries"><path d="M364.8,159.7383 C364.8,159.7383 489.48,159.7383 489.48,159.7383 " fill="none" id="ot_country_locations-to-ot_countries" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="#181818" points="494.48,159.7383,485.48,155.7383,489.48,159.7383,485.48,163.7383,494.48,159.7383" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[a6d88dc925e1328b32f76ddefa399b16]
+reverse link ot_locations to ot_country_locations--><g id="link_ot_locations_ot_country_locations"><path d="M307,120.6683 C307,120.6683 307,150.8983 307,150.8983 " fill="none" id="ot_locations-backto-ot_country_locations" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="#181818" points="307,115.6683,303,124.6683,307,120.6683,311,124.6683,307,115.6683" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[7887b935c73dd1fad794945af4a047bf]
+reverse link ot_orders to ot_order_details--><g id="link_ot_orders_ot_order_details"><path d="M354.23,403.9883 C354.23,403.9883 464.51,403.9883 464.51,403.9883 " fill="none" id="ot_orders-backto-ot_order_details" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="#181818" points="349.23,403.9883,358.23,407.9883,354.23,403.9883,358.23,399.9883,349.23,403.9883" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[440282a9d4b945ce1b2fe3cf872fd459]
+link ot_order_details to ot_order_items--><g id="link_ot_order_details_ot_order_items"><path d="M530,450.1583 C530,450.1583 530,480.1383 530,480.1383 " fill="none" id="ot_order_details-to-ot_order_items" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="#181818" points="530,485.1383,534,476.1383,530,480.1383,526,476.1383,530,485.1383" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[6e8d4de15cb7672ba8afd6f46f3255d4]
+link ot_customers to ot_orders--><g id="link_ot_customers_ot_orders"><path d="M145.69,415.4883 C145.69,415.4883 256.3,415.4883 256.3,415.4883 " fill="none" id="ot_customers-to-ot_orders" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="#181818" points="261.3,415.4883,252.3,411.4883,256.3,415.4883,252.3,419.4883,261.3,415.4883" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[f2155659e246c77186f1c6352c460e93]
+reverse link ot_products to ot_product_categories--><g id="link_ot_products_ot_product_categories"><path d="M307,564.6683 C307,564.6683 307,594.8983 307,594.8983 " fill="none" id="ot_products-backto-ot_product_categories" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="#181818" points="307,559.6683,303,568.6683,307,564.6683,311,568.6683,307,559.6683" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[03f525736568b4490df99e07ceb1bfad]
+reverse link ot_warehouses to ot_locations--><g id="link_ot_warehouses_ot_locations"><path d="M126.19,110.4883 C126.19,110.4883 279.56,110.4883 279.56,110.4883 " fill="none" id="ot_warehouses-backto-ot_locations" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="#181818" points="121.19,110.4883,130.19,114.4883,126.19,110.4883,130.19,106.4883,121.19,110.4883" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[2ff77aa1bbbcc31d4e0424f29400195d]
+link ot_employees to ot_orders--><g id="link_ot_employees_ot_orders"><path d="M307,344.1183 C307,344.1183 307,373.9183 307,373.9183 " fill="none" id="ot_employees-to-ot_orders" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="#181818" points="307,378.9183,311,369.9183,307,373.9183,303,369.9183,307,378.9183" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[7cb39cab8ac9f63abe486ab370254537]
+link ot_employees to ot_employees--><g id="link_ot_employees_ot_employees"><path d="M247.3,308.4883 C239.42,308.4883 234,308.4883 234,308.4883 C234,308.4883 234,361.9883 234,361.9883 C234,361.9883 380,361.9883 380,361.9883 C380,361.9883 380,308.4883 380,308.4883 C380,308.4883 370.83,308.4883 370.83,308.4883 " fill="none" id="ot_employees-to-ot_employees" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="#181818" points="365.83,308.4883,374.83,312.4883,370.83,308.4883,374.83,304.4883,365.83,308.4883" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[bfa52f268106c09607f88217c8d4bed7]
+reverse link ot_locations to ot_countries--><g id="link_ot_locations_ot_countries"><path d="M347.33,105.9883 C347.33,105.9883 493.02,105.9883 493.02,105.9883 " fill="none" id="ot_locations-backto-ot_countries" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="#181818" points="342.33,105.9883,351.33,109.9883,347.33,105.9883,351.33,101.9883,342.33,105.9883" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[4fca2bd98df4dc8b12e74d6d2e5ea8ba]
+reverse link ot_inventories to ot_products--><g id="link_ot_inventories_ot_products"><path d="M153.57,522.7383 C153.57,522.7383 254.34,522.7383 254.34,522.7383 " fill="none" id="ot_inventories-backto-ot_products" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="#181818" points="148.57,522.7383,157.57,526.7383,153.57,522.7383,157.57,518.7383,148.57,522.7383" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[8895881f3c8751a9d63369816d5b1426]
+link ot_orders to ot_order_items--><g id="link_ot_orders_ot_order_items"><path d="M349.41,426.9883 C356.71,426.9883 362,426.9883 362,426.9883 C362,426.9883 362,510.1583 362,510.1583 C362,510.1583 463.08,510.1583 463.08,510.1583 " fill="none" id="ot_orders-to-ot_order_items" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="#181818" points="468.08,510.1583,459.08,506.1583,463.08,510.1583,459.08,514.1583,468.08,510.1583" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[f503575f3878bc1d940071ff845c44ca]
+link ot_products to ot_order_items--><g id="link_ot_products_ot_order_items"><path d="M356.82,532.8183 C356.82,532.8183 464.46,532.8183 464.46,532.8183 " fill="none" id="ot_products-to-ot_order_items" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="#181818" points="469.46,532.8183,460.46,528.8183,464.46,532.8183,460.46,536.8183,469.46,532.8183" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[d7858f497304a9f865658b7aa030b377]
+reverse link ot_contacts to ot_customers--><g id="link_ot_contacts_ot_customers"><path d="M88,350.0083 C88,350.0083 88,379.8483 88,379.8483 " fill="none" id="ot_contacts-backto-ot_customers" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="#181818" points="88,345.0083,84,354.0083,88,350.0083,92,354.0083,88,345.0083" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[81c1cf89d1aa10a37b1ffddcb27735e1]
+reverse link ot_countries to ot_regions--><g id="link_ot_countries_ot_regions"><path d="M588.11,132.4883 C588.11,132.4883 657.96,132.4883 657.96,132.4883 " fill="none" id="ot_countries-backto-ot_regions" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="#181818" points="583.11,132.4883,592.11,136.4883,588.11,132.4883,592.11,128.4883,583.11,132.4883" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[824cfa0091e5ff3e539f437a0eccbc9b]
+link ot_warehouses to ot_inventories--><g id="link_ot_warehouses_ot_inventories"><path d="M23.79,140.4883 C13.42,140.4883 6,140.4883 6,140.4883 C6,140.4883 6,522.4883 6,522.4883 C6,522.4883 22.12,522.4883 22.12,522.4883 " fill="none" id="ot_warehouses-to-ot_inventories" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="#181818" points="27.12,522.4883,18.12,518.4883,22.12,522.4883,18.12,526.4883,27.12,522.4883" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[48993e0854168e1766edce4429c23ba1]
+@startuml
+skinparam titleBorderRoundCorner 15
+skinparam titleBorderThickness 2
+skinparam titleBorderColor black
+skinparam titleBackgroundColor #DDDDDD
+title **:: use case - rds copyright © ::**
+!theme _none_
+skinparam shadowing False
+left to right direction
+skinparam linetype ortho
+skinparam usecase {
+BackgroundColor<< Table >> lightgrey
+BackgroundColor<< View >> YellowGreen
+}
+
+' TABLES ENTITIES 
+
+(ot.\ncontacts) as (ot_contacts) << Table >>
+(ot.\ncountries) as (ot_countries) << Table >>
+(ot.\ncustomers) as (ot_customers) << Table >>
+(ot.\nemployees) as (ot_employees) << Table >>
+(ot.\ninventories) as (ot_inventories) << Table >>
+(ot.\nlocations) as (ot_locations) << Table >>
+(ot.\norders) as (ot_orders) << Table >>
+(ot.\norder_items) as (ot_order_items) << Table >>
+(ot.\nproducts) as (ot_products) << Table >>
+(ot.\nproduct_categories) as (ot_product_categories) << Table >>
+(ot.\nregions) as (ot_regions) << Table >>
+(ot.\nwarehouses) as (ot_warehouses) << Table >>
+
+' VIEWS 
+
+(ot.\ncountry_locations) as (ot_country_locations) << View >>
+(ot.\norder_details) as (ot_order_details) << View >>
+
+' VIEWS RELATED OBJECTS 
+
+(ot_country_locations)-d->(ot_countries)
+(ot_country_locations)-l->(ot_locations)
+(ot_order_details)-u->(ot_orders)
+(ot_order_details)-r->(ot_order_items)
+
+' FKEYS 
+
+(ot_customers)-d->(ot_orders) 
+(ot_product_categories)-l->(ot_products) 
+(ot_locations)-u->(ot_warehouses) 
+(ot_employees)-r->(ot_orders) 
+(ot_employees)-d->(ot_employees) 
+(ot_countries)-l->(ot_locations) 
+(ot_products)-u->(ot_inventories) 
+(ot_orders)-r->(ot_order_items) 
+(ot_products)-d->(ot_order_items) 
+(ot_customers)-l->(ot_contacts) 
+(ot_regions)-u->(ot_countries) 
+(ot_warehouses)-r->(ot_inventories) 
+
+
+@enduml
+
+@startuml
+skinparam titleBorderRoundCorner 15
+skinparam titleBorderThickness 2
+skinparam titleBorderColor black
+skinparam titleBackgroundColor #DDDDDD
+title **:: use case - rds copyright © ::**
+skinparam shadowing False
+left to right direction
+skinparam linetype ortho
+skinparam usecase {
+BackgroundColor<< Table >> lightgrey
+BackgroundColor<< View >> YellowGreen
+}
+
+
+(ot.\ncontacts) as (ot_contacts) << Table >>
+(ot.\ncountries) as (ot_countries) << Table >>
+(ot.\ncustomers) as (ot_customers) << Table >>
+(ot.\nemployees) as (ot_employees) << Table >>
+(ot.\ninventories) as (ot_inventories) << Table >>
+(ot.\nlocations) as (ot_locations) << Table >>
+(ot.\norders) as (ot_orders) << Table >>
+(ot.\norder_items) as (ot_order_items) << Table >>
+(ot.\nproducts) as (ot_products) << Table >>
+(ot.\nproduct_categories) as (ot_product_categories) << Table >>
+(ot.\nregions) as (ot_regions) << Table >>
+(ot.\nwarehouses) as (ot_warehouses) << Table >>
+
+
+(ot.\ncountry_locations) as (ot_country_locations) << View >>
+(ot.\norder_details) as (ot_order_details) << View >>
+
+
+(ot_country_locations)-d->(ot_countries)
+(ot_country_locations)-l->(ot_locations)
+(ot_order_details)-u->(ot_orders)
+(ot_order_details)-r->(ot_order_items)
+
+
+(ot_customers)-d->(ot_orders) 
+(ot_product_categories)-l->(ot_products) 
+(ot_locations)-u->(ot_warehouses) 
+(ot_employees)-r->(ot_orders) 
+(ot_employees)-d->(ot_employees) 
+(ot_countries)-l->(ot_locations) 
+(ot_products)-u->(ot_inventories) 
+(ot_orders)-r->(ot_order_items) 
+(ot_products)-d->(ot_order_items) 
+(ot_customers)-l->(ot_contacts) 
+(ot_regions)-u->(ot_countries) 
+(ot_warehouses)-r->(ot_inventories) 
+
+
+@enduml
+
+PlantUML version 1.2022.12(Sun Oct 23 14:12:26 EDT 2022)
+(GPL source distribution)
+Java Runtime: OpenJDK Runtime Environment
+JVM: OpenJDK 64-Bit Server VM
+Default Encoding: UTF-8
+Language: en
+Country: CA
+--></g></svg>

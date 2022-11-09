@@ -1,0 +1,62 @@
+@startjson
+{
+    "field1": "LAST_NAME",
+    "combination": "LAST_NAME",
+    "null_distribution": {
+        "total_null_rows": 0,
+        "total_not_null_rows": 107
+    },
+    "data_distribution": [
+        {
+            "field_value": "Myers",
+            "row_count": 1,
+            "ratio_percent": 0.9345794392523364
+        },
+        {
+            "field_value": "Stephens",
+            "row_count": 1,
+            "ratio_percent": 0.9345794392523364
+        },
+        {
+            "field_value": "Torres",
+            "row_count": 1,
+            "ratio_percent": 0.9345794392523364
+        },
+        {
+            "field_value": "Ward",
+            "row_count": 1,
+            "ratio_percent": 0.9345794392523364
+        },
+        {
+            "field_value": "Kennedy",
+            "row_count": 1,
+            "ratio_percent": 0.9345794392523364
+        },
+        {
+            "field_value": "Barnes",
+            "row_count": 1,
+            "ratio_percent": 0.9345794392523364
+        },
+        {
+            "field_value": "Stevens",
+            "row_count": 1,
+            "ratio_percent": 0.9345794392523364
+        },
+        {
+            "field_value": "Porter",
+            "row_count": 1,
+            "ratio_percent": 0.9345794392523364
+        },
+        {
+            "field_value": "Hicks",
+            "row_count": 1,
+            "ratio_percent": 0.9345794392523364
+        },
+        {
+            "field_value": "Perkins",
+            "row_count": 1,
+            "ratio_percent": 0.9345794392523364
+        }
+    ]
+}
+@endjson

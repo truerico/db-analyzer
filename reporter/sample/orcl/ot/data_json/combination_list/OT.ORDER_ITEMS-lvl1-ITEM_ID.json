@@ -1,0 +1,62 @@
+@startjson
+{
+    "field1": "ITEM_ID",
+    "combination": "ITEM_ID",
+    "null_distribution": {
+        "total_null_rows": 0,
+        "total_not_null_rows": 665
+    },
+    "data_distribution": [
+        {
+            "field_value": "1",
+            "row_count": 105,
+            "ratio_percent": 15.789473684210526
+        },
+        {
+            "field_value": "2",
+            "row_count": 96,
+            "ratio_percent": 14.436090225563909
+        },
+        {
+            "field_value": "3",
+            "row_count": 85,
+            "ratio_percent": 12.781954887218046
+        },
+        {
+            "field_value": "4",
+            "row_count": 78,
+            "ratio_percent": 11.729323308270677
+        },
+        {
+            "field_value": "5",
+            "row_count": 73,
+            "ratio_percent": 10.977443609022556
+        },
+        {
+            "field_value": "6",
+            "row_count": 66,
+            "ratio_percent": 9.924812030075188
+        },
+        {
+            "field_value": "7",
+            "row_count": 55,
+            "ratio_percent": 8.270676691729323
+        },
+        {
+            "field_value": "8",
+            "row_count": 43,
+            "ratio_percent": 6.466165413533835
+        },
+        {
+            "field_value": "9",
+            "row_count": 29,
+            "ratio_percent": 4.360902255639098
+        },
+        {
+            "field_value": "10",
+            "row_count": 16,
+            "ratio_percent": 2.406015037593985
+        }
+    ]
+}
+@endjson

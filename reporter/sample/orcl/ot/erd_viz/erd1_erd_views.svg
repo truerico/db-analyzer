@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentStyleType="text/css" height="463px" preserveAspectRatio="none" style="width:657px;height:463px;background:#FFFFFF;" version="1.1" viewBox="0 0 657 463" width="657px" zoomAndPan="magnify"><defs/><g><rect fill="#DDDDDD" height="26.4883" id="_title" rx="7.5" ry="7.5" style="stroke:#000000;stroke-width:2.0;" width="234" x="204.5" y="5"/><text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="224" x="209.5" y="23.5352">:: view erd1 - rds copyright © ::</text><!--MD5=[42e29f5c9349e0396f28a45b43d325f3]
+cluster OT--><g id="cluster_OT"><rect fill="none" height="324" rx="2.5" ry="2.5" style="stroke:#000000;stroke-width:1.5;" width="133" x="280" y="133.4883"/><text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="22" x="335.5" y="149.0234">OT</text></g><!--MD5=[f6d0d6fec557b7c11d853b388c4e175f]
+class OT.COUNTRIES--><g id="elem_OT.COUNTRIES"><rect fill="#F1F1F1" height="42.4883" id="OT.COUNTRIES" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="85" x="304" y="399.4883"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="79" x="307" y="418.0234">COUNTRIES</text><line style="stroke:#181818;stroke-width:0.5;" x1="305" x2="388" y1="425.9766" y2="425.9766"/><line style="stroke:#181818;stroke-width:0.5;" x1="305" x2="388" y1="433.9766" y2="433.9766"/></g><!--MD5=[7db6b6fbfbedb94e1460d37460442193]
+class OT.LOCATIONS--><g id="elem_OT.LOCATIONS"><rect fill="#F1F1F1" height="42.4883" id="OT.LOCATIONS" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="86" x="303.5" y="168.4883"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="80" x="306.5" y="187.0234">LOCATIONS</text><line style="stroke:#181818;stroke-width:0.5;" x1="304.5" x2="388.5" y1="194.9766" y2="194.9766"/><line style="stroke:#181818;stroke-width:0.5;" x1="304.5" x2="388.5" y1="202.9766" y2="202.9766"/></g><!--MD5=[6e98e749b880ca203ec7aae42ad0cbb7]
+class OT.ORDERS--><g id="elem_OT.ORDERS"><rect fill="#F1F1F1" height="42.4883" id="OT.ORDERS" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="61" x="316" y="322.4883"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="55" x="319" y="341.0234">ORDERS</text><line style="stroke:#181818;stroke-width:0.5;" x1="317" x2="376" y1="348.9766" y2="348.9766"/><line style="stroke:#181818;stroke-width:0.5;" x1="317" x2="376" y1="356.9766" y2="356.9766"/></g><!--MD5=[b67f702574e330a6e25c0569dc15eff4]
+class OT.ORDER_ITEMS--><g id="elem_OT.ORDER_ITEMS"><rect fill="#F1F1F1" height="42.4883" id="OT.ORDER_ITEMS" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="101" x="296" y="245.4883"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="95" x="299" y="264.0234">ORDER_ITEMS</text><line style="stroke:#181818;stroke-width:0.5;" x1="297" x2="396" y1="271.9766" y2="271.9766"/><line style="stroke:#181818;stroke-width:0.5;" x1="297" x2="396" y1="279.9766" y2="279.9766"/></g><!--MD5=[ca41001f2fe2901159613eb2a43609d8]
+class OT.COUNTRY_LOCATIONS--><g id="elem_OT.COUNTRY_LOCATIONS"><rect codeLine="15" fill="#F1F1F1" height="198.8828" id="OT.COUNTRY_LOCATIONS" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="229" x="7" y="220.9883"/><path d="M18.8333,229.6432 L18.8333,231.9766 L21.1667,231.9766 L21.1667,229.6432 L18.8333,229.6432 M22.3333,229.6432 L22.3333,231.9766 L24.6667,231.9766 L24.6667,229.6432 L22.3333,229.6432 M25.8333,229.6432 L25.8333,231.9766 L28.1667,231.9766 L28.1667,229.6432 L25.8333,229.6432 M18.8333,233.1432 L18.8333,235.4766 L21.1667,235.4766 L21.1667,233.1432 L18.8333,233.1432 M22.3333,233.1432 L22.3333,235.4766 L24.6667,235.4766 L24.6667,233.1432 L22.3333,233.1432 M25.8333,233.1432 L25.8333,235.4766 L28.1667,235.4766 L28.1667,233.1432 L25.8333,233.1432 M18.8333,236.6432 L18.8333,238.9766 L21.1667,238.9766 L21.1667,236.6432 L18.8333,236.6432 M22.3333,236.6432 L22.3333,238.9766 L24.6667,238.9766 L24.6667,236.6432 L22.3333,236.6432 M25.8333,236.6432 L25.8333,238.9766 L28.1667,238.9766 L28.1667,236.6432 L25.8333,236.6432 " fill="#000000" style="stroke:;stroke-width:0.0;stroke-dasharray:;"/><text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="191" x="34.1667" y="239.5234">OT.COUNTRY_LOCATIONS</text><line style="stroke:#181818;stroke-width:0.5;" x1="8" x2="235" y1="247.4766" y2="247.4766"/><rect fill="none" height="6" style="stroke:#C82930;stroke-width:1.0;" width="6" x="15" y="258.2207"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="140" x="27" y="265.0117">COUNTRY_ID : CHAR</text><rect fill="none" height="6" style="stroke:#C82930;stroke-width:1.0;" width="6" x="15" y="274.709"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="203" x="27" y="281.5">COUNTRY_NAME : VARCHAR2</text><rect fill="none" height="6" style="stroke:#C82930;stroke-width:1.0;" width="6" x="15" y="291.1973"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="142" x="27" y="297.9883">REGION_ID : NUMBER</text><rect fill="none" height="6" style="stroke:#C82930;stroke-width:1.0;" width="6" x="15" y="307.6855"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="151" x="27" y="314.4766">ADDRESS : VARCHAR2</text><rect fill="none" height="6" style="stroke:#C82930;stroke-width:1.0;" width="6" x="15" y="324.1738"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="187" x="27" y="330.9648">POSTAL_CODE : VARCHAR2</text><rect fill="none" height="6" style="stroke:#C82930;stroke-width:1.0;" width="6" x="15" y="340.6621"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="132" x="27" y="347.4531">STATE : VARCHAR2</text><line style="stroke:#181818;stroke-width:1.0;" x1="8" x2="235" y1="354.4063" y2="354.4063"/><line style="stroke:#181818;stroke-width:1.0;" x1="8" x2="235" y1="356.4063" y2="356.4063"/><path d="M18.0833,362.0612 C16.9517,362.0612 15.9367,362.5279 15.2017,363.2629 L18.6667,366.7279 L18.6667,362.0962 C18.48,362.0729 18.2817,362.0612 18.0833,362.0612 M19.8333,363.2979 L19.8333,367.2762 L16.66,370.4495 C17.3717,371.0329 18.2583,371.3945 19.25,371.3945 C21.5017,371.3945 23.3333,369.5629 23.3333,367.3112 C23.3333,365.2579 21.805,363.5895 19.8333,363.2979 M15.0617,364.8262 C14.4083,365.4562 14,366.3312 14,367.3112 C14,368.4312 14.5367,369.3995 15.3533,370.0412 L17.8383,367.5562 L15.0617,364.8262 " fill="#000000" style="stroke:;stroke-width:0.0;stroke-dasharray:;"/><text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="36" x="29.3333" y="371.9414">stats</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="98" x="13" y="388.4297">total rows : 23</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="83" x="13" y="404.918">total cols : 6</text><line style="stroke:#181818;stroke-width:1.0;" x1="8" x2="235" y1="411.8711" y2="411.8711"/></g><!--MD5=[b3661d3896cad7730a59792afcf3fa44]
+class OT.ORDER_DETAILS--><g id="elem_OT.ORDER_DETAILS"><rect codeLine="30" fill="#F1F1F1" height="231.8594" id="OT.ORDER_DETAILS" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="193" x="457" y="189.4883"/><path d="M474.8333,198.1432 L474.8333,200.4766 L477.1667,200.4766 L477.1667,198.1432 L474.8333,198.1432 M478.3333,198.1432 L478.3333,200.4766 L480.6667,200.4766 L480.6667,198.1432 L478.3333,198.1432 M481.8333,198.1432 L481.8333,200.4766 L484.1667,200.4766 L484.1667,198.1432 L481.8333,198.1432 M474.8333,201.6432 L474.8333,203.9766 L477.1667,203.9766 L477.1667,201.6432 L474.8333,201.6432 M478.3333,201.6432 L478.3333,203.9766 L480.6667,203.9766 L480.6667,201.6432 L478.3333,201.6432 M481.8333,201.6432 L481.8333,203.9766 L484.1667,203.9766 L484.1667,201.6432 L481.8333,201.6432 M474.8333,205.1432 L474.8333,207.4766 L477.1667,207.4766 L477.1667,205.1432 L474.8333,205.1432 M478.3333,205.1432 L478.3333,207.4766 L480.6667,207.4766 L480.6667,205.1432 L478.3333,205.1432 M481.8333,205.1432 L481.8333,207.4766 L484.1667,207.4766 L484.1667,205.1432 L481.8333,205.1432 " fill="#000000" style="stroke:;stroke-width:0.0;stroke-dasharray:;"/><text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="143" x="490.1667" y="208.0234">OT.ORDER_DETAILS</text><line style="stroke:#181818;stroke-width:0.5;" x1="458" x2="649" y1="215.9766" y2="215.9766"/><rect fill="none" height="6" style="stroke:#C82930;stroke-width:1.0;" width="6" x="465" y="226.7207"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="137" x="477" y="233.5117">ORDER_ID : NUMBER</text><rect fill="none" height="6" style="stroke:#C82930;stroke-width:1.0;" width="6" x="465" y="243.209"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="167" x="477" y="250">CUSTOMER_ID : NUMBER</text><rect fill="none" height="6" style="stroke:#C82930;stroke-width:1.0;" width="6" x="465" y="259.6973"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="142" x="477" y="266.4883">STATUS : VARCHAR2</text><rect fill="none" height="6" style="stroke:#C82930;stroke-width:1.0;" width="6" x="465" y="276.1855"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="163" x="477" y="282.9766">SALESMAN_ID : NUMBER</text><rect fill="none" height="6" style="stroke:#C82930;stroke-width:1.0;" width="6" x="465" y="292.6738"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="140" x="477" y="299.4648">ORDER_DATE : DATE</text><rect fill="none" height="6" style="stroke:#C82930;stroke-width:1.0;" width="6" x="465" y="309.1621"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="123" x="477" y="315.9531">ITEM_ID : NUMBER</text><rect fill="none" height="6" style="stroke:#C82930;stroke-width:1.0;" width="6" x="465" y="325.6504"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="141" x="477" y="332.4414">QUANTITY : NUMBER</text><rect fill="none" height="6" style="stroke:#C82930;stroke-width:1.0;" width="6" x="465" y="342.1387"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="148" x="477" y="348.9297">UNIT_PRICE : NUMBER</text><line style="stroke:#181818;stroke-width:1.0;" x1="458" x2="649" y1="355.8828" y2="355.8828"/><line style="stroke:#181818;stroke-width:1.0;" x1="458" x2="649" y1="357.8828" y2="357.8828"/><path d="M468.0833,363.5378 C466.9517,363.5378 465.9367,364.0044 465.2017,364.7394 L468.6667,368.2044 L468.6667,363.5728 C468.48,363.5494 468.2817,363.5378 468.0833,363.5378 M469.8333,364.7744 L469.8333,368.7528 L466.66,371.9261 C467.3717,372.5094 468.2583,372.8711 469.25,372.8711 C471.5017,372.8711 473.3333,371.0394 473.3333,368.7878 C473.3333,366.7344 471.805,365.0661 469.8333,364.7744 M465.0617,366.3028 C464.4083,366.9328 464,367.8078 464,368.7878 C464,369.9078 464.5367,370.8761 465.3533,371.5178 L467.8383,369.0328 L465.0617,366.3028 " fill="#000000" style="stroke:;stroke-width:0.0;stroke-dasharray:;"/><text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="36" x="479.3333" y="373.418">stats</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="107" x="463" y="389.9063">total rows : 665</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="83" x="463" y="406.3945">total cols : 8</text><line style="stroke:#181818;stroke-width:1.0;" x1="458" x2="649" y1="413.3477" y2="413.3477"/></g><!--MD5=[4f42d23e2eaab17d7c7b613b11a13cf3]
+class vw_aaa--><g id="elem_vw_aaa"><rect fill="#F1F1F1" height="42.4883" id="vw_aaa" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="55" x="94" y="44.4883"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="49" x="97" y="63.0234">vw_aaa</text><line style="stroke:#181818;stroke-width:0.5;" x1="95" x2="148" y1="70.9766" y2="70.9766"/><line style="stroke:#181818;stroke-width:0.5;" x1="95" x2="148" y1="78.9766" y2="78.9766"/></g><!--MD5=[7d682c19f9e48f2f26699eef24c1bc4e]
+class vw_bbb--><g id="elem_vw_bbb"><rect fill="#F1F1F1" height="42.4883" id="vw_bbb" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="58" x="317.5" y="44.4883"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="52" x="320.5" y="63.0234">vw_bbb</text><line style="stroke:#181818;stroke-width:0.5;" x1="318.5" x2="374.5" y1="70.9766" y2="70.9766"/><line style="stroke:#181818;stroke-width:0.5;" x1="318.5" x2="374.5" y1="78.9766" y2="78.9766"/></g><!--MD5=[a46d3f16f26754b7b49d65963709e6b7]
+link OT.COUNTRY_LOCATIONS to OT.COUNTRIES--><g id="link_OT.COUNTRY_LOCATIONS_OT.COUNTRIES"><path codeLine="45" d="M244.31,409.7383 C244.31,409.7383 295.9,409.7383 295.9,409.7383 " fill="none" id="OT.COUNTRY_LOCATIONS-OT.COUNTRIES" style="stroke:#181818;stroke-width:1.0;stroke-dasharray:7.0,7.0;"/><line style="stroke:#181818;stroke-width:1.0;" x1="295.9" x2="303.9" y1="409.7383" y2="403.7383"/><line style="stroke:#181818;stroke-width:1.0;" x1="295.9" x2="303.9" y1="409.7383" y2="415.7383"/><line style="stroke:#181818;stroke-width:1.0;" x1="295.9" x2="303.9" y1="409.7383" y2="409.7383"/><ellipse cx="289.9" cy="409.7383" fill="none" rx="4" ry="4" style="stroke:#181818;stroke-width:1.0;"/><line style="stroke:#181818;stroke-width:1.0;" x1="240.31" x2="240.31" y1="413.7383" y2="405.7383"/><line style="stroke:#181818;stroke-width:1.0;" x1="243.31" x2="243.31" y1="413.7383" y2="405.7383"/><line style="stroke:#181818;stroke-width:1.0;" x1="244.31" x2="236.31" y1="409.7383" y2="409.7383"/></g><!--MD5=[bb64f7028e42c41912ab004ba66987fc]
+link OT.LOCATIONS to OT.COUNTRY_LOCATIONS--><g id="link_OT.LOCATIONS_OT.COUNTRY_LOCATIONS"><path codeLine="46" d="M347,218.5983 C347,218.5983 347,233.2383 347,233.2383 C347,233.2383 244.23,233.2383 244.23,233.2383 " fill="none" id="OT.LOCATIONS-OT.COUNTRY_LOCATIONS" style="stroke:#181818;stroke-width:1.0;stroke-dasharray:7.0,7.0;"/><line style="stroke:#181818;stroke-width:1.0;" x1="240.23" x2="240.23" y1="237.2383" y2="229.2383"/><line style="stroke:#181818;stroke-width:1.0;" x1="243.23" x2="243.23" y1="237.2383" y2="229.2383"/><line style="stroke:#181818;stroke-width:1.0;" x1="244.23" x2="236.23" y1="233.2383" y2="233.2383"/><line style="stroke:#181818;stroke-width:1.0;" x1="347" x2="341" y1="218.5983" y2="210.5983"/><line style="stroke:#181818;stroke-width:1.0;" x1="347" x2="353" y1="218.5983" y2="210.5983"/><line style="stroke:#181818;stroke-width:1.0;" x1="347" x2="347" y1="218.5983" y2="210.5983"/><ellipse cx="347" cy="224.5983" fill="none" rx="4" ry="4" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[27ca5b7a43452df43d651263ccea0759]
+link OT.ORDERS to OT.ORDER_DETAILS--><g id="link_OT.ORDERS_OT.ORDER_DETAILS"><path codeLine="47" d="M385.04,343.4883 C385.04,343.4883 448.8,343.4883 448.8,343.4883 " fill="none" id="OT.ORDERS-OT.ORDER_DETAILS" style="stroke:#181818;stroke-width:1.0;stroke-dasharray:7.0,7.0;"/><line style="stroke:#181818;stroke-width:1.0;" x1="452.8" x2="452.8" y1="339.4883" y2="347.4883"/><line style="stroke:#181818;stroke-width:1.0;" x1="449.8" x2="449.8" y1="339.4883" y2="347.4883"/><line style="stroke:#181818;stroke-width:1.0;" x1="448.8" x2="456.8" y1="343.4883" y2="343.4883"/><line style="stroke:#181818;stroke-width:1.0;" x1="385.04" x2="377.04" y1="343.4883" y2="349.4883"/><line style="stroke:#181818;stroke-width:1.0;" x1="385.04" x2="377.04" y1="343.4883" y2="337.4883"/><line style="stroke:#181818;stroke-width:1.0;" x1="385.04" x2="377.04" y1="343.4883" y2="343.4883"/><ellipse cx="391.04" cy="343.4883" fill="none" rx="4" ry="4" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[72ca40ace11905dfa8e2a4d56cd7187a]
+link OT.ORDER_DETAILS to OT.ORDER_ITEMS--><g id="link_OT.ORDER_DETAILS_OT.ORDER_ITEMS"><path codeLine="48" d="M448.97,266.4883 C448.97,266.4883 405.19,266.4883 405.19,266.4883 " fill="none" id="OT.ORDER_DETAILS-OT.ORDER_ITEMS" style="stroke:#181818;stroke-width:1.0;stroke-dasharray:7.0,7.0;"/><line style="stroke:#181818;stroke-width:1.0;" x1="405.19" x2="397.19" y1="266.4883" y2="272.4883"/><line style="stroke:#181818;stroke-width:1.0;" x1="405.19" x2="397.19" y1="266.4883" y2="260.4883"/><line style="stroke:#181818;stroke-width:1.0;" x1="405.19" x2="397.19" y1="266.4883" y2="266.4883"/><ellipse cx="411.19" cy="266.4883" fill="none" rx="4" ry="4" style="stroke:#181818;stroke-width:1.0;"/><line style="stroke:#181818;stroke-width:1.0;" x1="452.97" x2="452.97" y1="262.4883" y2="270.4883"/><line style="stroke:#181818;stroke-width:1.0;" x1="449.97" x2="449.97" y1="262.4883" y2="270.4883"/><line style="stroke:#181818;stroke-width:1.0;" x1="448.97" x2="456.97" y1="266.4883" y2="266.4883"/></g><!--MD5=[868398237aadc35873d04d56b961c7b5]
+link vw_aaa to vw_bbb--><g id="link_vw_aaa_vw_bbb"><path codeLine="52" d="M149.09,65.4883 C191.8,65.4883 273.56,65.4883 317.26,65.4883 " fill="none" id="vw_aaa-vw_bbb" style="stroke:#181818;stroke-width:1.0;stroke-dasharray:7.0,7.0;"/></g><!--MD5=[5b3b91b984c9a5c44133cf6d40296f38]
+@startuml
+skinparam titleBorderRoundCorner 15
+skinparam titleBorderThickness 2
+skinparam titleBorderColor black
+skinparam titleBackgroundColor #DDDDDD
+title **:: view erd1 - rds copyright © ::**
+!theme _none_
+skinparam shadowing False
+left to right direction
+skinparam linetype ortho
+skinparam packageStyle rectangle
+hide circle
+
+
+entity "<&grid-three-up>** OT.COUNTRY_LOCATIONS**" as OT.COUNTRY_LOCATIONS { 
+  - COUNTRY_ID : CHAR
+  - COUNTRY_NAME : VARCHAR2
+  - REGION_ID : NUMBER
+  - ADDRESS : VARCHAR2
+  - POSTAL_CODE : VARCHAR2
+  - STATE : VARCHAR2
+  ==
+  <&pie-chart>** stats**
+      total rows : 23
+      total cols : 6
+  - -
+}
+
+
+entity "<&grid-three-up>** OT.ORDER_DETAILS**" as OT.ORDER_DETAILS { 
+  - ORDER_ID : NUMBER
+  - CUSTOMER_ID : NUMBER
+  - STATUS : VARCHAR2
+  - SALESMAN_ID : NUMBER
+  - ORDER_DATE : DATE
+  - ITEM_ID : NUMBER
+  - QUANTITY : NUMBER
+  - UNIT_PRICE : NUMBER
+  ==
+  <&pie-chart>** stats**
+      total rows : 665
+      total cols : 8
+  - -
+}
+OT.COUNTRY_LOCATIONS ||.d.o{ OT.COUNTRIES
+OT.COUNTRY_LOCATIONS ||.l.o{ OT.LOCATIONS
+OT.ORDER_DETAILS ||.u.o{ OT.ORDERS
+OT.ORDER_DETAILS ||.r.o{ OT.ORDER_ITEMS
+
+
+'# manual relation section 
+vw_aaa .. vw_bbb
+
+@enduml
+
+@startuml
+skinparam titleBorderRoundCorner 15
+skinparam titleBorderThickness 2
+skinparam titleBorderColor black
+skinparam titleBackgroundColor #DDDDDD
+title **:: view erd1 - rds copyright © ::**
+skinparam shadowing False
+left to right direction
+skinparam linetype ortho
+skinparam packageStyle rectangle
+hide circle
+
+
+entity "<&grid-three-up>** OT.COUNTRY_LOCATIONS**" as OT.COUNTRY_LOCATIONS { 
+  - COUNTRY_ID : CHAR
+  - COUNTRY_NAME : VARCHAR2
+  - REGION_ID : NUMBER
+  - ADDRESS : VARCHAR2
+  - POSTAL_CODE : VARCHAR2
+  - STATE : VARCHAR2
+  ==
+  <&pie-chart>** stats**
+      total rows : 23
+      total cols : 6
+  - -
+}
+
+
+entity "<&grid-three-up>** OT.ORDER_DETAILS**" as OT.ORDER_DETAILS { 
+  - ORDER_ID : NUMBER
+  - CUSTOMER_ID : NUMBER
+  - STATUS : VARCHAR2
+  - SALESMAN_ID : NUMBER
+  - ORDER_DATE : DATE
+  - ITEM_ID : NUMBER
+  - QUANTITY : NUMBER
+  - UNIT_PRICE : NUMBER
+  ==
+  <&pie-chart>** stats**
+      total rows : 665
+      total cols : 8
+  - -
+}
+OT.COUNTRY_LOCATIONS ||.d.o{ OT.COUNTRIES
+OT.COUNTRY_LOCATIONS ||.l.o{ OT.LOCATIONS
+OT.ORDER_DETAILS ||.u.o{ OT.ORDERS
+OT.ORDER_DETAILS ||.r.o{ OT.ORDER_ITEMS
+
+
+vw_aaa .. vw_bbb
+
+@enduml
+
+PlantUML version 1.2022.12(Sun Oct 23 14:12:26 EDT 2022)
+(GPL source distribution)
+Java Runtime: OpenJDK Runtime Environment
+JVM: OpenJDK 64-Bit Server VM
+Default Encoding: UTF-8
+Language: en
+Country: CA
+--></g></svg>

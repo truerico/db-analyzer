@@ -1,0 +1,18 @@
+[
+    {
+        "table": "OT.REGIONS",
+        "total_records": 4,
+        "dataset": [
+            {
+                "field": "REGION_ID",
+                "total_null_rows": 0,
+                "total_not_null_rows": 4
+            },
+            {
+                "field": "REGION_NAME",
+                "total_null_rows": 0,
+                "total_not_null_rows": 4
+            }
+        ]
+    }
+]

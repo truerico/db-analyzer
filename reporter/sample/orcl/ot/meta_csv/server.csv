@@ -1,0 +1,2 @@
+"INSTANCE_NAME","INSTANCE_ROLE","HOST_NAME","FAMILY","EDITION","VERSION","STARTUP_TIME","STATUS","ARCHIVER","DATABASE_STATUS","DATA_DIR_PATH","REDO_LOG_PATH","ARCHIVE_LOG_PATH","ALERT_LOG_PATH","CONTROL_FILE_PATH","RECOVERY_FILE_PATH"
+"orcl_dev","PRIMARY_INSTANCE","mydevserver-dev","None","SE","12.1.0.2.0","2022-11-07 11:26:39","OPEN","STOPPED","ACTIVE","/u02/orcl_dev/","/u02/orcl_dev/redo03.log","/u05/oraarch/orcl_dev","/u01/oracle/product/12.1.0/dbhome_1/rdbms/log","/u08/orcl_dev/control01.ctl, /u07/orcl_dev/control02.ctl","/u07"

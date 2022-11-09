@@ -1,0 +1,27 @@
+[
+    {
+        "CATEGORY_ID": 3,
+        "CATEGORY_NAME": "RAM",
+        "SYS_EXEC_DURATION": "0.247585"
+    },
+    {
+        "CATEGORY_ID": 5,
+        "CATEGORY_NAME": "Storage",
+        "SYS_EXEC_DURATION": "0.247749"
+    },
+    {
+        "CATEGORY_ID": 1,
+        "CATEGORY_NAME": "CPU",
+        "SYS_EXEC_DURATION": "0.24778"
+    },
+    {
+        "CATEGORY_ID": 2,
+        "CATEGORY_NAME": "Video Card",
+        "SYS_EXEC_DURATION": "0.247807"
+    },
+    {
+        "CATEGORY_ID": 4,
+        "CATEGORY_NAME": "Mother Board",
+        "SYS_EXEC_DURATION": "0.247831"
+    }
+]

@@ -1,0 +1,62 @@
+@startjson
+{
+    "field1": "SALESMAN_ID",
+    "combination": "SALESMAN_ID",
+    "null_distribution": {
+        "total_null_rows": 35,
+        "total_not_null_rows": 70
+    },
+    "data_distribution": [
+        {
+            "field_value": "**NULL**",
+            "row_count": 35,
+            "ratio_percent": 33.333333333333336
+        },
+        {
+            "field_value": "62",
+            "row_count": 13,
+            "ratio_percent": 12.380952380952381
+        },
+        {
+            "field_value": "64",
+            "row_count": 12,
+            "ratio_percent": 11.428571428571429
+        },
+        {
+            "field_value": "55",
+            "row_count": 10,
+            "ratio_percent": 9.523809523809524
+        },
+        {
+            "field_value": "59",
+            "row_count": 7,
+            "ratio_percent": 6.666666666666667
+        },
+        {
+            "field_value": "60",
+            "row_count": 7,
+            "ratio_percent": 6.666666666666667
+        },
+        {
+            "field_value": "61",
+            "row_count": 6,
+            "ratio_percent": 5.714285714285714
+        },
+        {
+            "field_value": "54",
+            "row_count": 5,
+            "ratio_percent": 4.761904761904762
+        },
+        {
+            "field_value": "57",
+            "row_count": 5,
+            "ratio_percent": 4.761904761904762
+        },
+        {
+            "field_value": "56",
+            "row_count": 5,
+            "ratio_percent": 4.761904761904762
+        }
+    ]
+}
+@endjson

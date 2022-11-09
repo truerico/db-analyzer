@@ -1,0 +1,33 @@
+[
+    {
+        "table": "OT.ORDERS",
+        "total_records": 105,
+        "dataset": [
+            {
+                "field": "CUSTOMER_ID",
+                "total_null_rows": 0,
+                "total_not_null_rows": 105
+            },
+            {
+                "field": "ORDER_ID",
+                "total_null_rows": 0,
+                "total_not_null_rows": 105
+            },
+            {
+                "field": "ORDER_DATE",
+                "total_null_rows": 0,
+                "total_not_null_rows": 105
+            },
+            {
+                "field": "STATUS",
+                "total_null_rows": 0,
+                "total_not_null_rows": 105
+            },
+            {
+                "field": "SALESMAN_ID",
+                "total_null_rows": 35,
+                "total_not_null_rows": 70
+            }
+        ]
+    }
+]

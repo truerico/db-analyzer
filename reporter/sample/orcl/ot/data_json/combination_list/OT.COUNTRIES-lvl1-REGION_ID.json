@@ -1,0 +1,32 @@
+@startjson
+{
+    "field1": "REGION_ID",
+    "combination": "REGION_ID",
+    "null_distribution": {
+        "total_null_rows": 0,
+        "total_not_null_rows": 25
+    },
+    "data_distribution": [
+        {
+            "field_value": "1",
+            "row_count": 8,
+            "ratio_percent": 32.0
+        },
+        {
+            "field_value": "4",
+            "row_count": 6,
+            "ratio_percent": 24.0
+        },
+        {
+            "field_value": "3",
+            "row_count": 6,
+            "ratio_percent": 24.0
+        },
+        {
+            "field_value": "2",
+            "row_count": 5,
+            "ratio_percent": 20.0
+        }
+    ]
+}
+@endjson

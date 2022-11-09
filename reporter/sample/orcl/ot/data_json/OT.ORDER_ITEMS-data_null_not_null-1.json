@@ -1,0 +1,33 @@
+[
+    {
+        "table": "OT.ORDER_ITEMS",
+        "total_records": 665,
+        "dataset": [
+            {
+                "field": "ITEM_ID",
+                "total_null_rows": 0,
+                "total_not_null_rows": 665
+            },
+            {
+                "field": "ORDER_ID",
+                "total_null_rows": 0,
+                "total_not_null_rows": 665
+            },
+            {
+                "field": "PRODUCT_ID",
+                "total_null_rows": 0,
+                "total_not_null_rows": 665
+            },
+            {
+                "field": "QUANTITY",
+                "total_null_rows": 0,
+                "total_not_null_rows": 665
+            },
+            {
+                "field": "UNIT_PRICE",
+                "total_null_rows": 0,
+                "total_not_null_rows": 665
+            }
+        ]
+    }
+]

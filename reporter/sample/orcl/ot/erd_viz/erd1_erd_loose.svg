@@ -1,0 +1,510 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentStyleType="text/css" height="1643px" preserveAspectRatio="none" style="width:869px;height:1643px;background:#FFFFFF;" version="1.1" viewBox="0 0 869 1643" width="869px" zoomAndPan="magnify"><defs/><g><rect fill="#DDDDDD" height="26.4883" id="_title" rx="7.5" ry="7.5" style="stroke:#000000;stroke-width:2.0;" width="232" x="311.5" y="5"/><text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="222" x="316.5" y="23.5352">:: table erd1- rds copyright © ::</text><!--MD5=[45e886bb76b55ea79cfad5b1eeaaac5b]
+class OT.CONTACTS--><g id="elem_OT.CONTACTS"><rect codeLine="16" fill="#F1F1F1" height="247.8594" id="OT.CONTACTS" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="234" x="319.5" y="1388.4883"/><path d="M376.3333,1397.1432 L376.3333,1399.4766 L378.6667,1399.4766 L378.6667,1397.1432 L376.3333,1397.1432 M379.8333,1397.1432 L379.8333,1399.4766 L382.1667,1399.4766 L382.1667,1397.1432 L379.8333,1397.1432 M383.3333,1397.1432 L383.3333,1399.4766 L385.6667,1399.4766 L385.6667,1397.1432 L383.3333,1397.1432 M376.3333,1400.6432 L376.3333,1402.9766 L378.6667,1402.9766 L378.6667,1400.6432 L376.3333,1400.6432 M379.8333,1400.6432 L379.8333,1402.9766 L382.1667,1402.9766 L382.1667,1400.6432 L379.8333,1400.6432 M383.3333,1400.6432 L383.3333,1402.9766 L385.6667,1402.9766 L385.6667,1400.6432 L383.3333,1400.6432 M376.3333,1404.1432 L376.3333,1406.4766 L378.6667,1406.4766 L378.6667,1404.1432 L376.3333,1404.1432 M379.8333,1404.1432 L379.8333,1406.4766 L382.1667,1406.4766 L382.1667,1404.1432 L379.8333,1404.1432 M383.3333,1404.1432 L383.3333,1406.4766 L385.6667,1406.4766 L385.6667,1404.1432 L383.3333,1404.1432 " fill="#000000" style="stroke:;stroke-width:0.0;stroke-dasharray:;"/><text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="106" x="391.6667" y="1407.0234">OT.CONTACTS</text><line style="stroke:#181818;stroke-width:0.5;" x1="320.5" x2="552.5" y1="1414.9766" y2="1414.9766"/><ellipse cx="330.5" cy="1428.7207" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="203" x="339.5" y="1432.5117">(pk) CONTACT_ID : NUMBER</text><line style="stroke:#181818;stroke-width:1.0;" x1="320.5" x2="552.5" y1="1439.4648" y2="1439.4648"/><rect fill="none" height="6" style="stroke:#C82930;stroke-width:1.0;" width="6" x="327.5" y="1450.209"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="173" x="339.5" y="1457">FIRST_NAME : VARCHAR2</text><rect fill="none" height="6" style="stroke:#C82930;stroke-width:1.0;" width="6" x="327.5" y="1466.6973"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="169" x="339.5" y="1473.4883">LAST_NAME : VARCHAR2</text><rect fill="none" height="6" style="stroke:#C82930;stroke-width:1.0;" width="6" x="327.5" y="1483.1855"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="129" x="339.5" y="1489.9766">EMAIL : VARCHAR2</text><rect fill="none" height="6" style="stroke:#C82930;stroke-width:1.0;" width="6" x="327.5" y="1499.6738"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="135" x="339.5" y="1506.4648">PHONE : VARCHAR2</text><line style="stroke:#181818;stroke-width:1.0;" x1="320.5" x2="552.5" y1="1513.418" y2="1513.418"/><ellipse cx="330.5" cy="1527.1621" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="208" x="339.5" y="1530.9531">(fk) CUSTOMER_ID : NUMBER</text><line style="stroke:#181818;stroke-width:1.0;" x1="320.5" x2="552.5" y1="1537.9063" y2="1537.9063"/><line style="stroke:#181818;stroke-width:1.0;" x1="320.5" x2="552.5" y1="1539.9063" y2="1539.9063"/><path d="M330.5833,1545.5612 C329.4517,1545.5612 328.4367,1546.0279 327.7017,1546.7629 L331.1667,1550.2279 L331.1667,1545.5962 C330.98,1545.5729 330.7817,1545.5612 330.5833,1545.5612 M332.3333,1546.7979 L332.3333,1550.7762 L329.16,1553.9495 C329.8717,1554.5329 330.7583,1554.8945 331.75,1554.8945 C334.0017,1554.8945 335.8333,1553.0629 335.8333,1550.8112 C335.8333,1548.7579 334.305,1547.0895 332.3333,1546.7979 M327.5617,1548.3262 C326.9083,1548.9562 326.5,1549.8312 326.5,1550.8112 C326.5,1551.9312 327.0367,1552.8995 327.8533,1553.5412 L330.3383,1551.0562 L327.5617,1548.3262 " fill="#000000" style="stroke:;stroke-width:0.0;stroke-dasharray:;"/><text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="36" x="341.8333" y="1555.4414">stats</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="107" x="325.5" y="1571.9297">total rows : 319</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="83" x="325.5" y="1588.418">total cols : 6</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="112" x="325.5" y="1604.9063">data size : 64 KB</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="121" x="325.5" y="1621.3945">index size : 64 KB</text><line style="stroke:#181818;stroke-width:1.0;" x1="320.5" x2="552.5" y1="1628.3477" y2="1628.3477"/></g><!--MD5=[f6d0d6fec557b7c11d853b388c4e175f]
+class OT.COUNTRIES--><g id="elem_OT.COUNTRIES"><rect codeLine="35" fill="#F1F1F1" height="198.3945" id="OT.COUNTRIES" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="229" x="322" y="121.4883"/><path d="M374.8333,130.1432 L374.8333,132.4766 L377.1667,132.4766 L377.1667,130.1432 L374.8333,130.1432 M378.3333,130.1432 L378.3333,132.4766 L380.6667,132.4766 L380.6667,130.1432 L378.3333,130.1432 M381.8333,130.1432 L381.8333,132.4766 L384.1667,132.4766 L384.1667,130.1432 L381.8333,130.1432 M374.8333,133.6432 L374.8333,135.9766 L377.1667,135.9766 L377.1667,133.6432 L374.8333,133.6432 M378.3333,133.6432 L378.3333,135.9766 L380.6667,135.9766 L380.6667,133.6432 L378.3333,133.6432 M381.8333,133.6432 L381.8333,135.9766 L384.1667,135.9766 L384.1667,133.6432 L381.8333,133.6432 M374.8333,137.1432 L374.8333,139.4766 L377.1667,139.4766 L377.1667,137.1432 L374.8333,137.1432 M378.3333,137.1432 L378.3333,139.4766 L380.6667,139.4766 L380.6667,137.1432 L378.3333,137.1432 M381.8333,137.1432 L381.8333,139.4766 L384.1667,139.4766 L384.1667,137.1432 L381.8333,137.1432 " fill="#000000" style="stroke:;stroke-width:0.0;stroke-dasharray:;"/><text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="109" x="390.1667" y="140.0234">OT.COUNTRIES</text><line style="stroke:#181818;stroke-width:0.5;" x1="323" x2="550" y1="147.9766" y2="147.9766"/><ellipse cx="333" cy="161.7207" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="183" x="342" y="165.5117">(pk) COUNTRY_ID : CHAR</text><line style="stroke:#181818;stroke-width:1.0;" x1="323" x2="550" y1="172.4648" y2="172.4648"/><rect fill="none" height="6" style="stroke:#C82930;stroke-width:1.0;" width="6" x="330" y="183.209"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="203" x="342" y="190">COUNTRY_NAME : VARCHAR2</text><line style="stroke:#181818;stroke-width:1.0;" x1="323" x2="550" y1="196.9531" y2="196.9531"/><ellipse cx="333" cy="210.6973" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="183" x="342" y="214.4883">(fk) REGION_ID : NUMBER</text><line style="stroke:#181818;stroke-width:1.0;" x1="323" x2="550" y1="221.4414" y2="221.4414"/><line style="stroke:#181818;stroke-width:1.0;" x1="323" x2="550" y1="223.4414" y2="223.4414"/><path d="M333.0833,229.0964 C331.9517,229.0964 330.9367,229.563 330.2017,230.298 L333.6667,233.763 L333.6667,229.1314 C333.48,229.108 333.2817,229.0964 333.0833,229.0964 M334.8333,230.333 L334.8333,234.3114 L331.66,237.4847 C332.3717,238.068 333.2583,238.4297 334.25,238.4297 C336.5017,238.4297 338.3333,236.598 338.3333,234.3464 C338.3333,232.293 336.805,230.6247 334.8333,230.333 M330.0617,231.8614 C329.4083,232.4914 329,233.3664 329,234.3464 C329,235.4664 329.5367,236.4347 330.3533,237.0764 L332.8383,234.5914 L330.0617,231.8614 " fill="#000000" style="stroke:;stroke-width:0.0;stroke-dasharray:;"/><text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="36" x="344.3333" y="238.9766">stats</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="98" x="328" y="255.4648">total rows : 25</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="83" x="328" y="271.9531">total cols : 3</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="112" x="328" y="288.4414">data size : 64 KB</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="121" x="328" y="304.9297">index size : 64 KB</text><line style="stroke:#181818;stroke-width:1.0;" x1="323" x2="550" y1="311.8828" y2="311.8828"/></g><!--MD5=[7f430bf4dad7632f814a1d731a6d602c]
+class OT.CUSTOMERS--><g id="elem_OT.CUSTOMERS"><rect codeLine="51" fill="#F1F1F1" height="223.3711" id="OT.CUSTOMERS" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="237" x="318" y="1129.9883"/><path d="M372.3333,1138.6432 L372.3333,1140.9766 L374.6667,1140.9766 L374.6667,1138.6432 L372.3333,1138.6432 M375.8333,1138.6432 L375.8333,1140.9766 L378.1667,1140.9766 L378.1667,1138.6432 L375.8333,1138.6432 M379.3333,1138.6432 L379.3333,1140.9766 L381.6667,1140.9766 L381.6667,1138.6432 L379.3333,1138.6432 M372.3333,1142.1432 L372.3333,1144.4766 L374.6667,1144.4766 L374.6667,1142.1432 L372.3333,1142.1432 M375.8333,1142.1432 L375.8333,1144.4766 L378.1667,1144.4766 L378.1667,1142.1432 L375.8333,1142.1432 M379.3333,1142.1432 L379.3333,1144.4766 L381.6667,1144.4766 L381.6667,1142.1432 L379.3333,1142.1432 M372.3333,1145.6432 L372.3333,1147.9766 L374.6667,1147.9766 L374.6667,1145.6432 L372.3333,1145.6432 M375.8333,1145.6432 L375.8333,1147.9766 L378.1667,1147.9766 L378.1667,1145.6432 L375.8333,1145.6432 M379.3333,1145.6432 L379.3333,1147.9766 L381.6667,1147.9766 L381.6667,1145.6432 L379.3333,1145.6432 " fill="#000000" style="stroke:;stroke-width:0.0;stroke-dasharray:;"/><text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="114" x="387.6667" y="1148.5234">OT.CUSTOMERS</text><line style="stroke:#181818;stroke-width:0.5;" x1="319" x2="554" y1="1156.4766" y2="1156.4766"/><ellipse cx="329" cy="1170.2207" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="211" x="338" y="1174.0117">(pk) CUSTOMER_ID : NUMBER</text><line style="stroke:#181818;stroke-width:1.0;" x1="319" x2="554" y1="1180.9648" y2="1180.9648"/><rect fill="none" height="6" style="stroke:#C82930;stroke-width:1.0;" width="6" x="326" y="1191.709"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="128" x="338" y="1198.5">NAME : VARCHAR2</text><rect fill="none" height="6" style="stroke:#C82930;stroke-width:1.0;" width="6" x="326" y="1208.1973"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="151" x="338" y="1214.9883">ADDRESS : VARCHAR2</text><rect fill="none" height="6" style="stroke:#C82930;stroke-width:1.0;" width="6" x="326" y="1224.6855"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="145" x="338" y="1231.4766">WEBSITE : VARCHAR2</text><rect fill="none" height="6" style="stroke:#C82930;stroke-width:1.0;" width="6" x="326" y="1241.1738"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="162" x="338" y="1247.9648">CREDIT_LIMIT : NUMBER</text><line style="stroke:#181818;stroke-width:1.0;" x1="319" x2="554" y1="1254.918" y2="1254.918"/><line style="stroke:#181818;stroke-width:1.0;" x1="319" x2="554" y1="1256.918" y2="1256.918"/><path d="M329.0833,1262.5729 C327.9517,1262.5729 326.9367,1263.0396 326.2017,1263.7746 L329.6667,1267.2396 L329.6667,1262.6079 C329.48,1262.5846 329.2817,1262.5729 329.0833,1262.5729 M330.8333,1263.8096 L330.8333,1267.7879 L327.66,1270.9613 C328.3717,1271.5446 329.2583,1271.9063 330.25,1271.9063 C332.5017,1271.9063 334.3333,1270.0746 334.3333,1267.8229 C334.3333,1265.7696 332.805,1264.1013 330.8333,1263.8096 M326.0617,1265.3379 C325.4083,1265.9679 325,1266.8429 325,1267.8229 C325,1268.9429 325.5367,1269.9113 326.3533,1270.5529 L328.8383,1268.0679 L326.0617,1265.3379 " fill="#000000" style="stroke:;stroke-width:0.0;stroke-dasharray:;"/><text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="36" x="340.3333" y="1272.4531">stats</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="107" x="324" y="1288.9414">total rows : 319</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="83" x="324" y="1305.4297">total cols : 5</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="112" x="324" y="1321.918">data size : 64 KB</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="121" x="324" y="1338.4063">index size : 64 KB</text><line style="stroke:#181818;stroke-width:1.0;" x1="319" x2="554" y1="1345.3594" y2="1345.3594"/></g><!--MD5=[8cb159293387737601dc522b3aaa949d]
+class OT.EMPLOYEES--><g id="elem_OT.EMPLOYEES"><rect codeLine="68" fill="#F1F1F1" height="280.8359" id="OT.EMPLOYEES" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="232" x="25" y="1337.9883"/><path d="M79.3333,1346.6432 L79.3333,1348.9766 L81.6667,1348.9766 L81.6667,1346.6432 L79.3333,1346.6432 M82.8333,1346.6432 L82.8333,1348.9766 L85.1667,1348.9766 L85.1667,1346.6432 L82.8333,1346.6432 M86.3333,1346.6432 L86.3333,1348.9766 L88.6667,1348.9766 L88.6667,1346.6432 L86.3333,1346.6432 M79.3333,1350.1432 L79.3333,1352.4766 L81.6667,1352.4766 L81.6667,1350.1432 L79.3333,1350.1432 M82.8333,1350.1432 L82.8333,1352.4766 L85.1667,1352.4766 L85.1667,1350.1432 L82.8333,1350.1432 M86.3333,1350.1432 L86.3333,1352.4766 L88.6667,1352.4766 L88.6667,1350.1432 L86.3333,1350.1432 M79.3333,1353.6432 L79.3333,1355.9766 L81.6667,1355.9766 L81.6667,1353.6432 L79.3333,1353.6432 M82.8333,1353.6432 L82.8333,1355.9766 L85.1667,1355.9766 L85.1667,1353.6432 L82.8333,1353.6432 M86.3333,1353.6432 L86.3333,1355.9766 L88.6667,1355.9766 L88.6667,1353.6432 L86.3333,1353.6432 " fill="#000000" style="stroke:;stroke-width:0.0;stroke-dasharray:;"/><text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="109" x="94.6667" y="1356.5234">OT.EMPLOYEES</text><line style="stroke:#181818;stroke-width:0.5;" x1="26" x2="256" y1="1364.4766" y2="1364.4766"/><ellipse cx="36" cy="1378.2207" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="206" x="45" y="1382.0117">(pk) EMPLOYEE_ID : NUMBER</text><line style="stroke:#181818;stroke-width:1.0;" x1="26" x2="256" y1="1388.9648" y2="1388.9648"/><rect fill="none" height="6" style="stroke:#C82930;stroke-width:1.0;" width="6" x="33" y="1399.709"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="173" x="45" y="1406.5">FIRST_NAME : VARCHAR2</text><rect fill="none" height="6" style="stroke:#C82930;stroke-width:1.0;" width="6" x="33" y="1416.1973"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="169" x="45" y="1422.9883">LAST_NAME : VARCHAR2</text><rect fill="none" height="6" style="stroke:#C82930;stroke-width:1.0;" width="6" x="33" y="1432.6855"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="129" x="45" y="1439.4766">EMAIL : VARCHAR2</text><rect fill="none" height="6" style="stroke:#C82930;stroke-width:1.0;" width="6" x="33" y="1449.1738"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="135" x="45" y="1455.9648">PHONE : VARCHAR2</text><rect fill="none" height="6" style="stroke:#C82930;stroke-width:1.0;" width="6" x="33" y="1465.6621"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="124" x="45" y="1472.4531">HIRE_DATE : DATE</text><rect fill="none" height="6" style="stroke:#C82930;stroke-width:1.0;" width="6" x="33" y="1482.1504"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="155" x="45" y="1488.9414">JOB_TITLE : VARCHAR2</text><line style="stroke:#181818;stroke-width:1.0;" x1="26" x2="256" y1="1495.8945" y2="1495.8945"/><ellipse cx="36" cy="1509.6387" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="199" x="45" y="1513.4297">(fk) MANAGER_ID : NUMBER</text><line style="stroke:#181818;stroke-width:1.0;" x1="26" x2="256" y1="1520.3828" y2="1520.3828"/><line style="stroke:#181818;stroke-width:1.0;" x1="26" x2="256" y1="1522.3828" y2="1522.3828"/><path d="M36.0833,1528.0378 C34.9517,1528.0378 33.9367,1528.5044 33.2017,1529.2394 L36.6667,1532.7044 L36.6667,1528.0728 C36.48,1528.0494 36.2817,1528.0378 36.0833,1528.0378 M37.8333,1529.2744 L37.8333,1533.2528 L34.66,1536.4261 C35.3717,1537.0094 36.2583,1537.3711 37.25,1537.3711 C39.5017,1537.3711 41.3333,1535.5394 41.3333,1533.2878 C41.3333,1531.2344 39.805,1529.5661 37.8333,1529.2744 M33.0617,1530.8028 C32.4083,1531.4328 32,1532.3078 32,1533.2878 C32,1534.4078 32.5367,1535.3761 33.3533,1536.0178 L35.8383,1533.5328 L33.0617,1530.8028 " fill="#000000" style="stroke:;stroke-width:0.0;stroke-dasharray:;"/><text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="36" x="47.3333" y="1537.918">stats</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="107" x="31" y="1554.4063">total rows : 107</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="83" x="31" y="1570.8945">total cols : 8</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="112" x="31" y="1587.3828">data size : 64 KB</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="121" x="31" y="1603.8711">index size : 64 KB</text><line style="stroke:#181818;stroke-width:1.0;" x1="26" x2="256" y1="1610.8242" y2="1610.8242"/></g><!--MD5=[34816cd0164c673c7925cc4e0a0efbb2]
+class OT.INVENTORIES--><g id="elem_OT.INVENTORIES"><rect codeLine="89" fill="#F1F1F1" height="190.3945" id="OT.INVENTORIES" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="246" x="615.5" y="606.4883"/><path d="M669.8333,615.1432 L669.8333,617.4766 L672.1667,617.4766 L672.1667,615.1432 L669.8333,615.1432 M673.3333,615.1432 L673.3333,617.4766 L675.6667,617.4766 L675.6667,615.1432 L673.3333,615.1432 M676.8333,615.1432 L676.8333,617.4766 L679.1667,617.4766 L679.1667,615.1432 L676.8333,615.1432 M669.8333,618.6432 L669.8333,620.9766 L672.1667,620.9766 L672.1667,618.6432 L669.8333,618.6432 M673.3333,618.6432 L673.3333,620.9766 L675.6667,620.9766 L675.6667,618.6432 L673.3333,618.6432 M676.8333,618.6432 L676.8333,620.9766 L679.1667,620.9766 L679.1667,618.6432 L676.8333,618.6432 M669.8333,622.1432 L669.8333,624.4766 L672.1667,624.4766 L672.1667,622.1432 L669.8333,622.1432 M673.3333,622.1432 L673.3333,624.4766 L675.6667,624.4766 L675.6667,622.1432 L673.3333,622.1432 M676.8333,622.1432 L676.8333,624.4766 L679.1667,624.4766 L679.1667,622.1432 L676.8333,622.1432 " fill="#000000" style="stroke:;stroke-width:0.0;stroke-dasharray:;"/><text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="123" x="685.1667" y="625.0234">OT.INVENTORIES</text><line style="stroke:#181818;stroke-width:0.5;" x1="616.5" x2="860.5" y1="632.9766" y2="632.9766"/><ellipse cx="626.5" cy="646.7207" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="220" x="635.5" y="650.5117">(pk) WAREHOUSE_ID : NUMBER</text><ellipse cx="626.5" cy="663.209" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="202" x="635.5" y="667">(pk) PRODUCT_ID : NUMBER</text><line style="stroke:#181818;stroke-width:1.0;" x1="616.5" x2="860.5" y1="673.9531" y2="673.9531"/><rect fill="none" height="6" style="stroke:#C82930;stroke-width:1.0;" width="6" x="623.5" y="684.6973"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="141" x="635.5" y="691.4883">QUANTITY : NUMBER</text><line style="stroke:#181818;stroke-width:1.0;" x1="616.5" x2="860.5" y1="698.4414" y2="698.4414"/><line style="stroke:#181818;stroke-width:1.0;" x1="616.5" x2="860.5" y1="700.4414" y2="700.4414"/><path d="M626.5833,706.0964 C625.4517,706.0964 624.4367,706.563 623.7017,707.298 L627.1667,710.763 L627.1667,706.1314 C626.98,706.108 626.7817,706.0964 626.5833,706.0964 M628.3333,707.333 L628.3333,711.3114 L625.16,714.4847 C625.8717,715.068 626.7583,715.4297 627.75,715.4297 C630.0017,715.4297 631.8333,713.598 631.8333,711.3464 C631.8333,709.293 630.305,707.6247 628.3333,707.333 M623.5617,708.8614 C622.9083,709.4914 622.5,710.3664 622.5,711.3464 C622.5,712.4664 623.0367,713.4347 623.8533,714.0764 L626.3383,711.5914 L623.5617,708.8614 " fill="#000000" style="stroke:;stroke-width:0.0;stroke-dasharray:;"/><text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="36" x="637.8333" y="715.9766">stats</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="120" x="621.5" y="732.4648">total rows : 1,112</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="83" x="621.5" y="748.9531">total cols : 3</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="112" x="621.5" y="765.4414">data size : 64 KB</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="121" x="621.5" y="781.9297">index size : 64 KB</text><line style="stroke:#181818;stroke-width:1.0;" x1="616.5" x2="860.5" y1="788.8828" y2="788.8828"/></g><!--MD5=[7db6b6fbfbedb94e1460d37460442193]
+class OT.LOCATIONS--><g id="elem_OT.LOCATIONS"><rect codeLine="104" fill="#F1F1F1" height="247.8594" id="OT.LOCATIONS" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="234" x="319.5" y="846.4883"/><path d="M373.8333,855.1432 L373.8333,857.4766 L376.1667,857.4766 L376.1667,855.1432 L373.8333,855.1432 M377.3333,855.1432 L377.3333,857.4766 L379.6667,857.4766 L379.6667,855.1432 L377.3333,855.1432 M380.8333,855.1432 L380.8333,857.4766 L383.1667,857.4766 L383.1667,855.1432 L380.8333,855.1432 M373.8333,858.6432 L373.8333,860.9766 L376.1667,860.9766 L376.1667,858.6432 L373.8333,858.6432 M377.3333,858.6432 L377.3333,860.9766 L379.6667,860.9766 L379.6667,858.6432 L377.3333,858.6432 M380.8333,858.6432 L380.8333,860.9766 L383.1667,860.9766 L383.1667,858.6432 L380.8333,858.6432 M373.8333,862.1432 L373.8333,864.4766 L376.1667,864.4766 L376.1667,862.1432 L373.8333,862.1432 M377.3333,862.1432 L377.3333,864.4766 L379.6667,864.4766 L379.6667,862.1432 L377.3333,862.1432 M380.8333,862.1432 L380.8333,864.4766 L383.1667,864.4766 L383.1667,862.1432 L380.8333,862.1432 " fill="#000000" style="stroke:;stroke-width:0.0;stroke-dasharray:;"/><text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="111" x="389.1667" y="865.0234">OT.LOCATIONS</text><line style="stroke:#181818;stroke-width:0.5;" x1="320.5" x2="552.5" y1="872.9766" y2="872.9766"/><ellipse cx="330.5" cy="886.7207" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="208" x="339.5" y="890.5117">(pk) LOCATION_ID : NUMBER</text><line style="stroke:#181818;stroke-width:1.0;" x1="320.5" x2="552.5" y1="897.4648" y2="897.4648"/><rect fill="none" height="6" style="stroke:#C82930;stroke-width:1.0;" width="6" x="327.5" y="908.209"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="151" x="339.5" y="915">ADDRESS : VARCHAR2</text><rect fill="none" height="6" style="stroke:#C82930;stroke-width:1.0;" width="6" x="327.5" y="924.6973"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="187" x="339.5" y="931.4883">POSTAL_CODE : VARCHAR2</text><rect fill="none" height="6" style="stroke:#C82930;stroke-width:1.0;" width="6" x="327.5" y="941.1855"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="120" x="339.5" y="947.9766">CITY : VARCHAR2</text><rect fill="none" height="6" style="stroke:#C82930;stroke-width:1.0;" width="6" x="327.5" y="957.6738"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="132" x="339.5" y="964.4648">STATE : VARCHAR2</text><line style="stroke:#181818;stroke-width:1.0;" x1="320.5" x2="552.5" y1="971.418" y2="971.418"/><ellipse cx="330.5" cy="985.1621" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="180" x="339.5" y="988.9531">(fk) COUNTRY_ID : CHAR</text><line style="stroke:#181818;stroke-width:1.0;" x1="320.5" x2="552.5" y1="995.9063" y2="995.9063"/><line style="stroke:#181818;stroke-width:1.0;" x1="320.5" x2="552.5" y1="997.9063" y2="997.9063"/><path d="M330.5833,1003.5612 C329.4517,1003.5612 328.4367,1004.0279 327.7017,1004.7629 L331.1667,1008.2279 L331.1667,1003.5962 C330.98,1003.5729 330.7817,1003.5612 330.5833,1003.5612 M332.3333,1004.7979 L332.3333,1008.7762 L329.16,1011.9495 C329.8717,1012.5329 330.7583,1012.8945 331.75,1012.8945 C334.0017,1012.8945 335.8333,1011.0629 335.8333,1008.8112 C335.8333,1006.7579 334.305,1005.0895 332.3333,1004.7979 M327.5617,1006.3262 C326.9083,1006.9562 326.5,1007.8312 326.5,1008.8112 C326.5,1009.9312 327.0367,1010.8995 327.8533,1011.5412 L330.3383,1009.0562 L327.5617,1006.3262 " fill="#000000" style="stroke:;stroke-width:0.0;stroke-dasharray:;"/><text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="36" x="341.8333" y="1013.4414">stats</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="98" x="325.5" y="1029.9297">total rows : 23</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="83" x="325.5" y="1046.418">total cols : 6</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="112" x="325.5" y="1062.9063">data size : 64 KB</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="121" x="325.5" y="1079.3945">index size : 64 KB</text><line style="stroke:#181818;stroke-width:1.0;" x1="320.5" x2="552.5" y1="1086.3477" y2="1086.3477"/></g><!--MD5=[6e98e749b880ca203ec7aae42ad0cbb7]
+class OT.ORDERS--><g id="elem_OT.ORDERS"><rect codeLine="123" fill="#F1F1F1" height="231.3711" id="OT.ORDERS" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="234" x="24" y="1053.9883"/><path d="M91.8333,1062.6432 L91.8333,1064.9766 L94.1667,1064.9766 L94.1667,1062.6432 L91.8333,1062.6432 M95.3333,1062.6432 L95.3333,1064.9766 L97.6667,1064.9766 L97.6667,1062.6432 L95.3333,1062.6432 M98.8333,1062.6432 L98.8333,1064.9766 L101.1667,1064.9766 L101.1667,1062.6432 L98.8333,1062.6432 M91.8333,1066.1432 L91.8333,1068.4766 L94.1667,1068.4766 L94.1667,1066.1432 L91.8333,1066.1432 M95.3333,1066.1432 L95.3333,1068.4766 L97.6667,1068.4766 L97.6667,1066.1432 L95.3333,1066.1432 M98.8333,1066.1432 L98.8333,1068.4766 L101.1667,1068.4766 L101.1667,1066.1432 L98.8333,1066.1432 M91.8333,1069.6432 L91.8333,1071.9766 L94.1667,1071.9766 L94.1667,1069.6432 L91.8333,1069.6432 M95.3333,1069.6432 L95.3333,1071.9766 L97.6667,1071.9766 L97.6667,1069.6432 L95.3333,1069.6432 M98.8333,1069.6432 L98.8333,1071.9766 L101.1667,1071.9766 L101.1667,1069.6432 L98.8333,1069.6432 " fill="#000000" style="stroke:;stroke-width:0.0;stroke-dasharray:;"/><text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="84" x="107.1667" y="1072.5234">OT.ORDERS</text><line style="stroke:#181818;stroke-width:0.5;" x1="25" x2="257" y1="1080.4766" y2="1080.4766"/><ellipse cx="35" cy="1094.2207" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="181" x="44" y="1098.0117">(pk) ORDER_ID : NUMBER</text><line style="stroke:#181818;stroke-width:1.0;" x1="25" x2="257" y1="1104.9648" y2="1104.9648"/><rect fill="none" height="6" style="stroke:#C82930;stroke-width:1.0;" width="6" x="32" y="1115.709"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="142" x="44" y="1122.5">STATUS : VARCHAR2</text><rect fill="none" height="6" style="stroke:#C82930;stroke-width:1.0;" width="6" x="32" y="1132.1973"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="140" x="44" y="1138.9883">ORDER_DATE : DATE</text><line style="stroke:#181818;stroke-width:1.0;" x1="25" x2="257" y1="1145.9414" y2="1145.9414"/><ellipse cx="35" cy="1159.6855" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="208" x="44" y="1163.4766">(fk) CUSTOMER_ID : NUMBER</text><ellipse cx="35" cy="1176.1738" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="203" x="44" y="1179.9648">(fk) SALESMAN_ID : NUMBER</text><line style="stroke:#181818;stroke-width:1.0;" x1="25" x2="257" y1="1186.918" y2="1186.918"/><line style="stroke:#181818;stroke-width:1.0;" x1="25" x2="257" y1="1188.918" y2="1188.918"/><path d="M35.0833,1194.5729 C33.9517,1194.5729 32.9367,1195.0396 32.2017,1195.7746 L35.6667,1199.2396 L35.6667,1194.6079 C35.48,1194.5846 35.2817,1194.5729 35.0833,1194.5729 M36.8333,1195.8096 L36.8333,1199.7879 L33.66,1202.9613 C34.3717,1203.5446 35.2583,1203.9063 36.25,1203.9063 C38.5017,1203.9063 40.3333,1202.0746 40.3333,1199.8229 C40.3333,1197.7696 38.805,1196.1013 36.8333,1195.8096 M32.0617,1197.3379 C31.4083,1197.9679 31,1198.8429 31,1199.8229 C31,1200.9429 31.5367,1201.9113 32.3533,1202.5529 L34.8383,1200.0679 L32.0617,1197.3379 " fill="#000000" style="stroke:;stroke-width:0.0;stroke-dasharray:;"/><text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="36" x="46.3333" y="1204.4531">stats</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="107" x="30" y="1220.9414">total rows : 105</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="83" x="30" y="1237.4297">total cols : 5</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="112" x="30" y="1253.918">data size : 64 KB</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="121" x="30" y="1270.4063">index size : 64 KB</text><line style="stroke:#181818;stroke-width:1.0;" x1="25" x2="257" y1="1277.3594" y2="1277.3594"/></g><!--MD5=[b67f702574e330a6e25c0569dc15eff4]
+class OT.ORDER_ITEMS--><g id="elem_OT.ORDER_ITEMS"><rect codeLine="141" fill="#F1F1F1" height="231.3711" id="OT.ORDER_ITEMS" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="225" x="28.5" y="643.9883"/><path d="M70.3333,652.6432 L70.3333,654.9766 L72.6667,654.9766 L72.6667,652.6432 L70.3333,652.6432 M73.8333,652.6432 L73.8333,654.9766 L76.1667,654.9766 L76.1667,652.6432 L73.8333,652.6432 M77.3333,652.6432 L77.3333,654.9766 L79.6667,654.9766 L79.6667,652.6432 L77.3333,652.6432 M70.3333,656.1432 L70.3333,658.4766 L72.6667,658.4766 L72.6667,656.1432 L70.3333,656.1432 M73.8333,656.1432 L73.8333,658.4766 L76.1667,658.4766 L76.1667,656.1432 L73.8333,656.1432 M77.3333,656.1432 L77.3333,658.4766 L79.6667,658.4766 L79.6667,656.1432 L77.3333,656.1432 M70.3333,659.6432 L70.3333,661.9766 L72.6667,661.9766 L72.6667,659.6432 L70.3333,659.6432 M73.8333,659.6432 L73.8333,661.9766 L76.1667,661.9766 L76.1667,659.6432 L73.8333,659.6432 M77.3333,659.6432 L77.3333,661.9766 L79.6667,661.9766 L79.6667,659.6432 L77.3333,659.6432 " fill="#000000" style="stroke:;stroke-width:0.0;stroke-dasharray:;"/><text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="127" x="85.6667" y="662.5234">OT.ORDER_ITEMS</text><line style="stroke:#181818;stroke-width:0.5;" x1="29.5" x2="252.5" y1="670.4766" y2="670.4766"/><ellipse cx="39.5" cy="684.2207" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="166" x="48.5" y="688.0117">(pk) ITEM_ID : NUMBER</text><ellipse cx="39.5" cy="700.709" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="181" x="48.5" y="704.5">(pk) ORDER_ID : NUMBER</text><line style="stroke:#181818;stroke-width:1.0;" x1="29.5" x2="252.5" y1="711.4531" y2="711.4531"/><rect fill="none" height="6" style="stroke:#C82930;stroke-width:1.0;" width="6" x="36.5" y="722.1973"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="141" x="48.5" y="728.9883">QUANTITY : NUMBER</text><rect fill="none" height="6" style="stroke:#C82930;stroke-width:1.0;" width="6" x="36.5" y="738.6855"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="148" x="48.5" y="745.4766">UNIT_PRICE : NUMBER</text><line style="stroke:#181818;stroke-width:1.0;" x1="29.5" x2="252.5" y1="752.4297" y2="752.4297"/><ellipse cx="39.5" cy="766.1738" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="199" x="48.5" y="769.9648">(fk) PRODUCT_ID : NUMBER</text><line style="stroke:#181818;stroke-width:1.0;" x1="29.5" x2="252.5" y1="776.918" y2="776.918"/><line style="stroke:#181818;stroke-width:1.0;" x1="29.5" x2="252.5" y1="778.918" y2="778.918"/><path d="M39.5833,784.5729 C38.4517,784.5729 37.4367,785.0396 36.7017,785.7746 L40.1667,789.2396 L40.1667,784.6079 C39.98,784.5846 39.7817,784.5729 39.5833,784.5729 M41.3333,785.8096 L41.3333,789.7879 L38.16,792.9613 C38.8717,793.5446 39.7583,793.9063 40.75,793.9063 C43.0017,793.9063 44.8333,792.0746 44.8333,789.8229 C44.8333,787.7696 43.305,786.1012 41.3333,785.8096 M36.5617,787.3379 C35.9083,787.9679 35.5,788.8429 35.5,789.8229 C35.5,790.9429 36.0367,791.9113 36.8533,792.5529 L39.3383,790.0679 L36.5617,787.3379 " fill="#000000" style="stroke:;stroke-width:0.0;stroke-dasharray:;"/><text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="36" x="50.8333" y="794.4531">stats</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="107" x="34.5" y="810.9414">total rows : 665</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="83" x="34.5" y="827.4297">total cols : 5</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="112" x="34.5" y="843.918">data size : 64 KB</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="121" x="34.5" y="860.4063">index size : 64 KB</text><line style="stroke:#181818;stroke-width:1.0;" x1="29.5" x2="252.5" y1="867.3594" y2="867.3594"/></g><!--MD5=[b486afc84dd2c8ecdbf589566f4c8012]
+class OT.PRODUCTS--><g id="elem_OT.PRODUCTS"><rect codeLine="159" fill="#F1F1F1" height="247.8594" id="OT.PRODUCTS" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="233" x="320" y="563.4883"/><path d="M376.8333,572.1432 L376.8333,574.4766 L379.1667,574.4766 L379.1667,572.1432 L376.8333,572.1432 M380.3333,572.1432 L380.3333,574.4766 L382.6667,574.4766 L382.6667,572.1432 L380.3333,572.1432 M383.8333,572.1432 L383.8333,574.4766 L386.1667,574.4766 L386.1667,572.1432 L383.8333,572.1432 M376.8333,575.6432 L376.8333,577.9766 L379.1667,577.9766 L379.1667,575.6432 L376.8333,575.6432 M380.3333,575.6432 L380.3333,577.9766 L382.6667,577.9766 L382.6667,575.6432 L380.3333,575.6432 M383.8333,575.6432 L383.8333,577.9766 L386.1667,577.9766 L386.1667,575.6432 L383.8333,575.6432 M376.8333,579.1432 L376.8333,581.4766 L379.1667,581.4766 L379.1667,579.1432 L376.8333,579.1432 M380.3333,579.1432 L380.3333,581.4766 L382.6667,581.4766 L382.6667,579.1432 L380.3333,579.1432 M383.8333,579.1432 L383.8333,581.4766 L386.1667,581.4766 L386.1667,579.1432 L383.8333,579.1432 " fill="#000000" style="stroke:;stroke-width:0.0;stroke-dasharray:;"/><text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="105" x="392.1667" y="582.0234">OT.PRODUCTS</text><line style="stroke:#181818;stroke-width:0.5;" x1="321" x2="552" y1="589.9766" y2="589.9766"/><ellipse cx="331" cy="603.7207" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="202" x="340" y="607.5117">(pk) PRODUCT_ID : NUMBER</text><line style="stroke:#181818;stroke-width:1.0;" x1="321" x2="552" y1="614.4648" y2="614.4648"/><rect fill="none" height="6" style="stroke:#C82930;stroke-width:1.0;" width="6" x="328" y="625.209"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="202" x="340" y="632">PRODUCT_NAME : VARCHAR2</text><rect fill="none" height="6" style="stroke:#C82930;stroke-width:1.0;" width="6" x="328" y="641.6973"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="179" x="340" y="648.4883">DESCRIPTION : VARCHAR2</text><rect fill="none" height="6" style="stroke:#C82930;stroke-width:1.0;" width="6" x="328" y="658.1855"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="190" x="340" y="664.9766">STANDARD_COST : NUMBER</text><rect fill="none" height="6" style="stroke:#C82930;stroke-width:1.0;" width="6" x="328" y="674.6738"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="143" x="340" y="681.4648">LIST_PRICE : NUMBER</text><line style="stroke:#181818;stroke-width:1.0;" x1="321" x2="552" y1="688.418" y2="688.418"/><ellipse cx="331" cy="702.1621" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="207" x="340" y="705.9531">(fk) CATEGORY_ID : NUMBER</text><line style="stroke:#181818;stroke-width:1.0;" x1="321" x2="552" y1="712.9063" y2="712.9063"/><line style="stroke:#181818;stroke-width:1.0;" x1="321" x2="552" y1="714.9063" y2="714.9063"/><path d="M331.0833,720.5612 C329.9517,720.5612 328.9367,721.0279 328.2017,721.7629 L331.6667,725.2279 L331.6667,720.5962 C331.48,720.5729 331.2817,720.5612 331.0833,720.5612 M332.8333,721.7979 L332.8333,725.7762 L329.66,728.9495 C330.3717,729.5329 331.2583,729.8945 332.25,729.8945 C334.5017,729.8945 336.3333,728.0629 336.3333,725.8112 C336.3333,723.7579 334.805,722.0895 332.8333,721.7979 M328.0617,723.3262 C327.4083,723.9562 327,724.8312 327,725.8112 C327,726.9312 327.5367,727.8995 328.3533,728.5412 L330.8383,726.0562 L328.0617,723.3262 " fill="#000000" style="stroke:;stroke-width:0.0;stroke-dasharray:;"/><text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="36" x="342.3333" y="730.4414">stats</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="107" x="326" y="746.9297">total rows : 288</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="83" x="326" y="763.418">total cols : 6</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="112" x="326" y="779.9063">data size : 64 KB</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="121" x="326" y="796.3945">index size : 64 KB</text><line style="stroke:#181818;stroke-width:1.0;" x1="321" x2="552" y1="803.3477" y2="803.3477"/></g><!--MD5=[c6ceb4ae9e3697f3790f045f63cd4909]
+class OT.PRODUCT_CATEGORIES--><g id="elem_OT.PRODUCT_CATEGORIES"><rect codeLine="178" fill="#F1F1F1" height="173.9063" id="OT.PRODUCT_CATEGORIES" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="237" x="318" y="354.4883"/><path d="M331.8333,363.1432 L331.8333,365.4766 L334.1667,365.4766 L334.1667,363.1432 L331.8333,363.1432 M335.3333,363.1432 L335.3333,365.4766 L337.6667,365.4766 L337.6667,363.1432 L335.3333,363.1432 M338.8333,363.1432 L338.8333,365.4766 L341.1667,365.4766 L341.1667,363.1432 L338.8333,363.1432 M331.8333,366.6432 L331.8333,368.9766 L334.1667,368.9766 L334.1667,366.6432 L331.8333,366.6432 M335.3333,366.6432 L335.3333,368.9766 L337.6667,368.9766 L337.6667,366.6432 L335.3333,366.6432 M338.8333,366.6432 L338.8333,368.9766 L341.1667,368.9766 L341.1667,366.6432 L338.8333,366.6432 M331.8333,370.1432 L331.8333,372.4766 L334.1667,372.4766 L334.1667,370.1432 L331.8333,370.1432 M335.3333,370.1432 L335.3333,372.4766 L337.6667,372.4766 L337.6667,370.1432 L335.3333,370.1432 M338.8333,370.1432 L338.8333,372.4766 L341.1667,372.4766 L341.1667,370.1432 L338.8333,370.1432 " fill="#000000" style="stroke:;stroke-width:0.0;stroke-dasharray:;"/><text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="195" x="347.1667" y="373.0234">OT.PRODUCT_CATEGORIES</text><line style="stroke:#181818;stroke-width:0.5;" x1="319" x2="554" y1="380.9766" y2="380.9766"/><ellipse cx="329" cy="394.7207" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="210" x="338" y="398.5117">(pk) CATEGORY_ID : NUMBER</text><line style="stroke:#181818;stroke-width:1.0;" x1="319" x2="554" y1="405.4648" y2="405.4648"/><rect fill="none" height="6" style="stroke:#C82930;stroke-width:1.0;" width="6" x="326" y="416.209"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="211" x="338" y="423">CATEGORY_NAME : VARCHAR2</text><line style="stroke:#181818;stroke-width:1.0;" x1="319" x2="554" y1="429.9531" y2="429.9531"/><line style="stroke:#181818;stroke-width:1.0;" x1="319" x2="554" y1="431.9531" y2="431.9531"/><path d="M329.0833,437.6081 C327.9517,437.6081 326.9367,438.0747 326.2017,438.8097 L329.6667,442.2747 L329.6667,437.6431 C329.48,437.6197 329.2817,437.6081 329.0833,437.6081 M330.8333,438.8447 L330.8333,442.8231 L327.66,445.9964 C328.3717,446.5797 329.2583,446.9414 330.25,446.9414 C332.5017,446.9414 334.3333,445.1097 334.3333,442.8581 C334.3333,440.8047 332.805,439.1364 330.8333,438.8447 M326.0617,440.3731 C325.4083,441.0031 325,441.8781 325,442.8581 C325,443.9781 325.5367,444.9464 326.3533,445.5881 L328.8383,443.1031 L326.0617,440.3731 " fill="#000000" style="stroke:;stroke-width:0.0;stroke-dasharray:;"/><text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="36" x="340.3333" y="447.4883">stats</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="89" x="324" y="463.9766">total rows : 5</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="83" x="324" y="480.4648">total cols : 2</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="112" x="324" y="496.9531">data size : 64 KB</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="121" x="324" y="513.4414">index size : 64 KB</text><line style="stroke:#181818;stroke-width:1.0;" x1="319" x2="554" y1="520.3945" y2="520.3945"/></g><!--MD5=[a89fd96f2502bb785303ade5960fc083]
+class OT.REGIONS--><g id="elem_OT.REGIONS"><rect codeLine="192" fill="#F1F1F1" height="173.9063" id="OT.REGIONS" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="213" x="34.5" y="133.4883"/><path d="M89.3333,142.1432 L89.3333,144.4766 L91.6667,144.4766 L91.6667,142.1432 L89.3333,142.1432 M92.8333,142.1432 L92.8333,144.4766 L95.1667,144.4766 L95.1667,142.1432 L92.8333,142.1432 M96.3333,142.1432 L96.3333,144.4766 L98.6667,144.4766 L98.6667,142.1432 L96.3333,142.1432 M89.3333,145.6432 L89.3333,147.9766 L91.6667,147.9766 L91.6667,145.6432 L89.3333,145.6432 M92.8333,145.6432 L92.8333,147.9766 L95.1667,147.9766 L95.1667,145.6432 L92.8333,145.6432 M96.3333,145.6432 L96.3333,147.9766 L98.6667,147.9766 L98.6667,145.6432 L96.3333,145.6432 M89.3333,149.1432 L89.3333,151.4766 L91.6667,151.4766 L91.6667,149.1432 L89.3333,149.1432 M92.8333,149.1432 L92.8333,151.4766 L95.1667,151.4766 L95.1667,149.1432 L92.8333,149.1432 M96.3333,149.1432 L96.3333,151.4766 L98.6667,151.4766 L98.6667,149.1432 L96.3333,149.1432 " fill="#000000" style="stroke:;stroke-width:0.0;stroke-dasharray:;"/><text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="89" x="104.6667" y="152.0234">OT.REGIONS</text><line style="stroke:#181818;stroke-width:0.5;" x1="35.5" x2="246.5" y1="159.9766" y2="159.9766"/><ellipse cx="45.5" cy="173.7207" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="186" x="54.5" y="177.5117">(pk) REGION_ID : NUMBER</text><line style="stroke:#181818;stroke-width:1.0;" x1="35.5" x2="246.5" y1="184.4648" y2="184.4648"/><rect fill="none" height="6" style="stroke:#C82930;stroke-width:1.0;" width="6" x="42.5" y="195.209"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="187" x="54.5" y="202">REGION_NAME : VARCHAR2</text><line style="stroke:#181818;stroke-width:1.0;" x1="35.5" x2="246.5" y1="208.9531" y2="208.9531"/><line style="stroke:#181818;stroke-width:1.0;" x1="35.5" x2="246.5" y1="210.9531" y2="210.9531"/><path d="M45.5833,216.6081 C44.4517,216.6081 43.4367,217.0747 42.7017,217.8097 L46.1667,221.2747 L46.1667,216.6431 C45.98,216.6197 45.7817,216.6081 45.5833,216.6081 M47.3333,217.8447 L47.3333,221.8231 L44.16,224.9964 C44.8717,225.5797 45.7583,225.9414 46.75,225.9414 C49.0017,225.9414 50.8333,224.1097 50.8333,221.8581 C50.8333,219.8047 49.305,218.1364 47.3333,217.8447 M42.5617,219.3731 C41.9083,220.0031 41.5,220.8781 41.5,221.8581 C41.5,222.9781 42.0367,223.9464 42.8533,224.5881 L45.3383,222.1031 L42.5617,219.3731 " fill="#000000" style="stroke:;stroke-width:0.0;stroke-dasharray:;"/><text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="36" x="56.8333" y="226.4883">stats</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="89" x="40.5" y="242.9766">total rows : 4</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="83" x="40.5" y="259.4648">total cols : 2</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="112" x="40.5" y="275.9531">data size : 64 KB</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="121" x="40.5" y="292.4414">index size : 64 KB</text><line style="stroke:#181818;stroke-width:1.0;" x1="35.5" x2="246.5" y1="299.3945" y2="299.3945"/></g><!--MD5=[8f05e287a2d586a20561d51b86f7f405]
+class OT.WAREHOUSES--><g id="elem_OT.WAREHOUSES"><rect codeLine="206" fill="#F1F1F1" height="198.3945" id="OT.WAREHOUSES" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="247" x="615" y="844.4883"/><path d="M669.8333,853.1432 L669.8333,855.4766 L672.1667,855.4766 L672.1667,853.1432 L669.8333,853.1432 M673.3333,853.1432 L673.3333,855.4766 L675.6667,855.4766 L675.6667,853.1432 L673.3333,853.1432 M676.8333,853.1432 L676.8333,855.4766 L679.1667,855.4766 L679.1667,853.1432 L676.8333,853.1432 M669.8333,856.6432 L669.8333,858.9766 L672.1667,858.9766 L672.1667,856.6432 L669.8333,856.6432 M673.3333,856.6432 L673.3333,858.9766 L675.6667,858.9766 L675.6667,856.6432 L673.3333,856.6432 M676.8333,856.6432 L676.8333,858.9766 L679.1667,858.9766 L679.1667,856.6432 L676.8333,856.6432 M669.8333,860.1432 L669.8333,862.4766 L672.1667,862.4766 L672.1667,860.1432 L669.8333,860.1432 M673.3333,860.1432 L673.3333,862.4766 L675.6667,862.4766 L675.6667,860.1432 L673.3333,860.1432 M676.8333,860.1432 L676.8333,862.4766 L679.1667,862.4766 L679.1667,860.1432 L676.8333,860.1432 " fill="#000000" style="stroke:;stroke-width:0.0;stroke-dasharray:;"/><text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="123" x="685.1667" y="863.0234">OT.WAREHOUSES</text><line style="stroke:#181818;stroke-width:0.5;" x1="616" x2="861" y1="870.9766" y2="870.9766"/><ellipse cx="626" cy="884.7207" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="220" x="635" y="888.5117">(pk) WAREHOUSE_ID : NUMBER</text><line style="stroke:#181818;stroke-width:1.0;" x1="616" x2="861" y1="895.4648" y2="895.4648"/><rect fill="none" height="6" style="stroke:#C82930;stroke-width:1.0;" width="6" x="623" y="906.209"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="221" x="635" y="913">WAREHOUSE_NAME : VARCHAR2</text><line style="stroke:#181818;stroke-width:1.0;" x1="616" x2="861" y1="919.9531" y2="919.9531"/><ellipse cx="626" cy="933.6973" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="205" x="635" y="937.4883">(fk) LOCATION_ID : NUMBER</text><line style="stroke:#181818;stroke-width:1.0;" x1="616" x2="861" y1="944.4414" y2="944.4414"/><line style="stroke:#181818;stroke-width:1.0;" x1="616" x2="861" y1="946.4414" y2="946.4414"/><path d="M626.0833,952.0964 C624.9517,952.0964 623.9367,952.563 623.2017,953.298 L626.6667,956.763 L626.6667,952.1314 C626.48,952.108 626.2817,952.0964 626.0833,952.0964 M627.8333,953.333 L627.8333,957.3114 L624.66,960.4847 C625.3717,961.068 626.2583,961.4297 627.25,961.4297 C629.5017,961.4297 631.3333,959.598 631.3333,957.3464 C631.3333,955.293 629.805,953.6247 627.8333,953.333 M623.0617,954.8614 C622.4083,955.4914 622,956.3664 622,957.3464 C622,958.4664 622.5367,959.4347 623.3533,960.0764 L625.8383,957.5914 L623.0617,954.8614 " fill="#000000" style="stroke:;stroke-width:0.0;stroke-dasharray:;"/><text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="36" x="637.3333" y="961.9766">stats</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="89" x="621" y="978.4648">total rows : 9</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="83" x="621" y="994.9531">total cols : 3</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="112" x="621" y="1011.4414">data size : 64 KB</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="121" x="621" y="1027.9297">index size : 64 KB</text><line style="stroke:#181818;stroke-width:1.0;" x1="616" x2="861" y1="1034.8828" y2="1034.8828"/></g><!--MD5=[654561491e1089e717fe89658f37ebb8]
+class tbl_aaa--><g id="elem_tbl_aaa"><rect fill="#F1F1F1" height="42.4883" id="tbl_aaa" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="55" x="113.5" y="44.4883"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="49" x="116.5" y="63.0234">tbl_aaa</text><line style="stroke:#181818;stroke-width:0.5;" x1="114.5" x2="167.5" y1="70.9766" y2="70.9766"/><line style="stroke:#181818;stroke-width:0.5;" x1="114.5" x2="167.5" y1="78.9766" y2="78.9766"/></g><!--MD5=[3adcc325066560b4d6f8b114f2853a09]
+class tbl_bbb--><g id="elem_tbl_bbb"><rect fill="#F1F1F1" height="42.4883" id="tbl_bbb" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="58" x="407.5" y="44.4883"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="52" x="410.5" y="63.0234">tbl_bbb</text><line style="stroke:#181818;stroke-width:0.5;" x1="408.5" x2="464.5" y1="70.9766" y2="70.9766"/><line style="stroke:#181818;stroke-width:0.5;" x1="408.5" x2="464.5" y1="78.9766" y2="78.9766"/></g><!--MD5=[a45ad3cad71473d5cc29b7a058785b01]
+link OT.ORDERS to OT.CUSTOMERS--><g id="link_OT.ORDERS_OT.CUSTOMERS"><path codeLine="221" d="M266.21,1207.4883 C266.21,1207.4883 309.98,1207.4883 309.98,1207.4883 " fill="none" id="OT.ORDERS-OT.CUSTOMERS" style="stroke:#181818;stroke-width:1.0;stroke-dasharray:7.0,7.0;"/><line style="stroke:#181818;stroke-width:1.0;" x1="309.98" x2="317.98" y1="1207.4883" y2="1201.4883"/><line style="stroke:#181818;stroke-width:1.0;" x1="309.98" x2="317.98" y1="1207.4883" y2="1213.4883"/><line style="stroke:#181818;stroke-width:1.0;" x1="309.98" x2="317.98" y1="1207.4883" y2="1207.4883"/><ellipse cx="303.98" cy="1207.4883" fill="none" rx="4" ry="4" style="stroke:#181818;stroke-width:1.0;"/><line style="stroke:#181818;stroke-width:1.0;" x1="262.21" x2="262.21" y1="1211.4883" y2="1203.4883"/><line style="stroke:#181818;stroke-width:1.0;" x1="265.21" x2="265.21" y1="1211.4883" y2="1203.4883"/><line style="stroke:#181818;stroke-width:1.0;" x1="266.21" x2="258.21" y1="1207.4883" y2="1207.4883"/></g><!--MD5=[8a64736aad444bb3f90a86ac11640233]
+link OT.PRODUCT_CATEGORIES to OT.PRODUCTS--><g id="link_OT.PRODUCT_CATEGORIES_OT.PRODUCTS"><path codeLine="222" d="M437,536.5683 C437,536.5683 437,555.4683 437,555.4683 " fill="none" id="OT.PRODUCT_CATEGORIES-OT.PRODUCTS" style="stroke:#181818;stroke-width:1.0;stroke-dasharray:7.0,7.0;"/><line style="stroke:#181818;stroke-width:1.0;" x1="441" x2="433" y1="559.4683" y2="559.4683"/><line style="stroke:#181818;stroke-width:1.0;" x1="441" x2="433" y1="556.4683" y2="556.4683"/><line style="stroke:#181818;stroke-width:1.0;" x1="437" x2="437" y1="555.4683" y2="563.4683"/><line style="stroke:#181818;stroke-width:1.0;" x1="437" x2="431" y1="536.5683" y2="528.5683"/><line style="stroke:#181818;stroke-width:1.0;" x1="437" x2="443" y1="536.5683" y2="528.5683"/><line style="stroke:#181818;stroke-width:1.0;" x1="437" x2="437" y1="536.5683" y2="528.5683"/><ellipse cx="437" cy="542.5683" fill="none" rx="4" ry="4" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[115de31e5bb07734712578eca17e336b]
+link OT.LOCATIONS to OT.WAREHOUSES--><g id="link_OT.LOCATIONS_OT.WAREHOUSES"><path codeLine="223" d="M561.69,944.4883 C561.69,944.4883 606.88,944.4883 606.88,944.4883 " fill="none" id="OT.LOCATIONS-OT.WAREHOUSES" style="stroke:#181818;stroke-width:1.0;stroke-dasharray:7.0,7.0;"/><line style="stroke:#181818;stroke-width:1.0;" x1="610.88" x2="610.88" y1="940.4883" y2="948.4883"/><line style="stroke:#181818;stroke-width:1.0;" x1="607.88" x2="607.88" y1="940.4883" y2="948.4883"/><line style="stroke:#181818;stroke-width:1.0;" x1="606.88" x2="614.88" y1="944.4883" y2="944.4883"/><line style="stroke:#181818;stroke-width:1.0;" x1="561.69" x2="553.69" y1="944.4883" y2="950.4883"/><line style="stroke:#181818;stroke-width:1.0;" x1="561.69" x2="553.69" y1="944.4883" y2="938.4883"/><line style="stroke:#181818;stroke-width:1.0;" x1="561.69" x2="553.69" y1="944.4883" y2="944.4883"/><ellipse cx="567.69" cy="944.4883" fill="none" rx="4" ry="4" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[26ca26be216242f5b19ffdfa101a37bf]
+link OT.ORDERS to OT.EMPLOYEES--><g id="link_OT.ORDERS_OT.EMPLOYEES"><path codeLine="224" d="M141,1293.4283 C141,1293.4283 141,1329.9083 141,1329.9083 " fill="none" id="OT.ORDERS-OT.EMPLOYEES" style="stroke:#181818;stroke-width:1.0;stroke-dasharray:7.0,7.0;"/><line style="stroke:#181818;stroke-width:1.0;" x1="141" x2="147" y1="1329.9083" y2="1337.9083"/><line style="stroke:#181818;stroke-width:1.0;" x1="141" x2="135" y1="1329.9083" y2="1337.9083"/><line style="stroke:#181818;stroke-width:1.0;" x1="141" x2="141" y1="1329.9083" y2="1337.9083"/><ellipse cx="141" cy="1323.9083" fill="none" rx="4" ry="4" style="stroke:#181818;stroke-width:1.0;"/><line style="stroke:#181818;stroke-width:1.0;" x1="137" x2="145" y1="1289.4283" y2="1289.4283"/><line style="stroke:#181818;stroke-width:1.0;" x1="137" x2="145" y1="1292.4283" y2="1292.4283"/><line style="stroke:#181818;stroke-width:1.0;" x1="141" x2="141" y1="1293.4283" y2="1285.4283"/></g><!--MD5=[82da955524e660d85c018eb2e56d24c5]
+link OT.EMPLOYEES to OT.EMPLOYEES--><g id="link_OT.EMPLOYEES_OT.EMPLOYEES"><path codeLine="225" d="M16.77,1478.4883 C16.77,1478.4883 6,1478.4883 6,1478.4883 C6,1478.4883 6,1311.4883 6,1311.4883 C6,1311.4883 298,1311.4883 298,1311.4883 C298,1311.4883 298,1345.4883 298,1345.4883 C298,1345.4883 265.16,1345.4883 265.16,1345.4883 " fill="none" id="OT.EMPLOYEES-OT.EMPLOYEES" style="stroke:#181818;stroke-width:1.0;stroke-dasharray:7.0,7.0;"/><line style="stroke:#181818;stroke-width:1.0;" x1="265.16" x2="257.16" y1="1345.4883" y2="1351.4883"/><line style="stroke:#181818;stroke-width:1.0;" x1="265.16" x2="257.16" y1="1345.4883" y2="1339.4883"/><line style="stroke:#181818;stroke-width:1.0;" x1="265.16" x2="257.16" y1="1345.4883" y2="1345.4883"/><ellipse cx="271.16" cy="1345.4883" fill="none" rx="4" ry="4" style="stroke:#181818;stroke-width:1.0;"/><line style="stroke:#181818;stroke-width:1.0;" x1="20.77" x2="20.77" y1="1474.4883" y2="1482.4883"/><line style="stroke:#181818;stroke-width:1.0;" x1="17.77" x2="17.77" y1="1474.4883" y2="1482.4883"/><line style="stroke:#181818;stroke-width:1.0;" x1="16.77" x2="24.77" y1="1478.4883" y2="1478.4883"/></g><!--MD5=[6e23b2f5325c3df43e89ad9cde653b1c]
+link OT.COUNTRIES to OT.LOCATIONS--><g id="link_OT.COUNTRIES_OT.LOCATIONS"><path codeLine="226" d="M313.73,313.4883 C313.73,313.4883 278,313.4883 278,313.4883 C278,313.4883 278,860.7383 278,860.7383 C278,860.7383 311.23,860.7383 311.23,860.7383 " fill="none" id="OT.COUNTRIES-OT.LOCATIONS" style="stroke:#181818;stroke-width:1.0;stroke-dasharray:7.0,7.0;"/><line style="stroke:#181818;stroke-width:1.0;" x1="315.23" x2="315.23" y1="856.7383" y2="864.7383"/><line style="stroke:#181818;stroke-width:1.0;" x1="312.23" x2="312.23" y1="856.7383" y2="864.7383"/><line style="stroke:#181818;stroke-width:1.0;" x1="311.23" x2="319.23" y1="860.7383" y2="860.7383"/><line style="stroke:#181818;stroke-width:1.0;" x1="313.73" x2="321.73" y1="313.4883" y2="307.4883"/><line style="stroke:#181818;stroke-width:1.0;" x1="313.73" x2="321.73" y1="313.4883" y2="319.4883"/><line style="stroke:#181818;stroke-width:1.0;" x1="313.73" x2="321.73" y1="313.4883" y2="313.4883"/><ellipse cx="307.73" cy="313.4883" fill="none" rx="4" ry="4" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[4053f99d8d876aed96d62f63039f3e64]
+link OT.PRODUCTS to OT.INVENTORIES--><g id="link_OT.PRODUCTS_OT.INVENTORIES"><path codeLine="227" d="M561.26,701.4883 C561.26,701.4883 607.3,701.4883 607.3,701.4883 " fill="none" id="OT.PRODUCTS-OT.INVENTORIES" style="stroke:#181818;stroke-width:1.0;stroke-dasharray:7.0,7.0;"/><line style="stroke:#181818;stroke-width:1.0;" x1="611.3" x2="611.3" y1="697.4883" y2="705.4883"/><line style="stroke:#181818;stroke-width:1.0;" x1="608.3" x2="608.3" y1="697.4883" y2="705.4883"/><line style="stroke:#181818;stroke-width:1.0;" x1="607.3" x2="615.3" y1="701.4883" y2="701.4883"/><line style="stroke:#181818;stroke-width:1.0;" x1="561.26" x2="553.26" y1="701.4883" y2="707.4883"/><line style="stroke:#181818;stroke-width:1.0;" x1="561.26" x2="553.26" y1="701.4883" y2="695.4883"/><line style="stroke:#181818;stroke-width:1.0;" x1="561.26" x2="553.26" y1="701.4883" y2="701.4883"/><ellipse cx="567.26" cy="701.4883" fill="none" rx="4" ry="4" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[289d72419bb4051fe5f311d5921857b9]
+link OT.ORDER_ITEMS to OT.ORDERS--><g id="link_OT.ORDER_ITEMS_OT.ORDERS"><path codeLine="228" d="M141,883.0583 C141,883.0583 141,1045.7783 141,1045.7783 " fill="none" id="OT.ORDER_ITEMS-OT.ORDERS" style="stroke:#181818;stroke-width:1.0;stroke-dasharray:7.0,7.0;"/><line style="stroke:#181818;stroke-width:1.0;" x1="141" x2="147" y1="1045.7783" y2="1053.7783"/><line style="stroke:#181818;stroke-width:1.0;" x1="141" x2="135" y1="1045.7783" y2="1053.7783"/><line style="stroke:#181818;stroke-width:1.0;" x1="141" x2="141" y1="1045.7783" y2="1053.7783"/><ellipse cx="141" cy="1039.7783" fill="none" rx="4" ry="4" style="stroke:#181818;stroke-width:1.0;"/><line style="stroke:#181818;stroke-width:1.0;" x1="137" x2="145" y1="879.0583" y2="879.0583"/><line style="stroke:#181818;stroke-width:1.0;" x1="137" x2="145" y1="882.0583" y2="882.0583"/><line style="stroke:#181818;stroke-width:1.0;" x1="141" x2="141" y1="883.0583" y2="875.0583"/></g><!--MD5=[199b0f22172c868f0f03a91ea7a97352]
+link OT.ORDER_ITEMS to OT.PRODUCTS--><g id="link_OT.ORDER_ITEMS_OT.PRODUCTS"><path codeLine="229" d="M261.56,727.7383 C261.56,727.7383 311.84,727.7383 311.84,727.7383 " fill="none" id="OT.ORDER_ITEMS-OT.PRODUCTS" style="stroke:#181818;stroke-width:1.0;stroke-dasharray:7.0,7.0;"/><line style="stroke:#181818;stroke-width:1.0;" x1="311.84" x2="319.84" y1="727.7383" y2="721.7383"/><line style="stroke:#181818;stroke-width:1.0;" x1="311.84" x2="319.84" y1="727.7383" y2="733.7383"/><line style="stroke:#181818;stroke-width:1.0;" x1="311.84" x2="319.84" y1="727.7383" y2="727.7383"/><ellipse cx="305.84" cy="727.7383" fill="none" rx="4" ry="4" style="stroke:#181818;stroke-width:1.0;"/><line style="stroke:#181818;stroke-width:1.0;" x1="257.56" x2="257.56" y1="731.7383" y2="723.7383"/><line style="stroke:#181818;stroke-width:1.0;" x1="260.56" x2="260.56" y1="731.7383" y2="723.7383"/><line style="stroke:#181818;stroke-width:1.0;" x1="261.56" x2="253.56" y1="727.7383" y2="727.7383"/></g><!--MD5=[b564d13fa6d13dd372510199b69f7500]
+link OT.CUSTOMERS to OT.CONTACTS--><g id="link_OT.CUSTOMERS_OT.CONTACTS"><path codeLine="230" d="M437,1361.2783 C437,1361.2783 437,1380.1983 437,1380.1983 " fill="none" id="OT.CUSTOMERS-OT.CONTACTS" style="stroke:#181818;stroke-width:1.0;stroke-dasharray:7.0,7.0;"/><line style="stroke:#181818;stroke-width:1.0;" x1="441" x2="433" y1="1384.1983" y2="1384.1983"/><line style="stroke:#181818;stroke-width:1.0;" x1="441" x2="433" y1="1381.1983" y2="1381.1983"/><line style="stroke:#181818;stroke-width:1.0;" x1="437" x2="437" y1="1380.1983" y2="1388.1983"/><line style="stroke:#181818;stroke-width:1.0;" x1="437" x2="431" y1="1361.2783" y2="1353.2783"/><line style="stroke:#181818;stroke-width:1.0;" x1="437" x2="443" y1="1361.2783" y2="1353.2783"/><line style="stroke:#181818;stroke-width:1.0;" x1="437" x2="437" y1="1361.2783" y2="1353.2783"/><ellipse cx="437" cy="1367.2783" fill="none" rx="4" ry="4" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[46b600e3663d1f7795c5a34dcc4b48a9]
+link OT.REGIONS to OT.COUNTRIES--><g id="link_OT.REGIONS_OT.COUNTRIES"><path codeLine="231" d="M255.68,220.4883 C255.68,220.4883 313.99,220.4883 313.99,220.4883 " fill="none" id="OT.REGIONS-OT.COUNTRIES" style="stroke:#181818;stroke-width:1.0;stroke-dasharray:7.0,7.0;"/><line style="stroke:#181818;stroke-width:1.0;" x1="317.99" x2="317.99" y1="216.4883" y2="224.4883"/><line style="stroke:#181818;stroke-width:1.0;" x1="314.99" x2="314.99" y1="216.4883" y2="224.4883"/><line style="stroke:#181818;stroke-width:1.0;" x1="313.99" x2="321.99" y1="220.4883" y2="220.4883"/><line style="stroke:#181818;stroke-width:1.0;" x1="255.68" x2="247.68" y1="220.4883" y2="226.4883"/><line style="stroke:#181818;stroke-width:1.0;" x1="255.68" x2="247.68" y1="220.4883" y2="214.4883"/><line style="stroke:#181818;stroke-width:1.0;" x1="255.68" x2="247.68" y1="220.4883" y2="220.4883"/><ellipse cx="261.68" cy="220.4883" fill="none" rx="4" ry="4" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[26a68bf5abfa64196bf68511a6cd56bd]
+link OT.INVENTORIES to OT.WAREHOUSES--><g id="link_OT.INVENTORIES_OT.WAREHOUSES"><path codeLine="232" d="M739,804.7883 C739,804.7883 739,836.2983 739,836.2983 " fill="none" id="OT.INVENTORIES-OT.WAREHOUSES" style="stroke:#181818;stroke-width:1.0;stroke-dasharray:7.0,7.0;"/><line style="stroke:#181818;stroke-width:1.0;" x1="739" x2="745" y1="836.2983" y2="844.2983"/><line style="stroke:#181818;stroke-width:1.0;" x1="739" x2="733" y1="836.2983" y2="844.2983"/><line style="stroke:#181818;stroke-width:1.0;" x1="739" x2="739" y1="836.2983" y2="844.2983"/><ellipse cx="739" cy="830.2983" fill="none" rx="4" ry="4" style="stroke:#181818;stroke-width:1.0;"/><line style="stroke:#181818;stroke-width:1.0;" x1="735" x2="743" y1="800.7883" y2="800.7883"/><line style="stroke:#181818;stroke-width:1.0;" x1="735" x2="743" y1="803.7883" y2="803.7883"/><line style="stroke:#181818;stroke-width:1.0;" x1="739" x2="739" y1="804.7883" y2="796.7883"/></g><!--MD5=[e3919f77820de9b77f9b0697393b031f]
+link tbl_aaa to tbl_bbb--><g id="link_tbl_aaa_tbl_bbb"><path codeLine="235" d="M168.53,65.4883 C224.27,65.4883 349.99,65.4883 407.19,65.4883 " fill="none" id="tbl_aaa-tbl_bbb" style="stroke:#181818;stroke-width:1.0;stroke-dasharray:7.0,7.0;"/></g><!--MD5=[8c7f9241d67c06b8f94a2fef987d1168]
+@startuml
+skinparam titleBorderRoundCorner 15
+skinparam titleBorderThickness 2
+skinparam titleBorderColor black
+skinparam titleBackgroundColor #DDDDDD
+title **:: table erd1- rds copyright © ::**
+!theme _none_
+skinparam shadowing False
+left to right direction
+skinparam linetype ortho
+skinparam packageStyle rectangle
+hide circle
+
+
+
+entity "<&grid-three-up>** OT.CONTACTS**" as OT.CONTACTS { 
+  + **(pk) CONTACT_ID : NUMBER**
+  - -
+  - FIRST_NAME : VARCHAR2
+  - LAST_NAME : VARCHAR2
+  - EMAIL : VARCHAR2
+  - PHONE : VARCHAR2
+  - -
+  + **(fk) CUSTOMER_ID : NUMBER**
+  ==
+  <&pie-chart>** stats**
+      total rows : 319
+      total cols : 6
+      data size : 64 KB
+      index size : 64 KB
+  - -
+}
+
+
+entity "<&grid-three-up>** OT.COUNTRIES**" as OT.COUNTRIES { 
+  + **(pk) COUNTRY_ID : CHAR**
+  - -
+  - COUNTRY_NAME : VARCHAR2
+  - -
+  + **(fk) REGION_ID : NUMBER**
+  ==
+  <&pie-chart>** stats**
+      total rows : 25
+      total cols : 3
+      data size : 64 KB
+      index size : 64 KB
+  - -
+}
+
+
+entity "<&grid-three-up>** OT.CUSTOMERS**" as OT.CUSTOMERS { 
+  + **(pk) CUSTOMER_ID : NUMBER**
+  - -
+  - NAME : VARCHAR2
+  - ADDRESS : VARCHAR2
+  - WEBSITE : VARCHAR2
+  - CREDIT_LIMIT : NUMBER
+  ==
+  <&pie-chart>** stats**
+      total rows : 319
+      total cols : 5
+      data size : 64 KB
+      index size : 64 KB
+  - -
+}
+
+
+entity "<&grid-three-up>** OT.EMPLOYEES**" as OT.EMPLOYEES { 
+  + **(pk) EMPLOYEE_ID : NUMBER**
+  - -
+  - FIRST_NAME : VARCHAR2
+  - LAST_NAME : VARCHAR2
+  - EMAIL : VARCHAR2
+  - PHONE : VARCHAR2
+  - HIRE_DATE : DATE
+  - JOB_TITLE : VARCHAR2
+  - -
+  + **(fk) MANAGER_ID : NUMBER**
+  ==
+  <&pie-chart>** stats**
+      total rows : 107
+      total cols : 8
+      data size : 64 KB
+      index size : 64 KB
+  - -
+}
+
+
+entity "<&grid-three-up>** OT.INVENTORIES**" as OT.INVENTORIES { 
+  + **(pk) WAREHOUSE_ID : NUMBER**
+  + **(pk) PRODUCT_ID : NUMBER**
+  - -
+  - QUANTITY : NUMBER
+  ==
+  <&pie-chart>** stats**
+      total rows : 1,112
+      total cols : 3
+      data size : 64 KB
+      index size : 64 KB
+  - -
+}
+
+
+entity "<&grid-three-up>** OT.LOCATIONS**" as OT.LOCATIONS { 
+  + **(pk) LOCATION_ID : NUMBER**
+  - -
+  - ADDRESS : VARCHAR2
+  - POSTAL_CODE : VARCHAR2
+  - CITY : VARCHAR2
+  - STATE : VARCHAR2
+  - -
+  + **(fk) COUNTRY_ID : CHAR**
+  ==
+  <&pie-chart>** stats**
+      total rows : 23
+      total cols : 6
+      data size : 64 KB
+      index size : 64 KB
+  - -
+}
+
+
+entity "<&grid-three-up>** OT.ORDERS**" as OT.ORDERS { 
+  + **(pk) ORDER_ID : NUMBER**
+  - -
+  - STATUS : VARCHAR2
+  - ORDER_DATE : DATE
+  - -
+  + **(fk) CUSTOMER_ID : NUMBER**
+  + **(fk) SALESMAN_ID : NUMBER**
+  ==
+  <&pie-chart>** stats**
+      total rows : 105
+      total cols : 5
+      data size : 64 KB
+      index size : 64 KB
+  - -
+}
+
+
+entity "<&grid-three-up>** OT.ORDER_ITEMS**" as OT.ORDER_ITEMS { 
+  + **(pk) ITEM_ID : NUMBER**
+  + **(pk) ORDER_ID : NUMBER**
+  - -
+  - QUANTITY : NUMBER
+  - UNIT_PRICE : NUMBER
+  - -
+  + **(fk) PRODUCT_ID : NUMBER**
+  ==
+  <&pie-chart>** stats**
+      total rows : 665
+      total cols : 5
+      data size : 64 KB
+      index size : 64 KB
+  - -
+}
+
+
+entity "<&grid-three-up>** OT.PRODUCTS**" as OT.PRODUCTS { 
+  + **(pk) PRODUCT_ID : NUMBER**
+  - -
+  - PRODUCT_NAME : VARCHAR2
+  - DESCRIPTION : VARCHAR2
+  - STANDARD_COST : NUMBER
+  - LIST_PRICE : NUMBER
+  - -
+  + **(fk) CATEGORY_ID : NUMBER**
+  ==
+  <&pie-chart>** stats**
+      total rows : 288
+      total cols : 6
+      data size : 64 KB
+      index size : 64 KB
+  - -
+}
+
+
+entity "<&grid-three-up>** OT.PRODUCT_CATEGORIES**" as OT.PRODUCT_CATEGORIES { 
+  + **(pk) CATEGORY_ID : NUMBER**
+  - -
+  - CATEGORY_NAME : VARCHAR2
+  ==
+  <&pie-chart>** stats**
+      total rows : 5
+      total cols : 2
+      data size : 64 KB
+      index size : 64 KB
+  - -
+}
+
+
+entity "<&grid-three-up>** OT.REGIONS**" as OT.REGIONS { 
+  + **(pk) REGION_ID : NUMBER**
+  - -
+  - REGION_NAME : VARCHAR2
+  ==
+  <&pie-chart>** stats**
+      total rows : 4
+      total cols : 2
+      data size : 64 KB
+      index size : 64 KB
+  - -
+}
+
+
+entity "<&grid-three-up>** OT.WAREHOUSES**" as OT.WAREHOUSES { 
+  + **(pk) WAREHOUSE_ID : NUMBER**
+  - -
+  - WAREHOUSE_NAME : VARCHAR2
+  - -
+  + **(fk) LOCATION_ID : NUMBER**
+  ==
+  <&pie-chart>** stats**
+      total rows : 9
+      total cols : 3
+      data size : 64 KB
+      index size : 64 KB
+  - -
+}
+
+OT.ORDERS ||.d.o{ OT.CUSTOMERS
+OT.PRODUCTS ||.l.o{ OT.PRODUCT_CATEGORIES
+OT.WAREHOUSES ||.u.o{ OT.LOCATIONS
+OT.ORDERS ||.r.o{ OT.EMPLOYEES
+OT.EMPLOYEES ||.d.o{ OT.EMPLOYEES
+OT.LOCATIONS ||.l.o{ OT.COUNTRIES
+OT.INVENTORIES ||.u.o{ OT.PRODUCTS
+OT.ORDER_ITEMS ||.r.o{ OT.ORDERS
+OT.ORDER_ITEMS ||.d.o{ OT.PRODUCTS
+OT.CONTACTS ||.l.o{ OT.CUSTOMERS
+OT.COUNTRIES ||.u.o{ OT.REGIONS
+OT.INVENTORIES ||.r.o{ OT.WAREHOUSES
+
+'# manual relation section 
+tbl_aaa .. tbl_bbb
+
+@enduml
+
+@startuml
+skinparam titleBorderRoundCorner 15
+skinparam titleBorderThickness 2
+skinparam titleBorderColor black
+skinparam titleBackgroundColor #DDDDDD
+title **:: table erd1- rds copyright © ::**
+skinparam shadowing False
+left to right direction
+skinparam linetype ortho
+skinparam packageStyle rectangle
+hide circle
+
+
+
+entity "<&grid-three-up>** OT.CONTACTS**" as OT.CONTACTS { 
+  + **(pk) CONTACT_ID : NUMBER**
+  - -
+  - FIRST_NAME : VARCHAR2
+  - LAST_NAME : VARCHAR2
+  - EMAIL : VARCHAR2
+  - PHONE : VARCHAR2
+  - -
+  + **(fk) CUSTOMER_ID : NUMBER**
+  ==
+  <&pie-chart>** stats**
+      total rows : 319
+      total cols : 6
+      data size : 64 KB
+      index size : 64 KB
+  - -
+}
+
+
+entity "<&grid-three-up>** OT.COUNTRIES**" as OT.COUNTRIES { 
+  + **(pk) COUNTRY_ID : CHAR**
+  - -
+  - COUNTRY_NAME : VARCHAR2
+  - -
+  + **(fk) REGION_ID : NUMBER**
+  ==
+  <&pie-chart>** stats**
+      total rows : 25
+      total cols : 3
+      data size : 64 KB
+      index size : 64 KB
+  - -
+}
+
+
+entity "<&grid-three-up>** OT.CUSTOMERS**" as OT.CUSTOMERS { 
+  + **(pk) CUSTOMER_ID : NUMBER**
+  - -
+  - NAME : VARCHAR2
+  - ADDRESS : VARCHAR2
+  - WEBSITE : VARCHAR2
+  - CREDIT_LIMIT : NUMBER
+  ==
+  <&pie-chart>** stats**
+      total rows : 319
+      total cols : 5
+      data size : 64 KB
+      index size : 64 KB
+  - -
+}
+
+
+entity "<&grid-three-up>** OT.EMPLOYEES**" as OT.EMPLOYEES { 
+  + **(pk) EMPLOYEE_ID : NUMBER**
+  - -
+  - FIRST_NAME : VARCHAR2
+  - LAST_NAME : VARCHAR2
+  - EMAIL : VARCHAR2
+  - PHONE : VARCHAR2
+  - HIRE_DATE : DATE
+  - JOB_TITLE : VARCHAR2
+  - -
+  + **(fk) MANAGER_ID : NUMBER**
+  ==
+  <&pie-chart>** stats**
+      total rows : 107
+      total cols : 8
+      data size : 64 KB
+      index size : 64 KB
+  - -
+}
+
+
+entity "<&grid-three-up>** OT.INVENTORIES**" as OT.INVENTORIES { 
+  + **(pk) WAREHOUSE_ID : NUMBER**
+  + **(pk) PRODUCT_ID : NUMBER**
+  - -
+  - QUANTITY : NUMBER
+  ==
+  <&pie-chart>** stats**
+      total rows : 1,112
+      total cols : 3
+      data size : 64 KB
+      index size : 64 KB
+  - -
+}
+
+
+entity "<&grid-three-up>** OT.LOCATIONS**" as OT.LOCATIONS { 
+  + **(pk) LOCATION_ID : NUMBER**
+  - -
+  - ADDRESS : VARCHAR2
+  - POSTAL_CODE : VARCHAR2
+  - CITY : VARCHAR2
+  - STATE : VARCHAR2
+  - -
+  + **(fk) COUNTRY_ID : CHAR**
+  ==
+  <&pie-chart>** stats**
+      total rows : 23
+      total cols : 6
+      data size : 64 KB
+      index size : 64 KB
+  - -
+}
+
+
+entity "<&grid-three-up>** OT.ORDERS**" as OT.ORDERS { 
+  + **(pk) ORDER_ID : NUMBER**
+  - -
+  - STATUS : VARCHAR2
+  - ORDER_DATE : DATE
+  - -
+  + **(fk) CUSTOMER_ID : NUMBER**
+  + **(fk) SALESMAN_ID : NUMBER**
+  ==
+  <&pie-chart>** stats**
+      total rows : 105
+      total cols : 5
+      data size : 64 KB
+      index size : 64 KB
+  - -
+}
+
+
+entity "<&grid-three-up>** OT.ORDER_ITEMS**" as OT.ORDER_ITEMS { 
+  + **(pk) ITEM_ID : NUMBER**
+  + **(pk) ORDER_ID : NUMBER**
+  - -
+  - QUANTITY : NUMBER
+  - UNIT_PRICE : NUMBER
+  - -
+  + **(fk) PRODUCT_ID : NUMBER**
+  ==
+  <&pie-chart>** stats**
+      total rows : 665
+      total cols : 5
+      data size : 64 KB
+      index size : 64 KB
+  - -
+}
+
+
+entity "<&grid-three-up>** OT.PRODUCTS**" as OT.PRODUCTS { 
+  + **(pk) PRODUCT_ID : NUMBER**
+  - -
+  - PRODUCT_NAME : VARCHAR2
+  - DESCRIPTION : VARCHAR2
+  - STANDARD_COST : NUMBER
+  - LIST_PRICE : NUMBER
+  - -
+  + **(fk) CATEGORY_ID : NUMBER**
+  ==
+  <&pie-chart>** stats**
+      total rows : 288
+      total cols : 6
+      data size : 64 KB
+      index size : 64 KB
+  - -
+}
+
+
+entity "<&grid-three-up>** OT.PRODUCT_CATEGORIES**" as OT.PRODUCT_CATEGORIES { 
+  + **(pk) CATEGORY_ID : NUMBER**
+  - -
+  - CATEGORY_NAME : VARCHAR2
+  ==
+  <&pie-chart>** stats**
+      total rows : 5
+      total cols : 2
+      data size : 64 KB
+      index size : 64 KB
+  - -
+}
+
+
+entity "<&grid-three-up>** OT.REGIONS**" as OT.REGIONS { 
+  + **(pk) REGION_ID : NUMBER**
+  - -
+  - REGION_NAME : VARCHAR2
+  ==
+  <&pie-chart>** stats**
+      total rows : 4
+      total cols : 2
+      data size : 64 KB
+      index size : 64 KB
+  - -
+}
+
+
+entity "<&grid-three-up>** OT.WAREHOUSES**" as OT.WAREHOUSES { 
+  + **(pk) WAREHOUSE_ID : NUMBER**
+  - -
+  - WAREHOUSE_NAME : VARCHAR2
+  - -
+  + **(fk) LOCATION_ID : NUMBER**
+  ==
+  <&pie-chart>** stats**
+      total rows : 9
+      total cols : 3
+      data size : 64 KB
+      index size : 64 KB
+  - -
+}
+
+OT.ORDERS ||.d.o{ OT.CUSTOMERS
+OT.PRODUCTS ||.l.o{ OT.PRODUCT_CATEGORIES
+OT.WAREHOUSES ||.u.o{ OT.LOCATIONS
+OT.ORDERS ||.r.o{ OT.EMPLOYEES
+OT.EMPLOYEES ||.d.o{ OT.EMPLOYEES
+OT.LOCATIONS ||.l.o{ OT.COUNTRIES
+OT.INVENTORIES ||.u.o{ OT.PRODUCTS
+OT.ORDER_ITEMS ||.r.o{ OT.ORDERS
+OT.ORDER_ITEMS ||.d.o{ OT.PRODUCTS
+OT.CONTACTS ||.l.o{ OT.CUSTOMERS
+OT.COUNTRIES ||.u.o{ OT.REGIONS
+OT.INVENTORIES ||.r.o{ OT.WAREHOUSES
+
+tbl_aaa .. tbl_bbb
+
+@enduml
+
+PlantUML version 1.2022.12(Sun Oct 23 14:12:26 EDT 2022)
+(GPL source distribution)
+Java Runtime: OpenJDK Runtime Environment
+JVM: OpenJDK 64-Bit Server VM
+Default Encoding: UTF-8
+Language: en
+Country: CA
+--></g></svg>

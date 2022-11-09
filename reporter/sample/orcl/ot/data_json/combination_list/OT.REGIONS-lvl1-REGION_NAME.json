@@ -1,0 +1,32 @@
+@startjson
+{
+    "field1": "REGION_NAME",
+    "combination": "REGION_NAME",
+    "null_distribution": {
+        "total_null_rows": 0,
+        "total_not_null_rows": 4
+    },
+    "data_distribution": [
+        {
+            "field_value": "Middle East and Africa",
+            "row_count": 1,
+            "ratio_percent": 25.0
+        },
+        {
+            "field_value": "Americas",
+            "row_count": 1,
+            "ratio_percent": 25.0
+        },
+        {
+            "field_value": "Asia",
+            "row_count": 1,
+            "ratio_percent": 25.0
+        },
+        {
+            "field_value": "Europe",
+            "row_count": 1,
+            "ratio_percent": 25.0
+        }
+    ]
+}
+@endjson

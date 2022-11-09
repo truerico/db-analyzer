@@ -1,0 +1,62 @@
+@startjson
+{
+    "field1": "MANAGER_ID",
+    "combination": "MANAGER_ID",
+    "null_distribution": {
+        "total_null_rows": 1,
+        "total_not_null_rows": 106
+    },
+    "data_distribution": [
+        {
+            "field_value": "1",
+            "row_count": 14,
+            "ratio_percent": 13.08411214953271
+        },
+        {
+            "field_value": "23",
+            "row_count": 8,
+            "ratio_percent": 7.4766355140186915
+        },
+        {
+            "field_value": "24",
+            "row_count": 8,
+            "ratio_percent": 7.4766355140186915
+        },
+        {
+            "field_value": "22",
+            "row_count": 8,
+            "ratio_percent": 7.4766355140186915
+        },
+        {
+            "field_value": "21",
+            "row_count": 8,
+            "ratio_percent": 7.4766355140186915
+        },
+        {
+            "field_value": "25",
+            "row_count": 8,
+            "ratio_percent": 7.4766355140186915
+        },
+        {
+            "field_value": "47",
+            "row_count": 6,
+            "ratio_percent": 5.607476635514018
+        },
+        {
+            "field_value": "50",
+            "row_count": 6,
+            "ratio_percent": 5.607476635514018
+        },
+        {
+            "field_value": "48",
+            "row_count": 6,
+            "ratio_percent": 5.607476635514018
+        },
+        {
+            "field_value": "46",
+            "row_count": 6,
+            "ratio_percent": 5.607476635514018
+        }
+    ]
+}
+@endjson

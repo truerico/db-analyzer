@@ -1,0 +1,22 @@
+[
+    {
+        "REGION_ID": 2,
+        "REGION_NAME": "Americas",
+        "SYS_EXEC_DURATION": "0.264701"
+    },
+    {
+        "REGION_ID": 1,
+        "REGION_NAME": "Europe",
+        "SYS_EXEC_DURATION": "0.264878"
+    },
+    {
+        "REGION_ID": 3,
+        "REGION_NAME": "Asia",
+        "SYS_EXEC_DURATION": "0.264912"
+    },
+    {
+        "REGION_ID": 4,
+        "REGION_NAME": "Middle East and Africa",
+        "SYS_EXEC_DURATION": "0.264938"
+    }
+]

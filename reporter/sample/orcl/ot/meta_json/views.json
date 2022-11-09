@@ -1,0 +1,28 @@
+[
+    {
+        "view_schema": "OT",
+        "owner": "OT",
+        "view_name": "COUNTRY_LOCATIONS",
+        "view_full_name": "OT.COUNTRY_LOCATIONS",
+        "text_length": 182,
+        "definition": "select c.\"COUNTRY_ID\",c.\"COUNTRY_NAME\",c.\"REGION_ID\" , l.address, l.postal_code,l.state  \nfrom countries c\ninner join locations l on c.country_id = l.country_id\norder by c.country_id",
+        "editioning_view": "N",
+        "read_only": "N",
+        "container_data": "N",
+        "bequeath": "DEFINER",
+        "view_full_name_sql": "\"OT\".\"COUNTRY_LOCATIONS\""
+    },
+    {
+        "view_schema": "OT",
+        "owner": "OT",
+        "view_name": "ORDER_DETAILS",
+        "view_full_name": "OT.ORDER_DETAILS",
+        "text_length": 184,
+        "definition": "select o.\"ORDER_ID\",o.\"CUSTOMER_ID\",o.\"STATUS\",o.\"SALESMAN_ID\",o.\"ORDER_DATE\" , d.item_id, d.quantity , d.unit_price  \nfrom orders o\ninner join order_items d on o.order_id = d.order_id",
+        "editioning_view": "N",
+        "read_only": "N",
+        "container_data": "N",
+        "bequeath": "DEFINER",
+        "view_full_name_sql": "\"OT\".\"ORDER_DETAILS\""
+    }
+]

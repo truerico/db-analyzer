@@ -1,0 +1,62 @@
+@startjson
+{
+    "field1": "CREDIT_LIMIT",
+    "combination": "CREDIT_LIMIT",
+    "null_distribution": {
+        "total_null_rows": 0,
+        "total_not_null_rows": 319
+    },
+    "data_distribution": [
+        {
+            "field_value": "1200",
+            "row_count": 47,
+            "ratio_percent": 14.733542319749215
+        },
+        {
+            "field_value": "2400",
+            "row_count": 34,
+            "ratio_percent": 10.658307210031348
+        },
+        {
+            "field_value": "5000",
+            "row_count": 33,
+            "ratio_percent": 10.344827586206897
+        },
+        {
+            "field_value": "500",
+            "row_count": 28,
+            "ratio_percent": 8.77742946708464
+        },
+        {
+            "field_value": "700",
+            "row_count": 23,
+            "ratio_percent": 7.210031347962382
+        },
+        {
+            "field_value": "200",
+            "row_count": 18,
+            "ratio_percent": 5.6426332288401255
+        },
+        {
+            "field_value": "1400",
+            "row_count": 17,
+            "ratio_percent": 5.329153605015674
+        },
+        {
+            "field_value": "2300",
+            "row_count": 16,
+            "ratio_percent": 5.015673981191223
+        },
+        {
+            "field_value": "3600",
+            "row_count": 16,
+            "ratio_percent": 5.015673981191223
+        },
+        {
+            "field_value": "3700",
+            "row_count": 14,
+            "ratio_percent": 4.38871473354232
+        }
+    ]
+}
+@endjson

@@ -1,0 +1,143 @@
+[
+    {
+        "table": "OT.COUNTRIES",
+        "total_records": 25,
+        "dataset": [
+            {
+                "field": "COUNTRY_ID",
+                "distribution": [
+                    {
+                        "field_value": "AR",
+                        "row_count": 1,
+                        "ratio_percent": 4.0
+                    },
+                    {
+                        "field_value": "AU",
+                        "row_count": 1,
+                        "ratio_percent": 4.0
+                    },
+                    {
+                        "field_value": "BE",
+                        "row_count": 1,
+                        "ratio_percent": 4.0
+                    },
+                    {
+                        "field_value": "BR",
+                        "row_count": 1,
+                        "ratio_percent": 4.0
+                    },
+                    {
+                        "field_value": "EG",
+                        "row_count": 1,
+                        "ratio_percent": 4.0
+                    },
+                    {
+                        "field_value": "CH",
+                        "row_count": 1,
+                        "ratio_percent": 4.0
+                    },
+                    {
+                        "field_value": "CN",
+                        "row_count": 1,
+                        "ratio_percent": 4.0
+                    },
+                    {
+                        "field_value": "DE",
+                        "row_count": 1,
+                        "ratio_percent": 4.0
+                    },
+                    {
+                        "field_value": "DK",
+                        "row_count": 1,
+                        "ratio_percent": 4.0
+                    },
+                    {
+                        "field_value": "CA",
+                        "row_count": 1,
+                        "ratio_percent": 4.0
+                    }
+                ]
+            },
+            {
+                "field": "COUNTRY_NAME",
+                "distribution": [
+                    {
+                        "field_value": "Brazil",
+                        "row_count": 1,
+                        "ratio_percent": 4.0
+                    },
+                    {
+                        "field_value": "Denmark",
+                        "row_count": 1,
+                        "ratio_percent": 4.0
+                    },
+                    {
+                        "field_value": "Zambia",
+                        "row_count": 1,
+                        "ratio_percent": 4.0
+                    },
+                    {
+                        "field_value": "Zimbabwe",
+                        "row_count": 1,
+                        "ratio_percent": 4.0
+                    },
+                    {
+                        "field_value": "France",
+                        "row_count": 1,
+                        "ratio_percent": 4.0
+                    },
+                    {
+                        "field_value": "Malaysia",
+                        "row_count": 1,
+                        "ratio_percent": 4.0
+                    },
+                    {
+                        "field_value": "United Kingdom",
+                        "row_count": 1,
+                        "ratio_percent": 4.0
+                    },
+                    {
+                        "field_value": "United States of America",
+                        "row_count": 1,
+                        "ratio_percent": 4.0
+                    },
+                    {
+                        "field_value": "Germany",
+                        "row_count": 1,
+                        "ratio_percent": 4.0
+                    },
+                    {
+                        "field_value": "China",
+                        "row_count": 1,
+                        "ratio_percent": 4.0
+                    }
+                ]
+            },
+            {
+                "field": "REGION_ID",
+                "distribution": [
+                    {
+                        "field_value": "1",
+                        "row_count": 8,
+                        "ratio_percent": 32.0
+                    },
+                    {
+                        "field_value": "4",
+                        "row_count": 6,
+                        "ratio_percent": 24.0
+                    },
+                    {
+                        "field_value": "3",
+                        "row_count": 6,
+                        "ratio_percent": 24.0
+                    },
+                    {
+                        "field_value": "2",
+                        "row_count": 5,
+                        "ratio_percent": 20.0
+                    }
+                ]
+            }
+        ]
+    }
+]

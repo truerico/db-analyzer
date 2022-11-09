@@ -1,0 +1,57 @@
+@startjson
+{
+    "field1": "WAREHOUSE_ID",
+    "combination": "WAREHOUSE_ID",
+    "null_distribution": {
+        "total_null_rows": 0,
+        "total_not_null_rows": 1112
+    },
+    "data_distribution": [
+        {
+            "field_value": "6",
+            "row_count": 208,
+            "ratio_percent": 18.705035971223023
+        },
+        {
+            "field_value": "8",
+            "row_count": 186,
+            "ratio_percent": 16.72661870503597
+        },
+        {
+            "field_value": "2",
+            "row_count": 177,
+            "ratio_percent": 15.917266187050359
+        },
+        {
+            "field_value": "9",
+            "row_count": 128,
+            "ratio_percent": 11.510791366906474
+        },
+        {
+            "field_value": "5",
+            "row_count": 114,
+            "ratio_percent": 10.251798561151078
+        },
+        {
+            "field_value": "4",
+            "row_count": 109,
+            "ratio_percent": 9.802158273381295
+        },
+        {
+            "field_value": "7",
+            "row_count": 106,
+            "ratio_percent": 9.532374100719425
+        },
+        {
+            "field_value": "3",
+            "row_count": 48,
+            "ratio_percent": 4.316546762589928
+        },
+        {
+            "field_value": "1",
+            "row_count": 36,
+            "ratio_percent": 3.237410071942446
+        }
+    ]
+}
+@endjson

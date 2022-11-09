@@ -1,0 +1,308 @@
+[
+    {
+        "table": "OT.PRODUCTS",
+        "total_records": 288,
+        "dataset": [
+            {
+                "field": "CATEGORY_ID",
+                "distribution": [
+                    {
+                        "field_value": "5",
+                        "row_count": 108,
+                        "ratio_percent": 37.5
+                    },
+                    {
+                        "field_value": "1",
+                        "row_count": 70,
+                        "ratio_percent": 24.305555555555557
+                    },
+                    {
+                        "field_value": "4",
+                        "row_count": 60,
+                        "ratio_percent": 20.833333333333332
+                    },
+                    {
+                        "field_value": "2",
+                        "row_count": 50,
+                        "ratio_percent": 17.36111111111111
+                    }
+                ]
+            },
+            {
+                "field": "DESCRIPTION",
+                "distribution": [
+                    {
+                        "field_value": "CPU:LGA2066,Form Factor:ATX,RAM Slots:8,Max RAM:128GB",
+                        "row_count": 13,
+                        "ratio_percent": 4.513888888888889
+                    },
+                    {
+                        "field_value": "CPU:LGA1151,Form Factor:ATX,RAM Slots:4,Max RAM:64GB",
+                        "row_count": 8,
+                        "ratio_percent": 2.7777777777777777
+                    },
+                    {
+                        "field_value": "Chipset:GeForce GTX 1080 Ti,Memory:11GBCore Clock:1.57GHz",
+                        "row_count": 6,
+                        "ratio_percent": 2.0833333333333335
+                    },
+                    {
+                        "field_value": "CPU:LGA2011-3,Form Factor:EATX,RAM Slots:8,Max RAM:128GB",
+                        "row_count": 6,
+                        "ratio_percent": 2.0833333333333335
+                    },
+                    {
+                        "field_value": "Speed:DDR4-3200,Type:288-pin DIMM,CAS:15Module:4x16GBSize:64GB",
+                        "row_count": 5,
+                        "ratio_percent": 1.7361111111111112
+                    },
+                    {
+                        "field_value": "CPU:LGA1151,Form Factor:EATX,RAM Slots:4,Max RAM:64GB",
+                        "row_count": 4,
+                        "ratio_percent": 1.3888888888888888
+                    },
+                    {
+                        "field_value": "Speed:DDR4-3200,Type:288-pin DIMM,CAS:14Module:4x16GBSize:64GB",
+                        "row_count": 4,
+                        "ratio_percent": 1.3888888888888888
+                    },
+                    {
+                        "field_value": "Speed:DDR4-2133,Type:288-pin DIMM,CAS:15Module:4x16GBSize:64GB",
+                        "row_count": 3,
+                        "ratio_percent": 1.0416666666666667
+                    },
+                    {
+                        "field_value": "CPU:LGA2011-3,Form Factor:ATX,RAM Slots:8,Max RAM:128GB",
+                        "row_count": 3,
+                        "ratio_percent": 1.0416666666666667
+                    },
+                    {
+                        "field_value": "Speed:DDR4-3200,Type:288-pin DIMM,CAS:15Module:8x8GBSize:64GB",
+                        "row_count": 3,
+                        "ratio_percent": 1.0416666666666667
+                    }
+                ]
+            },
+            {
+                "field": "LIST_PRICE",
+                "distribution": [
+                    {
+                        "field_value": "759.99",
+                        "row_count": 5,
+                        "ratio_percent": 1.7361111111111112
+                    },
+                    {
+                        "field_value": "1199.99",
+                        "row_count": 4,
+                        "ratio_percent": 1.3888888888888888
+                    },
+                    {
+                        "field_value": "704.99",
+                        "row_count": 3,
+                        "ratio_percent": 1.0416666666666667
+                    },
+                    {
+                        "field_value": "299.89",
+                        "row_count": 3,
+                        "ratio_percent": 1.0416666666666667
+                    },
+                    {
+                        "field_value": "749.99",
+                        "row_count": 3,
+                        "ratio_percent": 1.0416666666666667
+                    },
+                    {
+                        "field_value": "899.99",
+                        "row_count": 3,
+                        "ratio_percent": 1.0416666666666667
+                    },
+                    {
+                        "field_value": "399.99",
+                        "row_count": 3,
+                        "ratio_percent": 1.0416666666666667
+                    },
+                    {
+                        "field_value": "799.99",
+                        "row_count": 2,
+                        "ratio_percent": 0.6944444444444444
+                    },
+                    {
+                        "field_value": "282.98",
+                        "row_count": 2,
+                        "ratio_percent": 0.6944444444444444
+                    },
+                    {
+                        "field_value": "999.99",
+                        "row_count": 2,
+                        "ratio_percent": 0.6944444444444444
+                    }
+                ]
+            },
+            {
+                "field": "PRODUCT_ID",
+                "distribution": [
+                    {
+                        "field_value": "1",
+                        "row_count": 1,
+                        "ratio_percent": 0.3472222222222222
+                    },
+                    {
+                        "field_value": "2",
+                        "row_count": 1,
+                        "ratio_percent": 0.3472222222222222
+                    },
+                    {
+                        "field_value": "3",
+                        "row_count": 1,
+                        "ratio_percent": 0.3472222222222222
+                    },
+                    {
+                        "field_value": "4",
+                        "row_count": 1,
+                        "ratio_percent": 0.3472222222222222
+                    },
+                    {
+                        "field_value": "10",
+                        "row_count": 1,
+                        "ratio_percent": 0.3472222222222222
+                    },
+                    {
+                        "field_value": "6",
+                        "row_count": 1,
+                        "ratio_percent": 0.3472222222222222
+                    },
+                    {
+                        "field_value": "7",
+                        "row_count": 1,
+                        "ratio_percent": 0.3472222222222222
+                    },
+                    {
+                        "field_value": "8",
+                        "row_count": 1,
+                        "ratio_percent": 0.3472222222222222
+                    },
+                    {
+                        "field_value": "9",
+                        "row_count": 1,
+                        "ratio_percent": 0.3472222222222222
+                    },
+                    {
+                        "field_value": "5",
+                        "row_count": 1,
+                        "ratio_percent": 0.3472222222222222
+                    }
+                ]
+            },
+            {
+                "field": "PRODUCT_NAME",
+                "distribution": [
+                    {
+                        "field_value": "G.Skill Ripjaws V Series",
+                        "row_count": 14,
+                        "ratio_percent": 4.861111111111111
+                    },
+                    {
+                        "field_value": "Corsair Dominator Platinum",
+                        "row_count": 10,
+                        "ratio_percent": 3.4722222222222223
+                    },
+                    {
+                        "field_value": "G.Skill Trident Z",
+                        "row_count": 10,
+                        "ratio_percent": 3.4722222222222223
+                    },
+                    {
+                        "field_value": "Corsair Vengeance LPX",
+                        "row_count": 8,
+                        "ratio_percent": 2.7777777777777777
+                    },
+                    {
+                        "field_value": "Kingston",
+                        "row_count": 4,
+                        "ratio_percent": 1.3888888888888888
+                    },
+                    {
+                        "field_value": "Crucial",
+                        "row_count": 4,
+                        "ratio_percent": 1.3888888888888888
+                    },
+                    {
+                        "field_value": "G.Skill Trident Z RGB",
+                        "row_count": 2,
+                        "ratio_percent": 0.6944444444444444
+                    },
+                    {
+                        "field_value": "G.Skill Ripjaws 4 Series",
+                        "row_count": 2,
+                        "ratio_percent": 0.6944444444444444
+                    },
+                    {
+                        "field_value": "EVGA 11G-P4-6598-KR",
+                        "row_count": 1,
+                        "ratio_percent": 0.3472222222222222
+                    },
+                    {
+                        "field_value": "Asus X99-DELUXE II",
+                        "row_count": 1,
+                        "ratio_percent": 0.3472222222222222
+                    }
+                ]
+            },
+            {
+                "field": "STANDARD_COST",
+                "distribution": [
+                    {
+                        "field_value": "688.35",
+                        "row_count": 2,
+                        "ratio_percent": 0.6944444444444444
+                    },
+                    {
+                        "field_value": "609.89",
+                        "row_count": 1,
+                        "ratio_percent": 0.3472222222222222
+                    },
+                    {
+                        "field_value": "565.39",
+                        "row_count": 1,
+                        "ratio_percent": 0.3472222222222222
+                    },
+                    {
+                        "field_value": "471.78",
+                        "row_count": 1,
+                        "ratio_percent": 0.3472222222222222
+                    },
+                    {
+                        "field_value": "538.55",
+                        "row_count": 1,
+                        "ratio_percent": 0.3472222222222222
+                    },
+                    {
+                        "field_value": "580.21",
+                        "row_count": 1,
+                        "ratio_percent": 0.3472222222222222
+                    },
+                    {
+                        "field_value": "507.32",
+                        "row_count": 1,
+                        "ratio_percent": 0.3472222222222222
+                    },
+                    {
+                        "field_value": "499.09",
+                        "row_count": 1,
+                        "ratio_percent": 0.3472222222222222
+                    },
+                    {
+                        "field_value": "724",
+                        "row_count": 1,
+                        "ratio_percent": 0.3472222222222222
+                    },
+                    {
+                        "field_value": "532.27",
+                        "row_count": 1,
+                        "ratio_percent": 0.3472222222222222
+                    }
+                ]
+            }
+        ]
+    }
+]

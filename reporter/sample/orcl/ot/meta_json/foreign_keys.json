@@ -1,0 +1,122 @@
+[
+    {
+        "foreign_table_full_name": "OT.ORDERS",
+        "primary_table_full_name": "OT.CUSTOMERS",
+        "owner": "OT",
+        "foreign_table": "ORDERS",
+        "constraint_name": "FK_ORDERS_CUSTOMERS",
+        "primary_owner": "OT",
+        "primary_table": "CUSTOMERS",
+        "fk_columns": "CUSTOMER_ID"
+    },
+    {
+        "foreign_table_full_name": "OT.PRODUCTS",
+        "primary_table_full_name": "OT.PRODUCT_CATEGORIES",
+        "owner": "OT",
+        "foreign_table": "PRODUCTS",
+        "constraint_name": "FK_PRODUCTS_CATEGORIES",
+        "primary_owner": "OT",
+        "primary_table": "PRODUCT_CATEGORIES",
+        "fk_columns": "CATEGORY_ID"
+    },
+    {
+        "foreign_table_full_name": "OT.WAREHOUSES",
+        "primary_table_full_name": "OT.LOCATIONS",
+        "owner": "OT",
+        "foreign_table": "WAREHOUSES",
+        "constraint_name": "FK_WAREHOUSES_LOCATIONS",
+        "primary_owner": "OT",
+        "primary_table": "LOCATIONS",
+        "fk_columns": "LOCATION_ID"
+    },
+    {
+        "foreign_table_full_name": "OT.ORDERS",
+        "primary_table_full_name": "OT.EMPLOYEES",
+        "owner": "OT",
+        "foreign_table": "ORDERS",
+        "constraint_name": "FK_ORDERS_EMPLOYEES",
+        "primary_owner": "OT",
+        "primary_table": "EMPLOYEES",
+        "fk_columns": "EMPLOYEE_ID"
+    },
+    {
+        "foreign_table_full_name": "OT.EMPLOYEES",
+        "primary_table_full_name": "OT.EMPLOYEES",
+        "owner": "OT",
+        "foreign_table": "EMPLOYEES",
+        "constraint_name": "FK_EMPLOYEES_MANAGER",
+        "primary_owner": "OT",
+        "primary_table": "EMPLOYEES",
+        "fk_columns": "EMPLOYEE_ID"
+    },
+    {
+        "foreign_table_full_name": "OT.LOCATIONS",
+        "primary_table_full_name": "OT.COUNTRIES",
+        "owner": "OT",
+        "foreign_table": "LOCATIONS",
+        "constraint_name": "FK_LOCATIONS_COUNTRIES",
+        "primary_owner": "OT",
+        "primary_table": "COUNTRIES",
+        "fk_columns": "COUNTRY_ID"
+    },
+    {
+        "foreign_table_full_name": "OT.INVENTORIES",
+        "primary_table_full_name": "OT.PRODUCTS",
+        "owner": "OT",
+        "foreign_table": "INVENTORIES",
+        "constraint_name": "FK_INVENTORIES_PRODUCTS",
+        "primary_owner": "OT",
+        "primary_table": "PRODUCTS",
+        "fk_columns": "PRODUCT_ID"
+    },
+    {
+        "foreign_table_full_name": "OT.ORDER_ITEMS",
+        "primary_table_full_name": "OT.ORDERS",
+        "owner": "OT",
+        "foreign_table": "ORDER_ITEMS",
+        "constraint_name": "FK_ORDER_ITEMS_ORDERS",
+        "primary_owner": "OT",
+        "primary_table": "ORDERS",
+        "fk_columns": "ORDER_ID"
+    },
+    {
+        "foreign_table_full_name": "OT.ORDER_ITEMS",
+        "primary_table_full_name": "OT.PRODUCTS",
+        "owner": "OT",
+        "foreign_table": "ORDER_ITEMS",
+        "constraint_name": "FK_ORDER_ITEMS_PRODUCTS",
+        "primary_owner": "OT",
+        "primary_table": "PRODUCTS",
+        "fk_columns": "PRODUCT_ID"
+    },
+    {
+        "foreign_table_full_name": "OT.CONTACTS",
+        "primary_table_full_name": "OT.CUSTOMERS",
+        "owner": "OT",
+        "foreign_table": "CONTACTS",
+        "constraint_name": "FK_CONTACTS_CUSTOMERS",
+        "primary_owner": "OT",
+        "primary_table": "CUSTOMERS",
+        "fk_columns": "CUSTOMER_ID"
+    },
+    {
+        "foreign_table_full_name": "OT.COUNTRIES",
+        "primary_table_full_name": "OT.REGIONS",
+        "owner": "OT",
+        "foreign_table": "COUNTRIES",
+        "constraint_name": "FK_COUNTRIES_REGIONS",
+        "primary_owner": "OT",
+        "primary_table": "REGIONS",
+        "fk_columns": "REGION_ID"
+    },
+    {
+        "foreign_table_full_name": "OT.INVENTORIES",
+        "primary_table_full_name": "OT.WAREHOUSES",
+        "owner": "OT",
+        "foreign_table": "INVENTORIES",
+        "constraint_name": "FK_INVENTORIES_WAREHOUSES",
+        "primary_owner": "OT",
+        "primary_table": "WAREHOUSES",
+        "fk_columns": "WAREHOUSE_ID"
+    }
+]

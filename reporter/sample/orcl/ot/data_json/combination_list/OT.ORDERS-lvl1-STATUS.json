@@ -1,0 +1,27 @@
+@startjson
+{
+    "field1": "STATUS",
+    "combination": "STATUS",
+    "null_distribution": {
+        "total_null_rows": 0,
+        "total_not_null_rows": 105
+    },
+    "data_distribution": [
+        {
+            "field_value": "Shipped",
+            "row_count": 71,
+            "ratio_percent": 67.61904761904762
+        },
+        {
+            "field_value": "Pending",
+            "row_count": 18,
+            "ratio_percent": 17.142857142857142
+        },
+        {
+            "field_value": "Canceled",
+            "row_count": 16,
+            "ratio_percent": 15.238095238095237
+        }
+    ]
+}
+@endjson

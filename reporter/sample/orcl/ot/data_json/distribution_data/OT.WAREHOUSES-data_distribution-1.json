@@ -1,0 +1,158 @@
+[
+    {
+        "table": "OT.WAREHOUSES",
+        "total_records": 9,
+        "dataset": [
+            {
+                "field": "LOCATION_ID",
+                "distribution": [
+                    {
+                        "field_value": "6",
+                        "row_count": 1,
+                        "ratio_percent": 11.11111111111111
+                    },
+                    {
+                        "field_value": "13",
+                        "row_count": 1,
+                        "ratio_percent": 11.11111111111111
+                    },
+                    {
+                        "field_value": "11",
+                        "row_count": 1,
+                        "ratio_percent": 11.11111111111111
+                    },
+                    {
+                        "field_value": "5",
+                        "row_count": 1,
+                        "ratio_percent": 11.11111111111111
+                    },
+                    {
+                        "field_value": "12",
+                        "row_count": 1,
+                        "ratio_percent": 11.11111111111111
+                    },
+                    {
+                        "field_value": "23",
+                        "row_count": 1,
+                        "ratio_percent": 11.11111111111111
+                    },
+                    {
+                        "field_value": "7",
+                        "row_count": 1,
+                        "ratio_percent": 11.11111111111111
+                    },
+                    {
+                        "field_value": "9",
+                        "row_count": 1,
+                        "ratio_percent": 11.11111111111111
+                    },
+                    {
+                        "field_value": "8",
+                        "row_count": 1,
+                        "ratio_percent": 11.11111111111111
+                    }
+                ]
+            },
+            {
+                "field": "WAREHOUSE_ID",
+                "distribution": [
+                    {
+                        "field_value": "1",
+                        "row_count": 1,
+                        "ratio_percent": 11.11111111111111
+                    },
+                    {
+                        "field_value": "2",
+                        "row_count": 1,
+                        "ratio_percent": 11.11111111111111
+                    },
+                    {
+                        "field_value": "3",
+                        "row_count": 1,
+                        "ratio_percent": 11.11111111111111
+                    },
+                    {
+                        "field_value": "4",
+                        "row_count": 1,
+                        "ratio_percent": 11.11111111111111
+                    },
+                    {
+                        "field_value": "9",
+                        "row_count": 1,
+                        "ratio_percent": 11.11111111111111
+                    },
+                    {
+                        "field_value": "6",
+                        "row_count": 1,
+                        "ratio_percent": 11.11111111111111
+                    },
+                    {
+                        "field_value": "7",
+                        "row_count": 1,
+                        "ratio_percent": 11.11111111111111
+                    },
+                    {
+                        "field_value": "8",
+                        "row_count": 1,
+                        "ratio_percent": 11.11111111111111
+                    },
+                    {
+                        "field_value": "5",
+                        "row_count": 1,
+                        "ratio_percent": 11.11111111111111
+                    }
+                ]
+            },
+            {
+                "field": "WAREHOUSE_NAME",
+                "distribution": [
+                    {
+                        "field_value": "Sydney",
+                        "row_count": 1,
+                        "ratio_percent": 11.11111111111111
+                    },
+                    {
+                        "field_value": "Bombay",
+                        "row_count": 1,
+                        "ratio_percent": 11.11111111111111
+                    },
+                    {
+                        "field_value": "San Francisco",
+                        "row_count": 1,
+                        "ratio_percent": 11.11111111111111
+                    },
+                    {
+                        "field_value": "Mexico City",
+                        "row_count": 1,
+                        "ratio_percent": 11.11111111111111
+                    },
+                    {
+                        "field_value": "Southlake, Texas",
+                        "row_count": 1,
+                        "ratio_percent": 11.11111111111111
+                    },
+                    {
+                        "field_value": "Toronto",
+                        "row_count": 1,
+                        "ratio_percent": 11.11111111111111
+                    },
+                    {
+                        "field_value": "New Jersey",
+                        "row_count": 1,
+                        "ratio_percent": 11.11111111111111
+                    },
+                    {
+                        "field_value": "Seattle, Washington",
+                        "row_count": 1,
+                        "ratio_percent": 11.11111111111111
+                    },
+                    {
+                        "field_value": "Beijing",
+                        "row_count": 1,
+                        "ratio_percent": 11.11111111111111
+                    }
+                ]
+            }
+        ]
+    }
+]

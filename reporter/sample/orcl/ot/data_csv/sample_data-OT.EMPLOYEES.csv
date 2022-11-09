@@ -1,0 +1,6 @@
+EMPLOYEE_ID,FIRST_NAME,LAST_NAME,EMAIL,PHONE,HIRE_DATE,JOB_TITLE,MANAGER_ID,SYS_EXEC_DURATION
+90,Eliza,Black,eliza.black@example.com,650.505.2876,2016-08-13 00:00:00,Shipping Clerk,23,0.244271
+86,Emilia,Holmes,emilia.holmes@example.com,650.509.2876,2016-02-20 00:00:00,Shipping Clerk,22,0.244564
+95,Eleanor,Grant,eleanor.grant@example.com,650.501.3876,2016-07-01 00:00:00,Shipping Clerk,24,0.244616
+69,Evelyn,Tucker,evelyn.tucker@example.com,011.44.1343.929268,2016-03-11 00:00:00,Sales Representative,49,0.24465
+91,Lilly,Daniels,lilly.daniels@example.com,650.505.3876,2016-07-11 00:00:00,Shipping Clerk,23,0.244679

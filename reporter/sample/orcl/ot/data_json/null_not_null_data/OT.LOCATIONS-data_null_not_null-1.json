@@ -1,0 +1,38 @@
+[
+    {
+        "table": "OT.LOCATIONS",
+        "total_records": 23,
+        "dataset": [
+            {
+                "field": "ADDRESS",
+                "total_null_rows": 0,
+                "total_not_null_rows": 23
+            },
+            {
+                "field": "CITY",
+                "total_null_rows": 0,
+                "total_not_null_rows": 23
+            },
+            {
+                "field": "COUNTRY_ID",
+                "total_null_rows": 0,
+                "total_not_null_rows": 23
+            },
+            {
+                "field": "LOCATION_ID",
+                "total_null_rows": 0,
+                "total_not_null_rows": 23
+            },
+            {
+                "field": "POSTAL_CODE",
+                "total_null_rows": 1,
+                "total_not_null_rows": 22
+            },
+            {
+                "field": "STATE",
+                "total_null_rows": 6,
+                "total_not_null_rows": 17
+            }
+        ]
+    }
+]

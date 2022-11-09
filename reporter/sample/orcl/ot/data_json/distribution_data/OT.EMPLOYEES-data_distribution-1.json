@@ -1,0 +1,448 @@
+[
+    {
+        "table": "OT.EMPLOYEES",
+        "total_records": 107,
+        "dataset": [
+            {
+                "field": "EMPLOYEE_ID",
+                "distribution": [
+                    {
+                        "field_value": "1",
+                        "row_count": 1,
+                        "ratio_percent": 0.9345794392523364
+                    },
+                    {
+                        "field_value": "2",
+                        "row_count": 1,
+                        "ratio_percent": 0.9345794392523364
+                    },
+                    {
+                        "field_value": "3",
+                        "row_count": 1,
+                        "ratio_percent": 0.9345794392523364
+                    },
+                    {
+                        "field_value": "4",
+                        "row_count": 1,
+                        "ratio_percent": 0.9345794392523364
+                    },
+                    {
+                        "field_value": "10",
+                        "row_count": 1,
+                        "ratio_percent": 0.9345794392523364
+                    },
+                    {
+                        "field_value": "6",
+                        "row_count": 1,
+                        "ratio_percent": 0.9345794392523364
+                    },
+                    {
+                        "field_value": "7",
+                        "row_count": 1,
+                        "ratio_percent": 0.9345794392523364
+                    },
+                    {
+                        "field_value": "8",
+                        "row_count": 1,
+                        "ratio_percent": 0.9345794392523364
+                    },
+                    {
+                        "field_value": "9",
+                        "row_count": 1,
+                        "ratio_percent": 0.9345794392523364
+                    },
+                    {
+                        "field_value": "5",
+                        "row_count": 1,
+                        "ratio_percent": 0.9345794392523364
+                    }
+                ]
+            },
+            {
+                "field": "EMAIL",
+                "distribution": [
+                    {
+                        "field_value": "seth.foster@example.com",
+                        "row_count": 1,
+                        "ratio_percent": 0.9345794392523364
+                    },
+                    {
+                        "field_value": "ryan.gray@example.com",
+                        "row_count": 1,
+                        "ratio_percent": 0.9345794392523364
+                    },
+                    {
+                        "field_value": "harper.spencer@example.com",
+                        "row_count": 1,
+                        "ratio_percent": 0.9345794392523364
+                    },
+                    {
+                        "field_value": "amelie.hudson@example.com",
+                        "row_count": 1,
+                        "ratio_percent": 0.9345794392523364
+                    },
+                    {
+                        "field_value": "reggie.simmons@example.com",
+                        "row_count": 1,
+                        "ratio_percent": 0.9345794392523364
+                    },
+                    {
+                        "field_value": "evelyn.tucker@example.com",
+                        "row_count": 1,
+                        "ratio_percent": 0.9345794392523364
+                    },
+                    {
+                        "field_value": "imogen.boyd@example.com",
+                        "row_count": 1,
+                        "ratio_percent": 0.9345794392523364
+                    },
+                    {
+                        "field_value": "lily.fisher@example.com",
+                        "row_count": 1,
+                        "ratio_percent": 0.9345794392523364
+                    },
+                    {
+                        "field_value": "maisie.nichols@example.com",
+                        "row_count": 1,
+                        "ratio_percent": 0.9345794392523364
+                    },
+                    {
+                        "field_value": "ruby.mcdonald@example.com",
+                        "row_count": 1,
+                        "ratio_percent": 0.9345794392523364
+                    }
+                ]
+            },
+            {
+                "field": "FIRST_NAME",
+                "distribution": [
+                    {
+                        "field_value": "Reggie",
+                        "row_count": 1,
+                        "ratio_percent": 0.9345794392523364
+                    },
+                    {
+                        "field_value": "Olivia",
+                        "row_count": 1,
+                        "ratio_percent": 0.9345794392523364
+                    },
+                    {
+                        "field_value": "Aaron",
+                        "row_count": 1,
+                        "ratio_percent": 0.9345794392523364
+                    },
+                    {
+                        "field_value": "Caleb",
+                        "row_count": 1,
+                        "ratio_percent": 0.9345794392523364
+                    },
+                    {
+                        "field_value": "Poppy",
+                        "row_count": 1,
+                        "ratio_percent": 0.9345794392523364
+                    },
+                    {
+                        "field_value": "Elliot",
+                        "row_count": 1,
+                        "ratio_percent": 0.9345794392523364
+                    },
+                    {
+                        "field_value": "Gracie",
+                        "row_count": 1,
+                        "ratio_percent": 0.9345794392523364
+                    },
+                    {
+                        "field_value": "Ava",
+                        "row_count": 1,
+                        "ratio_percent": 0.9345794392523364
+                    },
+                    {
+                        "field_value": "Evelyn",
+                        "row_count": 1,
+                        "ratio_percent": 0.9345794392523364
+                    },
+                    {
+                        "field_value": "Rose",
+                        "row_count": 1,
+                        "ratio_percent": 0.9345794392523364
+                    }
+                ]
+            },
+            {
+                "field": "HIRE_DATE",
+                "distribution": [
+                    {
+                        "field_value": "07-JUN-16",
+                        "row_count": 4,
+                        "ratio_percent": 3.7383177570093458
+                    },
+                    {
+                        "field_value": "24-MAR-16",
+                        "row_count": 4,
+                        "ratio_percent": 3.7383177570093458
+                    },
+                    {
+                        "field_value": "24-JAN-16",
+                        "row_count": 3,
+                        "ratio_percent": 2.803738317757009
+                    },
+                    {
+                        "field_value": "23-FEB-16",
+                        "row_count": 3,
+                        "ratio_percent": 2.803738317757009
+                    },
+                    {
+                        "field_value": "21-APR-16",
+                        "row_count": 2,
+                        "ratio_percent": 1.8691588785046729
+                    },
+                    {
+                        "field_value": "21-JUN-16",
+                        "row_count": 2,
+                        "ratio_percent": 1.8691588785046729
+                    },
+                    {
+                        "field_value": "13-JAN-16",
+                        "row_count": 2,
+                        "ratio_percent": 1.8691588785046729
+                    },
+                    {
+                        "field_value": "30-JAN-16",
+                        "row_count": 2,
+                        "ratio_percent": 1.8691588785046729
+                    },
+                    {
+                        "field_value": "19-MAR-16",
+                        "row_count": 2,
+                        "ratio_percent": 1.8691588785046729
+                    },
+                    {
+                        "field_value": "07-DEC-16",
+                        "row_count": 2,
+                        "ratio_percent": 1.8691588785046729
+                    }
+                ]
+            },
+            {
+                "field": "JOB_TITLE",
+                "distribution": [
+                    {
+                        "field_value": "Sales Representative",
+                        "row_count": 30,
+                        "ratio_percent": 28.037383177570092
+                    },
+                    {
+                        "field_value": "Shipping Clerk",
+                        "row_count": 20,
+                        "ratio_percent": 18.69158878504673
+                    },
+                    {
+                        "field_value": "Stock Clerk",
+                        "row_count": 20,
+                        "ratio_percent": 18.69158878504673
+                    },
+                    {
+                        "field_value": "Programmer",
+                        "row_count": 5,
+                        "ratio_percent": 4.672897196261682
+                    },
+                    {
+                        "field_value": "Sales Manager",
+                        "row_count": 5,
+                        "ratio_percent": 4.672897196261682
+                    },
+                    {
+                        "field_value": "Purchasing Clerk",
+                        "row_count": 5,
+                        "ratio_percent": 4.672897196261682
+                    },
+                    {
+                        "field_value": "Accountant",
+                        "row_count": 5,
+                        "ratio_percent": 4.672897196261682
+                    },
+                    {
+                        "field_value": "Stock Manager",
+                        "row_count": 5,
+                        "ratio_percent": 4.672897196261682
+                    },
+                    {
+                        "field_value": "Administration Vice President",
+                        "row_count": 2,
+                        "ratio_percent": 1.8691588785046729
+                    },
+                    {
+                        "field_value": "Accounting Manager",
+                        "row_count": 1,
+                        "ratio_percent": 0.9345794392523364
+                    }
+                ]
+            },
+            {
+                "field": "LAST_NAME",
+                "distribution": [
+                    {
+                        "field_value": "Myers",
+                        "row_count": 1,
+                        "ratio_percent": 0.9345794392523364
+                    },
+                    {
+                        "field_value": "Stephens",
+                        "row_count": 1,
+                        "ratio_percent": 0.9345794392523364
+                    },
+                    {
+                        "field_value": "Torres",
+                        "row_count": 1,
+                        "ratio_percent": 0.9345794392523364
+                    },
+                    {
+                        "field_value": "Ward",
+                        "row_count": 1,
+                        "ratio_percent": 0.9345794392523364
+                    },
+                    {
+                        "field_value": "Kennedy",
+                        "row_count": 1,
+                        "ratio_percent": 0.9345794392523364
+                    },
+                    {
+                        "field_value": "Barnes",
+                        "row_count": 1,
+                        "ratio_percent": 0.9345794392523364
+                    },
+                    {
+                        "field_value": "Stevens",
+                        "row_count": 1,
+                        "ratio_percent": 0.9345794392523364
+                    },
+                    {
+                        "field_value": "Porter",
+                        "row_count": 1,
+                        "ratio_percent": 0.9345794392523364
+                    },
+                    {
+                        "field_value": "Hicks",
+                        "row_count": 1,
+                        "ratio_percent": 0.9345794392523364
+                    },
+                    {
+                        "field_value": "Perkins",
+                        "row_count": 1,
+                        "ratio_percent": 0.9345794392523364
+                    }
+                ]
+            },
+            {
+                "field": "MANAGER_ID",
+                "distribution": [
+                    {
+                        "field_value": "1",
+                        "row_count": 14,
+                        "ratio_percent": 13.08411214953271
+                    },
+                    {
+                        "field_value": "23",
+                        "row_count": 8,
+                        "ratio_percent": 7.4766355140186915
+                    },
+                    {
+                        "field_value": "24",
+                        "row_count": 8,
+                        "ratio_percent": 7.4766355140186915
+                    },
+                    {
+                        "field_value": "22",
+                        "row_count": 8,
+                        "ratio_percent": 7.4766355140186915
+                    },
+                    {
+                        "field_value": "21",
+                        "row_count": 8,
+                        "ratio_percent": 7.4766355140186915
+                    },
+                    {
+                        "field_value": "25",
+                        "row_count": 8,
+                        "ratio_percent": 7.4766355140186915
+                    },
+                    {
+                        "field_value": "47",
+                        "row_count": 6,
+                        "ratio_percent": 5.607476635514018
+                    },
+                    {
+                        "field_value": "50",
+                        "row_count": 6,
+                        "ratio_percent": 5.607476635514018
+                    },
+                    {
+                        "field_value": "48",
+                        "row_count": 6,
+                        "ratio_percent": 5.607476635514018
+                    },
+                    {
+                        "field_value": "46",
+                        "row_count": 6,
+                        "ratio_percent": 5.607476635514018
+                    }
+                ]
+            },
+            {
+                "field": "PHONE",
+                "distribution": [
+                    {
+                        "field_value": "650.124.8234",
+                        "row_count": 1,
+                        "ratio_percent": 0.9345794392523364
+                    },
+                    {
+                        "field_value": "650.121.2004",
+                        "row_count": 1,
+                        "ratio_percent": 0.9345794392523364
+                    },
+                    {
+                        "field_value": "650.127.1934",
+                        "row_count": 1,
+                        "ratio_percent": 0.9345794392523364
+                    },
+                    {
+                        "field_value": "650.127.1734",
+                        "row_count": 1,
+                        "ratio_percent": 0.9345794392523364
+                    },
+                    {
+                        "field_value": "011.44.1345.529268",
+                        "row_count": 1,
+                        "ratio_percent": 0.9345794392523364
+                    },
+                    {
+                        "field_value": "515.123.8181",
+                        "row_count": 1,
+                        "ratio_percent": 0.9345794392523364
+                    },
+                    {
+                        "field_value": "515.123.4444",
+                        "row_count": 1,
+                        "ratio_percent": 0.9345794392523364
+                    },
+                    {
+                        "field_value": "515.123.5555",
+                        "row_count": 1,
+                        "ratio_percent": 0.9345794392523364
+                    },
+                    {
+                        "field_value": "011.44.1344.429268",
+                        "row_count": 1,
+                        "ratio_percent": 0.9345794392523364
+                    },
+                    {
+                        "field_value": "650.123.1234",
+                        "row_count": 1,
+                        "ratio_percent": 0.9345794392523364
+                    }
+                ]
+            }
+        ]
+    }
+]

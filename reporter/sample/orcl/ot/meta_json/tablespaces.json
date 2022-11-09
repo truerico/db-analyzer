@@ -1,0 +1,170 @@
+[
+    {
+        "tablespace_name": "USERS",
+        "Size_MB": 13.75,
+        "Free_MB": 1.75,
+        "Free_%": 13,
+        "Used_%": 87,
+        "sys_status": "red"
+    },
+    {
+        "tablespace_name": "orcl_dev_DAT",
+        "Size_MB": 20757,
+        "Free_MB": 12686.5625,
+        "Free_%": 61,
+        "Used_%": 39,
+        "sys_status": "green"
+    },
+    {
+        "tablespace_name": "DEV12_WLS",
+        "Size_MB": 60,
+        "Free_MB": 50.25,
+        "Free_%": 84,
+        "Used_%": 16,
+        "sys_status": "green"
+    },
+    {
+        "tablespace_name": "OFMW_IAS_OPSS",
+        "Size_MB": 60,
+        "Free_MB": 6.625,
+        "Free_%": 11,
+        "Used_%": 89,
+        "sys_status": "red"
+    },
+    {
+        "tablespace_name": "OFMW_WLS",
+        "Size_MB": 60,
+        "Free_MB": 50.25,
+        "Free_%": 84,
+        "Used_%": 16,
+        "sys_status": "green"
+    },
+    {
+        "tablespace_name": "APPDRTS_DT",
+        "Size_MB": 941,
+        "Free_MB": 591.75,
+        "Free_%": 63,
+        "Used_%": 37,
+        "sys_status": "green"
+    },
+    {
+        "tablespace_name": "TOOLS",
+        "Size_MB": 2088,
+        "Free_MB": 1809.5625,
+        "Free_%": 87,
+        "Used_%": 13,
+        "sys_status": "green"
+    },
+    {
+        "tablespace_name": "DEV12_STB",
+        "Size_MB": 10,
+        "Free_MB": 8.125,
+        "Free_%": 81,
+        "Used_%": 19,
+        "sys_status": "green"
+    },
+    {
+        "tablespace_name": "POURREADONLY",
+        "Size_MB": 50,
+        "Free_MB": 39.375,
+        "Free_%": 79,
+        "Used_%": 21,
+        "sys_status": "green"
+    },
+    {
+        "tablespace_name": "SYSTEM",
+        "Size_MB": 1620,
+        "Free_MB": 3.875,
+        "Free_%": 0,
+        "Used_%": 100,
+        "sys_status": "red"
+    },
+    {
+        "tablespace_name": "APPDRTS_IDX",
+        "Size_MB": 1024,
+        "Free_MB": 249.375,
+        "Free_%": 24,
+        "Used_%": 76,
+        "sys_status": "yellow"
+    },
+    {
+        "tablespace_name": "SYSAUX",
+        "Size_MB": 1870,
+        "Free_MB": 138.9375,
+        "Free_%": 7,
+        "Used_%": 93,
+        "sys_status": "red"
+    },
+    {
+        "tablespace_name": "UNDOTBS1",
+        "Size_MB": 32767.984375,
+        "Free_MB": 32498.375,
+        "Free_%": 99,
+        "Used_%": 1,
+        "sys_status": "green"
+    },
+    {
+        "tablespace_name": "orcl_dev_IDX",
+        "Size_MB": 2190,
+        "Free_MB": 104.75,
+        "Free_%": 5,
+        "Used_%": 95,
+        "sys_status": "red"
+    },
+    {
+        "tablespace_name": "orcl_dev_LC",
+        "Size_MB": 10598,
+        "Free_MB": 4054.75,
+        "Free_%": 38,
+        "Used_%": 62,
+        "sys_status": "yellow"
+    },
+    {
+        "tablespace_name": "WORK",
+        "Size_MB": 1000,
+        "Free_MB": 999,
+        "Free_%": 100,
+        "Used_%": 0,
+        "sys_status": "green"
+    },
+    {
+        "tablespace_name": "OFMW_IAU",
+        "Size_MB": 60,
+        "Free_MB": 11.5625,
+        "Free_%": 19,
+        "Used_%": 81,
+        "sys_status": "red"
+    },
+    {
+        "tablespace_name": "OFMW_STB",
+        "Size_MB": 10,
+        "Free_MB": 8.125,
+        "Free_%": 81,
+        "Used_%": 19,
+        "sys_status": "green"
+    },
+    {
+        "tablespace_name": "TEMP",
+        "Size_MB": 32767,
+        "Free_MB": 28874,
+        "Free_%": 88,
+        "Used_%": 12,
+        "sys_status": "green"
+    },
+    {
+        "tablespace_name": "OFMW_IAS_TEMP",
+        "Size_MB": 100,
+        "Free_MB": 99,
+        "Free_%": 99,
+        "Used_%": 1,
+        "sys_status": "green"
+    },
+    {
+        "tablespace_name": "DEV12_IAS_TEMP",
+        "Size_MB": 100,
+        "Free_MB": 99,
+        "Free_%": 99,
+        "Used_%": 1,
+        "sys_status": "green"
+    }
+]

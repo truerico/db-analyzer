@@ -1,0 +1,57 @@
+@startjson
+{
+    "field1": "WAREHOUSE_NAME",
+    "combination": "WAREHOUSE_NAME",
+    "null_distribution": {
+        "total_null_rows": 0,
+        "total_not_null_rows": 9
+    },
+    "data_distribution": [
+        {
+            "field_value": "Sydney",
+            "row_count": 1,
+            "ratio_percent": 11.11111111111111
+        },
+        {
+            "field_value": "Bombay",
+            "row_count": 1,
+            "ratio_percent": 11.11111111111111
+        },
+        {
+            "field_value": "San Francisco",
+            "row_count": 1,
+            "ratio_percent": 11.11111111111111
+        },
+        {
+            "field_value": "Mexico City",
+            "row_count": 1,
+            "ratio_percent": 11.11111111111111
+        },
+        {
+            "field_value": "Southlake, Texas",
+            "row_count": 1,
+            "ratio_percent": 11.11111111111111
+        },
+        {
+            "field_value": "Toronto",
+            "row_count": 1,
+            "ratio_percent": 11.11111111111111
+        },
+        {
+            "field_value": "New Jersey",
+            "row_count": 1,
+            "ratio_percent": 11.11111111111111
+        },
+        {
+            "field_value": "Seattle, Washington",
+            "row_count": 1,
+            "ratio_percent": 11.11111111111111
+        },
+        {
+            "field_value": "Beijing",
+            "row_count": 1,
+            "ratio_percent": 11.11111111111111
+        }
+    ]
+}
+@endjson

@@ -1,0 +1,168 @@
+[
+    {
+        "table": "OT.INVENTORIES",
+        "total_records": 1112,
+        "dataset": [
+            {
+                "field": "PRODUCT_ID",
+                "distribution": [
+                    {
+                        "field_value": "87",
+                        "row_count": 9,
+                        "ratio_percent": 0.8093525179856115
+                    },
+                    {
+                        "field_value": "90",
+                        "row_count": 9,
+                        "ratio_percent": 0.8093525179856115
+                    },
+                    {
+                        "field_value": "88",
+                        "row_count": 9,
+                        "ratio_percent": 0.8093525179856115
+                    },
+                    {
+                        "field_value": "222",
+                        "row_count": 9,
+                        "ratio_percent": 0.8093525179856115
+                    },
+                    {
+                        "field_value": "123",
+                        "row_count": 9,
+                        "ratio_percent": 0.8093525179856115
+                    },
+                    {
+                        "field_value": "11",
+                        "row_count": 9,
+                        "ratio_percent": 0.8093525179856115
+                    },
+                    {
+                        "field_value": "6",
+                        "row_count": 9,
+                        "ratio_percent": 0.8093525179856115
+                    },
+                    {
+                        "field_value": "269",
+                        "row_count": 9,
+                        "ratio_percent": 0.8093525179856115
+                    },
+                    {
+                        "field_value": "245",
+                        "row_count": 9,
+                        "ratio_percent": 0.8093525179856115
+                    },
+                    {
+                        "field_value": "207",
+                        "row_count": 9,
+                        "ratio_percent": 0.8093525179856115
+                    }
+                ]
+            },
+            {
+                "field": "QUANTITY",
+                "distribution": [
+                    {
+                        "field_value": "35",
+                        "row_count": 18,
+                        "ratio_percent": 1.618705035971223
+                    },
+                    {
+                        "field_value": "50",
+                        "row_count": 15,
+                        "ratio_percent": 1.3489208633093526
+                    },
+                    {
+                        "field_value": "54",
+                        "row_count": 14,
+                        "ratio_percent": 1.2589928057553956
+                    },
+                    {
+                        "field_value": "149",
+                        "row_count": 13,
+                        "ratio_percent": 1.169064748201439
+                    },
+                    {
+                        "field_value": "63",
+                        "row_count": 13,
+                        "ratio_percent": 1.169064748201439
+                    },
+                    {
+                        "field_value": "137",
+                        "row_count": 13,
+                        "ratio_percent": 1.169064748201439
+                    },
+                    {
+                        "field_value": "74",
+                        "row_count": 13,
+                        "ratio_percent": 1.169064748201439
+                    },
+                    {
+                        "field_value": "66",
+                        "row_count": 12,
+                        "ratio_percent": 1.079136690647482
+                    },
+                    {
+                        "field_value": "185",
+                        "row_count": 12,
+                        "ratio_percent": 1.079136690647482
+                    },
+                    {
+                        "field_value": "177",
+                        "row_count": 12,
+                        "ratio_percent": 1.079136690647482
+                    }
+                ]
+            },
+            {
+                "field": "WAREHOUSE_ID",
+                "distribution": [
+                    {
+                        "field_value": "6",
+                        "row_count": 208,
+                        "ratio_percent": 18.705035971223023
+                    },
+                    {
+                        "field_value": "8",
+                        "row_count": 186,
+                        "ratio_percent": 16.72661870503597
+                    },
+                    {
+                        "field_value": "2",
+                        "row_count": 177,
+                        "ratio_percent": 15.917266187050359
+                    },
+                    {
+                        "field_value": "9",
+                        "row_count": 128,
+                        "ratio_percent": 11.510791366906474
+                    },
+                    {
+                        "field_value": "5",
+                        "row_count": 114,
+                        "ratio_percent": 10.251798561151078
+                    },
+                    {
+                        "field_value": "4",
+                        "row_count": 109,
+                        "ratio_percent": 9.802158273381295
+                    },
+                    {
+                        "field_value": "7",
+                        "row_count": 106,
+                        "ratio_percent": 9.532374100719425
+                    },
+                    {
+                        "field_value": "3",
+                        "row_count": 48,
+                        "ratio_percent": 4.316546762589928
+                    },
+                    {
+                        "field_value": "1",
+                        "row_count": 36,
+                        "ratio_percent": 3.237410071942446
+                    }
+                ]
+            }
+        ]
+    }
+]

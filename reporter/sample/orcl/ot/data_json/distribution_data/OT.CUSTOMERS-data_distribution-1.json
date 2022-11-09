@@ -1,0 +1,283 @@
+[
+    {
+        "table": "OT.CUSTOMERS",
+        "total_records": 319,
+        "dataset": [
+            {
+                "field": "ADDRESS",
+                "distribution": [
+                    {
+                        "field_value": "1592 Silverado St, Bangalore, Kar",
+                        "row_count": 2,
+                        "ratio_percent": 0.6269592476489029
+                    },
+                    {
+                        "field_value": "1617 Crackers St, Bangalore - India, Kar",
+                        "row_count": 2,
+                        "ratio_percent": 0.6269592476489029
+                    },
+                    {
+                        "field_value": "Via Delle Capeletti 52, San Giminiano,",
+                        "row_count": 2,
+                        "ratio_percent": 0.6269592476489029
+                    },
+                    {
+                        "field_value": "1593 Silverado St, Bangalore, Kar",
+                        "row_count": 2,
+                        "ratio_percent": 0.6269592476489029
+                    },
+                    {
+                        "field_value": "9936 Dexter Ave, Detroit, MI",
+                        "row_count": 1,
+                        "ratio_percent": 0.31347962382445144
+                    },
+                    {
+                        "field_value": "136 E Market St # 800, Indianapolis, IN",
+                        "row_count": 1,
+                        "ratio_percent": 0.31347962382445144
+                    },
+                    {
+                        "field_value": "4019 W 3Rd St, Bloomington, IN",
+                        "row_count": 1,
+                        "ratio_percent": 0.31347962382445144
+                    },
+                    {
+                        "field_value": "8768 N State Rd 37, Bloomington, IN",
+                        "row_count": 1,
+                        "ratio_percent": 0.31347962382445144
+                    },
+                    {
+                        "field_value": "4200 Yosemite Ave S, Minneapolis, MN",
+                        "row_count": 1,
+                        "ratio_percent": 0.31347962382445144
+                    },
+                    {
+                        "field_value": "2 2Nd St # A, Ocean City, MD",
+                        "row_count": 1,
+                        "ratio_percent": 0.31347962382445144
+                    }
+                ]
+            },
+            {
+                "field": "CUSTOMER_ID",
+                "distribution": [
+                    {
+                        "field_value": "1",
+                        "row_count": 1,
+                        "ratio_percent": 0.31347962382445144
+                    },
+                    {
+                        "field_value": "2",
+                        "row_count": 1,
+                        "ratio_percent": 0.31347962382445144
+                    },
+                    {
+                        "field_value": "3",
+                        "row_count": 1,
+                        "ratio_percent": 0.31347962382445144
+                    },
+                    {
+                        "field_value": "4",
+                        "row_count": 1,
+                        "ratio_percent": 0.31347962382445144
+                    },
+                    {
+                        "field_value": "10",
+                        "row_count": 1,
+                        "ratio_percent": 0.31347962382445144
+                    },
+                    {
+                        "field_value": "6",
+                        "row_count": 1,
+                        "ratio_percent": 0.31347962382445144
+                    },
+                    {
+                        "field_value": "7",
+                        "row_count": 1,
+                        "ratio_percent": 0.31347962382445144
+                    },
+                    {
+                        "field_value": "8",
+                        "row_count": 1,
+                        "ratio_percent": 0.31347962382445144
+                    },
+                    {
+                        "field_value": "9",
+                        "row_count": 1,
+                        "ratio_percent": 0.31347962382445144
+                    },
+                    {
+                        "field_value": "5",
+                        "row_count": 1,
+                        "ratio_percent": 0.31347962382445144
+                    }
+                ]
+            },
+            {
+                "field": "CREDIT_LIMIT",
+                "distribution": [
+                    {
+                        "field_value": "1200",
+                        "row_count": 47,
+                        "ratio_percent": 14.733542319749215
+                    },
+                    {
+                        "field_value": "2400",
+                        "row_count": 34,
+                        "ratio_percent": 10.658307210031348
+                    },
+                    {
+                        "field_value": "5000",
+                        "row_count": 33,
+                        "ratio_percent": 10.344827586206897
+                    },
+                    {
+                        "field_value": "500",
+                        "row_count": 28,
+                        "ratio_percent": 8.77742946708464
+                    },
+                    {
+                        "field_value": "700",
+                        "row_count": 23,
+                        "ratio_percent": 7.210031347962382
+                    },
+                    {
+                        "field_value": "200",
+                        "row_count": 18,
+                        "ratio_percent": 5.6426332288401255
+                    },
+                    {
+                        "field_value": "1400",
+                        "row_count": 17,
+                        "ratio_percent": 5.329153605015674
+                    },
+                    {
+                        "field_value": "2300",
+                        "row_count": 16,
+                        "ratio_percent": 5.015673981191223
+                    },
+                    {
+                        "field_value": "3600",
+                        "row_count": 16,
+                        "ratio_percent": 5.015673981191223
+                    },
+                    {
+                        "field_value": "3700",
+                        "row_count": 14,
+                        "ratio_percent": 4.38871473354232
+                    }
+                ]
+            },
+            {
+                "field": "NAME",
+                "distribution": [
+                    {
+                        "field_value": "Alphabet",
+                        "row_count": 1,
+                        "ratio_percent": 0.31347962382445144
+                    },
+                    {
+                        "field_value": "Dow Chemical",
+                        "row_count": 1,
+                        "ratio_percent": 0.31347962382445144
+                    },
+                    {
+                        "field_value": "Coca-Cola",
+                        "row_count": 1,
+                        "ratio_percent": 0.31347962382445144
+                    },
+                    {
+                        "field_value": "Merck",
+                        "row_count": 1,
+                        "ratio_percent": 0.31347962382445144
+                    },
+                    {
+                        "field_value": "U.S. Bancorp",
+                        "row_count": 1,
+                        "ratio_percent": 0.31347962382445144
+                    },
+                    {
+                        "field_value": "McDonald?s",
+                        "row_count": 1,
+                        "ratio_percent": 0.31347962382445144
+                    },
+                    {
+                        "field_value": "Capital One Financial",
+                        "row_count": 1,
+                        "ratio_percent": 0.31347962382445144
+                    },
+                    {
+                        "field_value": "Halliburton",
+                        "row_count": 1,
+                        "ratio_percent": 0.31347962382445144
+                    },
+                    {
+                        "field_value": "AbbVie",
+                        "row_count": 1,
+                        "ratio_percent": 0.31347962382445144
+                    },
+                    {
+                        "field_value": "World Fuel Services",
+                        "row_count": 1,
+                        "ratio_percent": 0.31347962382445144
+                    }
+                ]
+            },
+            {
+                "field": "WEBSITE",
+                "distribution": [
+                    {
+                        "field_value": "http://www.metlife.com",
+                        "row_count": 1,
+                        "ratio_percent": 0.31347962382445144
+                    },
+                    {
+                        "field_value": "http://www.ups.com",
+                        "row_count": 1,
+                        "ratio_percent": 0.31347962382445144
+                    },
+                    {
+                        "field_value": "http://www.bestbuy.com",
+                        "row_count": 1,
+                        "ratio_percent": 0.31347962382445144
+                    },
+                    {
+                        "field_value": "http://www.merck.com",
+                        "row_count": 1,
+                        "ratio_percent": 0.31347962382445144
+                    },
+                    {
+                        "field_value": "http://www.abbvie.com",
+                        "row_count": 1,
+                        "ratio_percent": 0.31347962382445144
+                    },
+                    {
+                        "field_value": "http://www.wfscorp.com",
+                        "row_count": 1,
+                        "ratio_percent": 0.31347962382445144
+                    },
+                    {
+                        "field_value": "http://www.halliburton.com",
+                        "row_count": 1,
+                        "ratio_percent": 0.31347962382445144
+                    },
+                    {
+                        "field_value": "http://www.arrow.com",
+                        "row_count": 1,
+                        "ratio_percent": 0.31347962382445144
+                    },
+                    {
+                        "field_value": "http://www.raytheon.com",
+                        "row_count": 1,
+                        "ratio_percent": 0.31347962382445144
+                    },
+                    {
+                        "field_value": "http://www.allstate.com",
+                        "row_count": 1,
+                        "ratio_percent": 0.31347962382445144
+                    }
+                ]
+            }
+        ]
+    }
+]

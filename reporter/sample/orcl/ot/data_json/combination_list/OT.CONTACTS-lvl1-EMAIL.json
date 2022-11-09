@@ -1,0 +1,62 @@
+@startjson
+{
+    "field1": "EMAIL",
+    "combination": "EMAIL",
+    "null_distribution": {
+        "total_null_rows": 0,
+        "total_not_null_rows": 319
+    },
+    "data_distribution": [
+        {
+            "field_value": "kellee.molina@hp.com",
+            "row_count": 1,
+            "ratio_percent": 0.31347962382445144
+        },
+        {
+            "field_value": "neda.mcfadden@bankofamerica.com",
+            "row_count": 1,
+            "ratio_percent": 0.31347962382445144
+        },
+        {
+            "field_value": "leandro.west@marathonpetroleum.com",
+            "row_count": 1,
+            "ratio_percent": 0.31347962382445144
+        },
+        {
+            "field_value": "lino.noble@caterpillar.com",
+            "row_count": 1,
+            "ratio_percent": 0.31347962382445144
+        },
+        {
+            "field_value": "heidy.massey@massmutual.com",
+            "row_count": 1,
+            "ratio_percent": 0.31347962382445144
+        },
+        {
+            "field_value": "amado.jefferson@energytransfer.com",
+            "row_count": 1,
+            "ratio_percent": 0.31347962382445144
+        },
+        {
+            "field_value": "audrie.cannon@delta.com",
+            "row_count": 1,
+            "ratio_percent": 0.31347962382445144
+        },
+        {
+            "field_value": "jame.calhoun@bestbuy.com",
+            "row_count": 1,
+            "ratio_percent": 0.31347962382445144
+        },
+        {
+            "field_value": "jackeline.finley@mastercard.com",
+            "row_count": 1,
+            "ratio_percent": 0.31347962382445144
+        },
+        {
+            "field_value": "heike.emerson@newyorklife.com",
+            "row_count": 1,
+            "ratio_percent": 0.31347962382445144
+        }
+    ]
+}
+@endjson

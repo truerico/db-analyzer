@@ -1,0 +1,62 @@
+@startjson
+{
+    "field1": "FIRST_NAME",
+    "combination": "FIRST_NAME",
+    "null_distribution": {
+        "total_null_rows": 0,
+        "total_not_null_rows": 319
+    },
+    "data_distribution": [
+        {
+            "field_value": "Maurice",
+            "row_count": 3,
+            "ratio_percent": 0.9404388714733543
+        },
+        {
+            "field_value": "Geraldine",
+            "row_count": 2,
+            "ratio_percent": 0.6269592476489029
+        },
+        {
+            "field_value": "Sherron",
+            "row_count": 2,
+            "ratio_percent": 0.6269592476489029
+        },
+        {
+            "field_value": "Tandy",
+            "row_count": 2,
+            "ratio_percent": 0.6269592476489029
+        },
+        {
+            "field_value": "Keesha",
+            "row_count": 2,
+            "ratio_percent": 0.6269592476489029
+        },
+        {
+            "field_value": "Matthias",
+            "row_count": 2,
+            "ratio_percent": 0.6269592476489029
+        },
+        {
+            "field_value": "Maryrose",
+            "row_count": 2,
+            "ratio_percent": 0.6269592476489029
+        },
+        {
+            "field_value": "Jame",
+            "row_count": 2,
+            "ratio_percent": 0.6269592476489029
+        },
+        {
+            "field_value": "Princess",
+            "row_count": 2,
+            "ratio_percent": 0.6269592476489029
+        },
+        {
+            "field_value": "Shelia",
+            "row_count": 2,
+            "ratio_percent": 0.6269592476489029
+        }
+    ]
+}
+@endjson

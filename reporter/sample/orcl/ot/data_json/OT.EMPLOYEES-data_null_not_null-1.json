@@ -1,0 +1,48 @@
+[
+    {
+        "table": "OT.EMPLOYEES",
+        "total_records": 107,
+        "dataset": [
+            {
+                "field": "EMPLOYEE_ID",
+                "total_null_rows": 0,
+                "total_not_null_rows": 107
+            },
+            {
+                "field": "EMAIL",
+                "total_null_rows": 0,
+                "total_not_null_rows": 107
+            },
+            {
+                "field": "FIRST_NAME",
+                "total_null_rows": 0,
+                "total_not_null_rows": 107
+            },
+            {
+                "field": "HIRE_DATE",
+                "total_null_rows": 0,
+                "total_not_null_rows": 107
+            },
+            {
+                "field": "JOB_TITLE",
+                "total_null_rows": 0,
+                "total_not_null_rows": 107
+            },
+            {
+                "field": "LAST_NAME",
+                "total_null_rows": 0,
+                "total_not_null_rows": 107
+            },
+            {
+                "field": "MANAGER_ID",
+                "total_null_rows": 1,
+                "total_not_null_rows": 106
+            },
+            {
+                "field": "PHONE",
+                "total_null_rows": 0,
+                "total_not_null_rows": 107
+            }
+        ]
+    }
+]

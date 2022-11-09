@@ -1,0 +1,62 @@
+@startjson
+{
+    "field1": "JOB_TITLE",
+    "combination": "JOB_TITLE",
+    "null_distribution": {
+        "total_null_rows": 0,
+        "total_not_null_rows": 107
+    },
+    "data_distribution": [
+        {
+            "field_value": "Sales Representative",
+            "row_count": 30,
+            "ratio_percent": 28.037383177570092
+        },
+        {
+            "field_value": "Shipping Clerk",
+            "row_count": 20,
+            "ratio_percent": 18.69158878504673
+        },
+        {
+            "field_value": "Stock Clerk",
+            "row_count": 20,
+            "ratio_percent": 18.69158878504673
+        },
+        {
+            "field_value": "Programmer",
+            "row_count": 5,
+            "ratio_percent": 4.672897196261682
+        },
+        {
+            "field_value": "Sales Manager",
+            "row_count": 5,
+            "ratio_percent": 4.672897196261682
+        },
+        {
+            "field_value": "Purchasing Clerk",
+            "row_count": 5,
+            "ratio_percent": 4.672897196261682
+        },
+        {
+            "field_value": "Accountant",
+            "row_count": 5,
+            "ratio_percent": 4.672897196261682
+        },
+        {
+            "field_value": "Stock Manager",
+            "row_count": 5,
+            "ratio_percent": 4.672897196261682
+        },
+        {
+            "field_value": "Administration Vice President",
+            "row_count": 2,
+            "ratio_percent": 1.8691588785046729
+        },
+        {
+            "field_value": "Accounting Manager",
+            "row_count": 1,
+            "ratio_percent": 0.9345794392523364
+        }
+    ]
+}
+@endjson

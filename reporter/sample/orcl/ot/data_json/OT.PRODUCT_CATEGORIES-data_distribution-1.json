@@ -1,0 +1,68 @@
+[
+    {
+        "table": "OT.PRODUCT_CATEGORIES",
+        "total_records": 5,
+        "dataset": [
+            {
+                "field": "CATEGORY_ID",
+                "distribution": [
+                    {
+                        "field_value": "1",
+                        "row_count": 1,
+                        "ratio_percent": 20.0
+                    },
+                    {
+                        "field_value": "2",
+                        "row_count": 1,
+                        "ratio_percent": 20.0
+                    },
+                    {
+                        "field_value": "5",
+                        "row_count": 1,
+                        "ratio_percent": 20.0
+                    },
+                    {
+                        "field_value": "4",
+                        "row_count": 1,
+                        "ratio_percent": 20.0
+                    },
+                    {
+                        "field_value": "3",
+                        "row_count": 1,
+                        "ratio_percent": 20.0
+                    }
+                ]
+            },
+            {
+                "field": "CATEGORY_NAME",
+                "distribution": [
+                    {
+                        "field_value": "Mother Board",
+                        "row_count": 1,
+                        "ratio_percent": 20.0
+                    },
+                    {
+                        "field_value": "Video Card",
+                        "row_count": 1,
+                        "ratio_percent": 20.0
+                    },
+                    {
+                        "field_value": "CPU",
+                        "row_count": 1,
+                        "ratio_percent": 20.0
+                    },
+                    {
+                        "field_value": "Storage",
+                        "row_count": 1,
+                        "ratio_percent": 20.0
+                    },
+                    {
+                        "field_value": "RAM",
+                        "row_count": 1,
+                        "ratio_percent": 20.0
+                    }
+                ]
+            }
+        ]
+    }
+]
