@@ -1,2 +1,0 @@
-"INSTANCE_NAME","INSTANCE_ROLE","HOST_NAME","FAMILY","EDITION","VERSION","STARTUP_TIME","STATUS","ARCHIVER","DATABASE_STATUS","DATA_DIR_PATH","REDO_LOG_PATH","ARCHIVE_LOG_PATH","ALERT_LOG_PATH","CONTROL_FILE_PATH","RECOVERY_FILE_PATH"
-"wrech","PRIMARY_INSTANCE","archives-db","None","SE","12.1.0.2.0","2022-05-06 15:36:29","OPEN","STOPPED","ACTIVE","/u02/wrech/","/u02/wrech/redo1.log","/u01/oracle/product/12.1.0/dbhome_1/dbs/arch","/u01/oracle/product/12.1.0/dbhome_1/rdbms/log","/u01/oracle/product/12.1.0/dbhome_1/dbs/cntrlwrech.dbf","None"
