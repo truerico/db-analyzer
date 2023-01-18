@@ -18,7 +18,7 @@ option:
   test_mode: 0
   do_copy_to_static_folder: 0
   result_output_folder: ./result/sample/orcl/ot
-  result_static_folder: ./result_static/orcl/sample/ot
+  result_static_folder: ./result/static/orcl/sample/ot
   csv_delimiter: ','
   csv_quote_char: '"'
   csv_line_terminator: "\r\n"

@@ -19,7 +19,7 @@ option:
   test_mode: 0
   do_copy_to_static_folder: 0
   result_output_folder: ./result/sample/es/accounts
-  result_static_folder: ./result_static/es/test1212/
+  result_static_folder: ./result/static/es/test1212/
   csv_delimiter: ','
   csv_quote_char: '"'
   csv_line_terminator: "\r\n"

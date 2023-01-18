@@ -19,7 +19,7 @@ option:
   test_mode: 0
   do_copy_to_static_folder: 0
   result_output_folder: ./result/sample/mysql/classicmodels
-  result_static_folder: ./result_static/mysql/test/classicmodels
+  result_static_folder: ./result/static/mysql/test/classicmodels
   csv_delimiter: ','
   csv_quote_char: '"'
   csv_line_terminator: "\r\n"

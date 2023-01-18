@@ -20,7 +20,7 @@ option:
   test_mode: 0
   do_copy_to_static_folder: 0
   result_output_folder: ./result/sample/mssql/adventureworks
-  result_static_folder: ./result_static/mssql/test/adventureworks
+  result_static_folder: ./result/static/mssql/test/adventureworks
   csv_delimiter: ','
   csv_quote_char: '"'
   csv_line_terminator: "\r\n"
